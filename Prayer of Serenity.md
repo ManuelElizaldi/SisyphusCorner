@@ -1,0 +1,3 @@
+[[Spirituality]]
+
+God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference. Living one day at the time, taking this world as it is and not as I would have it. Trusting that you will make all things right if I surrender to your will. So that I may be reasonably happy in this life and supremely happy with you forever in the next. 
