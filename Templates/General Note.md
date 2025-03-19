@@ -1,6 +1,5 @@
 {{date: YYYY-MM-DD}}
-Status: #[[Idea]]
-Tags:
+Tags:# [[Idea]]
 
 
 

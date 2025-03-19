@@ -5,6 +5,7 @@ Important commands I have used so far :
 
 - npx create-next-app@latest my-app (1)
 - npm run dev (2)
+- sudo nmcli device wifi connect "SSID" password "YourPassword"
 
 <u>Terms I need to research/breakdown</u>
 - [ ] avahi-daemon 
