@@ -11,6 +11,16 @@
             "id": "f3386c9d4fb11415",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "af6cb2a103cc9840",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Programming/Airflow/Airflow - General Notes.md",
@@ -21,7 +31,8 @@
               "title": "Airflow - General Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,15 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3386c9d4fb11415",
+  "active": "af6cb2a103cc9840",
   "lastOpenFiles": [
+    "Programming/Airflow/Airflow - General Notes.md",
+    "Resources/Pasted image 20250319153433.png",
+    "Resources/Pasted image 20250319152805.png",
+    "Fact About Eastern Roman Empire.md",
     "Templates/General Note.md",
     "Programming/Airflow/General Note 1.md",
     "Programming/Airflow/Airflow - Building a DAG.md",
-    "Programming/Airflow/Airflow - General Notes.md",
     "Prayer of Serenity.md",
     "Data Engineering.md",
-    "Fact About Eastern Roman Empire.md",
     "README.md",
     "Untitled.canvas",
     "Untitled.md",

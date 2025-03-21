@@ -3,13 +3,36 @@
 Tags: [[Programming]] [[Data Engineering]] [[ETL]] [[Airflow]]
 
 [[DAG]]: Directed Acyclic Graph. This is how workflows are represented in Airflow
+	Acyclical means that all nodes have a direction, they don't go back to another node.
+	The red line can be done in airflow
+	![[Pasted image 20250319153433.png]]
 
-Airflow: Workflow manager, not a streaming solution
+*Airflow*: Workflow manager, not a streaming solution
 	Similar to windows task scheduler
 
-Built in scheduler that submits tasks into the executor 
+_Built in scheduler_ that submits tasks into the executor 
 
-Important commands for air flow
+[[Nodes and Edges]]:
+
+[[Nodes]] are tasks
+The dependencies between nodes/tasks are the [[Edges]]
+- Edges determine order
+Both of these are defined by code -> Python
+
+Tasks use [[Operators]] depending on the language that you are using.
+- There are SQL, Bash, etc. operators
+- Sensor operators look for triggers to start 
+- These can also be started on a timer/schedule
+![[Pasted image 20250319152805.png]]
+
+*There's different types of DAGs:
+- Single directed edge
+- Single root and terminal node
+	- root node -> starting node
+- Trees
+	- All trees are dags but not all trees are dags
+
+*Important commands for air flow
 - To list all dags in airflow:
 	- airflow dags list 
 - To list all tasks in a dag:
@@ -18,10 +41,10 @@ Important commands for air flow
 - unpausing a dag:
 	- airflow dags unpuase tutorial
 
-Every dag is made out of tasks:
+*Every dag is made out of tasks:
 
 ![[Pasted image 20250319135051.png]]
 
 ---
 ### Reference
-From ETL course
+From IBM ETL in coursera - course
