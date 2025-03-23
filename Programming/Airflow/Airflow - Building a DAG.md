@@ -19,6 +19,35 @@ Python Script Block:
 	Task 1>> task2 
 		This determines the order of the pipeline
 
+[[Code]] example:
+``` python
+
+from datetime import timedelta
+
+# Dag object, this will allow us to iniate a DAG object:
+from airflow.models import DAG
+
+# Operator, these are needed to write tasks
+from airflow.operators.bash_operator import BashOperator
+
+# This makes scheduling easy
+from airflow.utils.dates import days_ago
+
+# defining  DAG argument 
+default_args = {
+'owner' : 'manuel',
+'start_date' : days_ago(0), # this will start it today
+'email' : ['manuelelizaldib@gmail.com'], # for some reason, they put it in a list, I imagine this is because you can add more emails.
+'retries' : 1, # in int 
+'retry_delay' : timedelta (5) # not sure why we do time delta here
+}
+
+# defining the DAG
+
+
+
+```
+
 
 
 ---
