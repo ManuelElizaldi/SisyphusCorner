@@ -14,14 +14,15 @@ Python Script Block:
 	dag_arguments {}
 
 [[DAG Definition]]: initiates your workflow as a DAG. Here you declare the DAG's name, its description, the default arguments - declared in the dag_argument variable - and its schedule - you can define how often it runs.
+	- The DAG object, is imported from airflow.models, you declare it as follows:
+		- dag = DAG()
 
 [[Task Definition]]: Tasks use [[operators]] to determine _how_ they are going to do things. Each has an id, and contain a command. Each task is assigned to the DAG they belong to.
 	Task 1>> task2 
 		This determines the order of the pipeline
 
 [[Code]] example:
-``` python
-
+```python
 from datetime import timedelta
 
 # Dag object, this will allow us to iniate a DAG object:
@@ -33,7 +34,7 @@ from airflow.operators.bash_operator import BashOperator
 # This makes scheduling easy
 from airflow.utils.dates import days_ago
 
-# defining  DAG argument 
+# Defining  DAG argument 
 default_args = {
 'owner' : 'manuel',
 'start_date' : days_ago(0), # this will start it today
@@ -42,12 +43,50 @@ default_args = {
 'retry_delay' : timedelta (5) # not sure why we do time delta here
 }
 
-# defining the DAG
+# Defining the DAG
+# DAG object is imported 
+dag - DAG(
+	'my-first-dag',
+	default_args = default_args,
+	description = 'My first DAG',
+	schedule_interval = timedelta(days = 1)
+)
 
+# Defining the first task
+# Operators are imported
+extract = BashOperator(
+	task_id = 'extract',
+	bash_command = 'cut -d":" -f1,3,6 etc/passwd > /home/project/airflow',
+	dag = dag
+)
 
+# Defining the second task
+transform_and_load = BashOperator(
+	task_id = 'transform_and_load',
+	bash_command = 'tr ":" "," < /home/project/airflow/dags/extracted-data.txt > /home/project/airflow/dags/transformed-data.csv',
+	dag = dag
+) 
 
+# Task pipeline
+extract >> transform_and_load
+```
+## Submitting a DAG
+All the python scripts you write, need to be stored in the _dags folder_ inside _AIRFLOW_HOME_ directory. 
+	Note: I am assuming, once you install airflow in your computer, this directory will be created.
+
+You also need to run the following command
+
+```shell
+export AIRFLOW_HOME=/home/project/airflow
+echo $AIRFLOW_HOME
 ```
 
+Then you run the following command to submit your DAG to airflow
+
+```shell
+export AIRFLOW_HOME=/home/project/airflow
+cp my_first_dag.py $AIRFLOW_HOME/dags
+```
 
 
 ---
