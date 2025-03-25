@@ -40,6 +40,8 @@ Tasks use [[Operators]] depending on the language that you are using.
 		- You can also look at the dag's tasks in the web UI when clicking the graph button
 - unpausing a dag:
 	- airflow dags unpuase tutorial
+- Searching for a specific DAG by name
+	- airflow dags list | grep "my-first-dag" <- use the name set in the default args dictionary you defined inside your script
 
 *Every dag is made out of tasks:
 
