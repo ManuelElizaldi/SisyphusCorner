@@ -73,6 +73,7 @@ extract >> transform_and_load
 ## Submitting a DAG
 All the python scripts you write, need to be stored in the _dags folder_ inside _AIRFLOW_HOME_ directory. 
 	Note: I am assuming, once you install airflow in your computer, this directory will be created.
+	Note 2: When I was doing the practice, I submitted my dag by dragging it into the _airflow dags folder_ and that worked. 
 
 You also need to run the following command
 

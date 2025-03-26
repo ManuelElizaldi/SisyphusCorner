@@ -1,0 +1,90 @@
+{
+  "fonts": [
+    {
+      "id": "fira-code",
+      "family": "Fira Code",
+      "subsets": [
+        "cyrillic",
+        "cyrillic-ext",
+        "greek",
+        "greek-ext",
+        "latin",
+        "latin-ext"
+      ],
+      "styles": [
+        "normal"
+      ],
+      "weights": [
+        300,
+        400,
+        500,
+        600,
+        700
+      ],
+      "variable": {
+        "wght": {
+          "default": "400",
+          "min": "300",
+          "max": "700",
+          "step": "1"
+        }
+      },
+      "isActive": true
+    },
+    {
+      "id": "roboto-mono",
+      "family": "Roboto Mono",
+      "subsets": [
+        "cyrillic",
+        "cyrillic-ext",
+        "greek",
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "styles": [
+        "italic",
+        "normal"
+      ],
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700
+      ],
+      "variable": {
+        "ital": {
+          "default": "0",
+          "min": "0",
+          "max": "1",
+          "step": "1"
+        },
+        "wght": {
+          "default": "400",
+          "min": "100",
+          "max": "700",
+          "step": "1"
+        }
+      },
+      "isActive": true
+    }
+  ],
+  "interfaceFonts": [
+    {
+      "id": "roboto-mono",
+      "family": "Roboto Mono",
+      "precedence": 0
+    }
+  ],
+  "textFonts": [
+    {
+      "id": "fira-code",
+      "family": "Fira Code",
+      "precedence": 0
+    }
+  ],
+  "monospaceFonts": []
+}
