@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/General Note.md",
+                "file": "Healthcare General Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Note"
+              "title": "Healthcare General Concepts"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,11 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d5d91e46fbf3dd1",
+  "active": "6ff3fa6e026ef884",
   "lastOpenFiles": [
+    "Healthcare General Concepts.md",
     "Templates/General Note.md",
-    "Programming/Airflow/Airflow - Logging and Monitoring.md",
     "Programming/Airflow/Airflow - Building a DAG.md",
+    "Programming/Airflow/Airflow - Logging and Monitoring.md",
     "Programming/Airflow/Airflow - General Notes.md",
     "Splunk.md",
     "Programming/Elasticsearch.md",
