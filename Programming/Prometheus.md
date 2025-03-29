@@ -1,5 +1,5 @@
 2025-03-25
-Tags:# [[Airflow]] [[Data Engineering]] [[Programming]] [[Monitoring]] [[Opensource]]
+Tags:# [[Airflow]] [[Data Engineering]] [[Programming]] [[Monitoring]] [[Open Source]]
 
 Monitoring and alerting system that stores time-series data. It helps track system performance, server metrics and application health
 

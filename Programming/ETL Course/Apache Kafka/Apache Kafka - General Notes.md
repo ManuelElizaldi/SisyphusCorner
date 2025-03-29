@@ -1,6 +1,14 @@
-{{date: YYYY-MM-DD}}
-Tags: [[]]
+03/29/2025
+Tags: [[Event Streaming Platform]] [[Streaming]] [[ETL]] [[Data Engineering]] [[Open Source]] [[Distributed System]]
 
+Apache Kafka -> Distributed real time event streaming platform
+- Distributed means that it runs across multiple computers/machines/nodes -> It is a cluster
+- It uses the TCP [[Protocol]] -> Transmission Control Protocol
+
+Created to track user activity. Now it is used for many things.
+- [[Fun fact]], it was created in LinkedIn! x
+
+It has high Throughput (can handle high volume of data)
 ## Kafka Architecture
 ![[Pasted image 20250329114420.png]]
 

@@ -1,5 +1,5 @@
-{{date: YYYY-MM-DD}}
-Tags: [[]]
+2025-03-29
+Tags: [[Event Streaming Platform]] [[Streaming]] [[ETL]] [[Data Engineering]] [[Open Source]] [[Distributed System]]
 
 There's a CLI for each, producer, consumer and topics
 
