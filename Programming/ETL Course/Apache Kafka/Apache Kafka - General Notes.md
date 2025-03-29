@@ -14,6 +14,7 @@ It has high Throughput (can handle high volume of data)
 
 Core components:
 - Brokers -> Dedicated server to store, process and distribute data.
+	- All brokers are connected 
 - Topics -> Container or databases of events
 - Partitions -> Divide topics into different brokers
 	- This increases fault tolerance
@@ -21,6 +22,12 @@ Core components:
 - Producers -> Kafka client applications that publish events into topics.
 - Consumers -> Kafka client applications that subscribe to topics and read events from them 
 
+### Note about Consumers and Producers
+Consumers and producers are decoupled, meaning that they do not interact between each other. They do not need to be synchronized between each other. 
+
+Real life example:
+![[Pasted image 20250329122721.png]]
 
 ---
 ### Reference
+IBM ETL Course Module 4 

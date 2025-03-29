@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "Apache Kafka - General Notes"
             }
+          },
+          {
+            "id": "46bacba8ce85350b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/ETL Course/Apache Kafka/Distributed Event Streaming & ESPs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distributed Event Streaming & ESPs"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5adb045a8d5c9df",
+  "active": "7252605d8fd759f8",
   "lastOpenFiles": [
-    "Programming/ETL Course/Apache Kafka/Apache Kafka - General Notes.md",
     "Programming/ETL Course/Apache Kafka/Apache Kafka - Building Event Streaming Pipeline using Kafka.md",
+    "Programming/ETL Course/Apache Kafka/Apache Kafka - General Notes.md",
     "Programming/ETL Course/Apache Kafka/Distributed Event Streaming & ESPs.md",
     "Programming/Elasticsearch.md",
     "Programming/Prometheus.md",
