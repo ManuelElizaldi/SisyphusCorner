@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TCP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,9 +197,14 @@
   },
   "active": "7252605d8fd759f8",
   "lastOpenFiles": [
+    "Programming/ETL Course/Apache Kafka/Kafka Python Client.md",
     "Programming/ETL Course/Apache Kafka/Apache Kafka - Building Event Streaming Pipeline using Kafka.md",
+    "Resources/Pasted image 20250407171901.png",
     "Programming/ETL Course/Apache Kafka/Apache Kafka - General Notes.md",
     "Programming/ETL Course/Apache Kafka/Distributed Event Streaming & ESPs.md",
+    "Resources/Pasted image 20250401213944.png",
+    "Resources/Pasted image 20250401213918.png",
+    "Resources/Pasted image 20250401213000.png",
     "Programming/Elasticsearch.md",
     "Programming/Prometheus.md",
     "Opensource.md",
@@ -218,9 +224,6 @@
     "Programming/Bash Commands.md",
     "Resources/Pasted image 20250329114420.png",
     "Programming/ETL Course/Apache Kafka",
-    "Resources/Pasted image 20250329113125.png",
-    "Resources/Pasted image 20250329112831.png",
-    "Resources/Pasted image 20250329112814.png",
     "Programming/ETL Course/Airflow/Airflow - Web UI.md",
     "Programming/ETL Course/Airflow/Airflow - Logging and Monitoring.md",
     "Untitled 1",
@@ -232,9 +235,7 @@
     "Programming/Daemon.md",
     "Programming/Decorator.md",
     "Programming/Splunk.md",
-    "Resources/Pasted image 20250325214200.png",
     "Bash.md",
-    "Sprinting Notes.md",
     "Workouts",
     "Untitled.canvas",
     "Programming/ETL Course/Airflow",

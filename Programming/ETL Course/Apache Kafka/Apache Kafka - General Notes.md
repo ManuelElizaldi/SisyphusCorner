@@ -28,6 +28,13 @@ Consumers and producers are decoupled, meaning that they do not interact between
 Real life example:
 ![[Pasted image 20250329122721.png]]
 
+![[Pasted image 20250401213000.png]]
+
+![[Pasted image 20250401213918.png]]
+![[Pasted image 20250401213944.png]]
+
+top image is more efficinet, bottom image is using an ad hoc app or script 
+
 ---
 ### Reference
 IBM ETL Course Module 4 
