@@ -4,6 +4,7 @@ Tags: [[Programming]] [[Data Engineering]] [[ETL]] [[Airflow]]
 
 *Airflow*: Workflow manager, not a streaming solution
 	Similar to windows task scheduler
+	A streaming solution would be [[Apache Kafka]]
 
 [[DAG]]: Directed Acyclic Graph. This is how workflows are represented in Airflow
 	Acyclical means that all nodes have a direction, they don't go back to another node.

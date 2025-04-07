@@ -3,7 +3,7 @@ Tags: [[Event Streaming Platform]] [[Streaming]] [[ETL]] [[Data Engineering]] [[
 
 Apache Kafka -> Distributed real time event streaming platform
 - Distributed means that it runs across multiple computers/machines/nodes -> It is a cluster
-- It uses the TCP [[Protocol]] -> Transmission Control Protocol
+- It uses the [[TCP]] [[Protocol]] -> Transmission Control Protocol. Ensures reliable, ordered and error checked *delivery of data between applications on a network| between clients and servers.* 
 
 Created to track user activity. Now it is used for many things.
 - [[Fun fact]], it was created in LinkedIn! x
