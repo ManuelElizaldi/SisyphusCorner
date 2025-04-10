@@ -45,7 +45,7 @@ default_args = {
 
 # Defining the DAG
 # DAG object is imported 
-dag - DAG(
+dag = DAG(
 	'my-first-dag',
 	default_args = default_args,
 	description = 'My first DAG',

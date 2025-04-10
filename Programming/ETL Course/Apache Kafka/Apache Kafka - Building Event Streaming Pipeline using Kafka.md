@@ -1,7 +1,7 @@
 2025-03-29
 Tags: [[Event Streaming Platform]] [[Streaming]] [[ETL]] [[Data Engineering]] [[Open Source]] [[Distributed System]]
 
-_Partition and Replications_: Each broker helps other brokers partitioning and replicating topics. This ensures reducing fualt and increasing throughput.
+_Partition and Replications_: Each broker helps other brokers partitioning and replicating topics. This ensures reducing fault and increasing throughput.
 
 There's a CLI for each, producer, consumer and topics
 

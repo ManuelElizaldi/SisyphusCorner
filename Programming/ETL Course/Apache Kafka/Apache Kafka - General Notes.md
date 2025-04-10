@@ -4,6 +4,13 @@ Tags: [[Event Streaming Platform]] [[Streaming]] [[ETL]] [[Data Engineering]] [[
 Apache Kafka -> Distributed real time event streaming platform
 - Distributed means that it runs across multiple computers/machines/nodes -> It is a cluster
 - It uses the [[TCP]] [[Protocol]] -> Transmission Control Protocol. Ensures reliable, ordered and error checked *delivery of data between applications on a network| between clients and servers.* 
+- Apache Kafka is a ESP - [[Event Streaming Platform]]
+
+The main components of an ESP are:
+- Event broker
+- Event Storage
+- Analytics
+- Query Engine
 
 Created to track user activity. Now it is used for many things.
 - [[Fun fact]], it was created in LinkedIn! x
@@ -31,7 +38,16 @@ Real life example:
 ![[Pasted image 20250401213000.png]]
 
 ![[Pasted image 20250401213918.png]]
+
+#### Source Processor
+Extracts data from a source system to then be processed for further use
+
+#### Sink Processor
+Responsible for receiving and storing the processed data to then be sent to a destination system 
+
+
 ![[Pasted image 20250401213944.png]]
+
 
 top image is more efficinet, bottom image is using an ad hoc app or script 
 
