@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f2807d4c88032033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Cloud Computing - Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Computing - Intro"
+            }
+          },
+          {
             "id": "b5d9e713dc439eef",
             "type": "leaf",
             "state": {
@@ -36,6 +50,20 @@
             }
           },
           {
+            "id": "bf8f6e1961b5713b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/TO DO!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TO DO!"
+            }
+          },
+          {
             "id": "dc0af79d1ab1415d",
             "type": "leaf",
             "state": {
@@ -49,8 +77,7 @@
               "title": "Final Project Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "0ca329add6857f7c",
@@ -196,10 +222,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7c6f8fcbcbbc94f",
+  "active": "f2807d4c88032033",
   "lastOpenFiles": [
-    "Programming/ETL Course/Apache Kafka/Apache Kafka - General Notes.md",
+    "Programming/TO DO!.md",
     "Programming/Cloud Computing/Cloud Computing - Intro.md",
+    "Notion - How they do things.md",
+    "Resources/Pasted image 20250415100813.png",
+    "Templates/General Note.md",
+    "Resources/Pasted image 20250414195337.png",
+    "Programming/ETL Course/Apache Kafka/Apache Kafka - General Notes.md",
     "Programming/Cloud Computing",
     "Untitled",
     "Programming/ETL Course/Apache Kafka/Apache Kafka - Building Event Streaming Pipeline using Kafka.md",
@@ -216,18 +247,14 @@
     "Programming/Elasticsearch.md",
     "Programming/Prometheus.md",
     "Opensource.md",
-    "Templates/General Note.md",
     "Where does eyeliner come from.md",
     "Programming/Protocol.md",
     "Resources/Pasted image 20250329122721.png",
     "Resources/Pasted image 20250329122531.png",
-    "Programming/TO DO!.md",
     "Healthcare General Concepts.md",
     "Resources/Pasted image 20250329122205.png",
     "Resources/Pasted image 20250329121939.png",
-    "Resources/Pasted image 20250329120428.png",
     "Programming/Bash Commands.md",
-    "Resources/Pasted image 20250329114420.png",
     "Programming/ETL Course/Apache Kafka",
     "Programming/ETL Course/Airflow/Airflow - Web UI.md",
     "Programming/ETL Course/Airflow/Airflow - Logging and Monitoring.md",
@@ -237,8 +264,6 @@
     "Programming/StatsD.md",
     "Programming.md",
     "Thread.md",
-    "Programming/Daemon.md",
-    "Programming/Decorator.md",
     "Workouts",
     "Untitled.canvas",
     "Programming/ETL Course/Airflow",
