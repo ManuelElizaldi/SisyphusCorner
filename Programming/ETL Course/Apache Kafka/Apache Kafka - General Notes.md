@@ -28,6 +28,7 @@ Core components:
 - Replications -> Duplicates partitions into different brokers 
 - Producers -> Kafka client applications that publish events into topics.
 - Consumers -> Kafka client applications that subscribe to topics and read events from them 
+- Apache Kafka Controller -> Stores the metadata of all the clusters
 
 ### Note about Consumers and Producers
 Consumers and producers are decoupled, meaning that they do not interact between each other. They do not need to be synchronized between each other. 
