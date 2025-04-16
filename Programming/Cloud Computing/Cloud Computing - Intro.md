@@ -23,8 +23,6 @@ You essentially have multiple VMs (virtual machines) running on a single physica
 Cloud computing delivers services over the internet
 
 
-
-
 ---
 ### Reference
 Cloud computing course pre work 
