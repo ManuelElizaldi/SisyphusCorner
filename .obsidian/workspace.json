@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Led lights with raspberry pi.md",
+                "file": "Programming/RaspberryPi/Led lights with raspberry pi.md",
                 "mode": "source",
                 "source": false
               },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Led lights with raspberry pi.md",
+                "file": "Programming/RaspberryPi/Led lights with raspberry pi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,10 +194,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cea006a2df2cefaf",
+  "active": "6ff3fa6e026ef884",
   "lastOpenFiles": [
+    "Resources/Pasted image 20250415100813.png",
+    "Resources/Pasted image 20250414195337.png",
+    "Programming/Cloud Computing/Cloud Computing - Intro.md",
+    "Programming/Cloud Computing",
+    "Notion - How they do things.md",
     "Programming/ETL Course/Airflow/Airflow - Building a DAG.md",
-    "Led lights with raspberry pi.md",
+    "Programming/RaspberryPi/Led lights with raspberry pi.md",
     "Untitled 1",
     "Untitled",
     "Programming/RaspberryPi",
@@ -226,7 +231,6 @@
     "Resources/Pasted image 20250329121939.png",
     "Resources/Pasted image 20250329120428.png",
     "Programming/Bash Commands.md",
-    "Resources/Pasted image 20250329114420.png",
     "Programming/ETL Course/Apache Kafka",
     "Programming/ETL Course/Airflow/Airflow - Web UI.md",
     "Programming/ETL Course/Airflow/Airflow - Logging and Monitoring.md",
@@ -234,9 +238,6 @@
     "Search Engine.md",
     "Programming/StatsD.md",
     "Programming.md",
-    "Thread.md",
-    "Programming/Daemon.md",
-    "Programming/Decorator.md",
     "Workouts",
     "Untitled.canvas",
     "Programming/ETL Course/Airflow",
