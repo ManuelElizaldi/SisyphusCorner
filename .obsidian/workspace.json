@@ -165,9 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cea006a2df2cefaf",
+  "active": "6ff3fa6e026ef884",
   "lastOpenFiles": [
+    "Resources/Pasted image 20250416135001.png",
     "Programming/Cloud Computing/Cloud Computing - Intro.md",
+    "Resources/Pasted image 20250416134823.png",
     "Programming/Cloud Computing/Cloud Computing - Business Case.md",
     "Programming/RaspberryPi/Led lights with raspberry pi.md",
     "Resources/Pasted image 20250415100813.png",
@@ -200,7 +202,6 @@
     "Programming/TO DO!.md",
     "Healthcare General Concepts.md",
     "Resources/Pasted image 20250329122205.png",
-    "Resources/Pasted image 20250329121939.png",
     "Programming/Bash Commands.md",
     "Programming/ETL Course/Apache Kafka",
     "Programming/ETL Course/Airflow/Airflow - Web UI.md",
@@ -208,7 +209,6 @@
     "Programming/ETL Course",
     "Search Engine.md",
     "Programming/StatsD.md",
-    "Programming.md",
     "Workouts",
     "Untitled.canvas",
     "Programming/ETL Course/Airflow",

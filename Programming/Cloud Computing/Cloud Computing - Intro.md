@@ -22,6 +22,18 @@ You essentially have multiple VMs (virtual machines) running on a single physica
 
 Cloud computing delivers services over the internet
 
+### Why so much impact?
+
+According to [[Adam Smith]], there's 2 factors that allow economic development:
+1) Specialization
+2) Division of labor: people are able to specialize in one thing, allowing them to become more efficient. 
+	- This also allows to increase complexity, if you focus on 1 thing, you are able to go deeper. 
+
+The cloud allows for division of labor, for example: [[Tom Goodwin]] was able to notice this:
+
+![[Pasted image 20250416134823.png]]
+
+This is a good example of division of labor, Uber is the largest taxi company but does not own the cars, the cars are owned by the drivers. 
 
 ---
 ### Reference
