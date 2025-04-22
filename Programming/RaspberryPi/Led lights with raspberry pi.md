@@ -1,5 +1,4 @@
 
-That sounds like an awesome project—compact, functional, and a fun way to blend software with hardware! You’ve already nailed the essentials:
 
 ### Here’s a rough plan to bring it to life:
 
@@ -27,7 +26,7 @@ That sounds like an awesome project—compact, functional, and a fun way to blen
         
     - OR power the Pi separately and use a **battery pack** just for the LEDs (e.g., 18650 Li-ion batteries with a voltage regulator to match LED specs).
         
-    - Keep in mind current draw: RGB LEDs can eat a lot of juice when all colors are full-on white.
+    - Keep in mind current draw: RGB LEDs can eat a lot of juice when all colq
         
 
 #### 4. **Communication**
