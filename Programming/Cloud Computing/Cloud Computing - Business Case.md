@@ -3,6 +3,8 @@ Tags: [[Cloud Computing]] [[Business]]
 
 Cloud computing allows division of labor. 
 
+## Different types of business models for cloud
+
 ![[Pasted image 20250417164225.png]]
 
 ### IaaS - Infrastructure as a Service 
@@ -24,7 +26,7 @@ Example: Gmail
 
 The more right you move (Iaas -> SaaS) you stop relying on infrastructure and people, but you also lose some control.
 
-#### SWOT Analysis - Internal
+## SWOT Analysis - Internal
 - Strength: Low cost, low upfront time, no maintenance/upgrades, risk sharing, secure, flexible
 	- option to abandon without sunk cost -> you don't need to buy thousands of computers. If your project does not work in the future you can just stop the cloud service.
 	- Important: CAPEX vs OPEX -> Capital Expenditure is a spike, not predictable, OPEX is more predictable, CFO prefer having OPEX
@@ -38,7 +40,7 @@ The more right you move (Iaas -> SaaS) you stop relying on infrastructure and pe
 	- Long run ROI unsure -> Example: owning your own machine for 2 years vs using the cloud
 		- I feel like this depends on the company
 
-#### SWOT Analysis - External
+## SWOT Analysis - External
 - Opportunities:
 	- Cloud integration -> different apps can integrate easily to the cloud
 	- Enterprise systems can be on the cloud
@@ -51,6 +53,27 @@ The more right you move (Iaas -> SaaS) you stop relying on infrastructure and pe
 
 
 Regarding security -> If you are a large company with the capacity to hire specialized security, the question arise that if its worth it to get cloud services 
+
+
+## Example - Financial Industry
+
+In the financial industry, most managers are in favor of cloud computing due to the cost reduction 
+
+After the cloud adoption, managers noticed improved data access
+
+## Site Reliability Engineering
+
+This is a new technology that emerged from cloud services
+
+Traditional tech teams:
+- Devs -> software engineer
+	- Build new features, incentivized to make changes
+- Operation -> System administration 
+	- Prevent fails, incentivized to avoid changes
+
+Constant friction between these two teams. -> *Google SRE* reduced this tension
+
+Google SRE -> a job function, a mindset, and a set of engineering practices to run reliable production systems
 
 
 ---
