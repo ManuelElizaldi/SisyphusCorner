@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Cloud Computing - Historical Analysis.md",
+                "file": "Programming/Cloud Computing/Cloud Computing - Business Case.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Computing - Historical Analysis"
+              "title": "Cloud Computing - Business Case"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Cloud Computing/Cloud Computing - Historical Analysis.md",
+                "file": "Programming/Cloud Computing/Cloud Computing - Business Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cloud Computing - Historical Analysis"
+              "title": "Backlinks for Cloud Computing - Business Case"
             }
           },
           {
@@ -167,8 +167,8 @@
   },
   "active": "cea006a2df2cefaf",
   "lastOpenFiles": [
+    "Programming/Cloud Computing/Timeline of Main Events in Cloud Computing Evolution.md",
     "Programming/Cloud Computing/Cloud Computing - Business Case.md",
-    "Programming/Cloud Computing/Cloud Computing - Historical Analysis.md",
     "Untitled.md",
     "Programming/RaspberryPi/Led lights with raspberry pi.md",
     "Programming/Cloud Computing/Cloud Computing - Capacity Planning.md",
