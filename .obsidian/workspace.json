@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "32ab2cb05f4c06a9",
+        "id": "4f2f33bdcdb6fd3f",
         "type": "tabs",
         "children": [
           {
-            "id": "cea006a2df2cefaf",
+            "id": "db6e1cf83477eea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Cloud Computing - Business Case.md",
+                "file": "Programming/Cloud Computing/History of Cloud Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Computing - Business Case"
+              "title": "History of Cloud Computing"
+            }
+          },
+          {
+            "id": "034314a95d6dd38f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fact About Eastern Roman Empire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fact About Eastern Roman Empire"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Cloud Computing/Cloud Computing - Business Case.md",
+                "file": "Fact About Eastern Roman Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cloud Computing - Business Case"
+              "title": "Backlinks for Fact About Eastern Roman Empire"
             }
           },
           {
@@ -165,12 +180,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cea006a2df2cefaf",
+  "active": "034314a95d6dd38f",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Timeline of Main Events in Cloud Computing Evolution.md",
-    "Programming/Cloud Computing/Cloud Computing - Business Case.md",
+    "Healthcare General Concepts.md",
+    "Hegel's God & Spinoza's God.md",
+    "How Green Policy Can Back Fire - Sulfur Dioxide.md",
+    "How Neural Networks Work - Sight.md",
+    "Programming/Cloud Computing/History of Cloud Computing.md",
+    "Programming/Event Streaming Platform.md",
+    "Resources/Pasted image 20250428194629.png",
+    "Programming/Thread.md",
+    "Workouts/Sprinting Notes.md",
     "Untitled.md",
+    "Programming/Search Engine.md",
     "Programming/RaspberryPi/Led lights with raspberry pi.md",
+    "Programming/RaspberryPi/Raspberrypi Set Up Notes.md",
+    "Programming/Cloud Computing/Cloud Computing - Business Case.md",
+    "Programming/Cloud Computing/Timeline of Main Events in Cloud Computing Evolution.md",
     "Programming/Cloud Computing/Cloud Computing - Capacity Planning.md",
     "Resources/Pasted image 20250417165458.png",
     "Resources/Pasted image 20250417164922.png",
@@ -191,23 +217,12 @@
     "Programming/ETL Course/Airflow/Airflow - General Notes.md",
     "Programming/ETL Course/Apache Kafka/Apache Kafka - Building Event Streaming Pipeline using Kafka.md",
     "Programming/ETL Course/Apache Kafka/Apache Kafka - General Notes.md",
-    "Event Streaming Platform.md",
     "Programming/ETL Course/Apache Kafka/Kafka Python Client.md",
     "Resources/Pasted image 20250407171901.png",
     "Resources/Pasted image 20250401213944.png",
-    "Resources/Pasted image 20250401213918.png",
     "Programming/Elasticsearch.md",
     "Programming/Prometheus.md",
-    "Opensource.md",
-    "Templates/General Note.md",
-    "Where does eyeliner come from.md",
-    "Programming/Protocol.md",
-    "Programming/TO DO!.md",
-    "Healthcare General Concepts.md",
-    "Programming/Bash Commands.md",
     "Programming/ETL Course/Apache Kafka",
-    "Programming/ETL Course/Airflow/Airflow - Web UI.md",
-    "Programming/ETL Course/Airflow/Airflow - Logging and Monitoring.md",
     "Programming/ETL Course",
     "Workouts",
     "Untitled.canvas",

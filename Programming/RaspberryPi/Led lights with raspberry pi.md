@@ -1,5 +1,3 @@
-
-
 ### Here’s a rough plan to bring it to life:
 
 #### 1. **Web App on the Raspberry Pi**
