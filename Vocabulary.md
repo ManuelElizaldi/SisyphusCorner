@@ -1,3 +1,5 @@
+[[Knowledge]] [[Study]]
+
 Heraldic -> Relating to design, display and study of armorial beings
 
 Inexorable -> Unstoppable
@@ -33,4 +35,15 @@ Elation -> Great happiness
 Burgeoning -> Flourishing, beginning to grow rapidly
 
 Mimed -> Using gestures and movements without words
+
+Assiduously -> With great care and perseverance 
+
+Beveled -> Having a slopping edge rather than a square one
+
+Lozenge -> A rhombus or diamond shape
+
+Proscribe -> Forbidden, especially by law
+
+Ideograms -> Written character symbolizing the idea of something without indicating the sounds used to say it
+
 
