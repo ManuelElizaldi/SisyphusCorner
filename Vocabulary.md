@@ -46,4 +46,19 @@ Proscribe -> Forbidden, especially by law
 
 Ideograms -> Written character symbolizing the idea of something without indicating the sounds used to say it
 
+Nacelle -> A streamline enclosure for an aircraft engine 
+
+Gopher -> Burrowing rodent
+
+Jive -> Style of dance, taunt or sneer at
+
+Damrak -> Avenue partially filled in canal
+
+Foray -> Sudden attack or incursion into enemy territory
+
+Temperfoam -> Memory foam, polyurethane sensitive to temperature and pressure
+
+Desicated -> Having had all the moisture removed
+
+Pituitary -> Small pea size endocrine gland at the base of the brain related to hormones 
 
