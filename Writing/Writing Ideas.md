@@ -1,5 +1,8 @@
 [[Ideas]] [[Writing]]
 This is a section to write down any ideas I have for writing. 
+
+write a note about where mile comes from
+
 ### Technical
 - Embrace your creative energy *technical*
 - Imposter Syndrome *technical*
