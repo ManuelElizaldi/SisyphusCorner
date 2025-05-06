@@ -1,23 +1,20 @@
 {
   "main": {
-    "id": "40821f71bd9f572e",
+    "id": "2f3fdde84a453292",
     "type": "split",
     "children": [
       {
-        "id": "8e54418db32bd24d",
+        "id": "a3262454a69d0bfa",
         "type": "tabs",
         "children": [
           {
-            "id": "ddaa4273cc35f921",
+            "id": "b8e3c4eae5bbeebb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Writing Ideas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Writing Ideas"
             }
           },
@@ -89,24 +86,26 @@
               },
               "icon": "lucide-file",
               "title": "Vocabulary"
+=======
+              "title": "New tab"
+>>>>>>> 244fb2faf9435e5a4fd209e4da9fdec2c936f776
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a811d31f153de0ac",
+    "id": "6f6b0ff4e8f795f8",
     "type": "split",
     "children": [
       {
-        "id": "004a9ab468e16c68",
+        "id": "7477fe8e1903a5b9",
         "type": "tabs",
         "children": [
           {
-            "id": "6ff3fa6e026ef884",
+            "id": "a7b37bf5f7028085",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -119,7 +118,7 @@
             }
           },
           {
-            "id": "ebcf330cffc113e7",
+            "id": "5965698fd7c12d09",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -136,7 +135,7 @@
             }
           },
           {
-            "id": "2f7bdc9f42404b23",
+            "id": "7464cc904cc1a4e0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -149,23 +148,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 300
   },
   "right": {
-    "id": "0ca329add6857f7c",
+    "id": "3f655e1ce2c750ec",
     "type": "split",
     "children": [
       {
-        "id": "23abb044d1900ff4",
+        "id": "b7daeaeb4d185e27",
         "type": "tabs",
         "children": [
           {
-            "id": "cf287e1113986343",
+            "id": "849f1048e99d1f71",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Technical/Books that have boosted my creativity in my career.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,11 +173,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Books that have boosted my creativity in my career"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8ba5c609ffce90bb",
+            "id": "ee08b9b9368f5827",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -192,7 +190,7 @@
             }
           },
           {
-            "id": "69db077303896807",
+            "id": "07fc26ae8025adae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -207,24 +205,25 @@
             }
           },
           {
-            "id": "66d9ca5ce70a6479",
+            "id": "bb12b18f6a2cccd8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Pasted image 20250430161247.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20250430161247"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -237,6 +236,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "980549db82d07942",
   "lastOpenFiles": [
     "Game Development/🧠 Overall Strategy.md",
@@ -287,4 +287,8 @@
     "Untitled.canvas",
     "Programming/ETL Course/Airflow"
   ]
+=======
+  "active": "a7b37bf5f7028085",
+  "lastOpenFiles": []
+>>>>>>> 244fb2faf9435e5a4fd209e4da9fdec2c936f776
 }
