@@ -14,6 +14,7 @@ This is a section to write down any ideas I have for writing.
 
 ### love letter
 - Love letter to my current job *Love letter*
+- Love letter to squatting 
 
 ### Story
 - Story about expedition in space ship, the AI is connected to the mind of the main engineer so it can troubleshoot issues easier. He goes crazy *sci-fi*
