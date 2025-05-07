@@ -12,7 +12,7 @@ Obduracy -> Refusing to change one's mind
 
 Oeuvre -> Works of an artist 
 
-Bray -> Related to donkeys or mules
+Bray -> loud harsh cry of donkeys or mules
 
 Conciliatory -> Intended to pacify
 
