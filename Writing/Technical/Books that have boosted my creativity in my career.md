@@ -20,7 +20,6 @@ This was an emotional seesaw that tired me.
 Carol S. Dweck came in and cleansed this false beliefs from my system.
 Wanting to achieve your goals is not inherently bad. Having objectives can enrich your life. The issue arises when you believe that your achievements increase your worthiness as a person.  
 
-
 Of course, sometimes I slip back into those negative thoughts, but at least I am aware that they are irrational.  
 
 2) _The Artist's Way - Julia Cameron_
