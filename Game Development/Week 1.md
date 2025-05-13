@@ -24,3 +24,5 @@ You can look through all of the events happening. You can do this with a loop
 ### Reference
 
 [Tutorial](https://www.youtube.com/watch?v=y9VG3Pztok8)
+
+[Great Stackover flow article](https://stackoverflow.com/questions/62998806/how-to-make-a-bouncy-ball-in-pygame-python) on basics of movement

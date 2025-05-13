@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a14827d0eca71db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Technical/Books That Boost my Creativity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Books That Boost my Creativity"
-            }
-          },
-          {
-            "id": "fa94f96466f6f18c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Writing Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writing Ideas"
-            }
-          },
-          {
             "id": "445a85b3a2c11972",
             "type": "leaf",
             "state": {
@@ -47,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "🧠 Overall Strategy"
+            }
+          },
+          {
+            "id": "ac9c9190889216fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Development/Week 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1"
             }
           }
         ],
@@ -198,14 +184,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa94f96466f6f18c",
+  "active": "ac9c9190889216fb",
   "lastOpenFiles": [
-    "Automation.md",
-    "Writing/Writing Ideas.md",
-    "Writing/Technical/Books That Boost my Creativity.md",
+    "Writing/Technical/Untitled.md",
     "Writing/Technical/Books that have boosted my creativity in my career.md",
+    "Writing/Writing Ideas.md",
+    "Automation.md",
+    "Writing/Technical/Books That Boost my Creativity.md",
     "Game Development/🧠 Overall Strategy.md",
-    "Writing/Writing Notes.md",
-    "Writing/Technical/Untitled.md"
+    "Writing/Writing Notes.md"
   ]
 }
