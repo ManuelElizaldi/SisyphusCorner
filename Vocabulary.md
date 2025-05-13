@@ -80,4 +80,8 @@ Matron -> Woman in charge of domestic and medical arrangements at a board school
 
 Croak -> Deep hoarse sound made by a frog or crow 
 
+Seethe -> (of a liquid) bubble up as a result of being boiled
+
+Plateaus -> An area of relatively level high ground
+
 
