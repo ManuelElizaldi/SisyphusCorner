@@ -62,3 +62,22 @@ Desicated -> Having had all the moisture removed
 
 Pituitary -> Small pea size endocrine gland at the base of the brain related to hormones 
 
+----- 
+
+Anki checkpoint
+
+Velour -> Fabric similar to velvet 
+
+Agoraphobic -> Fear or anxiety of situations where escape is impossible or help is unavailable 
+
+Thimble -> metal or plastic cap worn to protect the finger and push the needle in sewing 
+
+Maroon -> To leave someone trapped or isolated in a inaccessible place
+
+Seraglio -> Harem in an Ottoman palace. Ottoman palace, especially the sultan's court at Constantinople 
+
+Matron -> Woman in charge of domestic and medical arrangements at a board school or other establishment
+
+Croak -> Deep hoarse sound made by a frog or crow 
+
+
