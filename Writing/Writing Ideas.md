@@ -4,7 +4,6 @@ This is a section to write down any ideas I have for writing.
 write a note about where mile comes from
 
 ### Technical
-- Embrace your creative energy *technical*
 - Imposter Syndrome *technical*
 - How knowledge is stackable, why its important to store your code *Technical*
 	- Build your own toolkit
@@ -23,7 +22,7 @@ write a note about where mile comes from
 - Story about expedition in space ship, the AI is connected to the mind of the main engineer so it can troubleshoot issues easier. He goes crazy *sci-fi*
 
 ### Currently working on:
-- Books that helped me in my career *technical*
+- ~~Books that helped me in my career *technical*~~
 	- Growth Mindset
 	- The Creative Act
 	- The Artist's Way
