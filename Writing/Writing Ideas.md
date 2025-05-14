@@ -8,6 +8,7 @@ write a note about where mile comes from
 - How knowledge is stackable, why its important to store your code *Technical*
 	- Build your own toolkit
 - Using tailscale to connect your raspberry pi to computer via secure ssh *technical*
+- Why and how Armenia adopted christianity 
 ### Discussion
 - Rugby vs futbol *discussion*
 	- I have some notes on my ideas journal
