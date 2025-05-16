@@ -3,6 +3,8 @@ Tags: [[Programming]] [[Game Development]] [[Gaming]] [[Python]]
 
 Using pygame to start with
 # Week 1
+In this week we covered the basics of any game developed in pygame. Screen/window, game loop and event handler. We also created a "player" object represented by a square that had basic movement: up, down, left and right. In addition to this I added a strafing mechaisim which was not covered in the tutorial I was following but created from my own imagination. Good job Manuel! 
+
 ## Basic Game components
 
 ### Window
@@ -107,6 +109,12 @@ pygame.quit()
 ```
 
 # Week 2
+
+In this week I worked on creating a bouncing ball. The ball starts in the center and then hits a wall and bounces to the other side. This could be improved to mimic a more realistic bounce but I will leave it like that for now. 
+
+## Bouncing
+
+
 
 
 
