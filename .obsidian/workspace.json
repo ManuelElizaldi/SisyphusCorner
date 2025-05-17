@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "331dc68a0b707de1",
+        "id": "5866a857947aa7f5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f7afce6ae279225",
+            "id": "9e9c921c3b83e481",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Orientation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Orientation"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f655e1ce2c750ec",
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Cloud Computing/Orientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Orientation"
+              "title": "Backlinks"
             }
           },
           {
@@ -169,9 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f7afce6ae279225",
+  "active": "9e9c921c3b83e481",
   "lastOpenFiles": [
     "Programming/Cloud Computing/Orientation.md",
+    "Programming/Cloud Computing/Prework",
+    "Programming/Cloud Computing/Week 1",
+    "Resources/Pasted image 20250517103417.png",
     "Game Development/Week 1 & Week 2 Notes.md",
     "Writing/Technical/Reshaping my experience with My AI Experiment - Learning Game Development - Part 1.md",
     "Pasted image 20250516175026.png",
