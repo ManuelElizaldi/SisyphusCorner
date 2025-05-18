@@ -1,7 +1,7 @@
 2025-05-18
 [[Concepts]] [[Cloud Computing]]
 
-# Definitions, Stories & Business Concerns
+# Definitions, Stories & Business Concerns - Video
 
 There is no such thing as Cloud Computing -> its only someone else computer/data center *kind of saying this jokingly*
 
@@ -50,7 +50,7 @@ _Distributed computing_: Involves a network of interconnected computers collabor
 
 ### What does Enterprise worry about
 
-Service availability -> I want my end user to be able to consume my product.
+_Service availability_ -> I want my end user to be able to consume my product.
 - User growth is hard to determine. 
 
 _Elasticity_ -> Elasticity is the automatic adaption and allocation of computing resources like servers and storage to match fluctuating workloads and needs. 
@@ -66,3 +66,23 @@ _IT refresh_ -> 3 year life span for hardware. Every 3 years you get new hardwar
 - Do you want to do this every 3 years? As an enterprise you need to take this into consideration. Businesses rather focus on their main objective/product
 
 _Lock-in_ -> When a customer becomes too dependent on one cloud service ecosystem, making it difficult and costly to switch 
+
+Is the data safe in the cloud?
+
+_Public Cloud Computing Services_ -> Offered by third party providers, grant the general public internet-based access to a range of computing resources, including virtual machines, storage and applications. 
+- This is a huge concern for financial institutions
+
+ _Audit Trial_ -> Who, how why? -> is a digital record that tracks and logs all activities, access and changes within a cloud environment. 
+- Essentially, everything gets logged for security purposes. 
+- Compliance
+- Very important to understand why and how something happened -> if something breaks, you check this
+
+_Licensing Fee_ -> Everything you pay for, human capital, software, machines, support, maintenance, adds up. This cost is fixed/remains constant but goes up every year, regardless of your sales. 
+
+
+#### Practice Quiz Question: Building Blocks of Cloud Infrastructure Service (IaaS)
+
+Compute, Storage, Networking 
+
+
+# Classical Enterprise, Why Cloud & Evolution of Cloud - Video
