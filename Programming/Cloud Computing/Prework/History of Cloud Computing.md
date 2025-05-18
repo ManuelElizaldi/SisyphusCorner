@@ -17,7 +17,8 @@ PC/Client Server -> Single place where all the data would get deposited. Do some
 
 Throughout history, architecture has changes but the core fundamental concepts have not (code). 
 
-
+#### Quiz question
+![[Pasted image 20250518160418.png]]
 
 
 ---
