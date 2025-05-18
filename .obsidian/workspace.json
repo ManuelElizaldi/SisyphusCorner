@@ -11,10 +11,14 @@
             "id": "9e9c921c3b83e481",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Week 1/Day 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Day 1"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f655e1ce2c750ec",
@@ -165,6 +170,9 @@
   },
   "active": "9e9c921c3b83e481",
   "lastOpenFiles": [
+    "Programming/Cloud Computing/Week 1/Course Outline - Objective.md",
+    "Programming/Cloud Computing/Week 1/Day 1.md",
+    "Resources/Pasted image 20250518110506.png",
     "Programming/Cloud Computing/Orientation.md",
     "Programming/Cloud Computing/Prework",
     "Programming/Cloud Computing/Week 1",
