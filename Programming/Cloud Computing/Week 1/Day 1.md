@@ -7,13 +7,18 @@ There is no such thing as Cloud Computing -> its only someone else computer/data
 
 ## Services
 
-*Infrastructure* -> give you compute, networking and storage.
-- AWS, Google, Microsoft Azure 
+*Infrastructure IaaS* -> give you compute, networking and storage. Focuses on infrastructure management
+- AWS, Google, Microsoft Azure
+- The provider is responsible for the networking infrastructure
 
-*Platform Vendors* -> Abstracts things you need to be responsible of, software updates, packages, etc. 
+*Platform Vendors PaaS* -> Abstracts things you need to be responsible of, software updates, packages, etc. 
 - The primary purpose of PaaS is to deliver a development and deployment platform 
+- Simplifies application development
 
-*Software as a service* -> broad definition. Apps, APIs, etc. You are producing something and someone else is consuming it. The consumer does not care about infrastructure or platform, he just wants the app/product. 
+*Software as a service SaaS* -> broad definition. Apps, APIs, etc. You are producing something and someone else is consuming it. The consumer does not care about infrastructure or platform, he just wants the app/product. 
+- Software distribution model where applications are hosted and maintained by a third party provider, accessible to users over the internet. It could be offered through a subscription model. 
+- The user does not need to worry about local installations and upkeep
+- Ready to use software
 
 *System Integrators* -> Person or organization that focuses on making different software and hardware work together in a cohesive and functional system. This can become a complex technological system
 - Building the cloud system 
@@ -197,6 +202,41 @@ A style of computing where massively scalable IT-enabled capabilities are delive
 ![[Pasted image 20250519174801.png]]
 
 ## Spider
+SPIDERS stands for A security initiative for protecting critical infrastructure
 
-SaaS, PaaS, IaaS, Big Data, Elastic, Resilient, Subscription -> Spider 
+SaaS, PaaS, IaaS, Big Data, Elastic, Resilient, Subscription -> Spider
+
+
+
+### Big Data
+In today's world there is a lot of data collection, especially through IoT sensors. You have to be able to store, process and manage this data. 
+
+Going the traditional route: using RBDMs you are going to have scalability issues. These traditional databases can't keep up with the load
+
+Thats where Elasticity comes in:
+
+### Elasticity
+You can set an elastic data tier, if data amount goes up, more infrastructure is added and data will be distributed across multiple systems. 
+
+### Resilience
+If a part of your infrastructure goes down, you need to be able to continue operations. You wont stop selling because one computer is down. You need to be *resilient*. 
+
+### Subscription
+Pay as you go
+
+Finance industry -> main concern is security, they rather use private 
+
+Social application -> they do care about security, but its not their main objective, they rather be resilient, they want to have as many clients as possible 
+
+Big enterprise -> they use multiple applications, some are hosted on the cloud, other are not, so you need a way to integrate them (middleware/ESB)
+
+Big Data concerns -> Three V's, velocity, variety and volume. These 3 categories challenge traditional database tools
+
+### Pizza as a Service
+![[Pasted image 20250519180444.png]]
+
+## Degree of Abstraction - Application View
+
+![[Pasted image 20250519181154.png]]
+
 
