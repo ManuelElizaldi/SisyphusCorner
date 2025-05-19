@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2f3fdde84a453292",
+    "id": "9982d9fa7094a27a",
     "type": "split",
     "children": [
       {
-        "id": "5866a857947aa7f5",
+        "id": "82f35662be86aee5",
         "type": "tabs",
         "children": [
           {
-            "id": "9e9c921c3b83e481",
+            "id": "a349e672f2424c16",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "44b6bd5f4508aa66",
+            "id": "ab60cc3564be1d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6f6b0ff4e8f795f8",
+    "id": "5004d95bf863bb61",
     "type": "split",
     "children": [
       {
-        "id": "7477fe8e1903a5b9",
+        "id": "e3749185014ef981",
         "type": "tabs",
         "children": [
           {
-            "id": "a7b37bf5f7028085",
+            "id": "bd66959c3c22e44c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +62,7 @@
             }
           },
           {
-            "id": "5965698fd7c12d09",
+            "id": "a826982762abc15d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +79,7 @@
             }
           },
           {
-            "id": "7464cc904cc1a4e0",
+            "id": "cd79eb0b3a47f81a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,22 +92,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "3f655e1ce2c750ec",
+    "id": "a653947e0fa9ff88",
     "type": "split",
     "children": [
       {
-        "id": "b7daeaeb4d185e27",
+        "id": "6971609a15bfccdf",
         "type": "tabs",
         "children": [
           {
-            "id": "849f1048e99d1f71",
+            "id": "c19b92618a7871c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Writing/Technical/Books that have boosted my creativity in my career.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Books that have boosted my creativity in my career"
             }
           },
           {
-            "id": "ee08b9b9368f5827",
+            "id": "c070616c006deab6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Writing/Technical/Books that have boosted my creativity in my career.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vocabulary"
+              "title": "Outgoing links from Books that have boosted my creativity in my career"
             }
           },
           {
-            "id": "07fc26ae8025adae",
+            "id": "a9711d9deba6438f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,21 +152,22 @@
             }
           },
           {
-            "id": "bb12b18f6a2cccd8",
+            "id": "0e7f672d58a544d2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Writing/Technical/Books that have boosted my creativity in my career.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vocabulary"
+              "title": "Outline of Books that have boosted my creativity in my career"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,34 +184,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e9c921c3b83e481",
+  "active": "a349e672f2424c16",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Prework/History of Cloud Computing.md",
-    "Pasted image 20250518160418.png",
+    "Resources/Pasted image 20250518155102.png",
     "Programming/Cloud Computing/Week 1/Day 1.md",
-    "Programming/Cloud Computing/Prework/Cloud Computing - Business Case.md",
-    "Pasted image 20250518155646.png",
-    "Pasted image 20250518155102.png",
-    "Resources/Pasted image 20250518120308.png",
-    "Programming/Cloud Computing/Prework/Cloud Computing - Capacity Planning.md",
+    "Resources/Pasted image 20250519174801.png",
+    "Programming/Cloud Computing/Prework/History of Cloud Computing.md",
     "Programming/Cloud Computing/Week 1/Course Outline - Objective.md",
-    "Resources/Pasted image 20250518110506.png",
-    "Programming/Cloud Computing/Orientation.md",
-    "Programming/Cloud Computing/Prework",
-    "Programming/Cloud Computing/Week 1",
-    "Resources/Pasted image 20250517103417.png",
+    "Resources/Pasted image 20250518160418.png",
+    "Resources/Pasted image 20250518155646.png",
     "Game Development/Week 1 & Week 2 Notes.md",
     "Writing/Technical/Reshaping my experience with My AI Experiment - Learning Game Development - Part 1.md",
-    "Pasted image 20250516175026.png",
-    "Pasted image 20250516174924.png",
+    "Resources/Pasted image 20250518120308.png",
+    "Resources/Pasted image 20250518110506.png",
+    "Resources/Pasted image 20250517103417.png",
+    "Programming/Cloud Computing/Week 1",
+    "Programming/Cloud Computing/Prework/Cloud Computing - Intro.md",
+    "Programming/Cloud Computing/Prework/Cloud Computing - Capacity Planning.md",
+    "Programming/Cloud Computing/Prework/Cloud Computing - Business Case.md",
+    "Programming/Cloud Computing/Prework",
+    "Programming/Cloud Computing/Orientation.md",
     "Game Development.md",
-    "Resources/Pasted image 20250514163525.png",
-    "Vocabulary.md",
-    "Writing/Technical/Books That Boost my Creativity.md",
-    "Writing/Technical/Books that have boosted my creativity in my career.md",
-    "The request to Chat GPT.md",
     "Game Development/🧠 Overall Strategy.md",
-    "Game Development",
-    "Pasted image 20250430161247.png"
+    "Game Development/Week 1.md",
+    "Writing/Technical/My AI Experiment - Learning Game Development.md",
+    "Resources/Pasted image 20250514163525.png",
+    "Writing/Technical/Untitled.md",
+    "Writing/Technical/Books that have boosted my creativity in my career.md",
+    "Writing/Writing Ideas.md",
+    "Automation.md",
+    "Writing/Technical/Books That Boost my Creativity.md",
+    "Writing/Writing Notes.md"
   ]
 }

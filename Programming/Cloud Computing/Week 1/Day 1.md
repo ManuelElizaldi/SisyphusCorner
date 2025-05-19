@@ -1,5 +1,5 @@
 2025-05-18
-[[Concepts]] [[Cloud Computing]]
+[[Concepts]] [[Cloud Computing]] [[Integrations]]
 
 # Definitions, Stories & Business Concerns - Video
 
@@ -11,6 +11,7 @@ There is no such thing as Cloud Computing -> its only someone else computer/data
 - AWS, Google, Microsoft Azure 
 
 *Platform Vendors* -> Abstracts things you need to be responsible of, software updates, packages, etc. 
+- The primary purpose of PaaS is to deliver a development and deployment platform 
 
 *Software as a service* -> broad definition. Apps, APIs, etc. You are producing something and someone else is consuming it. The consumer does not care about infrastructure or platform, he just wants the app/product. 
 
@@ -123,13 +124,14 @@ Compute, Storage, Networking
 
 *Infra Monitoring Tools* -> Infrastructure monitoring tools, you have to capture any failures within the system. Be proactive.
 
-*Code repo/CI/CD Tools*
+*Code repo/CI/CD Tools* -> Code repository, productivity tools, etc. 
+- You still have to set up everything
 
-*Virtualization Software*
+*Virtualization Software* -> Every enterprise uses virtualization. How do I squeeze more out of my investment -> virtualize more computers. 
 
-*Infrastructure*
+*Infrastructure* -> hardware, routers, cable, etc. 
 
-*Networking*
+*Networking* 
 
 *Building & Perimeter Security*
 
@@ -141,11 +143,60 @@ Compute, Storage, Networking
 
 *Procurement* -> You need short procurement times. No time wasted
 
+
+All of these parts in an enterprise come with a cost and maintaining **cost**
 ### Why Cloud?
 
 ![[Pasted image 20250518155102.png]]
 
+*User Hours* -> Total time a user is utilizing a service 
 
-User Hours -> Total time a user is utilizing a service 
+With the cloud, you remove the utilization from the equation. It makes you more flexible - more business agility
 
-With the cloud, you remove the utilization from the equation. 
+#### Quiz question
+![[Pasted image 20250518160418.png]]
+
+# Service Models, Abastraction Levels (v1), SPIDERS
+
+Gartner and Forrester - industry experts
+
+Cloud computing -> IT services offered through the internet. Pay as you go.
+
+## What Cloud Computing is Not - Myths
+
+Cloud Definition -> Remote server network that stores and manages data and applications
+
+There's no one single cloud -> there are multiple providers
+
+Multi-cloud strategy -> using services from multiple cloud providers
+
+All you need is a credit card -> its not that easy, yes, you need money, but you also need to know how to set up the cloud infrastructure
+
+The cloud will save you money -> Another myth, sometimes the cloud is not the right solution for your company. You have to be smart about how you use the services. If not, it will cause more overhead cost
+
+It will reduce work load -> How smart you are? How much automation you are brining? How much work are you offloading to the cloud 
+
+Integration -> Different apps in different places, you need to be able to integrate these applications. It depends on the design and type of apps. 
+
+Security -> When you lock your house, are you guaranteeing security? 100% security is a myth. 
+- Security's focus should be -> if there's a breach, how quick can I solve it, recover and learn from it 
+- Security is never guaranteed
+
+Virtualization =/= is not cloud computing
+- Dedicated instance vs virtualized instance 
+	- *Dedicated instance* -> Costs more, but gives you full ownership of the infrastructure, more private
+	- *Shared instance* ->  Multiple tenants in one system
+
+Cloud computing is only about technology -> Its about how am I becoming more efficient, how much money am I saving, how secure I am, what operations can i offload to the cloud 
+
+## Service Delivery Models
+How the different models stack -> IaaS, PaaS and SaaS
+
+A style of computing where massively scalable IT-enabled capabilities are delivered 'as a service' to external customers using internet technologies
+
+![[Pasted image 20250519174801.png]]
+
+## Spider
+
+SaaS, PaaS, IaaS, Big Data, Elastic, Resilient, Subscription -> Spider 
+
