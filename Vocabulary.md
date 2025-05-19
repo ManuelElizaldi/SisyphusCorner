@@ -84,4 +84,20 @@ Seethe -> (of a liquid) bubble up as a result of being boiled
 
 Plateaus -> An area of relatively level high ground
 
+Racy -> Lively, entertaining and typically mildly sexual
+
+Sclerotic -> Of having sclerosis
+
+Hypnagogic -> Relating to the state of immediately before falling asleep
+
+Rescind -> Formally cancel or revoke something 
+
+Accreting -> Grow by accumulation
+
+Panamanian -> From Panama 
+
+Girdle -> Belt or cord worn around the waist 
+
+Sleaze -> Immoral, corrupt, sordid, especially in business or politics
+
 

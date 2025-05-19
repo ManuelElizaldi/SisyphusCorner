@@ -26,6 +26,9 @@ There is no such thing as Cloud Computing -> its only someone else computer/data
 ## Why Cloud Computing - Is it for me?
 
 Why cloud computing -> capital expenditure to operational expenditure
+- Capital Expenditure -> Money spent by a company in long term use objects. Usually one time cost. Buildings, equipment, vehicles, etc. 
+
+- Operational expenditure -> Day to day costs. Money spent on regular things that is needed for everyday operations
 
 Cloud Computing is not for everyone, you have to evaluate the technological landscape of your organization. Sometimes its not worth the investment
 
