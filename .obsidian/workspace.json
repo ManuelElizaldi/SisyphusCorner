@@ -35,8 +35,7 @@
               "title": "History of Cloud Computing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,11 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44b6bd5f4508aa66",
+  "active": "9e9c921c3b83e481",
   "lastOpenFiles": [
+    "Programming/Cloud Computing/Prework/History of Cloud Computing.md",
     "Pasted image 20250518160418.png",
     "Programming/Cloud Computing/Week 1/Day 1.md",
-    "Programming/Cloud Computing/Prework/History of Cloud Computing.md",
     "Programming/Cloud Computing/Prework/Cloud Computing - Business Case.md",
     "Pasted image 20250518155646.png",
     "Pasted image 20250518155102.png",
