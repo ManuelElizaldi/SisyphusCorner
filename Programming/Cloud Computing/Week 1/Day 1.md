@@ -243,3 +243,20 @@ Big Data concerns -> Three V's, velocity, variety and volume. These 3 categories
 ![[Pasted image 20250519181154.png]]
 
 
+#### Practice Quiz: The Cloud provider is responsible for maintaining the networking infrastructure in a IaaS offering
+
+## Abstraction Levels (v2)
+
+PaaS is a good balance between IaaS and SaaS, due to this, it started evolving to satisfy the business needs. In this note, there's also FaaS and CaaS, there's not a lot of differences between the services:
+- *Container as a service* -> run apps on a container and you only manage the application and the data. The only thing needed to run this service is to bundle the app and its dependencies. This bundle is called a *Docker Image*. It operates similarly to a PaaS but instead it will manage a cluster of containers. 
+
+- Function as a service -> You manage functions and data. You write small pieces of code the service can manage everything else. 
+	- This service is focused on agility, fail fast and pivot rapidly. AWS lambda functions is a popular example of this. 
+
+Errors will happen, bugs can occur, so being able to fix these quick is important. In a traditional build, when you hit a bug, it is hard and takes time to push a rollback. PaaS, FaaS, CaaS offer the ability to version swap in a heartbeat. 
+
+This innovation has allowed developers to build and test new products fast. This is becoming the preferred application development process - *[[Agile]]*
+
+
+scale = elasticity
+
