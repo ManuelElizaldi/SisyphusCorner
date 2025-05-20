@@ -98,6 +98,10 @@ Compute, Storage, Networking
 
 ### IT Landscape in a Typical Enterprise Environment 
 
+This are all business components that an enterprise needs to maintain and care for. It is a lot of work and money. In some cases (if the fitment analysis approves) its better to off load some of this to the cloud provider. 
+
+As the instructor mentioned, its better to focus on building the jet plane engine instead of worrying about hardware and software limitations.
+
 *Portals* -> Networking
 - Intranet -> private network restricted to a specific organization, used for internal communication and sharing of information
 
