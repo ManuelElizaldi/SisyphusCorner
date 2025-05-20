@@ -151,13 +151,35 @@ But having elasticity is not as simple as it seems. You need to gather metrics a
 
 Height (h) -> *Determines Horizontal Scalability* -> Adding more machines or nodes. Ability to increase the capacity or performance of a cloud based application or system by adding more resources, such as VMs or servers. 
 - Promotes flexibility and cost efficiency 
-- Example -> Going from a 4 gb ram and 16 core to 16 gb ram and 36 core, etc. 
+- Example -> Going from a 4 gb ram and 16 core to 16 gb ram and 32 core, etc. 
+- Many small machines, with less components
+- Layers
+- If one small machine or a batch of machines fail, its not as bad. 
 
-*Vertical Scalability* -> Increasing the capacity of a single machine.
+*Vertical Scalability* -> Increasing the capacity of a single machine. You have big machines, with many components. Since the machines are bigger, its more expensive. According to the professor, this model makes you more vulnerable.
+- If one machine fails, it can present big issues. 
+- Cluster/distributed computing
+
+Its not a matter of deciding which is better than the other. They both offer benefits. You have to know the merits and demerits of each model 
+
+Caching uses horizontal, RBDMs uses a vertical 
 
 
 #### Practice quiz question: Which advantage does a subscription based cloud model offer to a customer?
 Scalability on demand
+
+#### Practice quiz question: Which of the following is not true of horizontal vs vertical elasticity?
+Vertical Elasticity is resilient to cascading failures.
+- If you have 3 big machines and one fails you have a 1/3 drop of capacity. 
+
+#### Practice quiz question: Which of the follwing is the foremost reason why an investment bank would prefer a private cloud over public?
+Security 
+- Its private data. Compared to a social media application, it handles public data that anybody can see, so they are more interested in resilience and agility.
+
+
+
+
+
 
 
 
