@@ -28,3 +28,4 @@ I have always appreciated the art of video games but once I started coding, ther
 Based on the notes I took about the video I designed a prompt to ask chatgpt for guidance on my goal: Being able to design a Gaming Engine. 
 
 I believe that through this experiment I will find an even deeper appreciation for this hobby that has accompanied me for so many years and also help me further my learning both of myself and programming.
+
