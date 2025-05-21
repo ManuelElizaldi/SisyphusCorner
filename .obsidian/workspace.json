@@ -11,10 +11,14 @@
             "id": "a6ea44f689e2303a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Week 1/Day 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Day 3"
             }
           }
         ]
