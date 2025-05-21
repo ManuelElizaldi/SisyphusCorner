@@ -1,4 +1,5 @@
 2025-5-21
+[[Virtualization]] [[Cloud Computing]] 
 # Introduction to Virtualization
 
 *Virtualization* -> Break down a part of your server into smaller chunks. You virtualize the computing resources, servers, networks and storage. This is a dynamic flexibility.
@@ -124,4 +125,18 @@ Node runtime/Node.js -> allows developers to run javascript code on the server
 Jenkins -> open source automation server, optimizes the CI/CD pipeline. It automates essential tasks such as software building, testing and deployment
 
 ![[Pasted image 20250521131846.png]]
+
+Storage as a service -> google drive
+
+Information as a service -> BI tools 
+
+This picture is not complete, you can add even more solutions. 
+
+Business process -> little processes that are needed for your operations, one example could be payment processing 
+
+#### Practice Quiz Question: What is the foundation of cloud service taxonomy, categorizing services into three primary models?
+
+SaaS, PaaS and IaaS 
+
+
 
