@@ -107,3 +107,21 @@ delta t
 #### Practice Quiz Question: Which of the following is not an advantage of containers compared to virtual machines?
 Enhance isolation
 
+## PaaS Overview
+
+You need underlying infrastructure to be effective. If you need additional hardware, you will need to add hardware to your cluster and this is where the underlying infrastructure comes in to help 
+
+Abstracts the infrastructure layer completely 
+
+Provides monitoring at two levels:
+- Infra level (infrastructure)
+- Application -> monitor run time 
+
+Node runtime/Node.js -> allows developers to run javascript code on the server
+
+## Cloud Services Taxonomy
+
+Jenkins -> open source automation server, optimizes the CI/CD pipeline. It automates essential tasks such as software building, testing and deployment
+
+![[Pasted image 20250521131846.png]]
+
