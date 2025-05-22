@@ -79,7 +79,7 @@ Containers -> Application focused bundling. You store all the dependencies insid
 
 In the VM, there is a lot of duplication, which brings down efficiency - storage, performance.
 
-The contain allows flexibility 
+The containers allow flexibility 
 
 The docker contains an image that has everything you need to run an application. You can inherit all these dependencies and run it 
 
