@@ -72,4 +72,64 @@ in microservices, you can grab the best technology from each programming languag
 
 *Clock Synchronization* -> NTP time, all times evolve from the first epoch (January 1st 1970)
 
-#### Practice Quiz Question: 
+# Apps for Cloud & Security Model
+
+Evaluate enterprise architecture impact, choice of right service, defining business process and integration points, security fabric, think stateless, adapters, foundation, micro service approach
+
+- The right combination of these factors assure a good cloud
+
+Sense of control? Who is the supreme owner of control of your application? There is not one answer. As well as before, it all depends on your architecture
+
+For most businesses Decentralized Administration is the new reality. 
+
+*Decentralized Administration* -> principle of local autonomy. Each service model retains administrative control over its resources. 
+
+*Secure Distributed Collaboration* -> You don't want to stop service to your customer because your cloud provider is down, you will have to design an application based around this. 
+- Overtime you can get to a point where there is no SPOF (single point of failure)
+
+*Credential Federation* -> decentralized single sig-on on mechanism. 
+
+*Placement of Functionality* -> Right provider for the functionality needed in the business process
+
+*Loose Coupling* -> You don't control the life cycle of the services. You have to protect yourself with adapters. Don't get locked-in. 
+
+Build your application with all the above baked in
+
+## Security Fabric for the Architecture with Multiple Providers
+
+The usual model in the cloud is oAuth 2 -> defacto standard when talking about authentication and integration with a third party provider
+
+oAuth -> 1) redirected to provider authorization (google) -> 2) user grants authorization in google 3) redirects user back to application -> 4) exchange for access grant 5) grant access token -> 6) create connection 
+
+- This is a robust security system where your sensitive data does not travel to the application. Its harder to get your data
+
+#### Practice Quiz Question: OAuth stands for:
+Open Authorization
+
+
+## Shared Responsibility Model 
+
+The security of the cloud depends on both the user and the cloud provider. Each has to play its part. 
+
+Security off the cloud -> Anything custom that you have built, your own OS, own ports, that is your responsibility to keep safe. 
+
+Security in the cloud -> The provider takes care of this. 
+
+Some cloud providers offer free services to check your infrastructure to analyze if there's any vulnerabilities. This is a continuous process.
+
+#### Practice Quiz Question: Which is the responsibility of the cloud provider?
+Securing the datacenter from unauthorized access
+
+## Diversity of Programming Languages
+
+Machine, procedural, data, object, functional, etc. 
+
+No one can tell you which programming language to use. This depends on you. In terms of the cloud, it does not matter. Its a linux instance you are getting from the cloud. As long as your environments are compatible with the cloud you are good. 
+
+Cloud provider and programming language decision do not intersect, but the most popular programming language is python. The entire open stack is on python. 
+- Javascript and Java are also popular. 
+- Go is also becoming more popular
+
+
+
+
