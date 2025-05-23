@@ -2,6 +2,7 @@
 # Infra. Automation, Provisioning, Allied Tech
 
 ## Infrastructure Automation
+Tools that allow the auto-configure, deploy and managed cloud resources, improving scalability, consistency and flexibility. 
 
 Massive scale is hard to set up manually. You can use several options:
  - Chef.io
@@ -13,6 +14,8 @@ and each cloud provider has their own infrastructure automation tool.
 Your choice depends on your particular context 
 
 ## CICD - Continuous Integration and Code Deployment 
+
+Automates the development, testing, and deployment of applications in the cloud
 
 Central code repositories
 
