@@ -118,7 +118,7 @@ Security in the cloud -> The provider takes care of this.
 Some cloud providers offer free services to check your infrastructure to analyze if there's any vulnerabilities. This is a continuous process.
 
 #### Practice Quiz Question: Which is the responsibility of the cloud provider?
-Securing the datacenter from unauthorized access
+Securing the data center from unauthorized access
 
 ## Diversity of Programming Languages
 
@@ -129,7 +129,6 @@ No one can tell you which programming language to use. This depends on you. In t
 Cloud provider and programming language decision do not intersect, but the most popular programming language is python. The entire open stack is on python. 
 - Javascript and Java are also popular. 
 - Go is also becoming more popular
-
 
 
 

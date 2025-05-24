@@ -1,4 +1,4 @@
-[[Cloud Computing]] [[Infrastructure]] [[IoT]] [[Protocols]]
+[[Cloud Computing]] [[Infrastructure]] [[IoT]] [[Protocols]] [[CICD]] [[Git]]
 # Infra. Automation, Provisioning, Allied Tech
 
 ## Infrastructure Automation
@@ -67,7 +67,7 @@ The Container Image Registry CICD -> Contains all the dependencies in order for 
 
 Serverless architecture -> you just write code and send it to the cloud and the cloud is responsible for it to work (how the fuck?)
 
-API Gateway -> Expose the same service to web and mobile applications. Sits in front of the application to handle the security. You communicate with the server, authenticate and if successful the backend will communicate back
+API Gateway -> Expose the same service to web and mobile applications. Sits in front of the application to handle the security. You communicate with the server, authenticate and if successful the back end will communicate back
 
 Console -> monitors the infrastructure
 
@@ -96,6 +96,54 @@ False
 
 #### Practice Quiz Question: __ is where the overall architecture vision is broken into pieces and developed over a period of time 
 Progressive Architecture development
+
+
+# A quick recap on key aspects of IaaS, PaaS, SaaS
+
+*Cloud Native Application* -> leverages a bunch of APIs from the cloud. Applications that are specifically designed to operate in cloud environments. 
+
+*AWS Lambda* -> Allows you to deploy code without worrying about hardware
+
+## Key Aspects: IaaS
+
+Delivers on demand virtualized computing resources, such as server, storage and networking via internet
+
+Enterprise infrastructure as service 
+
+No single point of failure 
+
+## Key Aspects - PaaS
+simplifies application development by providing a platform and environment for developers to build, deploy and manage applications, abstracting away infrastructure concerns
+
+Managed services
+
+You have a console to monitor and identify application bottlenecks and help debugging 
+
+Cloud APIs allow developers to interact with different cloud services
+
+Runtime -> how fast is your application running 
+
+Billing thresholds to keep tabs on the expenditure
+
+*key point* -> you focus on your code, everything else is left to the cloud provider
+
+Platform as a service should be used as a layer, it contains dos and don'ts
+
+## Key Aspects - SaaS
+offers software applications through the internet via subscriptions, providing easy access without requiring installation or upkeep
+
+Allows for hosting and management of applications to a 3rd party provider
+
+3rd party provider is responsible for delivery
+
+
+
+
+
+
+
+
+
 
 
 

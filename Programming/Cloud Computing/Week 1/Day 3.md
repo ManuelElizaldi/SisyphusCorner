@@ -21,9 +21,9 @@ Virtualization stack:
 - Ability to pay for computing resources
 
 *Technology perspective*
-- Partitioning
-- Isolation between virtual instances
-- Encapsulation -> a virtual machine can be represented and stored as a single file 
+- Partitioning -> one physical machine becomes multiple VM instances
+- Isolation between virtual instances -> Improves security and stability
+- Encapsulation -> a virtual machine can be represented and stored as a single file, making them easy to copy and move 
 - Flexible -> You can configure and reconfigure to match business needs
 
 
