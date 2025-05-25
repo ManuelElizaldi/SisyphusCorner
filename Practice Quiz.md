@@ -110,3 +110,19 @@ Stateful applications are ideal for horizontal elasticity.
 
 A school has a set of applications that require a large number of servers to store its teacher and student records. It has chosen a cloud provider for IaaS. Which of the following is it completely eliminating by doing this?
 - Capex
+
+Cloud providers are required to follow open standards?
+- False, providers and decide how to operate, which makes migrating from one provider to another hard. But there are initiatives to standardize processes
+
+An organization offers SaaS based on their product which uses a database as the backend. They decide to perform a lift-and-shift migration to the cloud using the same application, schema and database engine. How will the application architecture be affected by this?
+- The database connections will have to be redirected to the new endpoints on the cloud deployment, but everything else can remain the same
+
+A continuous stream of metrics from a set of sensors is stored in a cloud storage service. Once a suitable size threshold is crossed the data needs to be transferred to an on-premises data center where it is further analyzed. This architecture is an example of
+
+- *Integration as a service* because it enables the integration of data between different systems or environments such as between cloud storage and an on premise data center
+- Key aspect -> automated movement of data based on conditions -> threshold of data
+- It is not Storage as a service because that is just storing data, not moving it from one place to another or the integration of systems
+
+This is a myth - You must create a basic architecture prior to any cloud implementation.
+
+- False, you do have to have a plan in place in order to determine what to offload to the cloud 
