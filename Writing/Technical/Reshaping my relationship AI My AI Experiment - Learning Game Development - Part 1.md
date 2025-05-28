@@ -1,13 +1,29 @@
 
-Making a gross generalization of Substack users' stance on AI, I would assume that most are partially against it, or at least, against AI creating art. 
+Making a gross generalization of what people think about AI in Substack, I would assume that most are partially against it, adamant on not using AI for creative projects or are down right against it. <- needs some work
 
-If you are anything like me, you believe that that AI can't create art - although there are some interesting works out there - art, in my opinion is only born from the soul, the human experience. - this is something I want to analyze in a future article, but this is not the main point of this post. 
+ee
+If you are anything like me, you believe that that AI can't create art - although there are some interesting projects out there - art, in my opinion is only born from the soul, in blooms from the human experience. - this is something I want to analyze in a future article, but this is not the main point of this post. 
 
-I used to be against using AI for my creative projects, it filled me with guilt, however I recently stumbled upon this video: ["How Stanford Teaches AI-Powered Creativity in Just 13 Minutes | Jeremy Utley"](https://www.youtube.com/watch?v=wv779vmyPVY), If you are anything like me, you would smirk at a title like that, but in the spirits of satisfying my own curiosity I watched the video with the hope of perhaps learn something new or reaffirm my existing belief. To put it briefly, it made me rethink my relationship with AI. 
+Can AI truly offer all the benefits its promised to bring? Or is it just another snake oil in our hyper technocratic world? 
+
+
+ however I recently stumbled upon this video: ["How Stanford Teaches AI-Powered Creativity in Just 13 Minutes | Jeremy Utley"](https://www.youtube.com/watch?v=wv779vmyPVY), with a smirk on my face after reading a title like that, my curiosity was piqued. 
+ 
+ In the spirits of learning something new or perhaps reaffirming my existing beliefs on AI, I decided to watch the video. 
+
 
 The main idea of the video is: Don't use AI, work with AI. AI can teach you how to use itself contrary to any other technologies. *Treat it as a teammate, not a tool*.
 
-After spending most of my childhood watching Anakin Skywalker depend on R2D2 or Master Chief on Cortana, the idea of treating AI as a teammate intrigued me. After that, SOMETHING HERE
+After spending most of my childhood watching Anakin Skywalker depend on R2D2 or Master Chief on Cortana, the idea of treating AI as a teammate intrigued me.
+
+![[Pasted image 20250528093735.png]]
+
+*Anakin and R2D2, *
+
+
+
+
+
 
 Inspired by this video and my recent read of the book [Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin](https://en.wikipedia.org/wiki/Tomorrow,_and_Tomorrow,_and_Tomorrow_(novel)) - the story of 3 game game developer friends - I designed an experiment to test out the theory: Can AI be a teammate in the process of learning game development? 
 
@@ -24,4 +40,3 @@ Gaming has been an important part of my life, I have learned the value of progre
 I have always appreciated the art of video games but once I started coding, there was always an itch for Game Development. It was not until I read the book referenced and I watched this video that I thought about embarking on an experiment. People are always talking about the potential risks for AI or the paradise of benefits it will bring, but this is all noise to me. I wanted dig deep and seek the truth. 
 
 I believe that through this experiment I will find an even deeper appreciation for this hobby that has accompanied me for so many years and also help me further my learning both of myself and programming.
-
