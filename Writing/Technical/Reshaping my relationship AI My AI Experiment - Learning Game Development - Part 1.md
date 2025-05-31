@@ -17,7 +17,10 @@ Inspired by this video and my recent read of the book [Tomorrow and Tomorrow and
 
 Can AI be a teammate in the process of learning game development? 
 
-The video by Jeremy Utley suggested an approach where you ask for a consultation from you favorite flavor of AI, after that, you tell it to ask questions, one by one - this is important - to best define your strategy. I made sure to add extra details like using research done by 2 experts in learning, [Barbara Oakley](https://barbaraoakley.com/) and [Carol Dweck](https://profiles.stanford.edu/carol-dweck). I decided to add this reference because I know emotional/physcological barriers are inevitable when tackling a big task, especially if its something I have wanted to do for a long time. So I wanted the AI to offer some inputs on how to best tackle this. 
+The video by Jeremy Utley suggested an approach where you ask for a consultation from you favorite flavor of AI, after that, you tell it to ask questions, one by one - this is important to best define your strategy. I made sure to add extra details like using research done by 2 experts in learning, [Barbara Oakley](https://barbaraoakley.com/) and [Carol Dweck](https://profiles.stanford.edu/carol-dweck). I decided to add these references because I know emotional/physcological barriers are inevitable when tackling a big task, especially if its something I have wanted to do for a long time. So I wanted the AI to offer some inputs on how to best tackle this. 
+
+
+
 
 
 To give a little context about me and why I want to embark on this experiment: I have been programming for the last 4-5 years in a data analysis and data management context. When I first learned programming I did it because I had some courses in college where I had my first exposure to using computers to solve complex problems and I also wanted to land a job in tech. Although all this learning was truly exciting, the end goal was always to land a job. 
