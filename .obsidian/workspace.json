@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Week 1/Extra/Optimizing Generative AI A Guide to Scaling AI Workloads.md",
+                "file": "Programming/Cloud Computing/Intro Week/Extra/Optimizing Generative AI A Guide to Scaling AI Workloads.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a653947e0fa9ff88",
@@ -170,21 +169,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "466dac0bdf98063e",
+  "active": "bd66959c3c22e44c",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Week 1/W1-Day 5.md",
-    "Programming/Cloud Computing/Week 1/W1-Day 4.md",
-    "Programming/Cloud Computing/Week 1/W1-Day 3.md",
-    "Programming/Cloud Computing/Week 1/W1-Day 2.md",
-    "Programming/Cloud Computing/Week 1/W1-Day 1.md",
-    "Programming/Cloud Computing/Week 1/Extra/Optimizing Generative AI A Guide to Scaling AI Workloads.md",
-    "Programming/Cloud Computing/Week 1/Extra",
+    "Programming/Cloud Computing/Week 1",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 5.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 4.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 3.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 2.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 1.md",
+    "Programming/Cloud Computing/Intro Week/Extra/Optimizing Generative AI A Guide to Scaling AI Workloads.md",
+    "Programming/Cloud Computing/Intro Week/Extra",
     "Writing/Technical/Reshaping my relationship AI My AI Experiment - Learning Game Development - Part 1.md",
     "Programming/Game Development/🧠 Overall Strategy.md",
     "Writing/Technical/Done/Books That Boost my Creativity.md",
     "Writing/Technical/Done/Books that have boosted my creativity in my career.md",
-    "Programming/Cloud Computing/Week 1/Quiz Questions.md",
-    "Programming/Cloud Computing/Week 1/Course Outline - Objective.md",
+    "Programming/Cloud Computing/Intro Week/Quiz Questions.md",
+    "Programming/Cloud Computing/Intro Week/Course Outline - Objective.md",
     "Economy.md",
     "Resources/Pasted image 20250528093735.png",
     "Writing/Technical/Done",
@@ -203,7 +203,7 @@
     "Writing/Technical/Using Tailscale to connect to your Raspberry Pi.md",
     "Programming/Cloud Computing/Prework/History of Cloud Computing.md",
     "Vocabulary.md",
-    "Programming/Cloud Computing/Week 1",
+    "Programming/Cloud Computing/Intro Week",
     "Programming/Cloud Computing/Prework/Cloud Computing - Intro.md",
     "Programming/Cloud Computing/Prework/Cloud Computing - Capacity Planning.md",
     "Programming/Cloud Computing/Prework/Cloud Computing - Business Case.md",
