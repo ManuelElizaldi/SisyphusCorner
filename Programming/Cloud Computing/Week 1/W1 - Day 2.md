@@ -75,12 +75,43 @@ Technology stack can be thought as a burger -> every layer offers something.
 
 Technological stack -> technology infrastructure and software components that work together to support the application's functionality
 
+## API layer - The Real Cloud 
+API layer acts as the interface to the various services that are in the availability zone, such as compute, storage, networking and managed services 
+
 API layer -> is like a bridge that lets customers and programs work with or build on AWS services. 
 - It helps developers work with cloud resources through code, and operations engineers can monitor the services.
 - THIS is the real cloud 
 
 *Ergonomic APIs* -> They have the ability to manage all the aspects of data management. It's easy to use.
+- Although there's debate between developers about if they are truly ergonomic
+
+## How to interact with the API layer:
+
+Management Console Facade -> comprehensive dashboard that provides role based access control for enhanced security
+
+Tools and SDKs -> Developer toolkit comprising tools, libraries, and documentation for crafting software tailored to specific platforms. 
+- Toolkit that allows easier building
+
+Command Line Interface -> can also be used to interact with the API layer. Usually the go to option for developers
 
 
+![[Pasted image 20250603171933.png]]
 
+Usually the 3rd party tools are using the CLI in the background
+
+Cloud provider offers many options to interact with the real cloud - API layer. 
+
+
+#### Practice quiz question: What is the AWS management console?
+Web based interface to manage AWS resources
+
+#### Practice quiz question: If an application is deployed in a region and availability zone as per the user proximity, it will help
+in reducing network latency
+
+#### Practice quiz question:According to module "Understanding the real cloud" which of the following statement is TRUE?
+CLI & SDKs (over management console) are preferred choice of developers / administrators / cloud engineers as it provides stability and helps in manage large volume of workload.
+
+and
+
+Management Console of any cloud provider may go over UI changes frequently for aesthetic reasons however underlying concepts for the services doesn't change with the same frequency.
 

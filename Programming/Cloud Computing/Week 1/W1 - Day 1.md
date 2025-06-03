@@ -78,6 +78,7 @@ Example:
 All websites have an address - google.com, amazon.com, etc. - and this address needs to be translated into a IP address. This is done by the DNS server. 
 
 Route 53 -> This is a translating mechanism that is offered by Amazon. If you are hosting your website through AWS, you can add Route 53 service so that the translation process happens geographically close to the user, making your app extra efficient. 
+- Scalable domain name system
 
 - All these services improve the user experience. They make it faster for the client to get to the web app 
 

@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "W1 - Day 2"
             }
+          },
+          {
+            "id": "bd87d2b3d03e70f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Week 1/W1 - Day 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W1 - Day 1"
+            }
           }
         ]
       }
@@ -174,6 +188,9 @@
   "lastOpenFiles": [
     "Programming/Cloud Computing/Week 1/W1 - Day 1.md",
     "Programming/Cloud Computing/Week 1/W1 - Day 2.md",
+    "Resources/Pasted image 20250603171933.png",
+    "Resources/Pasted image 20250603165416.png",
+    "Pasted image 20250603171836.png",
     "Programming/Cloud Computing/Prework/Cloud Computing - Intro.md",
     "Programming/Cloud Computing/Prework/History of Cloud Computing.md",
     "Programming/Cloud Computing/Prework/Cloud Computing - Capacity Planning.md",
@@ -183,7 +200,6 @@
     "Programming/Cloud Computing/Intro Week/Intro-Day 5.md",
     "Programming/Cloud Computing/Intro Week/Intro-Day 3.md",
     "Programming/Cloud Computing/Intro Week/Intro-Day 4.md",
-    "Pasted image 20250603165416.png",
     "Resources/Pasted image 20250602174604.png",
     "Resources/Pasted image 20250602174146.png",
     "Resources/Pasted image 20250603164018.png",
@@ -191,8 +207,6 @@
     "Resources/Pasted image 20250602183557.png",
     "Resources/Pasted image 20250602183130.png",
     "Resources/Pasted image 20250602182709.png",
-    "Resources/Pasted image 20250602181859.png",
-    "Pasted image 20250602174508.png",
     "Programming/Cloud Computing/Intro Week/Practice Quiz.md",
     "Programming/Cloud Computing/Intro Week/Quiz Questions.md",
     "Game Development.md",
@@ -211,7 +225,6 @@
     "Writing/Technical/Done",
     "The request to Chat GPT.md",
     "Programming/Game Development/Week 1 & Week 2 Notes.md",
-    "Writing/Technical/Using Tailscale to connect to your Raspberry Pi.md",
     "Programming/Cloud Computing/Intro Week",
     "Programming/Cloud Computing/Prework"
   ]
