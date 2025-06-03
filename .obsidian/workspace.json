@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b3b71bc2de5757e",
+        "id": "807034b1f7fae2e7",
         "type": "tabs",
         "children": [
           {
-            "id": "466dac0bdf98063e",
+            "id": "7a1f2a27b9d2f168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Intro Week/Extra/Optimizing Generative AI A Guide to Scaling AI Workloads.md",
+                "file": "Programming/Cloud Computing/Week 1/W1 - Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optimizing Generative AI A Guide to Scaling AI Workloads"
+              "title": "W1 - Day 2"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "a653947e0fa9ff88",
@@ -169,47 +170,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd66959c3c22e44c",
+  "active": "7a1f2a27b9d2f168",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Week 1",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 5.md",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 4.md",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 3.md",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 2.md",
+    "Programming/Cloud Computing/Week 1/W1 - Day 1.md",
+    "Programming/Cloud Computing/Week 1/W1 - Day 2.md",
+    "Programming/Cloud Computing/Prework/Cloud Computing - Intro.md",
+    "Programming/Cloud Computing/Prework/History of Cloud Computing.md",
+    "Programming/Cloud Computing/Prework/Cloud Computing - Capacity Planning.md",
+    "Programming/Cloud Computing/Prework/Cloud Computing - Business Case.md",
     "Programming/Cloud Computing/Intro Week/Intro-Day 1.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 2.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 5.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 3.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 4.md",
+    "Pasted image 20250603165416.png",
+    "Resources/Pasted image 20250602174604.png",
+    "Resources/Pasted image 20250602174146.png",
+    "Resources/Pasted image 20250603164018.png",
+    "Pasted image 20250602182132.png",
+    "Resources/Pasted image 20250602183557.png",
+    "Resources/Pasted image 20250602183130.png",
+    "Resources/Pasted image 20250602182709.png",
+    "Resources/Pasted image 20250602181859.png",
+    "Pasted image 20250602174508.png",
+    "Programming/Cloud Computing/Intro Week/Practice Quiz.md",
+    "Programming/Cloud Computing/Intro Week/Quiz Questions.md",
+    "Game Development.md",
+    "Economy.md",
+    "Automation.md",
+    "Programming/Cloud Computing/Week 1",
     "Programming/Cloud Computing/Intro Week/Extra/Optimizing Generative AI A Guide to Scaling AI Workloads.md",
+    "Programming/Cloud Computing/Orientation.md",
+    "Programming/Cloud Computing/Week 1",
     "Programming/Cloud Computing/Intro Week/Extra",
     "Writing/Technical/Reshaping my relationship AI My AI Experiment - Learning Game Development - Part 1.md",
     "Programming/Game Development/🧠 Overall Strategy.md",
     "Writing/Technical/Done/Books That Boost my Creativity.md",
     "Writing/Technical/Done/Books that have boosted my creativity in my career.md",
-    "Programming/Cloud Computing/Intro Week/Quiz Questions.md",
     "Programming/Cloud Computing/Intro Week/Course Outline - Objective.md",
-    "Economy.md",
-    "Resources/Pasted image 20250528093735.png",
     "Writing/Technical/Done",
-    "Practice Quiz.md",
-    "Resources/Screenshot from 2025-05-21 12-55-00.png",
-    "Resources/Screenshot from 2025-05-21 12-41-12.png",
-    "Resources/Pasted image 20250523155421.png",
-    "Resources/Pasted image 20250523155323.png",
-    "Resources/Pasted image 20250523154129.png",
-    "Resources/Pasted image 20250521131846.png",
-    "Pasted image 20250521131846.png",
-    "Screenshot from 2025-05-21 12-55-00.png",
-    "Screenshot from 2025-05-21 12-41-12.png",
     "The request to Chat GPT.md",
     "Programming/Game Development/Week 1 & Week 2 Notes.md",
     "Writing/Technical/Using Tailscale to connect to your Raspberry Pi.md",
-    "Programming/Cloud Computing/Prework/History of Cloud Computing.md",
-    "Vocabulary.md",
     "Programming/Cloud Computing/Intro Week",
-    "Programming/Cloud Computing/Prework/Cloud Computing - Intro.md",
-    "Programming/Cloud Computing/Prework/Cloud Computing - Capacity Planning.md",
-    "Programming/Cloud Computing/Prework/Cloud Computing - Business Case.md",
-    "Programming/Cloud Computing/Prework",
-    "Programming/Cloud Computing/Orientation.md",
-    "Game Development.md",
-    "Game Development/Week 1.md"
+    "Programming/Cloud Computing/Prework"
   ]
 }
