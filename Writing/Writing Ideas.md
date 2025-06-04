@@ -22,11 +22,11 @@ write a note about where mile comes from
 ### Story
 - Story about expedition in space ship, the AI is connected to the mind of the main engineer so it can troubleshoot issues easier. He goes crazy *sci-fi*
 
+-2 characters, both journalists from mexico. One from Nuevo Laredo and the other one from Mexico City. The character in Mexico City can be a super comutter, spends most of his day on the public transport. The one from Nuevo Laredo has a simple but ardous life, very monotonous, everything is repeated so much that time almost seams to be blurred. The social experience is different from each other, but it often feels like something. <- This is the idea
+
+
 ### Currently working on:
 - ~~Books that helped me in my career *technical*~~
-	- Growth Mindset
-	- The Creative Act
-	- The Artist's Way
-
+- MY AI experiment - Learning Game Development
 - Led lights controlled via web server 
 

@@ -1,5 +1,24 @@
 [[AI]] [[Game Development]] [[Experiment]]
 
+
+Structure of this essay:
+
+Stages to consider: 
+
+Introduction -> 
+
+body -> 
+
+Conclusion ->
+
+
+
+
+_____________
+
+
+I am going to make changes to the introduction:
+
 If you are anything like me, you believe that that AI can't create art. Art, in my opinion is only born from the soul, in blooms from the human experience. I could explore this idea in a future article, but today I want to talk about an experiment I am going to run on myself to prove if any of the paradise of benefits supposedly offered by AI are true.
 
 I recently stumbled upon this video: ["How Stanford Teaches AI-Powered Creativity in Just 13 Minutes | Jeremy Utley"](https://www.youtube.com/watch?v=wv779vmyPVY), after reading a title like that I couldn't avoid smirking. How is AI going to fuel my creativity? If anything, AI is a great troubleshooting tool, but not a source of creative energy. 
