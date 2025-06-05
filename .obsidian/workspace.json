@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "a653947e0fa9ff88",
@@ -156,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,6 +172,8 @@
   },
   "active": "ba2840247adbddb4",
   "lastOpenFiles": [
+    "().md",
+    "Writing/Technical/Reshaping my relationship AI My AI Experiment - Learning Game Development - Part 1.md",
     "Programming/Cloud Computing/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
     "W1 - Day 5 - Hands on Lab EC2.md",
     "Pasted image 20250604220017.png",
@@ -178,7 +182,6 @@
     "Pasted image 20250604215841.png",
     "Pasted image 20250604214645.png",
     "Pasted image 20250604214603.png",
-    "Writing/Technical/Reshaping my relationship AI My AI Experiment - Learning Game Development - Part 1.md",
     "Resources/Pasted image 20250604211531.png",
     "Resources/Pasted image 20250604190239.png",
     "Resources/Pasted image 20250604190501.png",

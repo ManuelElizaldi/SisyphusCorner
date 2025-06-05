@@ -5,9 +5,11 @@ Structure of this essay:
 
 Stages to consider: 
 
-Introduction ->  What is this article about? Why am I doing this experiment? Maybe some context about me and why I want to learn game development?
+body -> Prompt -> how we talk _now_ to AI. Explain the process of asking questions one at a time. Ask it for a consultation  
 
-body -> Prompt, and maybe talk about week 1 and 2 
+process
+
+and maybe talk about week 1 and 2 
 
 Conclusion -> Talk about 
 
@@ -16,32 +18,56 @@ _____________
 
 ## Introduction
 
-I am going to make changes to the introduction:
+If you are anything like me, you believe that that AI can't create art. Art, in my opinion is only born from the soul, it blooms from the human experience. For this reason, when I saw this video -  ["How Stanford Teaches AI-Powered Creativity in Just 13 Minutes | Jeremy Utley"](https://www.youtube.com/watch?v=wv779vmyPVY),recommended on my YouTube home page, I couldn't avoid smirking. How is AI going to fuel my creativity? If anything, AI is a great troubleshooting tool, but not a source of creative energy. 
 
-If you are anything like me, you believe that that AI can't create art. Art, in my opinion is only born from the soul, in blooms from the human experience. I could explore this idea in a future article, but today I want to talk about an experiment I am going to run on myself to prove if any of the paradise of benefits supposedly offered by AI are true.
+Although I was doubtful, I decided to watch the video in spirit of learning something new or perhaps reaffirming my existing beliefs on AI. 
 
-I recently stumbled upon this video: ["How Stanford Teaches AI-Powered Creativity in Just 13 Minutes | Jeremy Utley"](https://www.youtube.com/watch?v=wv779vmyPVY), after reading a title like that I couldn't avoid smirking. How is AI going to fuel my creativity? If anything, AI is a great troubleshooting tool, but not a source of creative energy. 
+I recommend you watch the video, but as a summary here's the main idea: *Treat AI as a teammate, not a tool*. Don't use AI, work with AI. Artificial Intelligence can teach you how to use itself contrary to any other technology.
 
-Although I was doubtful, I decided to watch the video in spirit of learning something new or perhaps reaffirming my existing beliefs on AI.
-
-The main idea of the video is: *Treat it as a teammate, not a tool*. Don't use AI, work with AI. Artificial Intelligence can teach you how to use itself contrary to any other technology.
-
-After spending most of my childhood watching Anakin Skywalker depend on R2D2 or Master Chief on Cortana, the idea of treating AI as a teammate intrigued me.
+This idea excited me because I spent most of my childhood watching Anakin Skywalker depend on R2D2 or Master Chief on Cortana, the idea of treating AI as a teammate intrigued me.
 
 ![[Pasted image 20250528093735.png]]
 _Figure 1. Still from_ _Star Wars: Episode III – Revenge of the Sith_ (Lucas, 2005). Lucasfilm.
 
-Inspired by this video and my recent read of the book [Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin](https://en.wikipedia.org/wiki/Tomorrow,_and_Tomorrow,_and_Tomorrow_(novel)) - the story of 3 friends, their relationship and their journey as game developers, I decided that I wanted to purse a long wanted dream of mine: *Learning Game Development*
+Inspired by this video and my recent read of the book [Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin](https://en.wikipedia.org/wiki/Tomorrow,_and_Tomorrow,_and_Tomorrow_(novel)) - the story of 3 game developer friends, I decided to put Jeremy Utley's idea to the test. I wanted to work with AI to learn Game Development.
 
-Can AI be a teammate in the process of learning game development? 
+To give a little context about me and why I want to embark on this experiment: I have been programming for the last 4-5 years in a data analysis and data management context.
 
-The video by Jeremy Utley suggested an approach where you ask for a consultation from you favorite flavor of AI, after that, you tell it to ask questions, one by one - this is important to best define your strategy. I made sure to add extra details like using research done by 2 experts in learning, [Barbara Oakley](https://barbaraoakley.com/) and [Carol Dweck](https://profiles.stanford.edu/carol-dweck). I decided to add these references because I know emotional/physcological barriers are inevitable when tackling a big task, especially if its something I have wanted to do for a long time. So I wanted the AI to offer some inputs on how to best tackle this. 
+When I first learned programming I did it because I had some courses in college where I had my first exposure to using computers to solve complex problems and I wanted to land a job in tech. Although all this learning was truly exciting, the end goal was always to land a job.
+
+This created certain pressures, that led me to focus on one aspect of coding. I knew that some day learning Game Development could be possible since I had already studied the fundamental principles of programming.  
+
+----------- 
+
+## Body
+
+The video by Jeremy Utley suggested an approach where you ask for a consultation from you favorite flavor of AI, the prompt can look something like this:
+
+```
+you are a AI expert. Your help will be greatly appreciated and your consultation as well. Ask me questions, one by one to decide on the best strategy for me to learn game development.
+```
+
+Why are we talking so nicely to the AI? I do not know. But I much rather do this than to risk a 'Terminator' scenario. 
+
+*I love this idea, it needs some polishing, but overall I like where its going:*
+I went ahead and added extra details to fine tune the strategy for me. I have tackled monumental tasks before and I am aware that the task its self is not the whole challenge. Whenever you are trying to better yourself or learn a new skill, the mental health aspect of it comes into play to test your spirit. I am not new to my mind creating doubts and believing false ideas of myself. I am well aware that a new frame of mind is needed. So I decided to add extra details to this prompt, with hopes of reducing the obstacles in this journey.
+
+Here is my revised prompt:
+
+```
+```
+
+I previously read both [Learning How to Learn by Barbara Oakley](https://barbaraoakley.com/books/learning-how-to-learn/) and [Mindset: The New Psychology of Success by Carol S. Dweck](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322) and these books are filled with knowledge treasures that can help you navigate the challenges of learning. 
+
+
+after that, you tell it to ask questions, one by one - this is important to best define your strategy.
 
 
 
 
 
-To give a little context about me and why I want to embark on this experiment: I have been programming for the last 4-5 years in a data analysis and data management context. When I first learned programming I did it because I had some courses in college where I had my first exposure to using computers to solve complex problems and I also wanted to land a job in tech. Although all this learning was truly exciting, the end goal was always to land a job. 
+
+
 
 This created certain pressures
 
