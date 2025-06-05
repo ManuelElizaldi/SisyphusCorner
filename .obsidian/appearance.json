@@ -1,5 +1,6 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Obsidianite",
   "theme": "obsidian",
-  "accentColor": "#69b9d3"
+  "accentColor": "#69b9d3",
+  "interfaceFontFamily": ""
 }

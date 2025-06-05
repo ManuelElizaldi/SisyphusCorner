@@ -8,21 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ff547be81654d87",
+            "id": "1836656758620ea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Writing Ideas.md",
+                "file": "Programming/Cloud Computing/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing Ideas"
+              "title": "W1 - Day 4 - Hands on Video & SSH into EC2"
             }
           },
           {
-            "id": "4b9f5750bac8c156",
+            "id": "e6d8ce84b0cc3c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "W1 - Day 5 - Hands on Lab EC2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W1 - Day 5 - Hands on Lab EC2"
+            }
+          },
+          {
+            "id": "ba2840247adbddb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "a653947e0fa9ff88",
@@ -184,31 +199,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b9f5750bac8c156",
+  "active": "e6d8ce84b0cc3c3d",
   "lastOpenFiles": [
+    "Pasted image 20250604220017.png",
+    "Pasted image 20250604215943.png",
+    "Pasted image 20250604215905.png",
+    "Pasted image 20250604215841.png",
+    "Programming/Cloud Computing/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
+    "W1 - Day 5 - Hands on Lab EC2.md",
+    "Pasted image 20250604214645.png",
+    "Pasted image 20250604214603.png",
+    "Writing/Technical/Reshaping my relationship AI My AI Experiment - Learning Game Development - Part 1.md",
+    "Resources/Pasted image 20250604211531.png",
+    "Resources/Pasted image 20250604190239.png",
+    "Resources/Pasted image 20250604190501.png",
+    "Programming/StatsD.md",
+    "Resources/Pasted image 20250604190336.png",
+    "Resources/Pasted image 20250604185313.png",
+    "Programming/Cloud Computing/Week 1/W1 - Day 1 - Introduction to Cloud Computing Services.md",
+    "Programming/Cloud Computing/Week 1/W1 - Day 2 - IaaS, The Real Cloud, AZ & Regions,.md",
+    "Programming/Cloud Computing/Week 1/W1 - Day 3 - EC2 Core Features.md",
+    "Programming/Cloud Computing/Intro Week/Intro - Day 5 - Recap, Monitoring, CICD, IoT, Monitoring, What Cloud can't do.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 4 - Pricing, Security, Challenges.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 3 - Virtualization, Containers, Cloud Service Taxonomy.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 2 - Cloud Attributes, Offerings, Deployment Model, Utilization, Elasticity.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 1 - Basic Definitions of the Cloud.md",
+    "This is a printing test.md",
+    "Programming/Cloud Computing/Intro Week/Practice Quiz.md",
     "Writing/Writing Ideas.md",
-    "Programming/Cloud Computing/Week 1/W1 - Day 2.md",
-    "Programming/Cloud Computing/Week 1/W1 - Day 1.md",
-    "Resources/Pasted image 20250603171933.png",
-    "Resources/Pasted image 20250603165416.png",
-    "Pasted image 20250603171836.png",
     "Programming/Cloud Computing/Prework/Cloud Computing - Intro.md",
     "Programming/Cloud Computing/Prework/History of Cloud Computing.md",
     "Programming/Cloud Computing/Prework/Cloud Computing - Capacity Planning.md",
     "Programming/Cloud Computing/Prework/Cloud Computing - Business Case.md",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 1.md",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 2.md",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 5.md",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 3.md",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 4.md",
-    "Resources/Pasted image 20250602174604.png",
-    "Resources/Pasted image 20250602174146.png",
-    "Resources/Pasted image 20250603164018.png",
-    "Pasted image 20250602182132.png",
-    "Resources/Pasted image 20250602183557.png",
-    "Resources/Pasted image 20250602183130.png",
-    "Resources/Pasted image 20250602182709.png",
-    "Programming/Cloud Computing/Intro Week/Practice Quiz.md",
     "Programming/Cloud Computing/Intro Week/Quiz Questions.md",
     "Game Development.md",
     "Economy.md",
@@ -218,14 +240,7 @@
     "Programming/Cloud Computing/Orientation.md",
     "Programming/Cloud Computing/Week 1",
     "Programming/Cloud Computing/Intro Week/Extra",
-    "Writing/Technical/Reshaping my relationship AI My AI Experiment - Learning Game Development - Part 1.md",
-    "Programming/Game Development/🧠 Overall Strategy.md",
-    "Writing/Technical/Done/Books That Boost my Creativity.md",
-    "Writing/Technical/Done/Books that have boosted my creativity in my career.md",
-    "Programming/Cloud Computing/Intro Week/Course Outline - Objective.md",
     "Writing/Technical/Done",
-    "The request to Chat GPT.md",
-    "Programming/Game Development/Week 1 & Week 2 Notes.md",
     "Programming/Cloud Computing/Intro Week",
     "Programming/Cloud Computing/Prework"
   ]

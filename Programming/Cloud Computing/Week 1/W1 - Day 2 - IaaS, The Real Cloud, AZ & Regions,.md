@@ -115,4 +115,3 @@ and
 
 Management Console of any cloud provider may go over UI changes frequently for aesthetic reasons however underlying concepts for the services doesn't change with the same frequency.
 
-g

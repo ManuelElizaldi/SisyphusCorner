@@ -5,11 +5,12 @@ Structure of this essay:
 
 Stages to consider: 
 
-Introduction -> 
+Introduction ->  
 
 body -> 
 
 Conclusion ->
+
 
 
 
