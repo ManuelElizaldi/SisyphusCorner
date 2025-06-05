@@ -5,18 +5,16 @@ Structure of this essay:
 
 Stages to consider: 
 
-Introduction ->  
+Introduction ->  What is this article about? Why am I doing this experiment? Maybe some context about me and why I want to learn game development?
 
-body -> 
+body -> Prompt, and maybe talk about week 1 and 2 
 
-Conclusion ->
-
-
-
+Conclusion -> Talk about 
 
 
 _____________
 
+## Introduction
 
 I am going to make changes to the introduction:
 
