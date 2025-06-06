@@ -78,3 +78,24 @@ Traditional RPA bots often break with interface changes, but GenAI gives it the 
 # AWS Console to code: Bridging visual and programmatic cloud management
 
 https://olympus.mygreatlearning.com/login
+
+
+AWS has a couple ways to interact with the cloud's resources. One of them is IaC - Infrastructure as Code.
+
+Console to Code is the bridge between approaches that allow organizations to go from point and click to automation
+
+## Gen AI - A cloud practitioner's perspective
+
+There's two benefits: Self Productivity and Customer Solutions
+
+*Self Productivity* -> Gen AI speeds up the coding process. It can instantly generate infrastructure as code scripts and help with troubleshooting. According to the article, it can even predict possible bottlenecks, future problems or security vulnerabilities.
+
+It can be in charge or repetitive tasks and allows architects and engs to focus on more creative tasks. 
+
+It can help with learning, documentation, diagrams and training docs
+
+Because it lowers cognitive load, it can help coming up with new ideas. 
+
+*Customer Solutions* -> With Gen AI you can have a cloud infrastructure that is proactive and intelligent that can autonomously generate insights, optimize performance and identify potential operational improvements.
+
+context aware solutions 
