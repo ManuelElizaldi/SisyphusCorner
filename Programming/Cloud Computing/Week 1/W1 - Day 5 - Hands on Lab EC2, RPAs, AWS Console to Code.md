@@ -1,3 +1,5 @@
+![[Pasted image 20250605221102.png]]
+
 ![[Pasted image 20250604214603.png]]![[Pasted image 20250604214645.png]]
 
 54.81.23.72
@@ -77,12 +79,10 @@ Traditional RPA bots often break with interface changes, but GenAI gives it the 
 
 # AWS Console to code: Bridging visual and programmatic cloud management
 
-https://olympus.mygreatlearning.com/login
-
 
 AWS has a couple ways to interact with the cloud's resources. One of them is IaC - Infrastructure as Code.
 
-Console to Code is the bridge between approaches that allow organizations to go from point and click to automation
+Console to Code allow organizations to go from point and click operations to automated, version controlled infrastructure management
 
 ## Gen AI - A cloud practitioner's perspective
 
@@ -94,8 +94,49 @@ It can be in charge or repetitive tasks and allows architects and engs to focus 
 
 It can help with learning, documentation, diagrams and training docs
 
-Because it lowers cognitive load, it can help coming up with new ideas. 
+Because it lowers cognitive load, it can help coming up with new ideas.
+
+Improved reliability and innovative solution design
 
 *Customer Solutions* -> With Gen AI you can have a cloud infrastructure that is proactive and intelligent that can autonomously generate insights, optimize performance and identify potential operational improvements.
 
-context aware solutions 
+Context aware solutions across various business domains. 
+- In Finance it can provide real time fraud detection and adaptive security protocols.
+- Manufacturing can benefit from AI by getting detailed reports about the health of their systems and it can even suggest maintenance schedules
+- Customer service it can understand complex client queries
+
+Trea AI as a key component of the cloud architecture
+
+## Infrastructure as Code - Code your Cloud
+Why use cloud -> Build robust and scalable customer applications and solutions
+
+To make this easier, practitioners have been adopting the approach Infrastructure as Code principles for cloud management. You code/write a machine readable configuration file.  
+
+You bring in the same rigor of code into infrastructure configuration. Consistent and repeatable deployments. 
+
+Automate complex environments -> I imagine that the file can be used for different instances and you just copy and paste it. 
+
+## Two Prominent Faces of AWS Management - AWS Management Console and IaC
+
+### AWS Management Console
+Visual interface for cloud resource management. No technical skills, low barrier to entry/use. It offers a intuitive web UI. 
+
+The drawback of this approach is that it requires a lot of manual intervention. 
+
+*I am guessing, that all the services and resources you can manage inside the AWS management console can be set up through a configuration file. That way you just upload this to the server and it creates/manages the resources for you.*
+
+### IaC - Infrastructure as Code
+Treats configuration as software. Resources are defined programmatically by code -> Json, YAML, HCL, etc. and stored in repositories, enabling version control 
+
+Repeatable and fault proof resource provisioning. 
+
+*HCL -> Hashi Corp Configuration Language*
+
+## Console-to-Code - Where IaC and GenAI Meet
+Generate IaC (config files) with Gen AI
+
+The console workflow makes sure any parameter values specified are valid together
+
+This code can be used as a starting point and then customized to the desired needs/objective
+
+## The Console-to-Code Challenge

@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba2840247adbddb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Technical/Reshaping my relationship AI My AI Experiment - Learning Game Development - Part 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reshaping my relationship AI My AI Experiment - Learning Game Development - Part 1"
-            }
-          },
-          {
-            "id": "e516056b1dcb2f4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W1 - Day 4 - Hands on Video & SSH into EC2"
-            }
-          },
-          {
             "id": "aa8dc4ff3335930b",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,14 +172,15 @@
   },
   "active": "aa8dc4ff3335930b",
   "lastOpenFiles": [
+    "Programming/Cloud Computing/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
+    "Writing/Technical/Reshaping my relationship AI My AI Experiment - Learning Game Development - Part 1.md",
+    "Programming/Cloud Computing/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
+    "Pasted image 20250605221102.png",
     "Prayer of Serenity.md",
     "Resources/Pasted image 20250604220017.png",
     "Resources/Pasted image 20250604215943.png",
     "Untitled.md",
-    "Programming/Cloud Computing/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
-    "Writing/Technical/Reshaping my relationship AI My AI Experiment - Learning Game Development - Part 1.md",
     "().md",
-    "Programming/Cloud Computing/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
     "Resources/Pasted image 20250604215905.png",
     "Resources/Pasted image 20250604215841.png",
     "Resources/Pasted image 20250604214645.png",
@@ -217,7 +189,6 @@
     "Resources/Pasted image 20250604190239.png",
     "Resources/Pasted image 20250604190501.png",
     "Programming/StatsD.md",
-    "Resources/Pasted image 20250604190336.png",
     "Programming/Cloud Computing/Week 1/W1 - Day 1 - Introduction to Cloud Computing Services.md",
     "Programming/Cloud Computing/Week 1/W1 - Day 2 - IaaS, The Real Cloud, AZ & Regions,.md",
     "Programming/Cloud Computing/Week 1/W1 - Day 3 - EC2 Core Features.md",
@@ -236,7 +207,6 @@
     "Programming/Cloud Computing/Intro Week/Quiz Questions.md",
     "Game Development.md",
     "Economy.md",
-    "Automation.md",
     "Programming/Cloud Computing/Week 1",
     "Programming/Cloud Computing/Week 1",
     "Programming/Cloud Computing/Intro Week/Extra",
