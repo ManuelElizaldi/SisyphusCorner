@@ -9,6 +9,9 @@ got this error after securing my file:
 manu@ManuelDesktop:~/Downloads$ ssh -i pgpcc-key1.pem ubuntu@54.81.23.72
 ubuntu@54.81.23.72: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
 
+#### Solution!
+I was not able to SSH into this instance because I was doing ubuntu@IP Address when it should have been *ec2-user@IPaddress*
+
 
 ![[Pasted image 20250604215841.png]]
 ![[Pasted image 20250604215905.png]]
@@ -126,6 +129,8 @@ The drawback of this approach is that it requires a lot of manual intervention.
 *I am guessing, that all the services and resources you can manage inside the AWS management console can be set up through a configuration file. That way you just upload this to the server and it creates/manages the resources for you.*
 
 ### IaC - Infrastructure as Code
+You are in charge of explicitly defining every step, connection and dependency.
+
 Treats configuration as software. Resources are defined programmatically by code -> Json, YAML, HCL, etc. and stored in repositories, enabling version control 
 
 Repeatable and fault proof resource provisioning. 
@@ -140,3 +145,105 @@ The console workflow makes sure any parameter values specified are valid togethe
 This code can be used as a starting point and then customized to the desired needs/objective
 
 ## The Console-to-Code Challenge
+Console will present limitations. 
+
+*Configuration drift* -> there will be inconsistencies when setting up environments manually.
+
+There is also a lack of audit trail -> retracing steps and figuring out who made changes and why. 
+
+Scaling is also hard when you are building manually, knowledge gets siloed with individuals that perform this operations creating collaboration barriers. Contrast to a config file that can be defined in a documentation file and shared across the org. 
+
+*The good thing is that there are several tools available to transition from console based management to code based infrastructure management*
+
+### AWS CloudFormation Console to Code
+CloudFormation offers templates that allow codify infrastructure. It also allows preview before implementation and grouping of related resources for unified deployment. 
+
+Orgs can also export existing resources as CloudFormation templates
+
+### AWS CDK (Cloud Development Kit)
+Framework for defining and provisioning cloud resources using programming languages. 
+
+(provisioning definition -> supply with equipment)
+
+With CDK, a developer friendly solution, allows it to leverage existing development tools and practices. 
+
+### AWS CLI and API Tools
+CLI -> direct programmatic access that enables scripting through the CLI commands
+
+API Interactions -> Provides programmatic access to all AWS services 
+
+## Methodologies for Console to Code Migration
+### Incremental Approach
+Phased strategy. You create a catalog of current resources and you prioritize the most critical to your organization. 
+
+Template generation is used to convert resources into code. 
+
+*Verification stage* -> it will test templates in an isolated environment. 
+
+Resource management is moved to IaC workflows gradually. 
+
+Policy (rules) prevent console based changes
+
+### Immutable Infrastructure
+Servers are never changed after deployment. 
+
+If you want to make changes, you create a new instance. One you have tested this new instance, the old one is decommissioned.
+
+Orgs usually leverage IaC to create new instances alongside existing ones. Eventually traffic is redirected to the new instance. 
+
+This solution is usually used for custom solutions for customers. 
+
+## Technical Challenges in Console to Code Transition
+
+### Resource interdependencies
+Some AWS resources depend on others, for example EC2 needs a subnet and security group. In the Console UI, these might be auto defined, but in a Console to Code, you will need to explicitly defined all of these. 
+
+*Manually wire all the complex dependencies vs the console auto defining them*
+
+Resources in the code need to reference each other. A EC2 will need the id of the subnet it's in. These references need to be defined correctly, if not, the code will break and the environment wont deploy.
+
+It also needs to be created in the right order, VPC -> Subnet -> EC2 instance
+
+### State management
+Monitoring current state of infrastructure is critical. Ongoing monitoring identifies when the actual infrastructure differs from what's defined in your code. 
+
+If there are discrepancies, a reconciliation process begins. You have to decide if you are going to update your code or modify the infrastructure to *restore consistency*.
+
+### Specialized resource types
+Some deployments use legacy or custom AWS resources that aren't directly supported by modern IaC. For this you will need to use custom resource providers or extension mechanisms. 
+
+## Operational Benefits to Console to Code
+
+### Governance and Compliance
+Writing code based on compliance is easier than managing multiple instances manually. 
+
+Enforcing governance through policy is easier in code based infrastructure, because you can track changes with version control. 
+
+### Disaster Recovery
+IaC improves recoverability by enabling environment reproduction. Consistent back ups, regular testing. 
+
+Just think about how easy it is to grab a code base from github into a new computer. 
+
+### Chaos Engineering
+Intentionally ingesting faults to the system to test its resilience and fault tolerance. This allows teams to identify weaknesses. 
+
+This offers applications a chance to encounter real world challenges. 
+
+Since IaC is more 'customizable', its easier for teams to introduce controlled failures
+
+### Cost Management 
+Console to code can generate code that automatically right-sizes resources by adjusting them based on utilization
+
+
+## Best Practices
+Maintain folder/code organization based on your organization
+
+Do regular testing
+
+## Conclusion
+Code based approach provides the foundation for scalable, reliable and governed cloud operations
+
+Once your organization grows, it will become essential/necessary for you to deploy IaC
+
+
+
