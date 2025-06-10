@@ -22,24 +22,32 @@ If you are anything like me, you believe that that AI can't create art. Art, in 
 
 Although I was doubtful, I decided to watch the video in spirit of learning something new or perhaps reaffirming my existing beliefs on AI. 
 
-I recommend you watch the video, but as a summary here's the main idea: *Treat AI as a teammate, not a tool*. Don't use AI, work with AI. Artificial Intelligence can teach you how to use itself contrary to any other technology.
+I recommend you watch the video, but let me give you the main idea:"*Treat AI as a teammate, not a tool*. Don't use AI, work with AI. Artificial Intelligence can teach you how to use itself contrary to any other technology."
 
 This idea excited me because I spent most of my childhood watching Anakin Skywalker depend on R2D2 or Master Chief on Cortana, the idea of treating AI as a teammate intrigued me.
 
 ![[Pasted image 20250528093735.png]]
 _Figure 1. Still from_ _Star Wars: Episode III – Revenge of the Sith_ (Lucas, 2005). Lucasfilm.
 
-Inspired by this video and my recent read of the book [Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin](https://en.wikipedia.org/wiki/Tomorrow,_and_Tomorrow,_and_Tomorrow_(novel)) - the story of 3 game developer friends, I decided to put Jeremy Utley's idea to the test. I wanted to work with AI to learn Game Development.
+Inspired by this video and my recent read of the book [Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin](https://en.wikipedia.org/wiki/Tomorrow,_and_Tomorrow,_and_Tomorrow_(novel)) - the story of 3 game developer friends, I decided to put Jeremy Utley's idea to the test. I wanted to work with AI to learn Game Development, a task that combines creativity and technical skills. 
 
-To give a little context about me and why I want to embark on this experiment: I have been programming for the last 4-5 years in a data analysis and data management context.
+But before I dive into the details of the experiment, I want to give you a little context about me. 
 
-When I first learned programming I did it because I had some courses in college where I had my first exposure to using computers to solve complex problems and I wanted to land a job in tech. Although all this learning was truly exciting, the end goal was always to land a job.
+Gaming has always been an important part of my life, it offered comfort during moments of distress, it allowed me to stay connected to my friends when I was studying college in a different city and believe it or not, it was thanks World of Warcraft that I can speak English confidently.
 
-This created certain pressures, that led me to focus on one aspect of coding. I knew that some day learning Game Development could be possible since I had already studied the fundamental principles of programming.  
+#### The above paragraph feel a little bit rushed? rough?
+#### Why is gaming art? work on this paragraph
 
+That's why gaming is important on a personal level, but let's face the fact, gaming is another expression of art. The different graphical styles and the depth of stories give us the undeniable fact that gaming is art. 
+
+My intention for learning Game Development is to deepen my appreciation for this art form. As Leonardo Da Vinci once wrote: "The noblest pleasure is the joy of understanding."
+
+Now in regards to my technical skills, I have been programming for about 4-5 years. Although most of my expertise comes from a data analysis and data management environment, I am confident enough on my technical skills to embark on this journey. 
+
+#### should I mention something about me always wanting to learn game dev?
 ----------- 
-
 ## Body
+*could insert a small sentence to start this section*
 
 The video by Jeremy Utley suggested an approach where you ask for a consultation from you favorite flavor of AI, the prompt can look something like this:
 
@@ -50,7 +58,11 @@ you are a AI expert. Your help will be greatly appreciated and your consultation
 Why are we talking so nicely to the AI? I do not know. But I much rather do this than to risk a 'Terminator' scenario. 
 
 *I love this idea, it needs some polishing, but overall I like where its going:*
-I went ahead and added extra details to fine tune the strategy for me. I have tackled monumental tasks before and I am aware that the task its self is not the whole challenge. Whenever you are trying to better yourself or learn a new skill, the mental health aspect of it comes into play to test your spirit. I am not new to my mind creating doubts and believing false ideas of myself. I am well aware that a new frame of mind is needed. So I decided to add extra details to this prompt, with hopes of reducing the obstacles in this journey.
+I went ahead and added extra details to fine tune the strategy for me. I have tackled monumental tasks before and I am aware that the task its self is not the whole challenge. 
+
+The mental part of a challenge is equally if not harder than the skill you are trying to learn. 
+
+ I am not new to my mind creating doubts and believing false ideas of myself. I am well aware that a new frame of mind is needed. So I decided to add extra details to this prompt, with hopes of reducing the obstacles in this journey.
 
 Here is my revised prompt:
 
