@@ -105,7 +105,7 @@ A balancer can also access a local data center if a hybrid cloud is set up.
 
 A target group can't be on multiple VPC 
 
-*Timeout* -> part of the health check, it is a limit on how long a system or process can wait for a specific event or operation to complete 
+*Timeout* -> part of the health check, how long the system waits for a response from a target (server/instance) before considering it unresponsive and taking action
 - You don't want this value to be too high, because it can be risky to keep a unhealthy instance 
 
 *Target Registration* -> part of a process, you decide which instances are part of the group
