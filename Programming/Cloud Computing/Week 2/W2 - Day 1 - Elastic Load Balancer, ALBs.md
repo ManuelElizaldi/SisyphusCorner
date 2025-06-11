@@ -55,6 +55,14 @@ Application, network and gate
 
 ## Application Load Balancers (ALB)
 
+Looks at the contents of the request (HTTP Header, urls, cookies), makes intelligent routing decisions based on application data (what's inside the request).
+
+The application load balancer can route to different parts of your website to different servers. 
+- *if you have a downloadable object on your website that is accessed through a hyperlink, the application load balancer will send this request to the storage layer and return the file the user requested*
+
+
+
+
 ![[Pasted image 20250610175336.png]]
 
 It can handle HTTP and HTTPs Traffic 
@@ -88,6 +96,7 @@ Doing a homogeneous deployment is not always the best solution, but it could wor
 #### Practice Quiz Question: The OSI (Open System Interconnection) model is a conceptual framework that standardizes the functions of a communication system. It consists of seven layers, each responsible for a specific aspect of network communication. Which layer of the OSI model does an Application Load Balancer operate at
 
 Layer 7 - Application Layer
+
 
 Status 200 -> returns data 
 
@@ -134,6 +143,11 @@ Application load balancers are critical to modern application architectures, all
 Rules contain paths 
 
 #### Practice Quiz Question: What are the main components of the ALB? 
-
-
 A _load balancer_ serves as the single point of contact for clients. You add one or more listeners to your load balancer. A _listener_ checks for connection requests from clients. The rules that you define for a listener determine how the load balancer routes requests to its registered targets. Each _target group_ routes requests to one or more registered targets, such as EC2 instances.
+
+
+### When to use application load balancer, real life apps:
+
+- Ecommerce
+- Multi tenant SaaS
+

@@ -186,7 +186,7 @@ Workflow for launching an EC2 instance
   
 
   
-
+----
 **References** 
 
 1. Datasheet -[https://d6opu47qoi4ee.cloudfront.net/aws_certification/jit/Amazon_EC2_Datasheet.pdf](https://d6opu47qoi4ee.cloudfront.net/aws_certification/jit/Amazon_EC2_Datasheet.pdf)
