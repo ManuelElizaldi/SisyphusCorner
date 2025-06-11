@@ -17,9 +17,17 @@ Some examples of protocols:
 scp backup.sql user@server:/backup/
 ```
 
+- [[UDP]] -> Connectionless oriented protocol that prioritizes speed and efficiency over reliability. It sends data packets (called datagrams) without establishing a connection first and doesn't guarantee delivery, order or error correction. 
+
+- [[TCP]] -> Connection oriented protocol, prioritizes reliability and data integrity. Before sending any data, it establishes a connection between sender and receiver in a "handshake". TCP protocol ensures data integrity, if a packet is corrupted or there are errors, the protocol will resend it. 
+	- This protocol is used when data accuracy is crucial -> email, file transfer, data base transactions
+
+
+UDP vs TCP -> Speed vs reliability 
 
 
 
 ### Reference
 
-ChatGPT Conversation
+ChatGPT conversation
+Claude conversation
