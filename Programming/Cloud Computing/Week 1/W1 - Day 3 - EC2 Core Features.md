@@ -33,6 +33,12 @@ Each VM requires at least 1 volume to store the AMI, you can have more, and actu
 - You can create additional network interfaces with specific purposes. 
 - How many network interfaces can be attached depends on the capabilities of the EC2 machine
 
+*ENI* -> Virtual network card, provides connectivity to your cloud resources. Includes private IP, public IP, MAC address, security groups and source/destination checks. 
+- You can have multiple ENIs in a single server, that way you can segment networks
+- You can attach, detach the ENI
+- You usually set up available ports and IPs before launching the instance
+
+
 ![[Pasted image 20250604182823.png]]
 
 #### Practice Quiz Question: ___ feature helps in grouping instances by purpose, owners, etc.

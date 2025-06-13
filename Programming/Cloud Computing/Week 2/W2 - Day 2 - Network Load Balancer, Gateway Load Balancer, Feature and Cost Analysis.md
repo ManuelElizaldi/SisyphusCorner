@@ -146,7 +146,7 @@ Group backend instances for distributing traffic.
 		- IPv4 uses 32 bit addresses
 		- IPv6 uses 128 bit, handles more devices, offers security and aids internet growth by transitioning from IPv4 
 
-*Scheme* -> are you going to load balance inside your datacenter or work with internet 
+*Scheme* -> are you going to load balance inside your data center or work with internet 
 
 *ALB Rules*: 
 - Condition -> what its evaluating (path, account, header)
