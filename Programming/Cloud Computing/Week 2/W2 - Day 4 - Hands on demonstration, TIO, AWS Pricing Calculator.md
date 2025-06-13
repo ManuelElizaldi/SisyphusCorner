@@ -1,4 +1,4 @@
-# Hands on Demostration
+# Hands on Demonstration
 
 Simulator app, simu_app.py
 

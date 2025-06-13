@@ -189,3 +189,7 @@ Fixed fee ->
 
 
 
+--- 
+#### Source
+
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/capacity-unit-reservation.html
