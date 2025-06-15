@@ -55,5 +55,50 @@ You can also add these features in a public facing application to avoid DNS atta
 ![[Pasted image 20250615100119.png]]
 ### Two Application Load Balancer Architecture
 
-users -> application load balancer -> web -> 
+users -> application load balancer -> web -> LB (Internal) -> App -> DB 
 
+### Difference between HA and DR 
+
+(High availability and Disaster recovery)
+
+Disaster recovery -> primary DC and a fail over DC. Annual DR exercise.
+- Fail over DC = expensive insurance 
+### Cost - ^ Resilient, ^ Cost:
+SDLC (Software development life cycle) -> optimize for cost, test, prod. Where are you going to optimize for cost? 
+- Single AZ? Smaller Instances? Shut down during weekends? There are multiple ways you can optimize for cost.
+- Test your instances, then go into production. But if things go wrong, its easy to revert. 
+
+In cloud there's no up front cost, you have OpEx here (pay as you go). Optimize within this parameter. 
+- Where are you chocking? Memory, compute, networking? If you are not chocking you can lower the specs, don't create a large instance if its not needed. 
+
+*1 way door decision -> hard to reverse | 2 way door -> easy to reverse. AWS is a 2 way door*
+
+Use metrics to decide where you are going to optimize. 
+
+Start small, and grow gradually based on metrics
+
+### Scaling 
+
+DC -> Vertical
+AWS -> Horizontal
+
+
+Every application is different, so there's no recipe, but a constant is ->start small. 
+
+## IAM
+
+AuthN -> Who you are? Credentials
+- Presenting credentials 
+
+AuthZ -> What can you do? Permissions 
+- You can create user groups -> based on themes, tasks, etc. It is easier to manage groups than 1000 different users
+- Personas: Appdev, Data Scientist, Net Admin, Sysadmin, each persona has different permissions 
+
+*What is authenticating you when you log in?*
+In any app, you are authenticating against a Active Directory or LDAP - Identity Store
+
+In AWS, IAM = Active Directory 
+
+AD Groups -> user id 
+
+Permissions are given by IAM 

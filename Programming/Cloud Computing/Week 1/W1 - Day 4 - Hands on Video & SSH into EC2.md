@@ -54,6 +54,9 @@ ls -al *.pem
 It should be read only
 
 To connect you use the following cmd:
+```shell
+ssh -i you_pem_file.pem name_of_instance@ip_of_instance
+```
 
 ![[Pasted image 20250604211531.png]]
 

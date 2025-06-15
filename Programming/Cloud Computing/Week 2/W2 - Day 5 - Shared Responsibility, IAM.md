@@ -10,7 +10,7 @@ Customer -> responsibility for security *in* the cloud
 	- access management -> resource access, who can use the instances 
 
 
-AWS -> responsibility for security *on* the cloud 
+AWS -> responsibility for security *of* the cloud 
 - They will make sure the data is secure 
 - Software and hardware 
 
@@ -45,8 +45,6 @@ Some benefits:
 
 If you are not careful with data integrity and compliance by setting the right permissions you can have financial and legal consequences 
 
-
-
 # IAM Concepts & Accessing IAM 
 
 Resource & Service -> Resource is a component within a service. If a car is a service, the engine is a resource. 
@@ -78,3 +76,28 @@ Workload -> Multiple services working together to host an application
 *Bonus note -> AWS Management Console -> Web based interface that allows users to access and manage various AWS services*
 
 # Core Features - IAM 
+
+User groups -> buckets of users with similar permissions. Group users based on their jobs. 
+
+Role management -> digital identity, who or what service can perform what actions. 
+
+#### Practice Quiz Question -> Which IAM component represents an AWS user or application and holds information about permissions 
+IAM user
+
+Policies for granular control -> rules and guidelines of what can be performed on AWS resources by user, user group or service 
+- Read, write on resources. You can attach this to the IAM user 
+
+Integrated with many AWS services -> makes sure the right people have the correct permissions. Manages user access. Admins don't have to set up different systems 
+
+MFA -> Multi factor authentication 
+- MFA is mandatory 
+
+Compliance -> All the security measures to ensure the right use of AWS, least privilege principal, authentication, etc. 
+
+IAM Global and free to use, regardless of region, you can use IAM. 
+
+
+#### Practice Quiz Question -> What is true about the Shared Responsibility? 
+Customer is responsible for security in the cloud
+AWS is responsible for security of the cloud 
+
