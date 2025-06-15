@@ -65,3 +65,16 @@ IAM Principal -> Entity that can make requests for specific actions in AWS resou
 Request -> When the principal takes action in the Amazon Web Console, like creating a EC2 instance. The request contains info about the principal, like username, permissions, type of request, etc. 
 #### Practice Quiz Question -> ARN stands for?
 Amazon Resource Name
+
+Authentication -> user validation, credential validation. There's two factor as well. 
+
+Authorized -> determines what resources or actions an authenticated user can access based on their permission
+
+Workload -> Multiple services working together to host an application 
+- Specific task, application or process that are hosted and executed within AWS. 
+- Single or multiple 
+- *Also referred as the IT landscape*
+
+*Bonus note -> AWS Management Console -> Web based interface that allows users to access and manage various AWS services*
+
+# Core Features - IAM 

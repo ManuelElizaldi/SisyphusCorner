@@ -61,7 +61,7 @@ The application load balancer can route to different parts of your website to di
 - *if you have a downloadable object on your website that is accessed through a hyperlink, the application load balancer will send this request to the storage layer and return the file the user requested*
 
 
-
+[[Load Balancer Diagram]]
 
 ![[Pasted image 20250610175336.png]]
 
@@ -72,7 +72,8 @@ The load balancer has components:
 Nodes -> Each node has a listener, the listener monitors incoming *connection requests* with designated protocol and port
 - Definition -> server among a group of servers, receiving and handling network traffic. It evenly distributes traffic to a target application 
 
-*Port* -> serves as network communication endpoint, it enables data exchange 
+*Port* -> serves as network communication endpoint, it enables data exchange.
+- If you set up port 80 and a request comes from another port, the load balancer will not allow access
 
 Target -> EC2 instances. When the incoming request comes in through port 80 (for example), evaluate rule, and then distribute to the corresponding target. 
 
