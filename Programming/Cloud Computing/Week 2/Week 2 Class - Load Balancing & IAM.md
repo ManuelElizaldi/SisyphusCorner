@@ -1,4 +1,3 @@
-Avoid single point of failure -> build resilient systems. 
 
 *Hypervisor* -> software layer that enables multiple VMs to run on a single machine, sharing resources
 

@@ -30,7 +30,7 @@ Perfect for high performance scenarios like: communication, financial systems, g
 
 *IoT* -> We use a network load balancer because the IoT is already tuned to gather specific data, so the load balancer does not need to look at it in order to distribute it across the servers
 
-#### Connection Persistance - Connection Level Load Balancing
+#### Connection Persistence - Connection Level Load Balancing
 Once there is a connection between a device and a EC2 instance or any other target, the connection is permanent for the entire life of the connection. 
 - This delivers great performance 
 - This is called 'sticky' connection

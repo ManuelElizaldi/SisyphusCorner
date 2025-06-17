@@ -32,10 +32,15 @@ The more CPU and Memory, the more an instance costs
 
 ### Pricing Strategies for EC2 instances usage
 *EC2 charges on demand* -> you pay based on how much you use. But AWS offers another options if this does not suit you:
-- *Spot* -> like a stock market, if the demand of a EC2 instance goes up, the price goes up and inverse as well. So you can use them at 3 am to run a batch process and since at 3 am there's no demand, the cost will be low. But once demand 
+- *Spot* -> like a stock market, if the demand of a EC2 instance goes up, the price goes up and inverse as well. But its still cheaper than the alternatives.
+- So you can use them at 3 am to run a batch process and since at 3 am there's no demand, the cost will be low. *important* -> AWS will remove these instances if demand goes up elsewhere. AWS determines when to remove these instances, for example if a *on demand users* needs them
 	- Spot instances can, and will, be reclaimed by AWS
-	- *Question for teacher -> when and how are these are reclaimed?*
 	- AZ determines the cost as well for this
+	- Good discounts -> up to 90% cheaper
+	- Short lived instances
+
+For spot instances will be removed from your environment with a 2 minute warning. 
+
 - *All reserved* -> you reserve a category of an instance for x amount of years, and AWS can give you discounts on your long term commitment.
 - *On demand and Reserved* -> a combination of both reserved and on demand. This is useful when you have a part of your application that runs constantly and for a long period of time and another that you prefer on demand
 - EC2 Savings Plan & Compute Savings Plan -> You can reserve a family of EC2s or you can reserve the infra (compute, networking, storage)
