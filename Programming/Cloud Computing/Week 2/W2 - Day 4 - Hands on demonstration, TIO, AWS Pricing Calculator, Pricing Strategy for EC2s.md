@@ -5,6 +5,23 @@ Simulator app, simu_app.py
 You can make an instance 'unhealthy' to test the load balancer algorithm and if the instance does get knocked out 
 # TIO
 
+created security group
+
+
+```bash
+#!/bin/bash   
+#Please wait 6 minutes after launching the instance before accessing the public IP address  
+APP_NAME=LiftShift-Application  
+apt update -y && apt -y install python3-pip zip  
+cd /opt  
+wget https://d6opu47qoi4ee.cloudfront.net/loadbalancer/simuapp-v1.zip  
+unzip simuapp-v1.zip  
+rm -f simuapp-v1.zip  
+sed -i "s=MOD_APPLICATION_NAME=$APP_NAME=g" templates/index.html  
+pip3 install -r requirements.txt  
+nohup python3 simu_app.py >> application.log 2>&1 &
+```
+
 
 
 # Pricing Calculator

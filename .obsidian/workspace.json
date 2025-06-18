@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44ef9d87d6f8d7cb",
+        "id": "7a73c44366846b95",
         "type": "tabs",
         "children": [
           {
-            "id": "49c32547cebe350e",
+            "id": "f7ae9520791675a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5,
+    "width": 710.5,
     "collapsed": true
   },
   "right": {
@@ -170,17 +170,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49c32547cebe350e",
+  "active": "f7ae9520791675a9",
   "lastOpenFiles": [
+    "Pasted image 20250617201839.png",
+    "Programming/Cloud Computing/Week 2/W2 - Day 4 - Hands on demonstration, TIO, AWS Pricing Calculator, Pricing Strategy for EC2s.md",
+    "Programming/Cloud Computing/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
+    "Programming/Cloud Computing/Week 3/W3 - Day 1 - Auto Scaling,.md",
     "Writing/Stories/Sumo Wrestling.md",
     "Programming/Cloud Computing/Week 2/W2 - Day 2 - Network Load Balancer, Gateway Load Balancer, Feature and Cost Analysis.md",
     "Programming/Cloud Computing/Week 2/Week 2 Class Notes.md",
-    "Programming/Cloud Computing/Week 3/W3 - Day 1 - Auto Scaling,.md",
     "Programming/Cloud Computing/Week 2/W2 - Day 3 - Use cases.md",
-    "Programming/Cloud Computing/Week 2/W2 - Day 4 - Hands on demonstration, TIO, AWS Pricing Calculator, Pricing Strategy for EC2s.md",
     "Programming/Cloud Computing/Week 2/W2 - Day 5 - Shared Responsibility, IAM.md",
     "Programming/Cloud Computing/Orientation.md",
-    "Programming/Cloud Computing/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
     "Programming/Cloud Computing/Week 2/W2 - Day 1 - Elastic Load Balancer, ALBs.md",
     "Programming/Cloud Computing/Intro Week/Intro-Day 3 - Virtualization, Containers, Cloud Service Taxonomy.md",
     "Programming/Cloud Computing/Week 1/W1 - Day 2 - IaaS, The Real Cloud, AZ & Regions,.md",
@@ -208,7 +209,6 @@
     "Programming/Protocol.md",
     "Networking.md",
     "Programming/Cloud Computing/Week 1/Week 1 - Summary Notes.md",
-    "Where does eyeliner come from.md",
     "Programming/Cloud Computing/Week 2",
     "Writing/Stories",
     "Programming/Cloud Computing/Week 1",
