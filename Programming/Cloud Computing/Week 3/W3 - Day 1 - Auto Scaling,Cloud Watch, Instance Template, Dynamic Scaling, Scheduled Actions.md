@@ -105,8 +105,6 @@ Selected this AMI:
 ![[Pasted image 20250618164652.png]]
 
 
-##### Question for instructor -> why don't we select a subnet when creating an Instance Template in TIO 3
-
 ### Creating an Auto Scaling Group (ASG)
 ![[Pasted image 20250618165321.png]]
 
