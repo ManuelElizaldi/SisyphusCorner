@@ -37,7 +37,7 @@ What is the minimum number of EC2 instances that will be active at any point of 
 Answer & breakdown -> 7, Total number of instances = 5 (Manually created) + 2 (Minimum contribution from the autoscaling group) = 7
 
 ##### Snapshots can be used for _
-Answer -> bootable image, data migration across regions, back ups
+Answer -> boot able image, data migration across regions, back ups
 
 ###### Can services/instances talk to each other across regions? 
 yes and no. You have to set it up manually and its not as seamless as resources talking to each other within one region. Services are isolated within regions. 
