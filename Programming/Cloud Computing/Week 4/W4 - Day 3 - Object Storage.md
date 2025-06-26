@@ -113,3 +113,10 @@ The reason why we isolate customers at the folder level instead of buckets is ->
 Having more folders increases the transaction capacity of put/copy/post/delete or get/head operations.
 
 Each folder/prefix has an upper threshold. 
+
+
+#### Practice quiz question: As an educational organization, which of the following storage options would you use to store records of past students that have to be retrieved only once a year for alumni meets?
+S3 Standard Infrequent Access 
+
+
+###### write down the differences between S3, EBS and EFS
