@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9599b1812ad93d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Week 4/W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle"
-            }
-          },
-          {
             "id": "b1a34f05ca7744c5",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "W4 - Day 2 - EBS Hands on Creating Volumes, Creating a Snapshots, Network Storage"
+            }
+          },
+          {
+            "id": "9599b1812ad93d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Week 4/W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle"
             }
           },
           {
@@ -199,30 +199,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1a34f05ca7744c5",
+  "active": "9599b1812ad93d8a",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Week 4/W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle.md",
-    "Pasted image 20250626182939.png",
-    "Pasted image 20250626181911.png",
-    "Pasted image 20250626181749.png",
-    "Programming/Cloud Computing/Week 4/W4 - Day 3 - Object Storage.md",
     "Programming/Cloud Computing/Week 4/W4 - Day 2 - EBS Hands on Creating Volumes, Creating a Snapshots, Network Storage.md",
-    "Pasted image 20250625190152.png",
+    "Programming/Cloud Computing/Week 4/W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle.md",
+    "Writing/Entries/Internal Inevitable Adjustment.md",
+    "Writing/Entries",
+    "Resources/Pasted image 20250622103637.png",
+    "Resources/Pasted image 20250626182939.png",
+    "Resources/Pasted image 20250626181911.png",
+    "Resources/Pasted image 20250626181749.png",
+    "Programming/Cloud Computing/Week 4/W4 - Day 3 - Object Storage.md",
+    "Resources/Pasted image 20250625190152.png",
     "Programming/Cloud Computing/Week 4/W4 - Day 1 - Forms of Storage on Cloud, terminology, volumes.md",
     "Programming/Cloud Computing/Week 3/W3 - Day 4 - AMIs, Command Line Interface.md",
     "Programming/Cloud Computing/Week 3/W3 - Day 3 - Autoscaling group hands on.md",
     "Programming/Cloud Computing/Week 3/W3 - Practice Quiz.md",
     "Programming/Cloud Computing/Week 3/Week 3 Notes.md",
-    "Writing/06.24.25.md",
+    "Writing/Entries/06.24.25.md",
     "().md",
-    "Pasted image 20250624185337.png",
-    "Pasted image 20250624183624.png",
+    "Resources/Pasted image 20250624185337.png",
+    "Resources/Pasted image 20250624183624.png",
     "Programming/Cloud Computing/Week 3/W3 - Class Autoscaling, AMI, CLI.md",
     "Programming/Cloud Computing/Week 3/W3 - Day 2 - Auto Scaling Group.md",
     "Programming/Cloud Computing/Week 3/W3 - Day 1 - Auto Scaling,Cloud Watch, Instance Template, Dynamic Scaling, Scheduled Actions.md",
-    "Pasted image 20250623200549.png",
+    "Resources/Pasted image 20250623200549.png",
     "Programming/Cloud Computing/Week 4",
-    "Pasted image 20250622103637.png",
     "Resources/Pasted image 20250622103222.png",
     "Resources/Pasted image 20250615100119.png",
     "Writing/Stories/Sumo Wrestling.md",
@@ -236,7 +238,6 @@
     "Programming/Cloud Computing/Week 2/W2 - Day 1 - Elastic Load Balancer, ALBs.md",
     "Programming/Cloud Computing/Intro Week/Intro-Day 3 - Virtualization, Containers, Cloud Service Taxonomy.md",
     "Programming/Cloud Computing/Week 1/W1 - Day 2 - IaaS, The Real Cloud, AZ & Regions,.md",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 2 - Cloud Attributes, Offerings, Deployment Model, Utilization, Elasticity.md",
     "Programming/Cloud Computing/Week 3",
     "Programming/Cloud Computing/Week 2",
     "Writing/Stories",
@@ -244,7 +245,6 @@
     "Programming/Cloud Computing/Week 1",
     "Programming/Cloud Computing/Intro Week/Extra",
     "Writing/Technical/Done",
-    "Programming/Cloud Computing/Intro Week",
-    "Programming/Cloud Computing/Prework"
+    "Programming/Cloud Computing/Intro Week"
   ]
 }

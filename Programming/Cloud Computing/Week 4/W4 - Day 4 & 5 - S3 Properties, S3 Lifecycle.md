@@ -55,3 +55,10 @@ There are several options of replication:
 30 days. 
 
 
+# S3 Versioning, Replication, Delete markers
+
+
+If your replication does not happen, you have 2 options 1) Open a ticket with AWS, 2) Create a program (cli, python, etc.) that executes the replications. 
+
+In the Bucket management console, you can list the versions of the files. 
+- Remember that versioning is important for compliance reasons, back up, etc. 
