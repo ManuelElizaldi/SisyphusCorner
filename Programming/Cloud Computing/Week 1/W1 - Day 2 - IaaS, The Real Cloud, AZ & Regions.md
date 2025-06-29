@@ -115,3 +115,21 @@ and
 
 Management Console of any cloud provider may go over UI changes frequently for aesthetic reasons however underlying concepts for the services doesn't change with the same frequency.
 
+
+# Some notes on AZ and regions
+
+A region is a group of AZ, each AZ is a data center. So a region is a group of data centers. AZ within each Region can communicate with each other but cannot communicate with AZs in another Region. 
+
+VPC (virtual private cloud) -> Region -> AZ -> Services 
+
+You can also think about it like this: 
+
+Country = Region
+Cities = AZ
+Highway system = VPC 
+Neighborhoods within cities = Subnets 
+
+All services (most) are mounted/deployed within the VPC. 
+
+
+VPC allows you to control IP address ranges, subnetting, firewalls, etc. 

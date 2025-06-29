@@ -75,3 +75,18 @@ When you delete a ASG, you only delete the instances that it has created or that
 False
 
 Scaling limits represent the minimum and maximum group size that you want for your Auto Scaling group. You set limits separately for the minimum and maximum size. **Minimum capacity** represents the minimum group size. When scaling policies are set, they cannot decrease the group's desired capacity lower than the minimum capacity.
+
+
+# Some notes from ASG | Cloud Watch | Dynamic Scaling | Scheduled Scaling
+
+
+ASG is the group of instances that come and help your 'base' fleet of EC2s. This is tied to Cloud Watch, the alarm system that will fire based on a trigger. You can use Dynamic Scaling to determine how and when to add instances. here's a [documentation website](https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scale-based-on-demand.html) about the different types.
+
+In the TIO we used stepped, its a metric based approach to adding instances. You add instances after different thresholds are passed. 
+
+
+|Scaling Type|Triggered By|Best For|
+|---|---|---|
+|**Dynamic Scaling**|Real-time metrics|Variable workloads|
+|**Scheduled Scaling**|Predefined time schedule|Predictable, recurring patterns|
+|**Predictive Scaling**|ML-based predictions|Automatically anticipating demand|

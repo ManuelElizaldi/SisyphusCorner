@@ -164,6 +164,7 @@ Scheduled actions -> based on known patterns
 From the video where the instructor is walking us through the process of declaring a launch template. 
 
 *Auto Scaling Guidance* -> The check box we selected when creating a template. This button allows the template to start even if we didn't select some mandatory fields. 
+- Best practice: **Always select "Auto Scaling guidance"** if your launch template will be used with ASGs.
 
 When a new instance is being created but you forgot or didn't select an AMI intentionally, AWS will tell you to select one. But if the instance is being ran at 3:00 am it would be hard to select one.
 
@@ -187,3 +188,11 @@ We could use templates to start TIO quicker. You can access templates from the '
 True, but always select Auto Scaling Guidance 
 
 ##### Ask professor about this
+
+# Types of Scaling
+
+| Scaling Type           | Triggered By             | Best For                          |
+| ---------------------- | ------------------------ | --------------------------------- |
+| **Dynamic Scaling**    | Real-time metrics        | Variable workloads                |
+| **Scheduled Scaling**  | Predefined time schedule | Predictable, recurring patterns   |
+| **Predictive Scaling** | ML-based predictions     | Automatically anticipating demand |

@@ -1,0 +1,1 @@
+Javier Bardem: Speaking of Bond, the man who played a villain in Skyfall was a good enough to represent Spain’s national Under 21s as a flanker and a prop forward. Once said an interview that “playing rugby in Spain is like being a bullfighter in Japan.” Make of that what you will!

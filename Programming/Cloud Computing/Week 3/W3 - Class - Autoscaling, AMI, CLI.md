@@ -1,3 +1,4 @@
+[[Operating System]] [[Command Line]] [[Network]] 
 
 Workload types:
 1. steady state - predictable:
