@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Week 4/W4 - Class - Storage.md",
+                "file": "Programming/Formatting & Mounting Storage Volumes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W4 - Class - Storage"
+              "title": "Formatting & Mounting Storage Volumes"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.5,
+    "width": 324.5,
     "collapsed": true
   },
   "right": {
@@ -172,16 +172,24 @@
   },
   "active": "e062d5f9c686cda7",
   "lastOpenFiles": [
+    "Pasted image 20250630155229.png",
+    "Pasted image 20250630153744.png",
+    "Pasted image 20250630150809.png",
+    "Pasted image 20250630150521.png",
+    "Pasted image 20250630150439.png",
+    "Pasted image 20250630150040.png",
+    "Pasted image 20250630145334.png",
+    "Pasted image 20250630144730.png",
+    "Programming/Formatting & Mounting Storage Volumes.md",
+    "Pasted image 20250630144140.png",
+    "Pasted image 20250630143313.png",
+    "Programming/Cloud Computing/Week 4/W4 - Class - Storage.md",
+    "Programming/TO DO!.md",
+    "Pasted image 20250629105327.png",
     "Programming/Cloud Computing/Week 3/Week 3 Notes.md",
     "Programming/Cloud Computing/Week 3/W3 - Practice Quiz.md",
     "Programming/Cloud Computing/Week 3/W3 - Class - Autoscaling, AMI, CLI.md",
-    "Programming/Cloud Computing/Week 4/W4 - Class - Storage.md",
     "Programming/Cloud Computing/Week 4/W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle,S3 Permissions, S3 Static Website Hosting.md",
-    "Pasted image 20250628184643.png",
-    "Pasted image 20250628184512.png",
-    "Pasted image 20250628184500.png",
-    "Pasted image 20250628165900.png",
-    "Pasted image 20250628164724.png",
     "Programming/Cloud Computing/Week 1/W1 - Day 2 - IaaS, The Real Cloud, AZ & Regions.md",
     "Programming/Cloud Computing/Week 4/W4 - Day 1 - Forms of Storage on Cloud, terminology, volumes.md",
     "Programming/Cloud Computing/Week 3/W3 - Day 2 - Auto Scaling Group.md",
@@ -192,12 +200,7 @@
     "Programming/Cloud Computing/Week 3/W3 - Day 4 - AMIs, Command Line Interface.md",
     "Writing/Entries/Internal Inevitable Adjustment.md",
     "Writing/Entries",
-    "Resources/Pasted image 20250622103637.png",
-    "Resources/Pasted image 20250626182939.png",
-    "Resources/Pasted image 20250626181911.png",
-    "Resources/Pasted image 20250626181749.png",
     "Programming/Cloud Computing/Week 4/W4 - Day 3 - Object Storage.md",
-    "Resources/Pasted image 20250625190152.png",
     "Writing/Entries/06.24.25.md",
     "().md",
     "Programming/Cloud Computing/Week 4",
@@ -207,9 +210,6 @@
     "Programming/Cloud Computing/Week 2/W2 - Day 2 - Network Load Balancer, Gateway Load Balancer, Feature and Cost Analysis.md",
     "Programming/Cloud Computing/Week 2/Week 2 Class Notes.md",
     "Programming/Cloud Computing/Week 2/W2 - Day 3 - Use cases.md",
-    "Programming/Cloud Computing/Week 2/W2 - Day 5 - Shared Responsibility, IAM.md",
-    "Programming/Cloud Computing/Orientation.md",
-    "Programming/Cloud Computing/Week 2/W2 - Day 1 - Elastic Load Balancer, ALBs.md",
     "Programming/Cloud Computing/Week 3",
     "Programming/Cloud Computing/Week 2",
     "Writing/Stories",

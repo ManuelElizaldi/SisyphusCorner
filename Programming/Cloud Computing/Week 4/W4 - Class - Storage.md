@@ -1,4 +1,4 @@
-[[Storage]] [[Cloud Computing]]
+[[Storage]] [[Cloud Computing]] [[Data Lake]]
 
 EBS, EFS, S3 -> main ones
 # Data Center vs AWS
@@ -76,8 +76,84 @@ then you create a directory and mount it:
 `mkdir /data`
 `mount /dev/xvdb /data` 
 
+#### Snapshots
+Ability to create backups. From a snapshot, you can create another EBS
+
+AFR -> Annual failure rate
+
+#### Lifecycle Manager - To automate the back up process
+
+### EFS - Elastic File System
+Scalable, elastic and cloud-native EFS system. 
+You pay for what you use. 
+
+Here you don't need to specify the size. It allocates space as you go
+
+
+### Amazon S3 - Buckets
+Millions of operations - its a beast. It can handle any amount of data and traffic. 
+
+Object = file
+
+Replicates an object in 3 AZ. Chance of loosing data is very low. 
+
+Number 1 use case -> *Data Lake*
+
+LB -> Web -> App -> DB (OLTP)
+
+JDBC -> Tableau (or any BI tool) -> BI Analyst
+
+#note BI analysts wont be able to access production databases. But they need the data, so how do we solve it?
+
+Batch updates -> S3 -> ETL (AVARO/Parquest) -> data warehouse -> 
+
+#note Map reduce -> data processing service
+
+
+*Bucket* -> General container where you place your data. The name has to be globally unique. 
+- buckets can be created through IaC
+
+#### Setting up a bucket
+
+Encryption is forced. 
+
+You can customize a notification system. You decide what you want to get notified on.
+
+Object versioning 
+##### Static Websites
+You can host a static website through S3
+
+#### Lifecycle configuration
+You create a replication rule, you can determine the source, you decide what you want to replicate: some objects, everything or some prefixes? What's your destination going to be? 
+
+
+Life cycle policies -> think about 
+#### S3 tiers 
+S3 storage classes. There's general purpose, high performance(used in pharmaceuticals), there's also smart/intelligent tiering that decides what to use based on your use patterns.
+
+Infrequent access is also available to store your archives/backups. 
+- *Deep archive - Glacier*
+	- This is will grant a cost reduction
+
+![[Pasted image 20250629105327.png]]
+
+This is cheaper because AWS does not create copies of your objects inside different AZs. Also, data is stores in non high performance systems. There's low IO on these storage systems. 
+
+AWS makes money from this because data retrieval is way slower. 
+
+##### The professor recommended spending more time in S3 compared to the other services. Learn data lakes. Machine learning requires data lakes and that's where the $ is
+
+## Cost Comparison 
+
+
+
+
+
+
+
+
 
 
 
 ---- 
-###### research file systems, HBA Card, block storage, Shared file system, EBS, Research the above types of storage, IOPS
+###### research file systems, HBA Card, block storage, Shared file system, EBS, Research the above types of storage, IOPS, JDBC
