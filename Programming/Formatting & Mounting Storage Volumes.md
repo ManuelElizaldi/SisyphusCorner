@@ -1,4 +1,4 @@
-[[Storage]] [[Linux]] [[CLI]] [[SSD]]
+[[Storage]] [[Linux]] [[CLI]] [[SSD]] [[Filesystem]]
 
 Command `lsblk`:
 list all block devices. Block devices are data storage devices that manage data in fixed size segments called blocks.

@@ -1,4 +1,4 @@
-[[Storage]] [[Web Dev]] 
+[[Storage]] [[Web Dev]] [[Filesystem]] [[S3FS - FUSE]] [[Open Source]] [[Data Lake]] [[S3]]
 # S3 properties
 You can find all of these settings inside the management console for S3
 
@@ -162,9 +162,6 @@ You have bucket name, events, delete market, different version of objects, prefi
 
 UI will change, but the core feature is the same 
 
-
-
-
 #### Practice quiz question A banking and financial services company has created a web portal. The deployment topology consists of EC2 instances which is running the web application. The company has decided to use ________ for installing the application. One of the use case allows the customers to upload application forms which will be stored in ______. The application may produce non critical intermediate files which can be easily recreated which needs to be saved in ______. The application also needs global configuration files and intends to produce logs and for this scenario the company intends to use ________ such that these files can be accessed by another fleet of management instances.
 EBS, S3, InstanceStore, EFS
 - - EBS volumes will survive in case the servers need to be stopped in addition to providing multiple options from a performance perspective.
@@ -172,5 +169,42 @@ EBS, S3, InstanceStore, EFS
 - Transient files should be stored in instance store, especially when they are non critical.
 - EFS is a perfect fit for usecases when the file system needs to be attached to multiple instances which will allow one (or few) copies of the configuration file(s). Furthermore, the EFS can have different directories which can have the server logs and a different fleet of instances can read from this location for log analysis.
 
+# S3 Transition Options
+There are several storage options in S3. If you want fast read operations for your application (because that's what it demands), you can get a high performance S3 bucket. 
 
-# Pending lessons -> S3 transition options, mounting S3 on local filesystem, datalake powered by S3-3, S3 metadata, S3 metadata tio
+Same goes for infrequent accessed items. You can set rules to transfer items to a less optimized hard drive when they haven't been accessed in a set period of time. 
+
+This will save you costs. 
+
+The archive S3 bucket is called glacier. 
+
+AWS makes money by transferring items that are less frequently accessed to hard drives that are slower
+
+# Mounting S3 on Local Filesystems 
+You can mount a S3 bucket in a local filesystem path in order to upload and extract objects (files) from and to the S3 bucket. That way you don't have to worry about specific code infrastructure, communication protocols, security mechanisms or specific API calls to communicate with S3. 
+
+This is similar to when you mount an SSD to a linux system. 
+
+## Use case:
+If you have a photo upload application, you can point it to a specific path to use a folder as a working directory. You can then map the S3 bucket to this folder and the app can communicate directly to the bucket without needing to program infrastructure
+
+### S3FS - FUSE
+Free open source software/plug in utility which supports linux and mac os. This plug in takes care of caching files locally to improve performance. 
+
+*caching* -> Storing data temporarily so it can be accessed faster later. 
+- #note it can be stored in RAM and dedicated cache sections of the CPU 
+# Data Lake Powered by S3-3 
+Amazon Simple Storage (S3), largest and most performant object storage service for structured and unstructured data. 
+
+This can be used to run big data applications, run analytics, AI, ML, high performance computing (HPC) and media data processing applications. 
+
+Leverage the knowledge within your unstructured data
+
+AWS Glue helps movement of data between data lake and your application
+
+
+
+--- 
+#### Sources
+[AWS data lakes](https://aws.amazon.com/big-data/datalakes-and-analytics/datalakes/)
+
