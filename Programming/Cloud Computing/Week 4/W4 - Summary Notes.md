@@ -1,6 +1,5 @@
 **Class Notes – Cloud Computing on AWS 4**
 
-  
 
 **Forms of Storage on Cloud**
 
@@ -10,9 +9,9 @@ Any application you create for your customer will generate data that requires st
 - Cloud storage **removes the need to buy and manage your own data storage infrastructure**, giving you agility, scalability, and durability, with any time, anywhere data access."
 - Different storage options available on AWS-
 
-- Instance Storage - **Ephemeral** storage, not recommended for storing the long term data.
-- EBS/Block Storage - You will be able to mount an EBS to **only one EC2 instance** and both have to be in the **same availability zone**.
-- EFS/File system Storage - This can be attached and mounted on **multiple ec2 instances**. **Automatically scales**, **no specified size limit**. You will be able to mount this on multiple ec2 instances , ec2 instances will have access to it in both Read/Write manner. EFS **can’t handle Concurrency**. Applications will have to handle concurrency.
+- *Instance Storage* - **Ephemeral** storage, not recommended for storing the long term data.
+- *EBS/Block Storage* - You will be able to mount an EBS to **only one EC2 instance** and both have to be in the **same availability zone**.
+- *EFS/File system Storage* - This can be attached and mounted on **multiple ec2 instances**. **Automatically scales**, **no specified size limit**. You will be able to mount this on multiple ec2 instances , ec2 instances will have access to it in both Read/Write manner. EFS **can’t handle Concurrency**. Applications will have to handle concurrency.
 - Object Storage (AWS S3) - Dedicated only to AWS. You can write Applications and use the **API** to start talking to S3, create a folder and upload a file in it. You can use **programming languages** of choice. There are SDKs available from AWS that allow us to do this. You can use the **Serverless architecture AWS Lambda** for the same task. CloudFront is a **Content Distribution Network** used to distribute the content all across **POP locations** around the world so that users will be able to draw the content from any location near to them saving significant amount of network latency. **Origin** is the place where you create an S3 instance/Bucket. Events give you a lot of flexibility. Kinesis allows you to to **read data from S3** and **transform the data** and **put the data back in S3**
 
   

@@ -162,7 +162,7 @@ You have bucket name, events, delete market, different version of objects, prefi
 
 UI will change, but the core feature is the same 
 
-#### Practice quiz question A banking and financial services company has created a web portal. The deployment topology consists of EC2 instances which is running the web application. The company has decided to use ________ for installing the application. One of the use case allows the customers to upload application forms which will be stored in ______. The application may produce non critical intermediate files which can be easily recreated which needs to be saved in ______. The application also needs global configuration files and intends to produce logs and for this scenario the company intends to use ________ such that these files can be accessed by another fleet of management instances.
+#### Practice quiz question A banking and financial services company has created a web portal. The deployment topology consists of EC2 instances which is running the web application. The company has decided to use ________ for installing the application. One of the use case allows the customers to upload application forms which will be stored in __ . The application may produce non critical intermediate files which can be easily recreated which needs to be saved in __ . The application also needs global configuration files and intends to produce logs and for this scenario the company intends to use ________ such that these files can be accessed by another fleet of management instances.
 EBS, S3, InstanceStore, EFS
 - - EBS volumes will survive in case the servers need to be stopped in addition to providing multiple options from a performance perspective.
 - S3 is designed for object store and is a great fit to store documents uploaded by the customers.
@@ -201,7 +201,13 @@ This can be used to run big data applications, run analytics, AI, ML, high perfo
 Leverage the knowledge within your unstructured data
 
 AWS Glue helps movement of data between data lake and your application
+# S3 - CORS - Cross Origin Resource Sharing 
+One domain contacts another -> example.org to my-bucket.s3.amasonaws.com | if there's no permission set for this the request will be invalid. 
 
+CORS allows for these requests between domains 
+
+### Use case
+You have a website -> https://www.mywebsite.com and you want to display 
 
 
 --- 

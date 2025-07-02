@@ -1,4 +1,4 @@
-[[Storage]] [[Cloud Computing]]
+[[Storage]] [[Cloud Computing]] [[Filesystem]]
 # Forms of storage on cloud
 
 Any application will generate data, this data needs to be stored somewhere.
@@ -23,6 +23,7 @@ Think about it as a SSD
 
 You pay for a fixed amount of storage but this can be increased
 ## Elastic File System
+*File System* -> Method and structure an OS uses to organize, store, retrieve and manage data on a storage device. 
 
 Can be mounted to multiple EC2 instances.
 
@@ -44,7 +45,7 @@ Programming language agnostic - you can use any language you want
 
 Origin -> where you originally created your S3 bucket
 
-You can build applications within the S3, for example, if you need to work with a particular file, you can set up a trigger that finds that file and then performs what the application needs. Similar to what I do with CHS in the vm5 
+You can build applications within the S3, for example, if you need to work with a particular file, you can set up a trigger that finds that file and then performs what the application needs. Similar to what I do with CHS in the vm5 - although VM5 = Ec2 and the D drive is a EFS 
 
 You can talk to the S3 with the CLI or through an API
 
@@ -54,9 +55,7 @@ Extremely flexible and powerful
 
 You can replicate the data from one region into another
 
-
 #### Practice quiz question: Where would you store a temporary, non critical cached copy of a file?
-
 Instance store - this is ephemeral storage. 
 
 # Introduction to EBS - Elastic Block Storage 
@@ -74,6 +73,9 @@ You attach the volume to an instance, if this is the first you attach it will be
 
 Storing the data for extended period of time is important 
 
+You can host applications inside the volumes of a EBS 
+
+A volume is a formatted partition 
 ## Block 
 EC2 always uses EBS, a block is an important part of this system
 
@@ -93,15 +95,15 @@ Block size is the minimum data that the OS will read from the disk.
 Tape drives
 
 ## Terminology of storage
-Formatting -> create the block structure that allows the machine to store and retrieve data 
+*Formatting* -> create the block structure that allows the machine to store and retrieve data 
 
-File system -> big filing cabinet, keeps track of where everything is located 
+*File system* -> big filing cabinet, keeps track of where everything is located 
 
 Attaching & detaching disk or volume -> connecting and disconnecting a solid state drive to the instance
 
-Mounting & unmounting -> directory that is assigned to an attached disk (/ is root)
+*Mounting & unmounting* -> directory that is assigned to an attached disk (/ is root)
 
-I/O Input/Output -> measured using IOPS, transferring data between the instance memory and the volume. Reading data from the disk and writing data onto it.  
+*I/O Input/Output* -> measured using IOPS, transferring data between the instance memory and the volume. Reading data from the disk and writing data onto it.  
 - IO operations per second, measures performance of the volume 
 
 Freezing and unfreezing IO -> temporarily stopping, this is done to get a snapshot of a system/disk. Prevent any changes
