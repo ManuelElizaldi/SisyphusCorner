@@ -151,6 +151,10 @@ it takes snapshots gradually, at the beginning it takes a snap of 10 gigs, if 4 
 
 # Life cycle, encryption and best practices 
 
+### Data lifecycle
+Stages that data goes through from its creation to its eventual deletion. 
+
+Creation/collection -> Storage -> Processing -> Sharing -> Archive -> deletion 
 ## Data lifecycle manager
 Amazon Data Life cycle Manager -> automated EBS snapshots 
 
@@ -198,9 +202,6 @@ Monitor
 
 #### Practice quiz question From an operations perspective tagging volumes is recommended 
 True 
-
-
-# 
 
 
 
