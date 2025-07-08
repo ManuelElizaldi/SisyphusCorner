@@ -135,7 +135,7 @@ Infrequent access is also available to store your archives/backups.
 - *Deep archive - Glacier*
 	- This is will grant a cost reduction
 
-![[Pasted image 20250629105327.png]]
+![[Pasted image 20250629105327 1.png]]
 
 This is cheaper because AWS does not create copies of your objects inside different AZs. Also, data is stores in non high performance systems. There's low IO on these storage systems. 
 

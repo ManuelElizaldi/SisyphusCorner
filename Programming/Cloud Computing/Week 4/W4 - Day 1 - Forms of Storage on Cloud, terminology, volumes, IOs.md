@@ -22,6 +22,8 @@ You can keep up extending the storage
 Think about it as a SSD
 
 You pay for a fixed amount of storage but this can be increased
+
+scales vertically super well 
 ## Elastic File System
 *File System* -> Method and structure an OS uses to organize, store, retrieve and manage data on a storage device. 
 
@@ -206,10 +208,17 @@ Monitor
 True 
 
 
-
-
-
-
+| Feature    | **EBS**            | **EFS**                  | **S3**                   |
+| ---------- | ------------------ | ------------------------ | ------------------------ |
+| Type       | Block              | File                     | Object                   |
+| Mountable? | One EC2 per AZ     | Multiple EC2s (multi-AZ) | No (API/Web)             |
+| Latency    | Low                | Moderate                 | Higher                   |
+| Access     | One EC2            | Many EC2s                | Global                   |
+| Max Size   | 64 TiB/volume      | Virtually unlimited      | Unlimited                |
+| Backup     | Snapshots          | Backup service           | Built-in versioning      |
+| Cost Model | Per GB provisioned | Per GB + throughput      | Per GB stored/accessed   |
+| Durability | 99.999%            | 99.999%                  | 99.999999999%            |
+| Best For   | DBs, Boot Volumes  | Web servers, containers  | Backups, media, big data |
 
 
 

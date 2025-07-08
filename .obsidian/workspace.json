@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1adf2cc47d3fea",
+        "id": "c267208ca61c7243",
         "type": "tabs",
         "children": [
           {
-            "id": "482990cf3f0ca790",
+            "id": "ee430f4ed8b7a3bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Week 4/W4 - Summary Notes.md",
+                "file": "Programming/Cloud Computing/Week 5/W5 - Day 4 - PC EndPoints, Services & Route 53.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W4 - Summary Notes"
-            }
-          },
-          {
-            "id": "6e68d7c78e899ba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Week 4/W4 - Practice Quiz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W4 - Practice Quiz"
-            }
-          },
-          {
-            "id": "98f341d02dbb757f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Week 4/W4 - Day 1 - Forms of Storage on Cloud, terminology, volumes, IOs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W4 - Day 1 - Forms of Storage on Cloud, terminology, volumes, IOs"
-            }
-          },
-          {
-            "id": "0b7890d7e74ceeab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Week 4/W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle,S3 Permissions, S3 Static Website Hosting, CORS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle,S3 Permissions, S3 Static Website Hosting, CORS"
-            }
-          },
-          {
-            "id": "a97cc9a339229dd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Week 4/W4 - Day 3 - Object Storage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W4 - Day 3 - Object Storage"
-            }
-          },
-          {
-            "id": "d4ab70c988039221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Week 4/W4 - Day 2 - EBS Hands on Creating Volumes, Creating a Snapshots, Network Storage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W4 - Day 2 - EBS Hands on Creating Volumes, Creating a Snapshots, Network Storage"
+              "title": "W5 - Day 4 - PC EndPoints, Services & Route 53"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5,
-    "collapsed": true
+    "width": 431.5
   },
   "right": {
     "id": "a653947e0fa9ff88",
@@ -214,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Cloud Computing/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
+                "file": "Programming/Cloud Computing/Week 5/W5 - Day 4 - PC EndPoints, Services & Route 53.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code"
+              "title": "Outline of W5 - Day 4 - PC EndPoints, Services & Route 53"
             }
           }
         ],
@@ -241,26 +169,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b7890d7e74ceeab",
+  "active": "ee430f4ed8b7a3bf",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Week 4/W4 - Day 1 - Forms of Storage on Cloud, terminology, volumes, IOs.md",
-    "Programming/Cloud Computing/Week 4/W4 - Practice Quiz.md",
+    "Programming/Cloud Computing/Week 5/W5 - Day 4 - PC EndPoints, Services & Route 53.md",
+    "Programming/Protocol.md",
+    "Programming/Cloud Computing/Week 5/W5 - Day 3 - Pathway VPC Hands on.md",
+    "Pasted image 20250708171228.png",
+    "Pasted image 20250708171158.png",
+    "Pasted image 20250708170955.png",
+    "Pasted image 20250708165407.png",
+    "Pasted image 20250708162744.png",
+    "Pasted image 20250708162724.png",
+    "Pasted image 20250708161645.png",
+    "Programming/Cloud Computing/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
+    "Programming/Cloud Computing/Week 5/W5 - Day 1 - VPC, CIDR, Route Tables, Gateways, VPC Peering, etc.md",
+    "Programming/Cloud Computing/Week 3/W3 - Day 4 - AMIs, Command Line Interface.md",
+    "Pasted image 20250708154744.png",
+    "Pasted image 20250708153505.png",
+    "Pasted image 20250708153343.png",
+    "Programming/Cloud Computing/Week 5/W5 - Day 2 - Hybrid Cloud & Networking, VPC set up, NATs, NACLs, Networking Scenario.md",
+    "Programming/Cloud Computing/Orientation.md",
+    "Programming/Cloud Computing/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
     "Programming/Cloud Computing/Week 4/W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle,S3 Permissions, S3 Static Website Hosting, CORS.md",
-    "Programming/Cloud Computing/Week 4/W4 - Day 5 - S3 Metadata, use cases, capabilities.md",
+    "Programming/Cloud Computing/Week 4/W4 - Practice Quiz.md",
     "Programming/Cloud Computing/Week 4/W4 - Summary Notes.md",
+    "Programming/Cloud Computing/Week 4/W4 - Day 1 - Forms of Storage on Cloud, terminology, volumes, IOs.md",
+    "Programming/Cloud Computing/Week 5",
+    "Programming/Cloud Computing/Week 4/W4 - Day 5 - S3 Metadata, use cases, capabilities.md",
     "Programming/Cloud Computing/Week 4/W4 - Day 2 - EBS Hands on Creating Volumes, Creating a Snapshots, Network Storage.md",
     "Programming/Cloud Computing/Week 4/W4 - Day 3 - Object Storage.md",
     "Programming/Formatting & Mounting Storage Volumes.md",
-    "Pasted image 20250701141634.png",
-    "Pasted image 20250630155229.png",
-    "Pasted image 20250630153744.png",
-    "Pasted image 20250630150809.png",
-    "Pasted image 20250630150521.png",
-    "Pasted image 20250630150439.png",
-    "Pasted image 20250630150040.png",
-    "Pasted image 20250630145334.png",
-    "Pasted image 20250630144730.png",
-    "Pasted image 20250630144140.png",
     "Programming/Cloud Computing/Week 4/W4 - Class - Storage.md",
     "Programming/TO DO!.md",
     "Programming/Cloud Computing/Week 3/Week 3 Notes.md",
@@ -270,24 +208,14 @@
     "Programming/Cloud Computing/Week 3/W3 - Day 2 - Auto Scaling Group.md",
     "Programming/Cloud Computing/Week 3/W3 - Day 1 - Auto Scaling,Cloud Watch, Instance Template, Dynamic Scaling, Scheduled Actions, Types of Scaling.md",
     "Writing/Stories/The bullfighter - Rugby.md",
-    "Programming/Cloud Computing/Week 3/W3 - Day 3 - Autoscaling group hands on.md",
-    "Programming/Cloud Computing/Week 3/W3 - Day 4 - AMIs, Command Line Interface.md",
-    "Writing/Entries/Internal Inevitable Adjustment.md",
     "Writing/Entries",
-    "Writing/Entries/06.24.25.md",
-    "().md",
     "Programming/Cloud Computing/Week 4",
-    "Writing/Stories/Sumo Wrestling.md",
-    "Programming/Cloud Computing/Week 2/W2 - Day 4 - Hands on demonstration, TIO, AWS Pricing Calculator, Pricing Strategy for EC2s.md",
-    "Programming/Cloud Computing/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
-    "Programming/Cloud Computing/Week 2/W2 - Day 2 - Network Load Balancer, Gateway Load Balancer, Feature and Cost Analysis.md",
     "Programming/Cloud Computing/Week 3",
     "Programming/Cloud Computing/Week 2",
     "Writing/Stories",
     "Programming/Cloud Computing/Week 1",
     "Programming/Cloud Computing/Week 1",
     "Programming/Cloud Computing/Intro Week/Extra",
-    "Writing/Technical/Done",
-    "Programming/Cloud Computing/Intro Week"
+    "Writing/Technical/Done"
   ]
 }

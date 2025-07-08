@@ -68,7 +68,7 @@ In the Bucket management console, you can enable *list versions* to view the dif
 - If versioning is enabled on a bucket, when you delete an object/file, it will create a soft delete called *delete marker*. To restore the file, you have to delete the marker which makes the previous version the current version again. 
 - Deleting a file in a replica, wont delete the file in the main bucket  
 
-![[Pasted image 20250628164724.png]]
+![[Pasted image 20250628164724 1.png]]
 
 ##### It is your responsibility to keep the main and replica buckets in syncs. 
 The replica bucket is not in sync with the main bucket
@@ -85,7 +85,7 @@ By default, buckets are not public.
 JSONSs are used to set the custom permissions 
 
 Here's an example where access is granted to a specific user. In the #actions section you can see what this user (*sid*) will be allowed to do
-![[Pasted image 20250628165900.png]]
+![[Pasted image 20250628165900 1.png]]
 
 By default when you create a bucket you become the owner. But with Object Ownership feature, you can assign people how ownership is assigned within your bucket. 
 - You can have *object writer ownership* -> who ever created/uploaded the object is the owner
@@ -140,10 +140,10 @@ Batch operations -> jobs on a list of objects. Bulk operations.
 ## Storage lens
 Gives you an idea across all buckets, across all regions of how your buckets are being used. If you have a AWS organization, this gives you a whole view of everything.
 - You will need the necessary permissions:
-- ![[Pasted image 20250628184500.png]]
+- ![[Pasted image 20250628184500 1.png]]
 
 This is an example:
-![[Pasted image 20250628184512.png]]
+![[Pasted image 20250628184512 1.png]]
 
 
 Gives you a good idea of overall cost for your buckets.
@@ -152,7 +152,7 @@ Gives you a good idea of overall cost for your buckets.
 
 click on the bucket name -> delete -> maybe will give you an error because your bucket is not empty.
 - there is an empty button that clears the contents of a bucket
-![[Pasted image 20250628184643.png]]
+![[Pasted image 20250628184643 1.png]]
 
 
 ## History

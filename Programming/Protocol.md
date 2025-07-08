@@ -25,7 +25,7 @@ scp backup.sql user@server:/backup/
 
 UDP vs TCP -> Speed vs reliability 
 
-
+*All ICMP - IPv4* -> ICMP (Internet Control Message Protocol) is used for network diagnostics and communication, not data transfer
 
 ### Reference
 
