@@ -56,17 +56,24 @@ Destination port remains the same
 
 This has to be set up properly in the ACL (access control list)
 
-#### NACL vs Security Group
-ACL -> stateless -> if you state the inbound, the out bound in not automatically set
+### Network Access Control List (NACL) vs Security Group
+**ACL** -> stateless -> if you state the inbound, the out bound in not automatically set. You have to create the rules for both. 
+- Controls in and out traffic at a subnet level
 
-Security groups -> stateful -> if you determine inbound it also defines outbound 
+![[Pasted image 20250710084124.png]]
+
+
+**Security groups** -> stateful -> if you determine inbound it also defines outbound. This means that if you allow a response to come in, a response to go out to the same IP is automatically defined 
+- Controls inbound and outbound traffic at an instance level. 
 
 - ephemeral ports need to be always open in terms of outbound 
 - ephemeral ports are also used by UDP
 
+#### How NACL and Security Groups work together
+The NACL controls what comes in and goes out of the subnet and the Security Group controls what goes in and goes out of the instance. 
+
 #### Practice quiz question: __ is a characteristic of network access control lists (NACL)
 - stateless 
-
 
 ## Amazon VPC Limits
 If you know the limits you can properly provision for that 

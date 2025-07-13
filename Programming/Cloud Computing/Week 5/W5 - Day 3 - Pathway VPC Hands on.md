@@ -96,6 +96,7 @@ This is my public subnet with the default VPC CIDR block now available:
 We did the same for the default VPC. To be sure we selected the right one, I opened it from the EC2 instance we created 
 
 ### I was not able to do step G - Hands-On: SSH and accessing the private EC2 instance
+*bastion host*
 After watching the VPC TIO video I learned that I had to run the below command in order to add the .pem file from my computer -> public instance -> then from public instance ssh into the private instance
 
 I had to run this 

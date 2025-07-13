@@ -7,6 +7,10 @@ Traffic distribution algorithms
 
 Scale is very important. 
 
+##### Load Balancing Geography: 
+Load balancers are created within a VPC, they are tied to the region, not the AZ. They can distribute traffic through different AZ but not regions. 
+- If you want to send traffic to another region, you need to set it up accordingly. Using VPC peering, and registering IPs where you want to send the traffic. Usually this is done for a ALB or NLB. Both for both **You need to do IP targeting**
+
 ### Features
 
 Distributes traffic among your EC2 instances among other target types.

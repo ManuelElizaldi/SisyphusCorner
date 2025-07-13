@@ -52,6 +52,14 @@ Regions can be country, state or city
 
 Multiple availability zones make up a region
 
+#### Note AZs and Subnets
+AZ is a physical isolated data center within the region. For example -> `us-east-1a`, etc. Subnets are a range of IPs within the VPC. You must place each subnet into a single AZ. 
+
+##### Analogy AZs and Subnets
+The AZ is the neighborhood and the subnet is all the different buildings within that neighborhood. Each building has a purpose (EC2, RDS, etc. )
+
+Each subnet will have a use -> public IPs, private IPS, another could be a database. 
+
 ## AWS Local Zones
 
 Type of infrastructure that places compute, storage, database and other select AWS services close to a large population or industry. Single digit latency.
