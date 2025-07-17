@@ -25,3 +25,25 @@ If a user selects the region and availability zone as per the user proximity, it
 
 An EC2 instance is running an application which will require access to multiple AWS services (in the same account). Which is the best way to provide access?
 - Create a single role with the required policies for the services as needed and attach it to the instance
+
+
+#### In order to ensure the security of your root account, use _
+- MFA
+- You can enable MFA for IAM users or the AWS account root user
+
+#### A large corporation is looking to provision EC2 instances with very specific software requirements, why would you want to opt for a Marketplace AMI instead of a Community AMI even though both seem to offer the same product?
+Security Compliance issues
+Marketplace AMIs are vendor-verified, unlike Community AMIs which have to be scrutinized for backdoors and security issues.
+
+#### An EC2 instance is running an application which will require access to multiple AWS services (in the same account). Which is the best way to provide access?
+Create a single role with the required policies for the services as needed and attach it to the instance
+
+Explanation: A multirole can be created for EC2 which can be modified to include or exclude permissions (policy JSON) as required. Policies are out of the box from AWS for all the services. However, custom policy JSON can be created with access to multiple services. Such policies are user managed. Policies cannot be assigned directly to instances, they must be part of roles.
+
+#### Where can we add custom scripts to run when an instance is being launched?
+user data field
+
+#### Cloud providers have a layer of abstraction that hides the complexity of running a datacenter at scale. Which option is the easiest to access this abstraction layer?
+Management console
+
+

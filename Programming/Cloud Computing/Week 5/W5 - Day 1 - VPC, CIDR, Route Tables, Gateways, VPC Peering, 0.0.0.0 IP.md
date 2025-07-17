@@ -132,4 +132,5 @@ Here's a comparison table either way, but default to NAT Gateway:
 - You’re in a production environment.
 
 
-
+### 0.0.0.0/0 
+This IP is the starting point for all IPv4 IPs. So it refers to any and every possible IPv4 IPs

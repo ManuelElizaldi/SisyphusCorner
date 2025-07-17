@@ -30,3 +30,4 @@ An application developer used 6 EC2 instances, 2 each in London, Mumbai, and Ore
 Let’s consider an EC2 instance with a startup script to install and configure some software regardless of earlier installation. If the user makes manual changes to the software configuration and reboots the instance, which of the following outcome is likely to occur if the script ignores the manual updates? Also, assume the cloud-init is customized to run user data every time.
 - The changes will be lost
 - The script is ran on boot, so the values inside the script will remain and whatever you did manually will be overwritten by the config script 
+

@@ -155,5 +155,8 @@ Then you create a PrivateLink EndPoint with a DNS that is shared to your clients
 ##### Simple Analogy of the RAG model happening in AWS
 Imagine a librarian (vector database) helping a researcher (AI application) find perfect reference materials before an expert (AI model) crafts a comprehensive answer - all happening in a private, secure research facility. Key Point: Every step is private, controlled, and secure - no public internet involved!
 
-## Architecture Diagram
+### Architecture Diagram - Private connectivity between the client and the generative AI SaaS provider
 ![[Pasted image 20250712181747.png]]
+
+### Architecture Diagram - Secure RAG through Knowledge Bases for Amazon Bedrock
+![[Pasted image 20250714182213.png]]
