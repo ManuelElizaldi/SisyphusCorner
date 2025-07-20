@@ -1,3 +1,5 @@
+
+checkpoint -> Used $5.1 of $50
 ### A database server in a private subnet needs to communicate via port 3306 but is unable to receive requests from the app server despite ping requests being successful between the servers. What could be the reason for this?
 Port 3306 is closed for the server
 The required port has to be open on both servers for communication to take place between them. To ensure the security group access is secure, it should include the CIDR of the app server's subnet.

@@ -1,18 +1,8 @@
 [[AI]] [[Game Development]] [[Experiment]]
+### Reason for Graveyard
+I am not that interested now in writing something about how I reshaped my relationship with AI, instead maybe I want to reframe this article on how I am learning game development a long wanted dream of mine that connects me to my childhood dream or something like that. 
 
-
-Structure of this essay:
-
-Stages to consider: 
-
-body -> Prompt -> how we talk _now_ to AI. Explain the process of asking questions one at a time. Ask it for a consultation  
-
-process
-
-and maybe talk about week 1 and 2 
-
-Conclusion -> Talk about 
-
+Watering this article was a good exercise, but I don't think it will see the light of day. Although, there are some great ideas in here that I could recycle. 
 
 _____________
 
@@ -73,13 +63,6 @@ I previously read both [Learning How to Learn by Barbara Oakley](https://barbara
 
 
 after that, you tell it to ask questions, one by one - this is important to best define your strategy.
-
-
-
-
-
-
-
 
 This created certain pressures
 

@@ -17,7 +17,7 @@ EBS, S3, InstanceStore, EFS
 - - EBS volumes will survive in case the servers need to be stopped in addition to providing multiple options from a performance perspective.
 - S3 is designed for object store and is a great fit to store documents uploaded by the customers.
 - Transient files should be stored in instance store, especially when they are non critical.
-- EFS is a perfect fit for usecases when the file system needs to be attached to multiple instances which will allow one (or few) copies of the configuration file(s). Furthermore, the EFS can have different directories which can have the server logs and a different fleet of instances can read from this location for log analysis.
+- EFS is a perfect fit for use cases when the file system needs to be attached to multiple instances which will allow one (or few) copies of the configuration file(s). Furthermore, the EFS can have different directories which can have the server logs and a different fleet of instances can read from this location for log analysis.
 
 ##### Which of the following options is the most optimum to check if a new object/file is uploaded in an S3 bucket?
 Set up an event notification for PUT event
@@ -27,3 +27,6 @@ Set up an event notification for PUT event
 ##### Web apps from one domain can interact with content served by S3 (another domain) using _______
 CORS
 - Cross-origin resource sharing (CORS) defines a way for client web applications that are loaded in one domain to interact with resources in a different domain. With CORS support, you can build rich client-side web applications with S3 and selectively allow cross-origin access to your S3 resources.
+  
+##### Which storage option is durable, most cost effective for non-critical data which doesn't need multiple copies but data needs to be retrieved within minutes?
+S3-Standard IA
