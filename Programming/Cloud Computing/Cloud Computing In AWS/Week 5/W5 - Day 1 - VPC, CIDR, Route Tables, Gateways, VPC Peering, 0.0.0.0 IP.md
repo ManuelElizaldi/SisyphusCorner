@@ -31,6 +31,14 @@ Component of the VPC that defines the rules for routing network traffic within i
 
 Allows all the subnets to talk to each other
 
+This determines how different services within the VPC talk to each other. It basically tells the subnet what to do with traffic. 
+
+Each subnet has 1 route table 
+
+*Destination* -> The address you are trying to get
+*Target* -> The road you are going to take there - Internet gateway, endpoint, etc. 
+![[Pasted image 20250723162829.png]]
+
 ## Internet Gateway
 Managed service allows instances to go out to the internet
 
@@ -43,11 +51,18 @@ Enables multiple devices in a private network to share a single public IP for in
 - The NAT is a great way to take care of back end assets 
 
 ## CIDR 
-An IP is a.b.c.d -> each letter is 8 bit, so in total 32 bits. 
+An IP is a.b.c.d -> each letter is 8 bit, so in total 32 bits:
+00000000.00000000.00000000.00000000 <- each section is an octate.
 
 CIDR notation is -> a.b.c.d/prefix -> 10.0.0.0/16 -> 16 means the potential number of IPs
 - ![[Pasted image 20250702185856.png]]
 - The above image shows how to calculate how many IP addresses you can have. There could be possibly 65k IP addresses - range
+
+Again with the 10.0.0.0/16 example, since each section is an octate, 16/2 = 8, so the first two (10.0) are fixed and the 3rd and 4th vary -> these go from 0 to 255. 
+
+- #note 255 is the limit because 11111111 = 255 in binary 
+- #note2 the first two values are not always fixed, this depends on the prefix 
+
 
 #note CIDR shrunk the subnet mask from a.b.c.d/255.255.255.0 to the one mentioned above with the prefix 
 
@@ -80,8 +95,7 @@ Subnetting in a VPC allows users to create smaller network segments, each with i
 *NAT gateway* -> allows instances in a private subnet to connect to services outside your VPC but external services cannot initiate a connection with internal instances
 - For example, a private EC2 instance can access resources from the internet like a OS patch or use `yum`, `apt` or `pip`
 
-*Route Table* -> Contains a set of rules, called routes, that determine where network traffic from your subnet or gateway is directed 
-
+*Route Table* -> Contains a set of rules, called routes, that determine where network traffic from your subnet or gateway is directed.
 
 #### Practice quiz question: What are the minimum components needed in order to deploy an application on AWS using cloud networking principles 
 VPC and Subnets 
