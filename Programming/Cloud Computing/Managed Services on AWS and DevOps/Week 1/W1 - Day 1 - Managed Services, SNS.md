@@ -101,7 +101,7 @@ rugby or football or baseball
 > These filter criteria can be used as a routing technique. Each message goes to different sections of the business based on the filters set. 
 
 ### HTTP/S Delivery Retry Policy 
-
+ 
 HTTP End point inside an EC2 instance that can be accessed by a push request from SNS. You can delay the rate at which you send messages based on the response you get back from the server. 
 
 ### Policy - Security

@@ -14,6 +14,8 @@ write a note about where mile comes from
 - Style in gaming 
 	- Graphics and ambiance
 
+What is it about old things that makes me love them and want to keep them forever? 
+
 ### love letter
 - Love letter to my current job *Love letter*
 - Love letter to squatting 
@@ -31,3 +33,5 @@ write a note about where mile comes from
 - MY AI experiment - Learning Game Development
 - Led lights controlled via web server 
 
+
+"I been saying this for a couple years now. I first noticed it with the remake of GoW1. Games are too focused on looking pretty that they surrender their unique ambiance aesthetic. Most games go for pretty when instead they should aim to design their own style. Think about the gritty ambiance of GoW, the edge of Jet Set Radio or Halo CE's purple, chrome, clearer skies."

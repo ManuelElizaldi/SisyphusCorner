@@ -105,3 +105,56 @@ The S3 needs permissions from the SNS
 document is dropped into S3 -> triggers event -> message is sent to SNS -> SNS sends a notification to SQS -> There is a new message in SQS -> sends out email
 
 
+--- 
+
+# SNS & SQS TIO - Notes
+
+Create SNS -> Create SQS (updated permissions with json) -> SNS subscribes to SQS 
+
+Inside SNS:
+![[Pasted image 20250724180325.png]]
+
+
+Json used in SQS to grant our account permission to pull
+
+```json
+{
+ "Version": "2008-10-17",
+ "Id": "__default_policy_ID",
+ "Statement": [
+ {
+ "Sid": "__owner_statement",
+ "Effect": "Allow",
+ "Principal": {
+ "AWS": "715923492212"
+ },
+ "Action": [
+ "SQS:*"
+ ],
+ "Resource": "arn:aws:sqs:us-east-1:715923492212:content_q"
+},
+{
+ "Sid": "Allow-SNS-SendMessage",
+ "Effect": "Allow",
+ "Principal": {
+ "Service": "sns.amazonaws.com"
+ },
+ "Action": ["sqs:SendMessage"],
+ "Resource": "arn:aws:sqs:us-east-1:715923492212:content_q",
+ "Condition": {
+ "ArnEquals": {
+ "aws:SourceArn": "arn:aws:sns:us-east-1:715923492212:content_topic"
+ }
+ }
+}
+ ]
+}
+
+```
+
+From SNS -> publish message. The message has different attributes. I am assuming each end point has different attributes as well. Right now the end point is SQS, these are the current attributes that we can select:
+![[Pasted image 20250724180608.png]]
+
+After publishing messages I opened SQS and polled for messages:
+![[Pasted image 20250724180817.png]]
+
