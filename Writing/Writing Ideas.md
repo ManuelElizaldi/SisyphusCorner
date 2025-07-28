@@ -16,6 +16,10 @@ write a note about where mile comes from
 
 What is it about old things that makes me love them and want to keep them forever? 
 
+Don't let ideas fly away, once gone they will have no place to grow. I was watching mad men and this scene where a creative has the perfect idea for an ad. He was so drunk that he forgot to write it, it was poetic how he refered to the idea flying away. Who hasn't been through that? I want to write something about this feeling. The struggle of having something precious in your hands and then it just goes away. 
+- This might be related in some way but I think the song "waiting on a song is related to this feeling"
+- capture God's whispers <- this could be the title 
+
 ### love letter
 - Love letter to my current job *Love letter*
 - Love letter to squatting 
