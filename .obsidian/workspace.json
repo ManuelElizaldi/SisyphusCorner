@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54725815c6aa16e1",
+            "id": "db935b488c62f202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Quiz Questions.md",
+                "file": "Notion - How they do things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W1 - Quiz Questions"
+              "title": "Notion - How they do things"
+            }
+          },
+          {
+            "id": "39b3330f816d0701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - 07.27.2025 - Class Notes - RDS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W1 - 07.27.2025 - Class Notes - RDS"
             }
           },
           {
@@ -41,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 5 - CloudWatch.md",
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Notes Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W1 - Day 5 - CloudWatch"
+              "title": "W1 - Notes Summary"
             }
           },
           {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5,
+    "width": 316.5,
     "collapsed": true
   },
   "right": {
@@ -240,31 +254,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6cec56b66aeb18d",
+  "active": "39b3330f816d0701",
   "lastOpenFiles": [
-    "Pasted image 20250726154742.png",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 3 & 4 - RDS, Deployments, Types of Replication, AWS ElastiCache.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 5 - CloudWatch.md",
+    "Notion - How they do things.md",
+    "Programming/Untitled.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - 07.27.2025 - Class Notes - RDS.md",
+    "Pasted image 20250727101437.png",
+    "Pasted image 20250727101046.png",
     "Writing/Writing Ideas.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 1 - Managed Services, SNS.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 2 - SQS, Pipeline, Deadletter, SQS + SNS.md",
     "Programming/Game Development/Week 1 & Week 2 Notes.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 2 - SQS, Pipeline, Deadletter, SQS + SNS.md",
+    "Resources/Pasted image 20250724180325.png",
+    "Resources/Pasted image 20250727094409.png",
+    "Resources/Pasted image 20250721173956.png",
+    "Resources/Pasted image 20250727093524.png",
+    "Resources/Pasted image 20250727093511.png",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 1 - Managed Services, SNS.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 5 - Cloud Watch & Cloud Trail, RDS DIY.md",
+    "Resources/Pasted image 20250726171051.png",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Quiz Questions.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Notes Summary.md",
+    "Resources/Pasted image 20250726154742.png",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 3 & 4 - RDS, Deployments, Types of Replication, AWS ElastiCache.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 1 - VPC, CIDR, Route Tables, Gateways, VPC Peering, 0.0.0.0 IP.md",
     "Programming/Game Development/🧠 Overall Strategy.md",
-    "Pasted image 20250724180817.png",
-    "Pasted image 20250724180608.png",
-    "Pasted image 20250724180325.png",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Quiz Questions.md",
-    "Pasted image 20250724163457.png",
-    "Pasted image 20250724163227.png",
-    "Pasted image 20250724161018.png",
+    "Resources/Pasted image 20250724180817.png",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Class - Networking, AZs, Subnets, Services, RFC1918, Transit Gateway, AWS Site-to-Site, Default Deny.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 2 - Hybrid Cloud & Networking, VPC set up, NATs, NACLs, Networking Scenario.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1",
-    "Pasted image 20250723173917.png",
-    "Pasted image 20250723173033.png",
-    "Pasted image 20250723170435.png",
-    "Pasted image 20250723162829.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps",
     "Writing/Stories/The Wondering Troubadour.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Practice Quiz.md",
@@ -279,10 +296,6 @@
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 4/W4 - Practice Quiz.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 4/W4 - Class - Storage.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 4 - PC EndPoints, Services & Route 53.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 2/W2 - Practice Quiz Question.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Assessment, Project Notes.md",
-    "Untitled.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 1/W1 - Day 2 - IaaS, The Real Cloud, AZ & Regions.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5",
     "Writing/Entries",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 4",

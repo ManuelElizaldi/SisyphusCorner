@@ -50,5 +50,56 @@ You can have a log group based on Cloud Trail that tracks EC2 instance creations
 ## Flow logs - Insights
 You have queries to 'ask' about insights - for example - you get top IPs that are trying to brute force into your VPC 
 
+This is can be automated
 ![[Pasted image 20250726154742.png]]
+
+
+## Metrics
+You can map out metrics for specific services
+
+## Service Lens
+Used to be called X-Ray 
+
+Makes it easier to track multiple services of a complex application - for example an application that has a lot of microservices 
+
+This can be programmed in different programming languages. After its programmed, your application starts transmitting information about your app -> how resources are being used, health info, etc. 
+
+## Synthetics 
+Can be used to monitor canary deployments through testing end points (URLs). 
+
+
+## Point Next
+You build dashboards with graphs that help you monitor your environment 
+
+Every time you refresh the dashboard, there's a cost associated to that. AWS gives you free actions, but if you go over that it starts to charge you. 
+
+--- 
+
+# Cloud Watch & Cloud Trail
+
+### AWS Cloud Trail
+*Audit, tracking* 
+
+Logs API calls and user activity across your AWS 
+
+**tracks who did what, when and where**
+
+Used for security investigation and compliance audits
+
+### AWS Cloud Watch
+*Observability and monitoring*
+
+Creates metrics, dashboards, logs and alarms  
+
+Creates automated responses 
+
+### ✅ Together:
+
+- **CloudWatch** helps you **observe** and **respond to system behavior**
+    
+- **CloudTrail** helps you **audit** and **investigate user and service actions**
+
+--- 
+# RDS DIY
+![[Pasted image 20250726171051.png]]
 
