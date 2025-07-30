@@ -49,7 +49,8 @@ The more CPU and Memory, the more an instance costs
 
 ### Pricing Strategies for EC2 instances usage
 *EC2 charges on demand* -> you pay based on how much you use. But AWS offers another options if this does not suit you:
-- *Spot* -> like a stock market, if the demand of a EC2 instance goes up, the price goes up and inverse as well. But its still cheaper than the alternatives.
+- *Spot* -> like a stock market, if the demand of a EC2 instance goes up, the price goes up and inverse as well. But its still cheaper than the alternatives. - bidding does not move the price its more related to long term demand and supply 
+
 - So you can use them at 3 am to run a batch process and since at 3 am there's no demand, the cost will be low. *important* -> AWS will remove these instances if demand goes up elsewhere. AWS determines when to remove these instances, for example if a *on demand users* needs them
 	- Spot instances can, and will, be reclaimed by AWS
 	- AZ determines the cost as well for this

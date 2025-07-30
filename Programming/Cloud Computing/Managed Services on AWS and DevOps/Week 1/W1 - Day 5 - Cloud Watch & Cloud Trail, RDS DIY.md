@@ -1,4 +1,4 @@
-[[Monitoring]]
+[[Monitoring]] [[SQS]] [[SNS]] [[DevOps]] [[CloudWatch]]
 
 # AWS CloudWatch
 **Obersvability** - helps determine the root cause of issues within your services. Gives you the necessary info to fix problems. 

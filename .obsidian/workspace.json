@@ -8,73 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db935b488c62f202",
+            "id": "415f194732ba6f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion - How they do things.md",
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Quiz Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notion - How they do things"
+              "title": "W2 - Quiz Questions"
             }
           },
           {
-            "id": "39b3330f816d0701",
+            "id": "483fa2eb2b36717a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - 07.27.2025 - Class Notes - RDS.md",
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Day 1 & 2 - Serverless Computing Step Functions, Lambda Functions, Invocation Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W1 - 07.27.2025 - Class Notes - RDS"
-            }
-          },
-          {
-            "id": "28f346eb3d6e88b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 2 - SQS, Pipeline, Deadletter, SQS + SNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W1 - Day 2 - SQS, Pipeline, Deadletter, SQS + SNS"
-            }
-          },
-          {
-            "id": "b6cec56b66aeb18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Notes Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W1 - Notes Summary"
-            }
-          },
-          {
-            "id": "8439c8dcac152f76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 1 - Managed Services, SNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W1 - Day 1 - Managed Services, SNS"
+              "title": "W2 - Day 1 & 2 - Serverless Computing Step Functions, Lambda Functions, Invocation Types"
             }
           },
           {
@@ -90,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Writing Ideas"
             }
-          },
-          {
-            "id": "22404093121c4f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Game Development/Week 1 & Week 2 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1 & Week 2 Notes"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NACL vs",
+                "query": "spot instance",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 686.5
   },
   "right": {
     "id": "a653947e0fa9ff88",
@@ -254,52 +197,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b3330f816d0701",
+  "active": "e100d850363c41b8",
   "lastOpenFiles": [
-    "Notion - How they do things.md",
-    "Programming/Untitled.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Day 1 & 2 - Serverless Computing Step Functions, Lambda Functions, Invocation Types.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Quiz Questions.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 1 - Managed Services, SNS.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 2 - SQS, Pipeline, Deadletter, SQS + SNS.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 3 & 4 - RDS, Deployments, Types of Replication, AWS ElastiCache.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 5 - Cloud Watch & Cloud Trail, RDS DIY.md",
+    "Pasted image 20250729213545.png",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Notes Summary.md",
+    "Programming/Cloud Computing/Cloud Computing In AWS/Week 2/W2 - Day 4 - Hands on demonstration, TIO, AWS Pricing Calculator, Pricing Strategy for EC2s.md",
+    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 3 - Pathway VPC Hands on.md",
+    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 1 - VPC, CIDR, Route Tables, Gateways, VPC Peering, 0.0.0.0 IP.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - 07.27.2025 - Class Notes - RDS.md",
+    "Notion - How they do things.md",
+    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Practice Quiz.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2",
+    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 4 - PC EndPoints, Services & Route 53.md",
+    "Programming/Untitled.md",
     "Pasted image 20250727101437.png",
     "Pasted image 20250727101046.png",
     "Writing/Writing Ideas.md",
     "Programming/Game Development/Week 1 & Week 2 Notes.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 2 - SQS, Pipeline, Deadletter, SQS + SNS.md",
     "Resources/Pasted image 20250724180325.png",
     "Resources/Pasted image 20250727094409.png",
     "Resources/Pasted image 20250721173956.png",
     "Resources/Pasted image 20250727093524.png",
     "Resources/Pasted image 20250727093511.png",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 1 - Managed Services, SNS.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 5 - Cloud Watch & Cloud Trail, RDS DIY.md",
     "Resources/Pasted image 20250726171051.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Quiz Questions.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Notes Summary.md",
     "Resources/Pasted image 20250726154742.png",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 3 & 4 - RDS, Deployments, Types of Replication, AWS ElastiCache.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 1 - VPC, CIDR, Route Tables, Gateways, VPC Peering, 0.0.0.0 IP.md",
     "Programming/Game Development/🧠 Overall Strategy.md",
-    "Resources/Pasted image 20250724180817.png",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Class - Networking, AZs, Subnets, Services, RFC1918, Transit Gateway, AWS Site-to-Site, Default Deny.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 2 - Hybrid Cloud & Networking, VPC set up, NATs, NACLs, Networking Scenario.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps",
     "Writing/Stories/The Wondering Troubadour.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Practice Quiz.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Summary Notes.md",
     "Writing/The Graveyard/Reshaping my relationship with AI - Art & Game Development.md",
     "Writing/The Graveyard",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps",
     "Programming/Cloud Computing/Cloud Computing In AWS",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 5 - VPC Endpoint for Amazon S3, ACL, AWS PrivateLink, RAGs, AWS Bedrock.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 1/Week 1 - Quiz Question.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 4/W4 - Day 2 - EBS Hands on Creating Volumes, Creating a Snapshots, Network Storage.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 4/W4 - Practice Quiz.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 4/W4 - Class - Storage.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 4 - PC EndPoints, Services & Route 53.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5",
     "Writing/Entries",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 4",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 3",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 2"
+    "Programming/Cloud Computing/Cloud Computing In AWS/Week 3"
   ]
 }

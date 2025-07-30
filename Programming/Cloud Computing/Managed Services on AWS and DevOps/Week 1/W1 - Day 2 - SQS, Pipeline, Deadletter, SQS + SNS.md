@@ -1,4 +1,4 @@
-
+[[SQS]] [[SNS]] [[DevOps]]
 # Simple Queue Service
 Pull based model - you define queues
 

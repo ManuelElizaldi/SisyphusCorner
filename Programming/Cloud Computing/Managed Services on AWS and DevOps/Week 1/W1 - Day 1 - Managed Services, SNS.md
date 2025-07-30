@@ -1,4 +1,4 @@
-[[DevOps]]
+[[DevOps]] [[SNS]]
 # Course Outline 
 Discuss managed databases, caching, messaging, logging and more. Also look at serverless
 

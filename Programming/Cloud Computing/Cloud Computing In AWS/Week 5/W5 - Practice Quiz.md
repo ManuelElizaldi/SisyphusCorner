@@ -71,3 +71,9 @@ AWS Direct Connect is a cloud service solution that makes it easy to establish a
 Site-to-site or Client VPN - both allow connectivity from VPC to on-premises network.
 
 CloudHub - If you have more than one remote network (for example, multiple branch offices), you can create multiple AWS Site-to-Site VPN connections via your virtual private gateway to enable communication between these networks.
+
+**What is the default setting for DNS hostnames when a new VPC is created? Enabled Disabled Can be set during VPC creation Depends on the Region used**
+
+Disabled - by default, when you create a VPC, EC2 instances do not get a public DNS hostname attached to it 
+- Security reasons 
+
