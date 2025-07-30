@@ -98,3 +98,33 @@ Debugging and error handling can happen with [[SNS]] and [[SQS]]
 *Throttle* -> stops concurrent calls - this helps avoid DNS attacks. 
 
 There is a *auditing and compliance* setting that helps you track everything that was done with a 'forensic approach'.
+
+# Console demo with JS function
+
+Continuation of the above video
+
+After you create a function you create a *Test Event* 
+- Each service has a different payload, the *test event* gives you a template for each service 
+
+AWS charges you by execution time - that's why we use the Test Events, to test without being charged 
+
+
+your lambda function can create a log into CloudWatch 
+
+
+## Lambda Function Executed by Trigger
+You can create a trigger within the lambda function menu or you can create it within the service that will cause the trigger
+
+S3 properties -> Advanced settings -> events -> you select send to Lambda function
+- once you select the lambda function you can choose which function to execute 
+![[Pasted image 20250730180449.png]]
+
+After you associate the Lambda function you will see this in your lambda function menu on the left hand side - trigger 
+![[Pasted image 20250730180706.png]]
+
+
+## Test strategies
+Triggering the function 'assuming' there was an event in S3 - not uploading a file, but testing as if we did.
+- It pretends/recreates the trigger
+
+

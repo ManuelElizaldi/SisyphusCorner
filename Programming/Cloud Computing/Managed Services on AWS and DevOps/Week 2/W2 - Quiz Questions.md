@@ -16,3 +16,11 @@ Go, python, java, C#
 **Hint: after submitting a claim, should the application provide a confirmation?**
 Synchronous
 Reason - The application needs to respond to the customer immediately that the claim has been submitted (or not in case of an error).
+
+**You can run JavaScript code with Node.js in AWS Lambda. Lambda provides runtimes for Node.js that run your code to process events. Your code runs in an environment that includes the AWS SDK for JavaScript, with credentials from an AWS Identity and Access Management (IAM) role that you manage.**
+True
+
+
+**S3 events invoke a lambda synchronously.**
+False
+Several AWS services, such as Amazon Simple Storage Service (Amazon S3) invoke functions asynchronously to process events. When you invoke a function asynchronously, you don't wait for a response from the function. You hand off the event to Lambda and Lambda handles the rest. You can configure how Lambda handles errors.

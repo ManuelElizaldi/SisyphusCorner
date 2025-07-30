@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Day 1 & 2 - Serverless Computing Step Functions, Lambda Functions, Invocation Types.md",
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Day 1, 2 & 3 - Serverless Computing Step Functions, Lambda Functions, Invocation Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W2 - Day 1 & 2 - Serverless Computing Step Functions, Lambda Functions, Invocation Types"
+              "title": "W2 - Day 1, 2 & 3 - Serverless Computing Step Functions, Lambda Functions, Invocation Types"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Writing Ideas"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 686.5
+    "width": 200
   },
   "right": {
     "id": "a653947e0fa9ff88",
@@ -197,10 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e100d850363c41b8",
+  "active": "415f194732ba6f2b",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Day 1 & 2 - Serverless Computing Step Functions, Lambda Functions, Invocation Types.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Day 1, 2 & 3 - Serverless Computing Step Functions, Lambda Functions, Invocation Types.md",
+    "Pasted image 20250730180706.png",
+    "Pasted image 20250730180449.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Quiz Questions.md",
+    "Writing/Writing Ideas.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 1 - Managed Services, SNS.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 2 - SQS, Pipeline, Deadletter, SQS + SNS.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 3 & 4 - RDS, Deployments, Types of Replication, AWS ElastiCache.md",
@@ -218,16 +220,13 @@
     "Programming/Untitled.md",
     "Pasted image 20250727101437.png",
     "Pasted image 20250727101046.png",
-    "Writing/Writing Ideas.md",
     "Programming/Game Development/Week 1 & Week 2 Notes.md",
     "Resources/Pasted image 20250724180325.png",
     "Resources/Pasted image 20250727094409.png",
     "Resources/Pasted image 20250721173956.png",
     "Resources/Pasted image 20250727093524.png",
     "Resources/Pasted image 20250727093511.png",
-    "Resources/Pasted image 20250726171051.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Quiz Questions.md",
-    "Resources/Pasted image 20250726154742.png",
     "Programming/Game Development/🧠 Overall Strategy.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Class - Networking, AZs, Subnets, Services, RFC1918, Transit Gateway, AWS Site-to-Site, Default Deny.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 2 - Hybrid Cloud & Networking, VPC set up, NATs, NACLs, Networking Scenario.md",
