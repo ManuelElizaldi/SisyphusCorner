@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Quiz Questions.md",
+                "file": "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 1 - VPC, CIDR, Route Tables, Gateways, VPC Peering, 0.0.0.0 IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W2 - Quiz Questions"
+              "title": "W5 - Day 1 - VPC, CIDR, Route Tables, Gateways, VPC Peering, 0.0.0.0 IP"
+            }
+          },
+          {
+            "id": "554ccfc4e1c41212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Practice Quiz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W5 - Practice Quiz"
+            }
+          },
+          {
+            "id": "7d2f69ff1bbaa5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - RDS TIO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W2 - RDS TIO"
             }
           },
           {
@@ -27,29 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Day 1, 2 & 3 - Serverless Computing Step Functions, Lambda Functions, Invocation Types.md",
+                "file": "Programming/Cloud Computing/Cloud Computing In AWS/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W2 - Day 1, 2 & 3 - Serverless Computing Step Functions, Lambda Functions, Invocation Types"
-            }
-          },
-          {
-            "id": "e100d850363c41b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Writing Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writing Ideas"
+              "title": "W1 - Day 4 - Hands on Video & SSH into EC2"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spot instance",
+                "query": "pem",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 768.5,
+    "collapsed": true
   },
   "right": {
     "id": "a653947e0fa9ff88",
@@ -196,36 +212,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "415f194732ba6f2b",
+  "active": "7d2f69ff1bbaa5ff",
   "lastOpenFiles": [
+    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Practice Quiz.md",
+    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 1 - VPC, CIDR, Route Tables, Gateways, VPC Peering, 0.0.0.0 IP.md",
+    "Programming/Cloud Computing/Cloud Computing In AWS/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - RDS TIO.md",
+    "Resources/Pasted image 20250731173752.png",
+    "Resources/Pasted image 20250727101046.png",
+    "Resources/Pasted image 20250729213545.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Day 1, 2 & 3 - Serverless Computing Step Functions, Lambda Functions, Invocation Types.md",
-    "Pasted image 20250730180706.png",
-    "Pasted image 20250730180449.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Quiz Questions.md",
+    "Resources/Pasted image 20250730180706.png",
+    "Resources/Pasted image 20250730180449.png",
     "Writing/Writing Ideas.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 1 - Managed Services, SNS.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 2 - SQS, Pipeline, Deadletter, SQS + SNS.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 3 & 4 - RDS, Deployments, Types of Replication, AWS ElastiCache.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Day 5 - Cloud Watch & Cloud Trail, RDS DIY.md",
-    "Pasted image 20250729213545.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Notes Summary.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 2/W2 - Day 4 - Hands on demonstration, TIO, AWS Pricing Calculator, Pricing Strategy for EC2s.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 3 - Pathway VPC Hands on.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 1 - VPC, CIDR, Route Tables, Gateways, VPC Peering, 0.0.0.0 IP.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - 07.27.2025 - Class Notes - RDS.md",
     "Notion - How they do things.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Practice Quiz.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 4 - PC EndPoints, Services & Route 53.md",
     "Programming/Untitled.md",
-    "Pasted image 20250727101437.png",
-    "Pasted image 20250727101046.png",
+    "Resources/Pasted image 20250727101437.png",
     "Programming/Game Development/Week 1 & Week 2 Notes.md",
     "Resources/Pasted image 20250724180325.png",
     "Resources/Pasted image 20250727094409.png",
     "Resources/Pasted image 20250721173956.png",
     "Resources/Pasted image 20250727093524.png",
-    "Resources/Pasted image 20250727093511.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Quiz Questions.md",
     "Programming/Game Development/🧠 Overall Strategy.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Class - Networking, AZs, Subnets, Services, RFC1918, Transit Gateway, AWS Site-to-Site, Default Deny.md",
@@ -238,7 +256,6 @@
     "Writing/The Graveyard",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps",
     "Programming/Cloud Computing/Cloud Computing In AWS",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 5 - VPC Endpoint for Amazon S3, ACL, AWS PrivateLink, RAGs, AWS Bedrock.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5",
     "Writing/Entries",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 4",
