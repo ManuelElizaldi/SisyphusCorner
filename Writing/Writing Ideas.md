@@ -20,6 +20,9 @@ Don't let ideas fly away, once gone they will have no place to grow. I was watch
 - This might be related in some way but I think the song "waiting on a song is related to this feeling"
 - capture God's whispers <- this could be the title 
 
+
+For AI/algorithm lead life - books vs algorithm - both inspired behavior - have we always been easily moved? 
+
 ### love letter
 - Love letter to my current job *Love letter*
 - Love letter to squatting 

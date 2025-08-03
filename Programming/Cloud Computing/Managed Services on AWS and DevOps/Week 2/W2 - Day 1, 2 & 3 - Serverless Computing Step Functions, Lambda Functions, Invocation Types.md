@@ -128,3 +128,7 @@ Triggering the function 'assuming' there was an event in S3 - not uploading a fi
 - It pretends/recreates the trigger
 
 
+# Lambda Function
+Every lambda function has a trigger and destination 
+
+``
