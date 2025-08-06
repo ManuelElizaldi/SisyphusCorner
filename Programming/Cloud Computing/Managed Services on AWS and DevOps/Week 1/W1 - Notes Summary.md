@@ -3,8 +3,7 @@
 
 Amazon Simple Notification Service (Amazon SNS) is a managed service that provides message delivery from publishers to subscribers (also known as _producers_ and _consumers_). Publishers communicate asynchronously with subscribers by sending messages to a _topic_, which is a logical access point and communication channel. Clients can subscribe to the SNS topic and receive published messages using a supported endpoint type, such as Amazon Kinesis Data Firehose, Amazon SQS, AWS Lambda, HTTP, email, mobile push notifications, and mobile text messages (SMS).
 
-![](file:///tmp/lu1473514f9wnk.tmp/lu1473514f9wr2_tmp_932f6158.png)
-
+![[Pasted image 20250804185553.png]]
 # Features
 
 Amazon SNS provides the following features and capabilities:
@@ -43,17 +42,11 @@ Amazon SNS provides the following features and capabilities:
     You can also establish a private connection between Amazon SNS and your virtual private cloud (VPC).
     
 
-  
-
-  
-
-  
-
 # SQS
 
 Amazon Simple Queue Service (Amazon SQS) offers a secure, durable, and available hosted queue that lets you integrate and decouple distributed software systems and components. Amazon SQS offers common constructs such as dead-letter queues and cost allocation tags. It provides a generic web services API that you can access using any programming language that the AWS SDK supports.
 
-![](file:///tmp/lu1473514f9wnk.tmp/lu1473514f9wr2_tmp_79444960.png)
+![[Pasted image 20250804185617.png]]
 
 # Features
 
@@ -102,22 +95,11 @@ Amazon SQS message queuing can be used with other AWS services such as Amazon Re
     
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
 # RDS
 
 Amazon Relational Database Service (Amazon RDS) is a web service that makes it easier to set up, operate, and scale a relational database in the AWS Cloud. It provides cost-efficient, resizable capacity for an industry-standard relational database and manages common database administration tasks.
 
-![](file:///tmp/lu1473514f9wnk.tmp/lu1473514f9wr2_tmp_916af6ee.png)
+![[Pasted image 20250804185633.png]]
 
 # Features
 
@@ -208,9 +190,7 @@ Amazon Relational Database Service (Amazon RDS) is a web service that makes it e
 
 Amazon ElastiCache is a web service that makes it easy to set up, manage, and scale a distributed in-memory data store or cache environment in the cloud. It provides a high-performance, scalable, and cost-effective caching solution. At the same time, it helps remove the complexity associated with deploying and managing a distributed cache environment.
 
-  
-
-![](file:///tmp/lu1473514f9wnk.tmp/lu1473514f9wr2_tmp_48ea9a55.png)
+![[Pasted image 20250804185647.png]]
 
 # Features
 
@@ -237,7 +217,7 @@ The CloudWatch home page automatically displays metrics about every AWS service 
 
 # Features
 
-![](file:///tmp/lu1473514f9wnk.tmp/lu1473514f9wr2_tmp_f85b8a99.png)
+![[Pasted image 20250804185703.png]]
 
 1. **Collect**
     

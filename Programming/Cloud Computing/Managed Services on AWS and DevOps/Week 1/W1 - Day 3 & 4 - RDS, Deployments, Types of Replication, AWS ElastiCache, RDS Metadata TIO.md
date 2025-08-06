@@ -132,3 +132,129 @@ In memory key-value store service that can be used as cache or data store
 
 fully manged, scalable and secure, making it an ideal candidate for use cases where frequently accesses data must be in memory
 
+# RDS Metadata TIO
+[Link](https://d6opu47qoi4ee.cloudfront.net/genAI/msad/rds/rds-metadata.pdf)
+
+The objective of this hands-on exercise is to develop an automated pipeline that integrates Amazon S3, Amazon SQS, and an EC2- hosted Python script to efficiently process and store metadata of uploaded objects
+
+Event Driven Architecture
+
+The goal The goal of this hands-on exercise is to implement an event-driven system that automates metadata extraction from files uploaded to Amazon S3. The system should achieve the following: 
+1. Trigger an Event When a File is Uploaded: Configure Amazon S3 Event Notifications to send a message to Amazon SQS when a new file is uploaded to the S3 bucket. 
+2. Process S3 Events Using an EC2-Hosted Script: Deploy a Python script on an EC2 instance that continuously polls the SQS queue for new messages. Once a new event is detected, retrieve the event details and extract the object metadata from S3 using the Boto3 SDK. 
+3. Store Metadata in Amazon RDS: Establish a connection to Amazon RDS (MySQL) from the Python script. Ensure that the metadata table exists, and insert details such as the file name, bucket name, file size, content type, and last modified timestamp into the database.
+
+![[Pasted image 20250804194317.png]]
+
+Access policy was set by a Json
+
+### Creating S3 Event Notification to Send Messages to SQS
+
+This is done inside the properties tab of the S3 bucket, you scroll down a little bit and you find the Create Event Notification button 
+
+There are multiple *Event Types*, you can specify multiple. This is what we selected for this exercise:
+![[Pasted image 20250804195446.png]]
+
+We also need to select the *Destination*. For this we select the radio button for *SQS Queue*
+
+![[Pasted image 20250804195614.png]]
+
+After this we created our RD Instance - for testing and development. Most of the settings are unchecked, but should be checked for production databases 
+
+## rds-sg security group
+
+Inside the EC2 management console, I opened the security group we created for the RD instance. I was asked to modify the inbound rules card to 
+![[Pasted image 20250804201054.png]]
+
+## EC2 Instance Security Group & IAM Role
+We need to open port 3306 to communicate with MySQL
+
+Source Type anywhere - this instance can be accessed from anywhere - if you have the creds 
+![[Pasted image 20250804201410.png]]
+
+We also changed the EC2 instance IAM role to LabInstanceProfile
+
+## Connecting to Ubuntu EC2
+
+We ran all the necessary maintenance commands - sudo update, etc and we also installed python via:
+```
+sudo apt install python3 python3-pip -y
+```
+
+and we also installed via pip the AWS SDK for python and mysql for python
+
+```
+pip3 install boto3 pymysql
+```
+
+We also installed awscli and ran the command aws configure
+![[Pasted image 20250804203110.png]]
+
+
+
+## Metadata.py
+
+From the SQS details we created earlier we grabbed the url:
+
+```
+https://sqs.us-east-1.amazonaws.com/715923492212/S3MetadataQueue
+```
+
+we also grabbed the RDS endpoint
+
+```
+gl-rds.c2nnpahz9s69.us-east-1.rds.amazonaws.com
+```
+
+Script will be saved inside /Scripts folder from this week. 
+
+
+After making these changes, I copied the script file from my PC to the ubuntu instance using this command:
+
+```
+manu@ManuelDesktop:~/Desktop/Projects$ scp -i testing-development.pem /home/manu/Desktop/Projects/Scripts/metadata.py ubuntu@54.198.6.92:/home/ubuntu/scripts
+``` 
+
+Then ran it:
+![[Pasted image 20250804204022.png]]
+
+The script will wait until something is uploaded to the S3 bucket 
+
+I uploaded a World of Warcraft screenshot:
+![[Pasted image 20250804204212.png]]
+
+And the script responded:
+![[Pasted image 20250804204220.png]]
+
+you can follow the instructions created by the script and select to view the metadata available:
+![[Pasted image 20250804204308.png]]
+
+## TIO Conclusion
+Solution to capture metadata using Amazon S3 *Event Notifications*, which triggers messages to Amazon SQS whenever a new file is uploaded. 
+
+Then we had a EC2 instance continuously poll the SQS via a python script, retrieves the metadata and inserts it into Amazon RDS. 
+
+*Event Driven* strategy 
+
+AWS Services used:
+- AWS RDS
+- SQS
+- S3
+- EC2
+
+### How to optimize this
+You can bypass the EC2 instance and SQS by deploying a lambda function that is invoked every time a new file is uploaded. The same python file can be used inside the lambda function to extract the metadata and write it to a RD instance
+
+This approach allows for:
+*autoscaling* -> Here you depend on 1 EC2 instance to do the job 
+
+*serverless approach* -> not need to maintain the EC2 instance and the SQS
+
+*event driven* -> almost instant processing of metadata, with the EC2 instance there could be delays
+
+*reduced complexity* -> simpler architecture: S3 -> lambda -> rds
+
+*lower cost* -> lambda is pay for use, and EC2 instances run continuously incurring in costs 
+
+Where our approach could be better -> if this was an intense, time consuming process. Lambda functions are short lived and have limits. If the workload takes longer or requires more complex dependencies EC2 + SQS could be better suited  
+

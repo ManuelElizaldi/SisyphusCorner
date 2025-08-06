@@ -31,6 +31,22 @@ CI/CD processes that can deploy into a lambda function
 
 There are several ways of deploying these functions
 
+## Lambda Function
+Small, event driven programs that run in the cloud without needing to manage a server. They automatically execute in response to events like API calls, file uploads or messages. 
+
+x happens y responds 
+
+### Types of Lambda Invocation
+
+*Synchronous* -> Request - wait - response. API Gateways, AWS SDK calls, Lambda calling another lambda
+
+*Asynchronous* -> Fire and forget. SNS, S3 (file upload), EvenBridge, Step Functions, CloudWatch
+
+### Examples of invokations
+
+
+
+
 ### Pricing model dimensions
 Time it takes to execute your function, memory it consumes and data that it transmits and stores. 
 - Managed by containers
@@ -62,7 +78,9 @@ Advanced scenario - this scenario uses other external dependencies. In this case
 
 There's instructions to create this deployment package in the documentation. You need to follow the steps indicated. But as a summary, you take all your app files, upload them, install any dependencies with pip in a created document and then you are set. From the [video](https://olympus.mygreatlearning.com/courses/132234/modules/items/7456664?pb_id=19113) it looks simple 
 
-# Invocation Types
+
+
+# Invocation Types - Synchronous and Asynchronous
 synchronous and asynchronous invocation - you can control the invocation type only when you invoke a function 
 
 on demand invocation:
