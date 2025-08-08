@@ -156,3 +156,11 @@ A _load balancer_ serves as the single point of contact for clients. You add o
 - Ecommerce
 - Multi tenant SaaS
 
+
+## Types of Target Groups
+
+- EC2 instances
+- Lambda Function 
+- IPs
+
+

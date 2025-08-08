@@ -23,6 +23,8 @@ Don't let ideas fly away, once gone they will have no place to grow. I was watch
 
 For AI/algorithm lead life - books vs algorithm - both inspired behavior - have we always been easily moved? 
 
+On nostalgia
+
 ### love letter
 - Love letter to my current job *Love letter*
 - Love letter to squatting 
