@@ -164,3 +164,17 @@ A _load balancer_ serves as the single point of contact for clients. You add o
 - IPs
 
 
+# Load Balancer Capacity Unit - LCU 
+How much capacity your load balancer is consuming. AWS uses 4 metrics to evaluate how much is used:
+- New connections - 25 new connections = 1 LCU 
+- Active connections - 3000 active connections = 1 LCU
+- Data processed in bytes - 1 GB = 1 LCU
+- Rules evaluated - 1000 rules = 1 LCU 
+
+## Rule Evaluation
+Its the process in which load balancers examines incoming requests against a set of rules to determine what to do with this traffic. Determines how and where traffic will be directed. 
+- Headers, paths, http method, source, IP, query strings. All of these can be evaluated. 
+
+example:
+- rule 1: If path is /images/* send to Target Group A 
+- rule 2: if host header is api.example.com forward to group B

@@ -72,7 +72,8 @@ You can build containers that inherit layers from other containers. Like Lego pi
 *Docker Hub* contains a 'marketplace' for containers. 
 
 If you want to scale a container, you can pull containers from the Hub/repository and deploy where you want. 
-
+## Docker
+Docker is a container and image manager. When you install docker in your host machine you can manage the images and the containers. Docker uses simple CLI commands in order to manage everything. 
 # Kubernetes 
 Container orchestration
 

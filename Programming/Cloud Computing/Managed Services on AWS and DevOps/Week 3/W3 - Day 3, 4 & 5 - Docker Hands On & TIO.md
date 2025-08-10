@@ -91,6 +91,7 @@ Be careful storing data inside the container file system
 `docker run -d centos tail -f /dev/null`
 
 - -d detach mode/daemon mode -> it will continue to run after the command is over. Keeps a container running - *long running*.
+	- Runs the container in the background instead of attaching it to your terminal
 
 Each container is a process - within the container you have process ids. As long as the process id1 is running, it will continue to run. 
 - your process id1 will always correspond to the 'nature' of the container. If you are running a tomcat container, the process id1 is tomcat. If you are running a mysql, process id1 will be my sql.
@@ -128,4 +129,77 @@ be removed.
 You can develop shell scripts to perform clean up of layers, containers or images. You don't worry about *left over* installation. You have to try to avoid left over installations because they unnecessarily take up resources. 
 ## Volume Mapping
 Containers can write data to the host machine 
+
+# TIO
+
+## EC2
+We start by creating an EC2 instance with ubuntu - t2.small instance type. 
+
+For network security, we created a security group that allows traffic from anywhere for port 22 (ssh) and port 80 for http
+
+I did a copy of the .pem file in my remotessd into the learning folder in my mac with `cp [source] [destination]` and then I was able to ssh into the instance I created. 
+
+then got the install script from:
+`wget https://d6opu47qoi4ee.cloudfront.net/dockerinstallscript.sh`
+
+and ran it with:
+`bash dockerinstallscript.sh`
+
+Same as python, you can check it it was correctly installed if you do a version check with:
+`docker version`
+
+we installed busybox and printed a simple hello world
+
+### Working with images and containers
+We started running the following commands:
+
+```bash
+sudo chown ubuntu:ubuntu -R /opt
+cd /opt
+docker images
+docker run --rm busybox:latest /bin/echo "Hello world"
+wget https://d6opu47qoi4ee.cloudfront.net/project-container/Dockerfile
+docker build -t helloworld .
+docker run -d -p 80:8080 helloworld
+docker ps -a
+```
+
+
+container id -> 75e8275f231e
+
+
+line 1) changes the owner and group to ubuntu (us)
+2) changes directory
+3) lists images
+4) runs the busybox to print hello world
+5) pulls a folder from the web on how to build the image helloworld
+6) builds an image from the dockerfile we downloaded and tags the image as helloworld for easier reference
+7) runs the helloworld image in the background (-d) and -p maps the port 80 to port 8080
+	1) **Containers run in an isolated network — they have their own private network space. To communicate with a container from outside, you need to expose a port and map it to a port on the host machine. In `-p 80:8080`, port 8080 is where the app inside the container is listening, and port 80 is the entry point on the host. Any request to port 80 on the host is forwarded to port 8080 inside the container.**
+
+### Entering the EC2's DNS into a browser
+I enter http://44.204.175.58/ into the browser, which is the EC2's instance DNS. Whenever I do that I am performing an HTTP request - the inbound rule we created in the security group. Since it's going through port 80, it will be forwarded to the 8080 port in the container giving us the tomcat server we opened through the container
+
+# Wordl TIO
+
+We launch an instance - name and tags are set by me. Ubuntu 22.04 LTS 
+
+For this TIO an instsance type of T2.medium is needed. 
+
+We open port 22 for ssh and 80 for http
+
+we launch the instance and we install docker - first wget link then run bash script, then exit to restart instance
+
+After the restart with run these commands
+
+```
+sudo apt update
+sudo apt install unzip
+sudo chown ubuntu:ubuntu -R /opt
+cd /opt
+wget https://d6opu47qoi4ee.cloudfront.net/reactle.zip
+unzip reactle.zip
+docker build -t reactle .
+docker run -d -p 80:80 reactle
+```
 

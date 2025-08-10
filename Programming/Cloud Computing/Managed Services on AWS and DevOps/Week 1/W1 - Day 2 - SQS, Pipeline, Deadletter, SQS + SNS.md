@@ -91,6 +91,10 @@ All of these processes can start up based on a message received by the queue. Th
 
 
 ## SQS + SNS
+****
+SNS is a bordcast service, so if x happnes, theres a message that is sent to SNS based on this trigger. Then SNS sends the message to multiple subscribers - including the SQS service. SQS stores the messages for consumers to then pull.  
+
+
 You subscribe to the SQS through the SNS so that you can listen/pull messages. You indicate the end point ARN in the SNS. After that you have subscribed and you can push messages to SQS.
 ![[Pasted image 20250723173917.png]]
 

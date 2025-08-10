@@ -109,6 +109,11 @@ Producers will need certain privileges to send messages
 
 
 ### Asynchronous vs synchronous - messages
+*Synchronous* -> The sender waits for a response or confirmation before moving on
+
+*Asynchronous* -> Does not wait for a response 
+
+SNS operates fully as a asynchronous
 
 
 
