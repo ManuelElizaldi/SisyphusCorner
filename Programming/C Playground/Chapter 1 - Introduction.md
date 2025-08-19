@@ -77,3 +77,82 @@ The first argument is a string of characters to be printed where each % indicate
 
 the first % in a printf() is paired with the second argument, then third. They must match the data type or you will get an error.
 
+# Working with floats
+Improvements could have been made to the previous script. Integers are not as accurate when dealing with temperatures, so we have to use floats. 
+
+Same as before we declare the variables before using them, but now we declare them as floats.
+
+here's the script
+
+```c
+#include <stdio.h>
+/* print Fahrenheit-Celsius table
+for fahr = 0, 20, ..., 300; floating-point version */
+main()
+{
+float fahr, celsius;
+float lower, upper, step;
+lower = 0;
+upper = 300;
+step = 20;
+}
+/* lower limit of temperatuire scale */
+/* upper limit */
+/* step size */
+fahr = lower;
+while (fahr <= upper) {
+celsius = (5.0/9.0) * (fahr-32.0);
+printf("%3.0f %6.1f\n", fahr, celsius);
+fahr = fahr + step;
+}
+```
+
+Since now we are working with floats and they wont get truncated, we can create a better formula that uses 5/9, note that they are defined as 5.0 (decimal). If the operation has ONLY integer operands, the result will be an integer, but if it has an integer and a float, the integer will be converted into a float. 
+
+Nevertheless it is recommended to write floats if you are working with floats for the benefit of other readers. - best practice
+
+Here's the specifications on how to print floats and integers 
+![[Pasted image 20250811171513.png]]
+
+## Celsius to Fahrenheit 
+```c
+#include <stdio.h>
+
+  
+
+int main(){
+
+float fahr, celsius;
+
+float lower, upper, step;
+
+  
+
+lower = 0;
+
+upper = 300;
+
+step = 20;
+
+  
+
+celsius = lower;
+
+  
+
+printf("Celsius Fahrenheit\n");
+
+  
+
+while (celsius <= upper) {
+
+fahr = (celsius * 1.8) + 32;
+
+printf("%6.2f\t %6.2f\n", celsius, fahr);
+
+celsius = celsius + step;
+
+}
+
+}
+```
