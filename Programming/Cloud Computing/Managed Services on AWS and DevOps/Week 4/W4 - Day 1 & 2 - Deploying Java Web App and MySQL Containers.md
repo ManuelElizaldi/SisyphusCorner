@@ -40,6 +40,8 @@ Another way of stopping a docker process: `sudo kill -9 processID`
 Downloading a file must land in the container - you need a pipe between the volume and the container 
 
 `docker run -v <host_path>:<container_path> <image_name>`
+
+You can access files in the container from host and the container can access files from the host. *two sided channel*
 ### Command flags
 -d -> detach
 -p -> port tag 
@@ -47,4 +49,11 @@ Downloading a file must land in the container - you need a pipe between the volu
 
 ![[Pasted image 20250818190421.png]]
 #### Multiple containers can be created from the same image
+
+Containers, even though they are ephemeral, they can have data that lives beyond their life cycle. 
+
+## Getting into a container
+`exec -it container_name bash`
+
+## Store the work inside a container - Commit as image 
 

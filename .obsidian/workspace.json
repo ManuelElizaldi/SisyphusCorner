@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 1 & 2 - Deploying Java Web App and MySQL Containers.md",
+                "file": "Writing/Entries/Running For My Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W4 - Day 1 & 2 - Deploying Java Web App and MySQL Containers"
+              "title": "Running For My Problems"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 530.5,
+    "collapsed": true
   },
   "right": {
     "id": "a653947e0fa9ff88",
@@ -211,16 +212,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd66959c3c22e44c",
+  "active": "9ad17e5b7faa7739",
   "lastOpenFiles": [
-    "Programming/Formatting & Mounting Storage Volumes.md",
-    "Programming/Formatting & Mounting Storage Volumes on Linux.md",
-    "Programming/Prometheus.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 1 & 2 - Deploying Java Web App and MySQL Containers.md",
+    "Writing/Entries/Running For My Problems.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Class Notes - 08.17.2025.md",
     "Programming/Bash Commands.md",
+    "Programming/Formatting & Mounting Storage Volumes on Linux.md",
+    "Programming/Formatting & Mounting Storage Volumes.md",
+    "Programming/Prometheus.md",
     "Pasted image 20250818190419.png",
     "Pasted image 20250818190421.png",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Class Notes - 08.17.2025.md",
     "Programming/RaspberryPi/NAS Setup on Raspberry Pi.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4",
     "Programming/Thread.md",
@@ -250,7 +252,6 @@
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Day 2 - Docker Ecosystem.md",
     "Writing/The Graveyard/Reshaping my relationship with AI - Art & Game Development.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Day 5 - TIO Lambda as ALB Backend.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/Scripts",
     "Programming/C Playground",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2",
