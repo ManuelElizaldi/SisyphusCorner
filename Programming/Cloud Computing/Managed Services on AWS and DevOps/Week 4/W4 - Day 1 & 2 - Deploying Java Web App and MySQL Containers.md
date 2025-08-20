@@ -56,4 +56,32 @@ Containers, even though they are ephemeral, they can have data that lives beyond
 `exec -it container_name bash`
 
 ## Store the work inside a container - Commit as image 
+Before you commit, you need to stop the process. If it's running, its not in a consistent state
+
+`docker commit -"author" -m"message" container_name name_of_your_image`
+
+All the work that has been done can be saved as an image by running the command above
+
+## Run a Microsoft native (c++ or .net) application on linux
+This is possible if you inject the application into a container and run it from linux 
+
+## MySQL 
+`docker pull mysql`
+
+Any database when opened for the first time asks you for the password to be able to perform admin tasks. There is a feature to tell docker the database password: 
+`docker run -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=password image_name(mysql)`
+
+Going inside the container that is running mysql:
+`docker exec -it container_name bash`
+
+if you do `ps -ef` inside a mysql container, nothing will happen, some of this commands are suppressed by the layers for safety. Same happens with `kill -9 l`
+
+`mysql -u root -p` then you enter password
+ 
+ 
+ 
+ ## Saving image on a USB 
+`docker save image_id > tomcatapp.tar` This will create the assembly/config file that can create the image
+
+`docker laod < config_file.tar` loading the image from an external source
 
