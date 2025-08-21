@@ -46,6 +46,8 @@ You can access files in the container from host and the container can access fil
 -d -> detach
 -p -> port tag 
 -v -> port mount
+--name -> custom container name
+-m -> memory restriction
 
 ![[Pasted image 20250818190421.png]]
 #### Multiple containers can be created from the same image
@@ -76,12 +78,33 @@ Going inside the container that is running mysql:
 
 if you do `ps -ef` inside a mysql container, nothing will happen, some of this commands are suppressed by the layers for safety. Same happens with `kill -9 l`
 
-`mysql -u root -p` then you enter password
- 
- 
- 
- ## Saving image on a USB 
+`mysql -u root -p` then you enter password 
+## Saving image on a USB 
 `docker save image_id > tomcatapp.tar` This will create the assembly/config file that can create the image
 
 `docker laod < config_file.tar` loading the image from an external source
 
+## Restricting resources to a container
+HTTPD servers can potentially run in a restrictive environment - you don't need a lot of memory for this:
+
+`docker run -d -p 80:80 --name small_http -m 10m httpd`
+
+the command -m restricts this container to 10mb. After running this command you'll see that the memory has been restricted. 
+
+### Check resources used by a container
+`docker stats container_name`
+
+`docker stats -all` gives you all the containers 
+
+### Containers can potentially grow 
+That's why you need to restrict them if you don't want resources to be over used
+
+## Bulk Commands
+Bulk remove
+`docker rm $(docker ps -a -q)`
+
+Bulk stop:
+`docker stop $(docker ps -a -q)`
+
+remove images
+`docker rmi $(docker images -q)`
