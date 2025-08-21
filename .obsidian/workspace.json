@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,8 +213,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "008a6f9fe838d310",
+  "active": "e48aad262bd0692c",
   "lastOpenFiles": [
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 3 & 4 - Amazon Elastic Container Services.md",
+    "Pasted image 20250820202335.png",
+    "Pasted image 20250820202154.png",
     "Pasted image 20250820200947.png",
     "Pasted image 20250820200404.png",
     "Pasted image 20250820195906.png",
@@ -223,7 +226,6 @@
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Quiz Questions.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
     "Writing/Entries/Running For My Problems.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 3 & 4 - Amazon Elastic Container Services.md",
     "Pasted image 20250820190240.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 1 & 2 - Deploying Java Web App and MySQL Containers.md",
     "Writing/Entries/The Faintest Ink is Better Than The Best Memory.md",
@@ -235,13 +237,10 @@
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Class Notes - 08.17.2025.md",
     "Programming/Formatting & Mounting Storage Volumes.md",
     "Programming/Prometheus.md",
-    "Pasted image 20250818190419.png",
     "Programming/RaspberryPi/NAS Setup on Raspberry Pi.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4",
     "Programming/Thread.md",
     "Programming/TO DO!.md",
-    "Pasted image 20250817093710.png",
-    "Pasted image 20250817093121.png",
     "Programming/Cloud Computing/Cloud Computing In AWS/Deploying a Large Language Model (LLM)using IaaS - Optional Project.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Day 1 - Containers.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Day 3, 4 & 5 - Docker Hands On & TIO.md",

@@ -151,9 +151,14 @@ We also defined the Service auto scaling - 1 minimum task 4 maximum. We selected
 
 After this we click on create
 
-## Access the web browser 
+*Creating process*
+![[Pasted image 20250820202154.png]]
 
 
+Inside the EC2 management console we can see that both tasks are healthy:
+![[Pasted image 20250820202335.png]]
+
+If we open the DNS `ecslb-1420632327.us-east-1.elb.amazonaws.com` from the load balancer the tomcat instance will open on the web browser!
 
 
 --- 
