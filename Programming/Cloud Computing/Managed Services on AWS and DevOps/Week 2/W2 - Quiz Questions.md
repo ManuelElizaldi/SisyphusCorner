@@ -37,3 +37,35 @@ web backend, mobile backend, IoT backend etc.
 **An application needs a significant amount of memory and time to process some customer data. Your technical lead proposes using an EC2 instance instead of a Lambda function. Will you agree with this approach?**
 Yes
 AWS Lambda has memory and execution time limits. Long-running or memory-intensive tasks exceed these thresholds, making Lambda inefficient or unusable for such use cases.
+
+
+**How can you set a Lambda function to run periodically?**
+Set up a cloudwatch or event bridge event as the trigger for the lambda function
+- alarms can be set up with cloud watch that can trigger a lambda
+- event bridge - event bus. Helps build event driven architecture service. Uses events to connect services. Offers event archive  
+With these two managed services you can build a cron like lambda function
+
+**A system to catch speeding vehicles uses a camera to take pictures of license plates after a Doppler radar has been triggered. The system needs to store a list of past offenders and pictures of their license plates and has to be able to query if an offender has a history. All this is orchestrated by a Lambda function. Which of the following services would the function need access?**
+rekognition, S3 and dynamo db
+
+rekognition -> Used to analyze images
+
+Amazon S3 -> This can be used to store the images of the cars
+- cost effective, durable and scalable object storage
+
+DynamoDB -> NoSQL serverless database that can store offender records | pairs well with the lambda serverless architecture
+
+❌ RDS -> This could work, but it is not as fast as DynamoDB. Also RDS requires a server 
+
+❌ comprehend -> is used for natural language processing 
+
+❌ EFS -> can be mounted by lambda, but it's unnecessary, DynamoDB is more efficient for this use case
+
+**Which of the following services allows a Lambda function to receive requests from an "external" source?**
+api gateway, application load balancer
+
+For this use case, we need a service that invokes the lambda function in response to an HTTP request (outside internet)
+
+API Gateways are designed to expose lambda functions over HTTPS endpoints - ideal for serverless APIs 
+
+Application load balancer -> You can include lambda functions as a target of the load balancer 

@@ -1,4 +1,4 @@
-[[ECS]]
+******[[ECS]]
 # AWS ECS
 Containers are horizontally scaled 
 
@@ -159,6 +159,45 @@ Inside the EC2 management console we can see that both tasks are healthy:
 ![[Pasted image 20250820202335.png]]
 
 If we open the DNS `ecslb-1420632327.us-east-1.elb.amazonaws.com` from the load balancer the tomcat instance will open on the web browser!
+
+# Diagram of ECS objects 
+
+![ECS Components.jpeg](https://olympus.mygreatlearning.com/courses/132234/files/12316616/preview?verifier=Pd1ZZDB6JAuLNMhiXxQvmMmmhnEJgUiFRi7TGWXr)
+
+*Cluster* -> Group of EC2 instances or fargate tasks that act as infrastructure for running the containers
+
+*Services* -> Managed groups of tasks that ensure a specified number of tasks are running containers 
+
+*Task Definition* -> Blue print that define container configuration
+- How much CPU, network, image, memory requirements 
+
+*Task/Container* -> Instantiated task definition that run containers based on defined configurations 
+
+## Fargat
+Managed service that allows you to run containers without having to manage servers or clusters of EC2 instances. 
+
+You don't need to manage clusters of virtual machine to run containers. You wont need to chose server type, decide when to scale your cluster or optimize packing. 
+
+
+# Case Study 
+
+## Vanguard
+Vanguard Group (finance) uses the cloud heavily. This allowed them to stay up to date on technological innovations. It also moved them forward into developing more micro services (containers I am assuming). 
+
+Having cloud infrastructure meant Vanguard could implement DevOps practicing. It helped mature the IT at Vanguard
+
+## Paypal
+Paypal is using 150,000 containers in docker
+
+You need to adequately plan your container journey
+
+## Well Architected Framework
+Make small reversible changes
+
+Design workloads to allow components to be updated regularly to increase flow 
+
+Scale horizontally - replace one large resource with multiple small resources to reduce impact of failure - no shared point of failure
+
 
 
 --- 
