@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3803b12e42e95b2d",
+        "id": "e4c781ce011ece4c",
         "type": "tabs",
         "children": [
           {
-            "id": "23585a1933bd40ac",
+            "id": "6fa5a86d063df684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Cloud Front.md",
+                "file": "Writing/Entries/Running For My Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Front"
-            }
-          },
-          {
-            "id": "008a6f9fe838d310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/Quiz review.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quiz review"
-            }
-          },
-          {
-            "id": "81e61c142908d5d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Class Notes - 08.17.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W3 - Class Notes - 08.17.2025"
+              "title": "Running For My Problems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 530.5,
+    "collapsed": true
   },
   "right": {
     "id": "a653947e0fa9ff88",
@@ -198,11 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "008a6f9fe838d310",
+  "active": "6fa5a86d063df684",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 3 & 4 - Amazon Elastic Container Services.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/Quiz review.md",
+    "Prayer of Serenity.md",
+    "Resources/Pasted image 20250804205046.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Cloud Front.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/Quiz review.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 3 & 4 - Amazon Elastic Container Services.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Class Notes - 08.17.2025.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/Untitled.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Quiz Questions.md",
@@ -210,18 +184,17 @@
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 1/W1 - Day 4 - Hands on Video & SSH into EC2.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Quiz Questions.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
-    "Pasted image 20250820202335.png",
-    "Pasted image 20250820202154.png",
-    "Pasted image 20250820200947.png",
-    "Pasted image 20250820200404.png",
-    "Pasted image 20250820195906.png",
-    "Pasted image 20250820195143.png",
-    "Pasted image 20250820194701.png",
-    "Pasted image 20250820190240.png",
+    "Resources/Pasted image 20250820202335.png",
+    "Resources/Pasted image 20250820202154.png",
+    "Resources/Pasted image 20250820200947.png",
+    "Resources/Pasted image 20250820200404.png",
+    "Resources/Pasted image 20250820195906.png",
+    "Resources/Pasted image 20250820195143.png",
+    "Resources/Pasted image 20250820194701.png",
+    "Resources/Pasted image 20250820190240.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 1 & 2 - Deploying Java Web App and MySQL Containers.md",
     "Writing/Entries/The Faintest Ink is Better Than The Best Memory.md",
-    "Pasted image 20250818190421.png",
-    "Pasted image 20250817095741.png",
+    "Resources/Pasted image 20250818190421.png",
     "Programming/StatsD.md",
     "Programming/Formatting & Mounting Storage Volumes on Linux.md",
     "Programming/Bash Commands.md",
@@ -236,7 +209,6 @@
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Day 3, 4 & 5 - Docker Hands On & TIO.md",
     "Programming/Cloud Computing/Intro Week/Intro-Day 2 - Cloud Attributes, Offerings, Deployment Model, Utilization, Elasticity.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Additional Content - Elasticity and Containerization.md",
-    "Programming/C Playground/Chapter 1 - Introduction.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/Scripts",
     "Programming/C Playground",

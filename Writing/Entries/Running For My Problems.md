@@ -1,25 +1,31 @@
-"Running, because there's more ways of meditating than sitting"
+"Physical source for emotional detachment"
 
-Yesterday while I was running my 5 kilometers in extreme Texas heat (93°) at 12:00 pm, fueled by absolutely nothing but black coffee, I though about how I run for my problems. 
+Yesterday while I was running my 5 kilometers in extreme Texas heat (93°) at 12:00 pm, fueled by absolutely nothing but black coffee, I though about how I run from my problems.
 
-Like most runners today, I started in 2020. Needing a reason to get out of the house, running was the perfect excuse. Going for a run during quarantine felt like an Edward Hopperian dream. Little to no cars and no people around. I remember enjoying the solitude and calm that I felt during those runs. Back then I would put on a podcast and easily cruise for 5-15 kms. I had more time back then, I would set a long distance run goal to see if I could do it just to prove to myself I was capable. 
+Like most runners today, I started running in 2020. Needing a reason to get out of the house, running was the perfect excuse. Going for a run during quarantine felt like an Edward Hopperian dream, no cars and no people around me. I remember enjoying the solitude and how calm I felt during those runs. Uncertainty was forever looming, I graduated that year from college and had no idea what I was going to do with my life, nonetheless I had the assuring certainty that I was going to run that day.
 
+When I first started running I used music as a *boost (find another phrase/word for this)* I would crank up the music, listening to metal, hip hop punk or anything that had a good beat with a high BPM that I could follow with my running. High BPM, High running octane. *funny enough <- find some better wya of saying this*, now I don't listen to any music. I find that the perfect music for my runs is the sound of my surroundings, having no music blasting inside my head allows for my thoughts to be on clear display. All of my insecurities, worries, *anhelos (look for the word in english)* are load and clear. This way I am able to dance (run) with my demons. Running provides a soothing detachment. For those 30 minutes to an hour I spend hitting the pavement with my steps I can observe my thoughts.
 
-I was lucky. My quarantine experince wasn't so bad. I spent some long needed time with the family after being gone for college.
+After I
 
-
-But waking up, grabbing my running shoes and hitting the rode was a freeing experience. I wonder if there was no covid, would I have fallen so in love with running? That just another what if in my life. 
 
 
 Back in 2023 I was unemployed, rejection after rejection. I was accustomed to receiving a 'no'. It was frustrating because it fell like all my efforts where for nothing. I would log in early to LinkedIn, apply to as many openings as I could, then I would go for a run. It almost seemed like running kept me sane. Logging in miles, logging in the applications. That kept me going. Just like running, time moves forward and so should I. For a moment I didn't know what I would do with my life, but I knew I had to run 
 
+You learn to find happiness even if you are surrounded by suffering. Feet might be hurting, cramping, you might be frustrated looking for a sjob but running shows you that you can find comfort in pain. Knowing that you are still fighting. Running teaches you to know that you will be at the finish line. 
 
-## Running as meditation:
-Running has become a weird masochistic form of meditation that I have come to hold dear in my heart. During my runs I don't listen to music, but there was a time when I first started that I had metal, hip hop punk or anything that had a good beat with a high BPM that I could follow with my running. High BPM, High running octane. 
+You against you, you can be your worst enemy. It's so easy to be negative, to give in to the negative emotions within you. But running teaches you not to hear those voices. Those voices only slow you down.
 
-Nowadays I find that the perfect music for my running is the sound of my surroundings. Having no music blasting inside my head allows for my thoughts to be on full display. My insecurities, worries and wishes are load and clear. I am able to dance with my demons
 
-Running provides a soothing detachment. For those 30 minutes or an hour I spend hitting the pavement with my steps I can observe my thoughts. 
+
+
+
+
+## Running as meditation - maybe these thoughts could be used for another piece
+
+"Running, because there's more ways of meditating than sitting"
+
+Running has become a weird masochistic form of meditation that I have come to hold dear in my heart. 
 
 Running has helped me to stay on the path of working out. Lifting weights sometimes feel like to much work, but I know that I need to move. Movement is medicine, my easy way out is hitting the road and run at least 3 km, that is the bear minimum. 
 
@@ -31,13 +37,7 @@ usually after a run, I have a lot to write about, ideas fly around in my mind. I
 
 I remember my dad talking about how he ran 10 km everyday during college. I think that's where I first thought about adopting this practice. I even remember he ran a half marathon once, my mom, my brother and I went to cheer him on. I remember he was cramping real bad, he even screamed, I wonder why he stopped running
 
-
-
-I was not sure what I was going to do with my life, but I managed to calm the fear of quarantine with some running.
-
-You learn to find happiness even if you are surrounded by suffering. Feet might be hurting, cramping, you might be frustrated looking for a sjob but running shows you that you can find comfort in pain. Knowing that you are still fighting. Running teaches you to know that you will be at the finish line. 
-
-You against you, you can be your worst enemy. It's so easy to be negative, to give in to the negative emotions within you. But running teaches you not to hear those voices. Those voices only slow you down. 
+ 
 
 
 
