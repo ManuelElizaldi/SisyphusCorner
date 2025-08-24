@@ -1,62 +1,11 @@
+**How can you set a Lambda function to run periodically? Lambda should not be used for cron jobs Set up a cloudwatch or event bridge event as the trigger for the lambda function set up an application in elastic bean stalk to trigger the lambda function set up a local cron script to send a request to the function**
+Set up a CloudWatch or EventBridge event as the trigger for the Lambda function
 
-What is the following line in a JS lambda function expected to do? console.log("Application is looking to do something here") Acronyms used in the answer are CloudWatch (CW), LogGroup (LG), LogStream (LS)
+To run a Lambda function on a **schedule (like a cron job)**, you should use: **Amazon EventBridge**
 
-###### ChatGPT said:
-
-The line:
-
-`console.log("Application is looking to do something here")`
-
-inside an AWS Lambda function is expected to:
-
-### ➤ Write a log entry to **Amazon CloudWatch Logs**, where:
-
-- **CW (CloudWatch)** is the AWS monitoring and observability service.
-    
-- **LG (Log Group)** is a group of logs for a specific Lambda function (usually named after the function).
-    
-- **LS (Log Stream)** is a sequence of log events from a single invocation (or a group of related invocations).
-    
-
-### Summary:
-
-This `console.log()` line **emits a log message**, which:
-
-- Goes to a **Log Stream (LS)**,
-    
-- That belongs to a **Log Group (LG)**,
-    
-- Which is stored and viewable in **CloudWatch Logs (CW)**.
-    
-
-### So in full:
-
-> The `console.log(...)` statement writes the message to **CloudWatch Logs (CW)** under the appropriate **Log Group (LG)** and **Log Stream (LS)** for that Lambda invocation.
-
-Let me know if you want to see how this looks in the CloudWatch Logs console.
-
-##### You said:
-
-How can you set a Lambda function to run periodically? Lambda should not be used for cron jobs Set up a cloudwatch or event bridge event as the trigger for the lambda function set up an application in elastic bean stalk to trigger the lambda function set up a local cron script to send a request to the function
-
-###### ChatGPT said:
-
-The **correct answer** is:
-
-> ✅ **Set up a CloudWatch or EventBridge event as the trigger for the Lambda function**
-
----
-
-### Explanation:
-
-To run a Lambda function on a **schedule (like a cron job)**, you should use:
-
-- **Amazon EventBridge** (formerly CloudWatch Events)
-    
 - It supports cron expressions and rate-based expressions
-    
-- You define a **rule** that triggers the Lambda function periodically
-    
+- You define a **rule** that triggers the Lambda function periodically 
+
 
 ---
 

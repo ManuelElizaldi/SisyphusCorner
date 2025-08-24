@@ -2,15 +2,25 @@
 
 Yesterday while I was running my 5 kilometers in extreme Texas heat (93°) at 12:00 pm, fueled by absolutely nothing but black coffee, I though about how I run from my problems.
 
-Like most runners today, I started running in 2020. Needing a reason to get out of the house, running was the perfect excuse. Going for a run during quarantine felt like an Edward Hopperian dream, no cars and no people around me. I remember enjoying the solitude and how calm I felt during those runs. Uncertainty was forever looming, I graduated that year from college and had no idea what I was going to do with my life, nonetheless I had the assuring certainty that I was going to run that day.
+Like most runners today, I started running in 2020. Needing a reason to get out of the house, running was the perfect excuse. Going for a run during quarantine felt like an Edward Hopperian dream, no cars and no people around me. I recall enjoying the solitude and how calm I felt during those runs. Uncertainty was forever looming in these times, I graduated that year from college and had no idea what I was going to do with my life, nonetheless I had the assuring certainty that I was going out for a run that day.
 
-When I first started running I used music as a *boost (find another phrase/word for this)* I would crank up the music, listening to metal, hip hop punk or anything that had a good beat with a high BPM that I could follow with my running. High BPM, High running octane. *funny enough <- find some better wya of saying this*, now I don't listen to any music. I find that the perfect music for my runs is the sound of my surroundings, having no music blasting inside my head allows for my thoughts to be on clear display. All of my insecurities, worries, *anhelos (look for the word in english)* are load and clear. This way I am able to dance (run) with my demons. Running provides a soothing detachment. For those 30 minutes to an hour I spend hitting the pavement with my steps I can observe my thoughts.
+When I first started running I used music as a booster, I would crank up the music, listening to metal, hip hop punk or anything that had a good beat with a high BPM that I could follow with my running. High BPM, High running octane.
 
-After I
+Curiously enough, now I don't listen to any music. I find that the perfect music for my runs is the sound of my surroundings, having no music blasting inside my head allows for my thoughts to be loud and clear. All of my insecurities, worries, and longing are on display. This way I am able to dance (run) with my demons. Running provides a soothing detachment from my problems. For those 30 minutes to an hour I spend hitting the pavement with my steps I can observe my thoughts, finding solutions to my problems *< - this needs a better ending sentence*
+
+Sometimes I set a purpose for my runs, for example, if I have a coding problem I need to solve at work and can't find a clear solution. 
+
+
 
 
 
 Back in 2023 I was unemployed, rejection after rejection. I was accustomed to receiving a 'no'. It was frustrating because it fell like all my efforts where for nothing. I would log in early to LinkedIn, apply to as many openings as I could, then I would go for a run. It almost seemed like running kept me sane. Logging in miles, logging in the applications. That kept me going. Just like running, time moves forward and so should I. For a moment I didn't know what I would do with my life, but I knew I had to run 
+
+Stay positive when being negative and cursing at the world seems like the easier thing to do. Running came to the rescue. I had a friend that didn't understand why I was running so much, incessant interrogations of how I feeling, of course I felt like crap but what else is there to do, sit and cry? Nope, I had to log in those miles. Races that I needed to prepare for. 
+
+Running has taught me that the only way life can take is forward. *<- something like that*, you can't be like John Mayer and ask life to stop this train. 
+
+
 
 You learn to find happiness even if you are surrounded by suffering. Feet might be hurting, cramping, you might be frustrated looking for a sjob but running shows you that you can find comfort in pain. Knowing that you are still fighting. Running teaches you to know that you will be at the finish line. 
 

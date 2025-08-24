@@ -160,3 +160,13 @@ Imagine a librarian (vector database) helping a researcher (AI application) find
 
 ### Architecture Diagram - Secure RAG through Knowledge Bases for Amazon Bedrock
 ![[Pasted image 20250714182213.png]]
+
+
+# Extra: Cloud Front
+Delivers content like web pages, images, videos, APIs or software downloads to users all over the world with low latency
+
+You store the content in an origin - S3, EFS, EBS, on-prem server, etc. and then Cloudfront can distribute it through edge locations (data centers around the world). 
+
+Cloud Front is able to cache your content for faster retrieval 
+
+

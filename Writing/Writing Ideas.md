@@ -2,19 +2,19 @@
 This is a section to write down any ideas I have for writing. 
 
 write a note about where mile comes from
-
 ### Technical
 
 - Using tailscale to connect your raspberry pi to computer via secure ssh *technical*
 - Why and how Armenia adopted christianity 
 - Necromancer experience 
+- history of cloud computing
 ### Discussion
 - Rugby vs futbol *discussion*
 	- I have some notes on my ideas journal
 - Style in gaming 
 	- Graphics and ambiance
 
-What is it about old things that makes me love them and want to keep them forever? 
+What is it about old things that makes me love them and want to keep them forever? + On nostalgia?
 
 ~~Don't let ideas fly away, once gone they will have no place to grow. I was watching mad men and this scene where a creative has the perfect idea for an ad. He was so drunk that he forgot to write it, it was poetic how he refered to the idea flying away. Who hasn't been through that? I want to write something about this feeling. The struggle of having something precious in your hands and then it just goes away.~~ 
 - ~~This might be related in some way but I think the song "waiting on a song is related to this feeling"~~
@@ -23,7 +23,6 @@ What is it about old things that makes me love them and want to keep them foreve
 
 For AI/algorithm lead life - books vs algorithm - both inspired behavior - have we always been easily moved? 
 
-On nostalgia
 
 ### love letter
 - Love letter to my current job *Love letter*

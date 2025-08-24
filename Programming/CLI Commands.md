@@ -7,5 +7,8 @@ Getting the type of linux distribution
 change owner:
 `chown`
 
+show file system disk space in human readable format (-h):
+`df -h`
+
 ---
 ### Reference

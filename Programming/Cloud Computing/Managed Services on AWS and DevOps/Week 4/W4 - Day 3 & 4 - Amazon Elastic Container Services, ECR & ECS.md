@@ -1,4 +1,4 @@
-******[[ECS]]
+[[Container]] [[ECS]] [[Container Orchestration]] [[ECR]]
 # AWS ECS
 Containers are horizontally scaled 
 
