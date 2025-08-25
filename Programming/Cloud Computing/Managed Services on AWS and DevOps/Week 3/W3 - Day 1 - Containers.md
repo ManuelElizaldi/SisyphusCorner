@@ -58,7 +58,7 @@ Base level capacity - you decide what this is - this level will determine your u
 
 the objective is to get dollars for every dollar you put it. 
 
-*Provision Time* -> 
+*Provision Time* -> time it takes to fully deploy a service
 
 Containers allows for smaller provisioning times 
 

@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "81e61c142908d5d9",
+            "id": "872b4fd7d39deced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Class Notes - 08.17.2025.md",
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 1 & 2 - Deploying Java Web App and MySQL Containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W3 - Class Notes - 08.17.2025"
+              "title": "W4 - Day 1 & 2 - Deploying Java Web App and MySQL Containers"
             }
           },
           {
@@ -50,63 +50,35 @@
             }
           },
           {
-            "id": "19e0674379528227",
+            "id": "38596af9f1a0fde7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Writing Ideas.md",
+                "file": "Programming/Machine Learning Project CHS/Drop Zone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing Ideas"
+              "title": "Drop Zone"
             }
           },
           {
-            "id": "246d7f1dd978afa0",
+            "id": "1debe5a12d197201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 3 & 4 - Amazon Elastic Container Services, ECR & ECS.md",
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Class Notes - 08.17.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W4 - Day 3 & 4 - Amazon Elastic Container Services, ECR & ECS"
-            }
-          },
-          {
-            "id": "6ed55e23266cca78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/CLI Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLI Commands"
-            }
-          },
-          {
-            "id": "13d567f3de8669e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Cloud Computing In AWS/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code"
+              "title": "W3 - Class Notes - 08.17.2025"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cloud trail",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,18 +227,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51dbb030722acf22",
+  "active": "38596af9f1a0fde7",
   "lastOpenFiles": [
-    "Writing/Writing Ideas.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W5 - 08.25.25 - Class.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 3 & 4 - Amazon Elastic Container Services, ECR & ECS.md",
     "Writing/Entries/Running For My Problems.md",
-    "Programming/CLI Commands.md",
+    "Programming/Machine Learning Project CHS/Drop Zone.md",
+    "Programming/Machine Learning Project CHS",
+    "Programming/Untitled.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W5 - 08.25.25 - Class.md",
+    "Writing/Entries/Running as meditation.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Class Notes - 08.17.2025.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/Quiz review.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 1 & 2 - Deploying Java Web App and MySQL Containers.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Day 1 - Containers.md",
+    "Programming/Cloud Computing/Cloud Computing In AWS/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
+    "Programming/CLI Commands.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 3 & 4 - Amazon Elastic Container Services, ECR & ECS.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Day 3, 4 & 5 - Docker Hands On & TIO.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Day 2 - Docker Ecosystem.md",
+    "Pasted image 20250824100246.png",
+    "Pasted image 20250824094241.png",
+    "Pasted image 20250824093345.png",
+    "Writing/Writing Ideas.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/W5 - Day 5 - VPC Endpoint for Amazon S3, ACL, AWS PrivateLink, RAGs, AWS Bedrock, CloudFront.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 5/Cloud Front.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Week 1/W1 - Day 5 - Hands on Lab EC2, RPAs, AWS Console to Code.md",
     "Programming/Cloud Computing/Cloud Computing In AWS/Week 4/W4 - Day 4 & 5 - S3 Properties, S3 Lifecycle,S3 Permissions, S3 Static Website Hosting, CORS.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/Untitled.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Quiz Questions.md",
@@ -279,21 +262,11 @@
     "Pasted image 20250820195906.png",
     "Pasted image 20250820195143.png",
     "Pasted image 20250820194701.png",
-    "Pasted image 20250820190240.png",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 1 & 2 - Deploying Java Web App and MySQL Containers.md",
     "Writing/Entries/The Faintest Ink is Better Than The Best Memory.md",
-    "Pasted image 20250818190421.png",
-    "Pasted image 20250817095741.png",
     "Programming/StatsD.md",
     "Programming/Formatting & Mounting Storage Volumes on Linux.md",
     "Programming/Formatting & Mounting Storage Volumes.md",
-    "Programming/Prometheus.md",
-    "Programming/RaspberryPi/NAS Setup on Raspberry Pi.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4",
-    "Programming/Thread.md",
-    "Programming/TO DO!.md",
-    "Programming/Cloud Computing/Cloud Computing In AWS/Deploying a Large Language Model (LLM)using IaaS - Optional Project.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Day 1 - Containers.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/Scripts",
     "Programming/C Playground",
@@ -301,7 +274,6 @@
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps",
     "Writing/The Graveyard",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps",
-    "Programming/Cloud Computing/Cloud Computing In AWS"
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps"
   ]
 }
