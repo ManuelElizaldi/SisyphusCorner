@@ -35,8 +35,7 @@
               "title": "Running as meditation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Entries/Running as meditation.md",
+                "file": "Writing/Entries/Running For My Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Running as meditation"
+              "title": "Backlinks for Running For My Problems"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Entries/Running as meditation.md",
+                "file": "Writing/Entries/Running For My Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Running as meditation"
+              "title": "Outgoing links from Running For My Problems"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Entries/Running as meditation.md",
+                "file": "Writing/Entries/Running For My Problems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Running as meditation"
+              "title": "Outline of Running For My Problems"
             }
           }
         ]
@@ -184,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "713c310ef9e92205",
+  "active": "c952ae87059b27b7",
   "lastOpenFiles": [
+    "Writing/Entries/Running as meditation.md",
     "Writing/Entries/Running For My Problems.md"
   ]
 }
