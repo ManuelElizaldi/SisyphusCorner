@@ -14,3 +14,4 @@ usually after a run, I have a lot to write about, ideas fly around in my mind. I
 
 I remember my dad talking about how he ran 10 km everyday during college. I think that's where I first thought about adopting this practice. I even remember he ran a half marathon once, my mom, my brother and I went to cheer him on. I remember he was cramping real bad, he even screamed, I wonder why he stopped running
 
+When I first started running I used music as a booster. I would crank it up, listening to metal, hip hop punk or anything that had a good beat with a high BPM that I could match with my stride, high BPM, high running octane. Funny enough, now I don't listen to any music. There was an inevitable internal adjustment that made me prefer the sounds of my surroundings, having no music blasting inside my head allows my thoughts to be loud and clear. All of my insecurities, worries, and longings are on display. This allows me to dance (run) with my demons.
