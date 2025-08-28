@@ -24,8 +24,9 @@ What is it about old things that makes me love them and want to keep them foreve
 For AI/algorithm lead life - books vs algorithm - both inspired behavior - have we always been easily moved? 
 
 
+Identity is found through elimination, once you determine what you are not, you find who you are. Expansion through reduction
+
 ### love letter
-- Love letter to my current job *Love letter*
 - Love letter to squatting 
 
 ### Story
@@ -34,6 +35,8 @@ For AI/algorithm lead life - books vs algorithm - both inspired behavior - have 
 - Story about a sumo wrestler in Mongolia that wants to make it big in Japan
 
 -2 characters, both journalists from Mexico. One from Nuevo Laredo and the other one from Mexico City. The character in Mexico City can be a super commuter, spends most of his day on the public transport. The one from Nuevo Laredo has a simple but arduous life, very monotonous, everything is repeated so much that time almost seams to be blurred. The social experience is different from each other, but it often feels like something. <- This is the idea
+
+The scholar - I have some notes on my notebook 
 
 
 ### Currently working on:

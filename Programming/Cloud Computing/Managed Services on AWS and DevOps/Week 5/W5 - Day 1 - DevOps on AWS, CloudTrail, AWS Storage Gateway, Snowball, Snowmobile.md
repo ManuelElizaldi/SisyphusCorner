@@ -8,15 +8,18 @@ If there's an attack or a hacking attempt, this allows forensic analysis. We are
 
 We figure out who did it and how we can prevent this in the future. 
 
-## Management Console
+## Management Console - CloudTrail
 You have a recent events section.
 
 You can view events in json - then build your own analytics from this json.
 
 ### You can create a trail
-You can apply to all regions - in case you have a multi regional environment 
+You can apply to all regions - in case you have a multi regional environment
+- This is recommended
 
-*Management events* -> select all, both read and write. Unless you are only interested in tracking read or write.
+**You can create a trail for 2 types of events**:
+
+*Management events* -> select all, both read and write. Unless you are only interested in tracking one.
 
 *Data events* -> only applies to S3 and lambda. You can select all S3 buckets, but this can be very expensive. Same for lambda functions, you can track all of them but it can potentially be expensive. 
 
@@ -28,12 +31,10 @@ You can specify in which S3 buckets to store the created logs.
 - There is potential to create a pipeline to analyse the logs, notify other people, etc. 
 	- for example SNS could trigger a lambda function to parse the json and produce some sort of output 
 
-
-## Management events
+## Cost per event
+### Management events
 $2 USD per 100,000 events
-
-
-## Data events
+### Data events
 $0.10 cents per 100,000 events
 
 
@@ -77,7 +78,6 @@ AWS snowball uses the little boxes above to transfer your data. You order Snowba
 - Fun note: this box can resist several Gs of force and its waterproof. 
 
 50 to 80 terabytes 
-
 
 ## AWS Snow mobile 
 ![[Pasted image 20250826183018.png]]

@@ -3,7 +3,7 @@ Yesterday while I was running my 5 kilometers in extreme Texas heat (93°) at 12
 
 This habit of mine started back in 2020. Needing a reason to get out of the house, running was presented as the perfect excuse. Going for a run during quarantine felt like an Edward Hopperian dream, no cars, no people. Only a deep sense of calming solitude. Having graduated that year from college, uncertainty was forever looming. I had no idea what I was going to do with my life, but I had a reassuring certainty: I could go for a run. 
 
-Since life is a repetition of itself I try to remember the important lesson running offers to those brave enough to endure the pains of logging in the miles. The soothing detachment offered by running allows you to accept that life only moves forward. Passionate loves fade, friendships drift apart, houses get torn down but you shall only hold on to what you think will last and keep running. 
+Since life is a repetition of itself I try to remember the important lesson running offers to those brave enough to endure the pain of logging in the miles. The soothing detachment offered by running allows you to accept that life only moves forward. Passionate loves fade, friendships drift apart, houses get torn down but you shall hold on to what you think will last and keep running. 
 
 Another year, another challenge. 2023 comes by and I got laid off. This lead me to a year long hunt for a new gig. Thankfully the practice of running for my problems was there to offer respite from the spirit tainting frustrations of opening rejection letter after rejection letter.
 
