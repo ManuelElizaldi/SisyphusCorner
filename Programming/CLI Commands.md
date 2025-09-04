@@ -23,5 +23,11 @@ Doing this when there's a security key like in EC2s:
 
 General rule -> first argument is the source & second argument is the destination
 
+## Compiling Code C
+
+linux -> `gcc name_of_script.c -o compiled_file_name`
+
+mac -> `clang name_of_script.c -o compliled_file_name`
+
 ---
 ### Reference

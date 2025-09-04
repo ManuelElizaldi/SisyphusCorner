@@ -1,5 +1,7 @@
 [[Container]] [[ECS]] [[Container Orchestration]] [[ECR]]
 # AWS ECS
+Fully managed container orchestration service that helps you more efficiently deploy, manage and scale containerized applications. 
+
 Containers are horizontally scaled 
 
 Managed Kubernetes - you give me the container and I can manage everything else

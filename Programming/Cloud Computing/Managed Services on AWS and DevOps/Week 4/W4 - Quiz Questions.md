@@ -29,3 +29,5 @@ The `docker exec` command runs a new command in a running container. Using it 
 How long does a container stay in the running state if it is not manually halted?
 As long as the container’s PID 1 is running
 Container’s PID 1 is the application process that keeps the container alive. As soon as PID 1 finishes its task and exits, the container also goes into the exited state and is removed if the --rm was used to create it.
+
+

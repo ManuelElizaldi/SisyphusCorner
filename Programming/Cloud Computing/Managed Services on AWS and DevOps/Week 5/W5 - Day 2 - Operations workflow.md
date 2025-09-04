@@ -1,5 +1,4 @@
 [[Dev Ops]]
-
 # Deploying code tools 
 AWS CodeCommit, CodeBuild, CodePipeline - help to automate the code deployment process and make it easier for developer to quickly deploy their code
 
@@ -54,4 +53,5 @@ Aspects file - specifies how the environment is deployed, the SysAdmin/DevOps pe
 - Similar to a Dockerfile 
 
 #### In place deployment 
-Takes the existing environment and pushes the new version there. 
+Takes the existing environment and pushes the new version there. Only use if you are absolutely sure your environment wont break 
+
