@@ -1,4 +1,7 @@
 [[SSH]] [[DevOps]] [[Development]] [[CodeCommit]]
+
+# Code Workflow TIO
+
 ## EC2 - Dev Environment
 First you launch a dev environment inside EC2 - no special specs here.
 
@@ -100,3 +103,83 @@ After running that, your usual git add, git commit commands are used to push to 
 3. git status
 4. git commit -a -m “First commit”
 5. git push origin master
+
+# Code Build
+building your code base and creating the artifact you store in S3 
+
+when Code Build is triggered -> Build environment - docker image - where source code compiles
+- You can also create your own custom docker image 
+- as the build progresses, you can have notifications through SNS = integration Code Build + SNS. This keeps you up to date as the code builds.
+
+![[Pasted image 20250904122455.png]]
+
+CloudWatch can monitor CodeBuild 
+SNS Topic -> Cloud Watch rule for event and select Code Build
+
+## Build Environment 
+This build environment uses the source code
+
+There are out of the box build environments that amazon can provide
+
+There is a table inside the documentation that specifies which build environment version is needed for your programming language
+### Build specification file - buildspec.yaml
+buildspec is a collection of build commands and related settings, in YAML format, that CodeBuild uses to run a build. You can include a buildspec as part of the source code or you can define a buildspec when you create a build project.
+
+This config file contains all the instructions on how to build your code. 
+
+*Environment variables* -> in build environment you can declare variables for different uses. For example, you can declare a variable for the region of your Elastic Container Registry (ECR)
+- You can create custom or use a standard set of variables
+
+*Phases* -> you can also set phases, for example: first update the system, then download the libraries, etc. 
+
+**The build specification file is just a set of instructions for the build environment**
+
+## Code workflow 
+Grab source code from CodeCommit -> execute the build spec file -> when build process is done, you can grab the artifact from the S3 bucket
+
+# CodeBuild Project Setup
+We first need a place to generate and store the artifacts - you create a bucket inside S3 -> destination of the build process
+
+Build artifacts can store a lot of space. So we need to implement a clean up process: *life cycle*
+
+*life cycle* -> how long files live, after some days, the buildspec file will be deleted. 
+
+## Building a project
+Inside CodeBuild, you create a *project*.
+
+*Build badge* -> optional setting for public repos like open source projects
+
+You determine the source of the code:
+- CodeCommit
+- S3 Bucket
+- Github
+- BitBucket
+- Or no source
+	- for no source, you can do a git clone of other repo but you are not connecting it to a repo 
+
+Hook of the code to a specific *commit id, branch, or git tag*. It's better to use the branch option so anybody can push 
+- you can have multiple branches attached 
+
+Inside the *Build project* you also choose the build environment:
+- You can choose a standard image
+- or a custom image 
+
+You also declare a *role* that we are using to determine the permissions 
+
+in the *buildspec file* you can insert a file or you can program it in there. 
+
+artifact or no artifact 
+
+you can tar ball your buildspec files
+
+logs -> creates a log group for CloudWatch
+- you decide if your logs go to S3 
+
+
+After all of this you fire up the project and see if it creates the artifact 
+
+clicking on Start Build, it does not automate it, it does not create a pipeline. It just starts it. That comes with *Code Deploy*. 
+
+Once its build, you can edit the configs that we created in the creation process. 
+
+

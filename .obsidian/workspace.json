@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Day 3 & 4 - Code Workflow TIO.md",
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 Class - 09.07.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W5 - Day 3 & 4 - Code Workflow TIO"
+              "title": "W5 Class - 09.07.2025"
+            }
+          },
+          {
+            "id": "d0588bd8bbabe02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 6/Practice Quiz Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice Quiz Questions"
             }
           },
           {
@@ -27,16 +41,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Quiz Questions.md",
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Summary Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W5 - Quiz Questions"
+              "title": "W5 - Summary Notes"
+            }
+          },
+          {
+            "id": "b29931c89aad6515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Quiz Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W4 - Quiz Questions"
+            }
+          },
+          {
+            "id": "1bb632cbaa1906b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Quiz Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W3 - Quiz Questions"
+            }
+          },
+          {
+            "id": "708d47156e06f1d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Quiz Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W2 - Quiz Questions"
+            }
+          },
+          {
+            "id": "00b532166367395d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Quiz Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W1 - Quiz Questions"
+            }
+          },
+          {
+            "id": "a22afc3f905ca7f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - 08.25.25 - Class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W4 - 08.25.25 - Class"
+            }
+          },
+          {
+            "id": "1a787dc726b2afe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 6/W6 - Day 1 - CloudFormation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W6 - Day 1 - CloudFormation"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -186,30 +284,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "da79fa2282b0f761",
+  "active": "1a787dc726b2afe7",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Day 3 & 4 - Code Workflow TIO.md",
+    "Pasted image 20250910160242.png",
+    "Pasted image 20250910160157.png",
+    "Pasted image 20250910155904.png",
+    "Pasted image 20250910155831.png",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Summary Notes.md",
+    "Pasted image 20250910154639.png",
+    "Pasted image 20250910154622.png",
+    "Pasted image 20250910154537.png",
+    "Pasted image 20250910154529.png",
+    "Pasted image 20250910154507.png",
+    "Pasted image 20250910154453.png",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Quiz Questions.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 6/Practice Quiz Questions.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 Class - 09.07.2025.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - 08.25.25 - Class.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 1/W1 - Quiz Questions.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 2/W2 - Quiz Questions.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Quiz Questions.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Quiz Questions.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 6/W6 - Day 1 - CloudFormation.md",
+    "Pasted image 20250909191125.png",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 6",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Day 5 - CodeDeploy Principles.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Day 3 & 4 - Code Workflow TIO, CodeCommit, CodeBuild, CodeBuild Project setup.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 3 & 4 - Amazon Elastic Container Services, ECR & ECS.md",
     "Programming/SSH.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Day 2 - Operations workflow.md",
     "Writing/Entries/Chilaquiles and Murakami.md",
-    "Pasted image 20250902214909.png",
     "Programming/CLI Commands.md",
     "Programming/C Playground/Chapter 1 - Introduction, printf, floats, Celsius to Fahrenheit.md",
     "Programming/Game Development/🧠 Overall Strategy.md",
     "Programming/Game Development/Week 1 & Week 2 Notes.md",
     "Programming/C Playground/Chapter 1.3 - The for statement, symbolic constants & Chapter 1.5 - Input and Output.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 3 & 4 - Amazon Elastic Container Services, ECR & ECS.md",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Quiz Questions.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Day 1 - DevOps on AWS, CloudTrail, AWS Storage Gateway, Snowball, Snowmobile.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Class Notes - 08.17.2025.md",
     "Writing/Writing Ideas.md",
     "Writing/Entries/Running For My Problems.md",
-    "Pasted image 20250826184656.png",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 3/W3 - Quiz Questions.md",
-    "Pasted image 20250826183018.png",
-    "Pasted image 20250826182804.png",
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5",
-    "Writing/Entries/Running as meditation.md"
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5"
   ]
 }
