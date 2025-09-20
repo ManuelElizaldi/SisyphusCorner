@@ -1,4 +1,4 @@
-2025-5-6
+ 2025-5-6
 Tags: [[Programming]] [[Game Development]] [[Gaming]] [[Python]]
 
 Using pygame to start with
