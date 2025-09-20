@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e44d30a31e60bab",
+        "id": "481fa7542c0780c6",
         "type": "tabs",
         "children": [
           {
-            "id": "adc05eeb57bdf1c0",
+            "id": "b8d53e58f04a0163",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Ansible",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,10 +171,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "adc05eeb57bdf1c0",
+  "active": "b8d53e58f04a0163",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 6/W6 - Day 1 - CloudFormation, Jenkins.md",
+    "Writing/Entries/Internal Inevitable Adjustment.md",
+    "Programming/Cloud Computing/Intro Week/Intro - Day 5 - Recap, Monitoring, CICD, IoT, Monitoring, What Cloud can't do.md",
     "Writing/Entries/Chilaquiles and Murakami.md",
+    "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 6/W6 - Day 1 - CloudFormation, Jenkins.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 6/Class Notes - 09-14-2025.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Project/Dev Ops - Project Notes.md",
     "Pasted image 20250916180903.png",
@@ -209,7 +211,6 @@
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 4/W4 - Day 3 & 4 - Amazon Elastic Container Services, ECR & ECS.md",
     "Programming/SSH.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5/W5 - Day 2 - Operations workflow.md",
-    "Programming/C Playground/Chapter 1 - Introduction, printf, floats, Celsius to Fahrenheit.md",
     "Programming/Cloud Computing/Managed Services on AWS and DevOps/Week 5"
   ]
 }
