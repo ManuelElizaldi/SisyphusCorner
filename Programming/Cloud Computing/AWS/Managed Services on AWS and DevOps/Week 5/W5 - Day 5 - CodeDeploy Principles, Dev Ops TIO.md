@@ -27,8 +27,10 @@ First we launch an EC2 instance - basic set up, linux system.
 > [!NOTE] TIO - Pending
 > Due to version mismatch and AMI not available I left this exercise pending. 
 
-# Elastic Beanstalker 
+# Elastic Beanstalk 
+End to end web application management 
 
+Helps you deploy and scale web applications and services developed with different programming languages. 
 
 
 # AWS CodePipeline Advanced DIY Exercise
@@ -40,3 +42,16 @@ Objectives:
 Created key pair 
 
 Created role - for EC2 and added permission AWSElasticBeanstalkWebTier
+
+Inside Elastic Beanstalk we create an application on PHP platform running on a Amazon Linux 2023 - application code set to sample and presets to single instance 
+
+When configuring service we added an AWS elastic beantalk service role and the previous EC2-elb-role 
+
+we didn't set up a network, database, instance traffic scaling nor monitoring capabilities but they are available. 
+
+After that we create our service 
+
+Creating CodePipeline - connects to github, depending on 
+
+
+elastic beanstalk -> github -> code build 
