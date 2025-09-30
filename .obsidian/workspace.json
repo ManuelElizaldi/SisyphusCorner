@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "a7e347b5ba7b130d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Summary Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1 - Summary Notes"
-            }
-          },
-          {
             "id": "a304923a3608bd03",
             "type": "leaf",
             "state": {
@@ -55,30 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Azure VM Fundamentals - Quiz Questions.md",
+                "file": "Programming/Cloud Computing/Azure/Azure Intro/Week 2/Week 2 - Day 2 - Virtual Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1 - Azure VM Fundamentals - Quiz Questions"
+              "title": "Week 2 - Day 2 - Virtual Networking"
             }
           },
           {
-            "id": "c4bdb76bd4029c7a",
+            "id": "6151414922c15ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Day 1 - Azure Intro.md",
+                "file": "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Day 5 - VM Extensions, Scale Sets (ASGs).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1 - Day 1 - Azure Intro"
+              "title": "Week 1 - Day 5 - VM Extensions, Scale Sets (ASGs)"
+            }
+          },
+          {
+            "id": "be93c8c5cb4cb34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Entries/Chilaquiles, Nostalgia and Murakami.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chilaquiles, Nostalgia and Murakami"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,30 +230,34 @@
   },
   "active": "bc282a9c4be2cafb",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Class - 09-28-25 - Azure into.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Azure VM Fundamentals - Quiz Questions.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Summary Notes.md",
-    "Pasted image 20250928144810.png",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 2/Week 2 - Day 1 - Security Groups and Networking Rules.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 2/Week 2 - Day 2 - Virtual Networking.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Day 5 - VM Extensions, Scale Sets (ASGs).md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Day 1 - Azure Intro.md",
+    "Writing/Entries/Chilaquiles, Nostalgia and Murakami.md",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Summary Notes.md",
+    "Pasted image 20250929180738.png",
+    "Pasted image 20250929180728.png",
+    "Pasted image 20250929180713.png",
+    "Pasted image 20250929180703.png",
+    "Pasted image 20250929180647.png",
+    "Pasted image 20250929180629.png",
+    "Pasted image 20250929174908.png",
+    "Pasted image 20250929173911.png",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Day 1 - Azure Intro.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 2",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Azure VM Fundamentals - Quiz Questions.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Class - 09-28-25 - Azure into.md",
+    "Pasted image 20250928144810.png",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 4/W4 - 08.25.25 - Class.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Day 3 & Day 4 - VMs.md",
     "Pasted image 20250928101725.png",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Week 1 - Day 2 - Azure Networking Components.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 1/Class - 09-28-25 - Azure Into.md",
-    "Pasted image 20250926165749.png",
-    "Pasted image 20250926165748.png",
-    "Pasted image 20250924153637.png",
-    "Pasted image 20250923170709.png",
     "Writing/Entries/Chilaquiles, Talking Cats, Nostalgia and Murakami.md",
     "Programming/Cloud Computing/AWS/Cloud Computing In AWS/Week 2/W2 - Day 1 - Elastic Load Balancer, ALBs, LCU Load Balancer Capacity Unit, Rule evaluation.md",
     "Programming/Cloud Computing/Intro Week/Intro-Day 2 - Cloud Attributes, Offerings, Deployment Model, Utilization, Elasticity.md",
-    "Pasted image 20250922193821.png",
     "Prayer of Serenity.md",
-    "Pasted image 20250922193728.png",
-    "Pasted image 20250922193730.png",
-    "Pasted image 20250922193725.png",
     "Programming/Cloud Computing/Intro Week/Intro-Day 1 - Basic Definitions of the Cloud.md",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 5/W5 - Quiz Questions.md",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 5/W5 - Day 5 - CodeDeploy Principles, Dev Ops TIO.md",
@@ -263,13 +267,10 @@
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 4/W4 - Day 5 - Deploying a Gen AI application in a container.md",
     "Programming/Cloud Computing/AWS/Cloud Computing In AWS/Deploying a Large Language Model (LLM)using IaaS - Optional Project.md",
     "Programming/Protocol.md",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 6/Class Notes - 09-14-2025.md",
-    "Programming/Cloud Computing/Prework/Cloud Computing - Business Case.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 1",
     "Programming/Cloud Computing/Azure/Azure Intro",
     "Programming/Cloud Computing/Azure",
     "Programming/Cloud Computing/AWS",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 6/Week 6 Summary Notes.md",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Project",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 6",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 5"

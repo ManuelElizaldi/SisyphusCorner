@@ -30,7 +30,7 @@ Free of cost
 This is an optional setting 
 
 # Extensions
-Running power shell scripts in VMs 
+You can install the custom power shell scripts to run run power shell scripts in VM inside the Advanced tab in the VM creation
 
 Deploy anti virus can be done here 
 

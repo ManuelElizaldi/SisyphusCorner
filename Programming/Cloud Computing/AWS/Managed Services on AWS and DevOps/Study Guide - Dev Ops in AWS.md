@@ -1,8 +1,4 @@
-# Index Cards
-
-Of course. If you want to create a set of index cards to understand the main ideas of DevOps in the AWS cloud, here are the key concepts drawn from the sources.
-
----
+----
 
 ### Index Card 1: DevOps Philosophy
 
