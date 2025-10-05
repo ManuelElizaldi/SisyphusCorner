@@ -27,6 +27,12 @@ UDP vs TCP -> Speed vs reliability
 
 *All ICMP - IPv4* -> ICMP (Internet Control Message Protocol) is used for network diagnostics and communication, not data transfer
 
+*IPSec Tunnel (IKE)* v1 and v2 
+
+*SSTP Tunnel*
+
+
+----
 ### Reference
 
 ChatGPT conversation

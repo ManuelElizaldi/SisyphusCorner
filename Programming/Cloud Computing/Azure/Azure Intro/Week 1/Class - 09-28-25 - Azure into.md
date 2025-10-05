@@ -62,7 +62,7 @@ Connects to one region
 VPC Peering can be slow, so use Virtual WAN 
 
 ## Azure Landing Zone
-
+Template for 
 
 
 

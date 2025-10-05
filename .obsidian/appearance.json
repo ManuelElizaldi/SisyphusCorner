@@ -1,6 +1,9 @@
 {
-  "cssTheme": "Dracula Official",
+  "cssTheme": "Obsidian Nord",
   "theme": "obsidian",
   "accentColor": "#69b9d3",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "Roboto Mono",
+  "monospaceFontFamily": "Roboto Mono",
+  "textFontFamily": "Roboto Mono",
+  "baseFontSize": 16
 }
