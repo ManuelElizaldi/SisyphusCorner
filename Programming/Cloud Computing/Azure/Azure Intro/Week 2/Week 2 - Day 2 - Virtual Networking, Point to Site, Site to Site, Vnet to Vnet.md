@@ -41,7 +41,7 @@ This connection happens through the VPN Gateway that has a public IP
 
 In this connection type, traffic is flowing through the *Azure backbone network - Microsoft's own private network*
 
-**In S2S and P2S connection, traffic flows through the internet unless you use another service to route traffic through a private network **
+**In S2S and P2S connection, traffic flows through the internet unless you use another service to route traffic through a private network**
 
 ![[Pasted image 20250930145424.png]]
 

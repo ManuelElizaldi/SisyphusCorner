@@ -1,6 +1,6 @@
 ----
 
-### Index Card 1: DevOps Philosophy
+### Index Card 1: DevOps Philosophy ✅
 
 - **Core Goal**: To deliver applications and services at a high velocity by evolving and improving products faster than organizations using traditional software development models. It aims to prevent silos and foster collaboration between development and IT operations teams.
 - **Key Practices**:
@@ -10,7 +10,7 @@
 
 ---
 
-### Index Card 2: Infrastructure as Code (IaC)
+### Index Card 2: Infrastructure as Code (IaC) ✅
 
 - **Concept**: Managing and provisioning infrastructure through machine-readable definition files (code), rather than through manual processes. This makes your infrastructure reusable, maintainable, extensible, and testable.
 - **AWS CloudFormation**:
