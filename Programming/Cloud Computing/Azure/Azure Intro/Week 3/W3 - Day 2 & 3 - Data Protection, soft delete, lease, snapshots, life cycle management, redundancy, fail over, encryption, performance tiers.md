@@ -46,3 +46,38 @@ This needs to be enabled if you plan to use *shared access signature*
 Limited rights key 
 
 at the storage account level, at container level, at individual file level 
+
+### Creating a SAS - file level
+Temporary access. 
+
+You go into the file/blob and in the settings, you will find a tab that says *Generate SAS*. Here you define what permissions you want to give. 
+
+Inside this settings window you define the start and expire dates 
+
+You can define what IP addresses have access 
+
+You can also determine the protocols for allowed  
+
+You need the blob SAS URL to access the file, this is a URL that combines the key and the URL 
+
+### Creating a SAS - Storage account level
+You can determine to what storage service you want to give permission 
+
+You also define what permissions 
+
+Resource types -> service, container, object 
+
+You give access to all the containers 
+
+Same expiration settings from file level are available 
+
+## SAS Token
+Once generated, you can't see how many you have generated and to who you have given them
+
+### Controlling SAS Tokens -> Stored Access policies
+You control time frame and permissions of SAS keys
+
+*For example* -> you give 100 and are linked to one policy. You can delete the policy and then all the tokens will be invalid
+
+gives the ability to manage SAS Tokens
+
