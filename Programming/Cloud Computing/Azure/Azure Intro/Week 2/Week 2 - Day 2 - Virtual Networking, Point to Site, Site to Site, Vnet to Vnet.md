@@ -16,6 +16,7 @@ VPN establishes a connection using the protocols
 
 # Site to Site Connection 
 Connecting the on prem VPN gateway and the cloud virtual network - via the VPN gateways
+- VPN Gateways cost money
 
 Creating another VPN Gateway in the cloud that acts as a bridge between the on prem and the cloud.
 

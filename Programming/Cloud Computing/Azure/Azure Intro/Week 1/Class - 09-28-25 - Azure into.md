@@ -59,14 +59,23 @@ Connects on prem to the Azure cloud
 Connects to one region
 
 ## Virtual WAN 
-VPC Peering can be slow, so use Virtual WAN 
+VPC Peering can be slow, so use Virtual WAN to connect on prem, to VMs to VNETs
+![[Pasted image 20251006182118.png]]
+
 
 ## Azure Landing Zone
-Template for 
+Represents the foundation to start building on the cloud. It's a predefined environment that provides a basic blueprint
 
+## Network Access Control list
+Controls inbound and outbound traffic at the subnet level. Stateless, you have to define both inbound and outbound 
 
+# Availability Set
+Logical groupings of VMs spread of between update domains and fault domains for higher availability. 
+## Fault Domain 
+Group of VMs that if one goes down, they all go down together. Fails together 
 
-
+## Update Domain 
+Planned maintanance. Group of VMs that get updated or rebooted together. 
 
 ---
 ### Resources

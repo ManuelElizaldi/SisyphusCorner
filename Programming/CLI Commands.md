@@ -29,5 +29,12 @@ linux -> `gcc name_of_script.c -o compiled_file_name`
 
 mac -> `clang name_of_script.c -o compliled_file_name`
 
+## Powershell ipconfig
+Gives you ip information
+
+
+
+
+
 ---
 ### Reference
