@@ -114,3 +114,26 @@ Once you create a rule you have to make sure the network security group allows t
 
 *client IP and protocol* -> 3 tuple algorithm, session persistence 
 
+# VM SS (scale set) ARM Template using GenAI
+Objective of TIO -> Create a VM scale set and a Azure Resource Manager template
+![[Pasted image 20251019184959.png]]
+
+In order for the auto scaling to work I had to go to resource providers and register for `microsoft.insights` once I had that in my account I could enable the auto scaling for my scale set. 
+
+I tried deleting and seeing if the VMs came back up but they didn't, until I registered for microsoft.insights
+
+My VMs are launching with an 'unhealthy tag', troubleshooting I found: that the status was Running and the Provisioning State is succeeded, therefore the Health state: Unhealthy means that there is something wrong with the health check of the application load balancer 
+
+- also when I hit the public ip of the vm get this `**52.146.18.68** refused to connect.`
+- A potential issue is that my orchestration mode is flexible inside the auto scale group/scale set
+- The load balancer is doing its health probes through port 80 with TCP 
+#### According to ChatGPT
+My application was not working because Python's default HTTP server listens to port 5000 or 8000 not 80. So when we set up the health probe for port 80 it was not reaching it 
+
+VMs can be running and operational but still marked as unhealthy if the load balancer can't reach them 
+
+
+**Load balancers will never forward traffic unless the health probe is marked as Healthy**
+### Flexible Orchestration
+Gives you more control over how the scale set scales. Azure doesn't auto scale, rather you do it through APIs, azure does not auto recreate VMs
+

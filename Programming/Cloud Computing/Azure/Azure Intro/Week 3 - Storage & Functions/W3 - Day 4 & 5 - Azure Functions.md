@@ -49,7 +49,7 @@ There are many triggers
 
 *Output Binding* -> Write the data to a sink without writing much code. You decide where the product/output of the function will be stored. Message, email, file, etc. 
 
-# Creating a Function
+# Creating a Function - PaaS
 *Function App* When creating a function app, it will ask you to choose a code or a container 
 
 it asks you for what *run time* you want to use, version and in which region it will be executed
@@ -124,8 +124,40 @@ as soon as a new file lands in the container, the function will trigger
 - *can you track a specific file?*
 
  
+# Hosting Plans
+When you create a function, you must choose how this is hosted. 
 
+## App Service Plan
+You create infrastructure (PaaS) VMs, use any existing app service plan instances
 
+Function default timeout is 30 mins, but can be changed to unlimited
 
+Scaling here takes a bit more time since you are creating a VM 
 
+Runs continuously - you pay for the number of instances that are running 
+
+## Consumption Plan
+Serverless platform, no dedicated infrastructure. You just provide the code. 
+
+You only pay for execution - if it's consuming 10 ACUs and 28 mb of memory, you pay for that 
+
+if your function does not finish in 5 minutes it auto terminates, you can bump up this to 10 mins. 
+
+There is a cold start to this plan -> code needs to be loaded into memory
+
+small instance size 
+## Premium Plan
+Pre warmed workers with no delay in execution. It automatically scales depending on the demand and executes the functions.
+
+code always remain in memory 
+
+Function default timeout is 30 mins, but can be changed to unlimited
+
+You can choose the instance size that you want and you pay for the number of instances 
+### Comparison
+All hosting plans auto scale
+
+you pay for execution in consumption 
+you pay for the number of instances in premium and app 
+![[Pasted image 20251016181241.png]]
 

@@ -162,3 +162,67 @@ sync copy
 
 prevents against data center failure 
 
+## Geo redundant storage - GRS
+![[Pasted image 20251015180305.png]]
+
+You upload the file, 3 copies get created and then another set of 3 copies are created in another data center/availability zone
+
+primary -> sync copy
+secondary -> async copy -> happens in the background 
+
+prevents against regional failures 
+
+cost increases because you are using 2 regions 
+
+*problem with this approach* -> if region 1 goes down, data is safe in the secondary region, but you can't access this. So to access this you have to wait for region 1 to be back up. You can also perform a *fail over* -> region 2 becomes the primary and you can access your data 
+
+Prevents against regional failure
+## Read Access Geo Redundant Storage (RA-GRS)
+![[Pasted image 20251015180947.png]]
+
+Same as GRS, but your data is has read access in the secondary availability zone. 
+
+This gives higher availability 
+
+## Geo Zone Redundant Storage (GZRS)
+![[Pasted image 20251015181544.png]]
+
+3 copies in each data center in one region, then the secondary has 3 copies of your data in one data center
+
+primary does sync copies and on the secondary its async 
+
+Prevents against regional and data center failure 
+
+
+## Read Access Geo Zone Redundant Storage (RA-GZRS)
+![[Pasted image 20251015181807.png]]
+
+Same as RA-GRS but has read access in the secondary availability zone
+
+prevents against regional and data center failures + higher availability 
+
+## Setting up the Redundancy Options
+There is something called *Regional Pairs*, if you choose region x, azure pairs it to region y. 
+- example -> East US is always paired with West US, Hong Kong is always paired with Singapore,etc. 
+	- You have to be aware of the policies. Maybe you can't take data from your country and store it somewhere else. 
+
+### Failover
+This is triggered from the Geo Replication set up section in the Storage Account 
+
+After you do this, all your data will be transferred to the secondary AZ and become LRS
+
+# Performance Tiers
+
+*standard* -> tiers to store data: hot, cool and archive. Supports redundancy options and is great for most use cases
+
+*Premium* -> a lot of read and write ops. Data is stored in SSDs, no tiers available. Supports only LRS and ZRS. Great for cases with high transaction and low latency 
+- Big Data projects for example 
+
+This setting in storage account CAN'T be modified after creation.
+
+## Encryption
+Inside storage account, there is an option for encryption. By default everything is encrypted with Microsoft managed keys 
+- Data is encrypted at rest by Microsoft. 
+
+You can also provide your own key and store it in key vault inside azure. 
+
