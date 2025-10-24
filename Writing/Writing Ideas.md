@@ -14,6 +14,17 @@ write a note about where mile comes from
 - Style in gaming 
 	- Graphics and ambiance
 
+What would I do if I had infinite money?
+- Research spin gravity ships
+- satelite mapping for anthropolgy 
+- buy a ski cabin
+- Not time travel, that is a can of worms that I don't want to deal with 
+- instant communication?
+
+Substack and writing made me consume content more critically - analysis characters etc. 
+
+should mexico accept help from the USA to fight the cartels ? historical examples 
+
 What is it about old things that makes me love them and want to keep them forever? + On nostalgia?
 
 ~~Don't let ideas fly away, once gone they will have no place to grow. I was watching mad men and this scene where a creative has the perfect idea for an ad. He was so drunk that he forgot to write it, it was poetic how he refered to the idea flying away. Who hasn't been through that? I want to write something about this feeling. The struggle of having something precious in your hands and then it just goes away.~~ 

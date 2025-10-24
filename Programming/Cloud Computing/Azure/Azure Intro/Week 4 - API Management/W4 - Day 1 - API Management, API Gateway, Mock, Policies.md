@@ -40,7 +40,7 @@ Define or import API, define policies, bundle API products, etc.
 ### Consumer
 Subscribe to products, check API documentation, test APIs, check analytics
 
-# API Management Components 
+# API Management Components
 ## Set up of API management
 In resources you will find API Management Services -> you choose the region where you want it deployed
 

@@ -1,7 +1,4 @@
-[[AI]] [[Manufacturing]] [[Finance]]
-David Cao -> Founder of F50 
-
-Location matters !!
+[AI]
 ## Glen Hamer - Texas Association of Business
 Texas GPD is almost 7th in the world. It's like a country. 
 *I have to read the economic plan by the federal government*: https://www.ai.gov/
@@ -110,7 +107,6 @@ Walker department of mechanical engineering
 ## The Super AI expert panel 
 Aashish Naik - Netspoke cybersecurity 
 AI helps attending thousands of alerts in the cyber security central base
-
 
 Mukul Bafana - Omunin CEO
 
