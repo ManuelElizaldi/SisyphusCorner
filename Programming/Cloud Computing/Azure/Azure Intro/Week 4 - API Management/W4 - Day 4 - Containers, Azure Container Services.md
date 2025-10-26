@@ -45,8 +45,9 @@ Managed service fabric cluster on azure
 Provide subscription, resource group and registry name 
 
 Steps - package application as container 
-Create application -> build application as container image (docker file) -> build the container image (docker build command) -> Push local container image to azure registry
-
+1) Create application
+2) build application as container image (docker file) 
+3) build the container image (docker build command) and Push local container image to azure registry
 
 *Docker file* -> instructions to create the image. There is a VS Code tool to do so
 
@@ -55,3 +56,14 @@ Docker Image is stored locally in the machine running it
 *tagging image* -> from local image to the remote location (Azure Container Registry). `Docker Tag` command
 
 *Pushing image* -> `docker push` command 
+
+`ducker build . -t glfristdocker:v1`
+
+`docker images`
+
+## Logging into the Azure Container Registry 
+`docker login --username username_here server` then enter password
+
+you get the info from the management console inside *Azure Container Registry*:
+![[Pasted image 20251025174554.png]]
+

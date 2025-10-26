@@ -16,18 +16,13 @@ So I wanted to share my top key takeaways and talk a little bit about the challe
 ## Key Take Aways
 
 ### Agents
-Although LLMs have proven to be great tools, they are still evolving. Something AI experts talked about during this summit like Aashish Naik from Netspoke a cybersecurity company, was that AI might not be ready to run whole company departments nor should you trust your production code to AI but what AI is great at is repetitive tasks. Aashish mentioned that Netspoke receives thousands of cybersecurity alerts that end up being false alarms. Here's where AI agents come in. Think of them like little robot helpers, they are trained to do specific tasks. 
+Although 
 
-Based on this discussion I am going to start learning these AI agents to harness in my own projects. 
+
 ### Hardware
-
+The focus of most software developers or people within the coding world was software, but with the rise of AI and physical AI, I estimate that the importance of hardware will slowly increase over time. Think about it, all around us there are signs of the future to come: Smart fridges, washers and dryers that are connected to your phone via an app, internet of things, 
 
 ### Farmers 
-An industry where city folk like me often under appreciate the impact AI can have is agriculture/farming. Farming has great potential to reap the benefits of this new industrial revolution. Due to the high cost of labor and inputs, profit margins tend to be thin. Jaleh Daie from Aurora Equity explained in her presentation that there is an estimate savings potential of 40 to 80 percent. 
-
-One example where AI is already boosting this industry is in Phenotype Analysis. Using different models they can accelerate breeding of different crops. And this is just one example of the potential physical AI offers to benefit farmers 
-
-Taking from this, we might not even know yet what other industries can benefit from this new technology.
 
 ### Texas
 
@@ -49,8 +44,6 @@ Reminiscent of the .com bubble in the 2000s, there are still thoughts about how 
 
 ### Adoption
 [AI Friend Company](https://www.reddit.com/r/interestingasfuck/comments/1nw2100/an_ai_company_just_spent_1_million_on_print/)
-There are many ethical considerations that still linger. New laws will need to be written regarding AI 
-
 
 Ethical concerns, legislature  
 
