@@ -8,6 +8,9 @@ write a note about where mile comes from
 - Why and how Armenia adopted christianity 
 - Necromancer experience 
 - history of cloud computing
+
+How texas is shapping up to be the leader in AI
+I also had the opportunity to learn how my home state, Texas, is setting its self up for success by prioritizing infrastructure to supply new Data Centers and micro chip factories with enough energy to fit their needs combined with the right legal and physical infrastructure 
 ### Discussion
 - Rugby vs futbol *discussion*
 	- I have some notes on my ideas journal
@@ -48,6 +51,8 @@ Identity is found through elimination, once you determine what you are not, you 
 -2 characters, both journalists from Mexico. One from Nuevo Laredo and the other one from Mexico City. The character in Mexico City can be a super commuter, spends most of his day on the public transport. The one from Nuevo Laredo has a simple but arduous life, very monotonous, everything is repeated so much that time almost seams to be blurred. The social experience is different from each other, but it often feels like something. <- This is the idea
 
 The scholar - I have some notes on my notebook 
+
+un meteorito que termina siendo una nave espacial 
 
 
 ### Currently working on:

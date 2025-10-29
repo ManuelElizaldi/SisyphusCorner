@@ -17,10 +17,14 @@ containers are packages of software, it includes everything necessary to run the
 # Azure Container Services
 
 ## Azure Container Registry
-The same as duckerhub, it's where you place the containers
+The same as docker hub, it's where you place the containers
 
 ## Azure Container Instances
 Quick deployment of individual containers. You don't need dedicated infrastructure to use this. 
+
+You can specify exact CPU and memory requirements for a container 
+
+Run windows or linux containers 
 
 ## Azure App Services
 Deploy containers on app services plan 
@@ -66,4 +70,27 @@ Docker Image is stored locally in the machine running it
 
 you get the info from the management console inside *Azure Container Registry*:
 ![[Pasted image 20251025174554.png]]
+
+## Running an instance
+![[Pasted image 20251026163853.png]]
+
+After you clean run instance, it will create an instance and Azure will ask you the name, subscription, container image that it will use, memory, cores, OS type, etc. 
+- Note: If you created a linux container image, you will have to choose linux in this menu. Same for windows, if you don't choose the right one the deployment will fail. 
+- **When it asks you for port number -> you have to choose the same as the front end, there is currently no port mapping like in docker** 
+
+## Deploying Container From App Service
+When you create an app service you can choose to publish from docker container 
+
+In a app service plan you can only deploy container or code, but not both. 
+
+You can choose from various image sources (registries)
+
+
+## Container Groups
+Collection of containers that are deployed on the same host machine. 
+
+Deploy using ARM template or YAML file 
+
+![[Pasted image 20251026170049.png]]
+
 

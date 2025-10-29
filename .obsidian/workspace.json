@@ -50,34 +50,6 @@
             }
           },
           {
-            "id": "dfc132a67cab551d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Intro Week/Intro-Day 3 - Virtualization, Containers, Cloud Service Taxonomy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intro-Day 3 - Virtualization, Containers, Cloud Service Taxonomy"
-            }
-          },
-          {
-            "id": "fdab017731429c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 1 - API Management, API Gateway, Mock, Policies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W4 - Day 1 - API Management, API Gateway, Mock, Policies"
-            }
-          },
-          {
             "id": "a807cde639703529",
             "type": "leaf",
             "state": {
@@ -103,6 +75,20 @@
               },
               "icon": "lucide-file",
               "title": "W4 - Class - 10-26-2025"
+            }
+          },
+          {
+            "id": "e098c672cdfa2f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 4 - Containers, Azure Container Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W4 - Day 4 - Containers, Azure Container Services"
             }
           },
           {
@@ -134,20 +120,6 @@
             }
           },
           {
-            "id": "d40737adfbcf8d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Writing Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writing Notes"
-            }
-          },
-          {
             "id": "0cad70e65cfd23f1",
             "type": "leaf",
             "state": {
@@ -161,8 +133,7 @@
               "title": "Writing Ideas"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SKU",
+                "query": "fault domain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -312,47 +283,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "b770feaa9bf79c97",
+  "active": "507fbe03152ed362",
   "lastOpenFiles": [
-    "Pasted image 20251026104345.png",
-    "Writing/Prompts for MSIS Master Program.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Class - 10-26-2025.md",
-    "Pasted image 20251026100103.png",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 2/W2 - Class - 08-03-2025.md",
-    "Programming/Cloud Computing/Intro Week/Intro-Day 3 - Virtualization, Containers, Cloud Service Taxonomy.md",
     "Notes on F50 AI Summit.md",
     "Writing/Technical/F50 Physical AI Summit.md",
+    "Writing/Writing Ideas.md",
     "Programming/SKU.md",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
+    "Writing/Writing Notes.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Class - 10-26-2025.md",
+    "Pasted image 20251027190345.png",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 4 - Containers, Azure Container Services.md",
-    "Pasted image 20251025174554.png",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 1 - Intro/Class - 09-28-25 - Azure into.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 1 - Intro/Week 1 - Day 5 - VM Extensions, Scale Sets (ASGs).md",
+    "Pasted image 20251026170049.png",
+    "Untitled.md",
+    "Pasted image 20251026163853.png",
+    "Writing/Prompts for MSIS Master Program.md",
+    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 2/W2 - Class - 08-03-2025.md",
+    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 1 - API Management, API Gateway, Mock, Policies.md",
+    "Programming/Cloud Computing/Intro Week/Intro-Day 3 - Virtualization, Containers, Cloud Service Taxonomy.md",
+    "Pasted image 20251026104345.png",
+    "Pasted image 20251026100103.png",
+    "Pasted image 20251025174554.png",
     "Pasted image 20251025091857.png",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 5 - Azure Containers",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 2 - Consuming APIs, Components of API Management, Developer Portal.md",
-    "Writing/Writing Ideas.md",
-    "Writing/Writing Notes.md",
     "Resources/Pasted image 20251021220635.png",
     "Resources/Pasted image 20251008211155.png",
     "Resources/Pasted image 20251021170545.png",
-    "Resources/Pasted image 20251021170141.png",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Quiz.md",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 6/W6 - Day 1 - CloudFormation, Jenkins.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Day 4 & 5 - Load Balancer, load balancer components and rules, scale sets, Azure Resource Manager Template (ARM).md",
-    "Resources/Pasted image 20251019184959.png",
     "Programming/RaspberryPi/NAS Setup on Raspberry Pi.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Day 2 & 3 - Data Protection, soft delete, lease, snapshots, life cycle management, redundancy, fail over, encryption, performance tiers, access tiers, object replication, redundancy options.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Summary Notes.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 1 - Intro/Week 1 - Day 1 - Azure Intro.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Summary Notes.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Quiz.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Day 3 - Setting up Vnet Peering, VM1 to VM2 peering, Vnet to Vnet peerings.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Day 2 - Virtual Networking, Point to Site, Site to Site, Vnet to Vnet.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Day 1 - Security Groups and Networking Rules.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management",
-    "Resources/Pasted image 20251016181241.png",
-    "Resources/Pasted image 20251015181807.png",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3/Untitled",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 1 - Intro",

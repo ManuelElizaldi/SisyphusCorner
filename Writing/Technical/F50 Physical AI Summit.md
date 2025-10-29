@@ -3,27 +3,46 @@ David Cao -> Founder of F50
 
 As someone with a background in economics and a deep passion for history, I have always been interested in the subject of the industrial revolution. You could argue that this historical event still has an impact on the lives of many workers today. But we are in the beginning of a new industrial revolution fueled by microchips, robots and data centers. 
 
-As it is common with any new technology, high expectations and doubts linger in the thoughts of people following the progress of this industry. So to have the chance to attend [F50 Physical AI Summit](https://www.linkedin.com/company/f50/) and hear the thoughts and opinions of top talent was a great opportunity to learn about the current state of AI and what the future could look like.  <- *Might need some improvement in the last sentence*  
+As it's common with any new technology, high expectations and doubts linger in the thoughts of people following the progress its progress. So to have the chance to attend [F50 Physical AI Summit](https://www.linkedin.com/company/f50/) and hear the thoughts and opinions of top talent was a great opportunity to learn about the current state of AI and what the future could look like.  <- *Might need some improvement in the last sentence*  
+ 
 
 Jaleh Daie who works with robots for agriculture and food systems and Ari Gorman who uses robots in the healthcare industry to make processes more efficient (mention drug disposal)
-
 *Message Ari Gorman about his project*
 
-I also had the opportunity to learn how my home state, Texas, is setting its self up for success by prioritizing infrastructure to supply new Data Centers and micro chip factories with enough energy to fit their needs combined with the right legal and physical infrastructure 
+
 
 So I wanted to share my top key takeaways and talk a little bit about the challenges facing this new industry.  
 
 ## Key Take Aways
 
 ### Agents
-Although 
+Most of the focus of AI nowadays is given to LLMs, although they are great tools there are other areas that people are under utilizing.
+
+
+AI Agents are great at mundane and repetitive tasks. It could help people stop wasting their time on these tasks and work on impactful tasks/purposeful tasks
+
+I haven't explored this aspect of AI but I am already thinking about deploying an AI agent that can help me study my obsidian notes.
+
+
+
+Aashish Naik - Netspoke cybersecurity 
+AI helps attending thousands of alerts in the cyber security central base
 
 
 ### Hardware
 The focus of most software developers or people within the coding world was software, but with the rise of AI and physical AI, I estimate that the importance of hardware will slowly increase over time. Think about it, all around us there are signs of the future to come: Smart fridges, washers and dryers that are connected to your phone via an app, internet of things, 
 
 ### Farmers 
+When people discuss the impact AI has on the economy, an industry that often gets overlooked, although it has huge importance for humanity is farming. High cost of labor and inputs plus unpredictable variables causes profit margins to be slim. In recent years [42% of farmers in the US where profitable](https://usafacts.org/articles/farmer-demographics/). That is why there is huge untapped potential for AI to bring benefits to farmers **<- this could be improved**
 
+According to Jaleh Daie from Aurora Equity, AI can bring 40 - 85% savings. One way this new technology is already helping farmers is by deploying phenotype analysis to prevent crop disease and boost their reproductive cycles.  
+
+
+
+https://www.bbc.com/worklife/article/20240325-artificial-intelligence-ai-us-agriculture-farming
+
+
+One example where AI is already [helping farmers increase revenue](https://www.sciencedirect.com/science/article/pii/S2095311923003611)
 ### Texas
 
 
