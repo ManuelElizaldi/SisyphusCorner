@@ -34,7 +34,6 @@ Firefly and plug and play  in cedar park
 ## Srini Bala - Atlas Cloud
 AI 
 
-
 Physical AI - it touches the real world 
 
 IQ Land Phillip Boykin -> real estate AI 
