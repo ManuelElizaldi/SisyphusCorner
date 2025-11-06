@@ -8,45 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "507fbe03152ed362",
+            "id": "cc0a4f43a2a6c8bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Technical/F50 Physical AI Summit.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Day 2 & 3 - Azure Active Directory Connect, Hybrid Identity,Azure Security Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F50 Physical AI Summit"
+              "title": "W1 - Day 2 & 3 - Azure Active Directory Connect, Hybrid Identity,Azure Security Services"
             }
           },
           {
-            "id": "79e0e1a8cb82de52",
+            "id": "1184208b1fedb7b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on F50 AI Summit.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Day 1 - Azure Active Directory Features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes on F50 AI Summit"
+              "title": "W1 - Day 1 - Azure Active Directory Features"
             }
           },
           {
-            "id": "adb1cb67b9a62645",
+            "id": "950eda51b5ac52b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 2/W2 - Class - 08-03-2025.md",
+                "file": "Programming/Bitcoin Lottery Miner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W2 - Class - 08-03-2025"
+              "title": "Bitcoin Lottery Miner"
+            }
+          },
+          {
+            "id": "62d22b112cfff8a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Azure/Azure Intro/Final Quiz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final Quiz"
             }
           },
           {
@@ -61,34 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "Prompts for MSIS Master Program"
-            }
-          },
-          {
-            "id": "b770feaa9bf79c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Class - 10-26-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W4 - Class - 10-26-2025"
-            }
-          },
-          {
-            "id": "e098c672cdfa2f25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 4 - Containers, Azure Container Services.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W4 - Day 4 - Containers, Azure Container Services"
             }
           },
           {
@@ -117,20 +103,6 @@
               },
               "icon": "lucide-file",
               "title": "SKU"
-            }
-          },
-          {
-            "id": "0cad70e65cfd23f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Writing Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writing Ideas"
             }
           }
         ]
@@ -190,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 928.5,
+    "width": 640.5,
     "collapsed": true
   },
   "right": {
@@ -283,24 +255,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "507fbe03152ed362",
+  "active": "cc0a4f43a2a6c8bc",
   "lastOpenFiles": [
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Day 1 - Azure Active Directory Features.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Day 2 & 3 - Azure Active Directory Connect, Hybrid Identity,Azure Security Services.md",
+    "Programming/Bitcoin Lottery Miner.md",
+    "Programming/SKU.md",
+    "Writing/Writing Ideas.md",
+    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
+    "Writing/Prompts for MSIS Master Program.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 4 - Containers, Azure Container Services.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Class - 10-26-2025.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Final Quiz.md",
+    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 2/W2 - Class - 08-03-2025.md",
     "Notes on F50 AI Summit.md",
     "Writing/Technical/F50 Physical AI Summit.md",
-    "Writing/Prompts for MSIS Master Program.md",
-    "Writing/Writing Ideas.md",
-    "Programming/SKU.md",
+    "Pasted image 20251103180356.png",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/Untitled",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Quiz.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure",
+    "().md",
     "Writing/Writing Notes.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Class - 10-26-2025.md",
     "Pasted image 20251027190345.png",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 4 - Containers, Azure Container Services.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 1 - Intro/Class - 09-28-25 - Azure into.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 1 - Intro/Week 1 - Day 5 - VM Extensions, Scale Sets (ASGs).md",
     "Pasted image 20251026170049.png",
     "Untitled.md",
     "Pasted image 20251026163853.png",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 2/W2 - Class - 08-03-2025.md",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 1 - API Management, API Gateway, Mock, Policies.md",
     "Programming/Cloud Computing/Intro Week/Intro-Day 3 - Virtualization, Containers, Cloud Service Taxonomy.md",
     "Pasted image 20251026104345.png",
@@ -311,24 +293,15 @@
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 2 - Consuming APIs, Components of API Management, Developer Portal.md",
     "Resources/Pasted image 20251021220635.png",
     "Resources/Pasted image 20251008211155.png",
-    "Resources/Pasted image 20251021170545.png",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Quiz.md",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 6/W6 - Day 1 - CloudFormation, Jenkins.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Day 4 & 5 - Load Balancer, load balancer components and rules, scale sets, Azure Resource Manager Template (ARM).md",
     "Programming/RaspberryPi/NAS Setup on Raspberry Pi.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Day 2 & 3 - Data Protection, soft delete, lease, snapshots, life cycle management, redundancy, fail over, encryption, performance tiers, access tiers, object replication, redundancy options.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Summary Notes.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 1 - Intro/Week 1 - Day 1 - Azure Intro.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Summary Notes.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Quiz.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3/Untitled",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 1 - Intro",
-    "Programming/Cloud Computing/Azure/Azure Intro",
-    "Programming/Cloud Computing/Azure",
-    "Programming/Cloud Computing/AWS",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Project"
+    "Programming/Cloud Computing/Azure/Azure Intro"
   ]
 }

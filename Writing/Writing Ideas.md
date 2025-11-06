@@ -19,7 +19,7 @@ I also had the opportunity to learn how my home state, Texas, is setting its sel
 
 What would I do if I had infinite money?
 - Research spin gravity ships
-- satelite mapping for anthropolgy 
+- satellite mapping for anthropology 
 - buy a ski cabin
 - Not time travel, that is a can of worms that I don't want to deal with 
 - instant communication?
@@ -30,7 +30,7 @@ should mexico accept help from the USA to fight the cartels ? historical example
 
 What is it about old things that makes me love them and want to keep them forever? + On nostalgia?
 
-~~Don't let ideas fly away, once gone they will have no place to grow. I was watching mad men and this scene where a creative has the perfect idea for an ad. He was so drunk that he forgot to write it, it was poetic how he refered to the idea flying away. Who hasn't been through that? I want to write something about this feeling. The struggle of having something precious in your hands and then it just goes away.~~ 
+~~Don't let ideas fly away, once gone they will have no place to grow. I was watching mad men and this scene where a creative has the perfect idea for an ad. He was so drunk that he forgot to write it, it was poetic how he refereed to the idea flying away. Who hasn't been through that? I want to write something about this feeling. The struggle of having something precious in your hands and then it just goes away.~~ 
 - ~~This might be related in some way but I think the song "waiting on a song is related to this feeling"~~
 - ~~capture God's whispers <- this could be the title~~ 
 
@@ -57,7 +57,7 @@ un meteorito que termina siendo una nave espacial
 
 ### Currently working on:
 - ~~Books that helped me in my career *technical*~~
-- MY AI experiment - Learning Game Development
+- ~~MY AI experiment - Learning Game Development~~
 - Led lights controlled via web server 
 
 

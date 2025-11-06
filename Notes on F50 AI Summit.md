@@ -56,13 +56,11 @@ money is going to made in companies that are full stack -> chips, pigs and shove
 
 PROSEC production security a part from national security 
 
-
 Human autonomy in AI? Capital of autonomy 
 Austin is a leader for sure | use case heaven, like a big laboratory 
 Regulation 
 
 Miami cargo shipping AI 
-
 ## Reimagine investment in the physical world
 Anita Biddappa BVA Operating Partner 
 Lyzz Torres Astronomic Head of Investor Relations 
