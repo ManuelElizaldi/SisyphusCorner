@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Day 1 - Azure Active Directory Features.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Class - 11.09.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W1 - Day 1 - Azure Active Directory Features"
+              "title": "W1 - Class - 11.09.2025"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,22 +270,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "33fb339e352a3539",
+  "active": "1184208b1fedb7b0",
   "lastOpenFiles": [
+    "Pasted image 20251111180132.png",
+    "Pasted image 20251111180120.png",
+    "Pasted image 20251111180109.png",
+    "Pasted image 20251111175612.png",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Day 1 - Azure Active Directory Features.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Class - 11.09.2025.md",
+    "Programming/Bitcoin Lottery Miner.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Final Quiz.md",
+    "Writing/Prompts for MSIS Master Program.md",
+    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
+    "Programming/SKU.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Day 2 & 3 - Azure Active Directory Connect, Hybrid Identity,Azure Security Services, RBAC.md",
     "Pasted image 20251105202114.png",
     "Pasted image 20251105201458.png",
     "Pasted image 20251105201028.png",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Day 4 - Azure Key Vault.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Day 2 & 3 - Azure Active Directory Connect, Hybrid Identity,Azure Security Services, RBAC.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/W1 - Day 1 - Azure Active Directory Features.md",
-    "Programming/Bitcoin Lottery Miner.md",
-    "Programming/SKU.md",
     "Writing/Writing Ideas.md",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
-    "Writing/Prompts for MSIS Master Program.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 4 - Containers, Azure Container Services.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Class - 10-26-2025.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Final Quiz.md",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 2/W2 - Class - 08-03-2025.md",
     "Notes on F50 AI Summit.md",
     "Writing/Technical/F50 Physical AI Summit.md",
@@ -304,14 +309,9 @@
     "Pasted image 20251026163853.png",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 1 - API Management, API Gateway, Mock, Policies.md",
     "Programming/Cloud Computing/Intro Week/Intro-Day 3 - Virtualization, Containers, Cloud Service Taxonomy.md",
-    "Pasted image 20251026104345.png",
-    "Pasted image 20251026100103.png",
-    "Pasted image 20251025174554.png",
-    "Pasted image 20251025091857.png",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 5 - Azure Containers",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 2 - Consuming APIs, Components of API Management, Developer Portal.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Quiz.md",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Week 6/W6 - Day 1 - CloudFormation, Jenkins.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3/Untitled",
