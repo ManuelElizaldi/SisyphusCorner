@@ -1,3 +1,4 @@
+[[Cybersecurity]] [[Cloud Security]]
 # Hybrid Identity 
 On prem users can access on prem applications and cloud resources. You don't have to create all the users in the organization on the cloud. You create a single identity for the user and it is called *hybrid identity*
 
@@ -79,7 +80,7 @@ You require additional infrastructure to use this option
 
 *Azure Key Vault* -> store secrets (passwords, connection strings, etc.)
 
-*Managed Identities* -> Provides as identity to resources 
+*Managed Identities* -> Provides an identity for a resources. One per resource. It creates a service account for the service. Then you don't need to provide credentials for the service to access the Key Vault.  
 - Another type of user that is in azure and we can grant access on different resources 
 
 ## Role Based Access Control
@@ -136,8 +137,79 @@ If you each application is accessing a database, and the sql password is in the 
 
 To solve this, you can create a *key vault* and everything is stored here, including the connection string to the database. Instead of using a connection string to access the database, they can make a call to the key vault.
 
+Using a key vault enables you to not put secrets inside the code. 
+
 ![[Pasted image 20251105201028.png]]
 
 ## Accessing Key Vault with Functions - Service Principal 
 Create a function, which needs authentication, for this we use *service principal*
+
+# Service Principal
+Service account on the on prem environment. A type of user you are creating which has user, user id, password but it can't do interactive authentication. Not in the ID format, its not a proper user that can be added to the active directory. 
+
+Is essentially an Identity used by an application, service or automation tool to access azure resources. 
+- User account for an app 
+
+This is the same as a service account from google API. 
+
+## Creating Service Principal | AAD App
+For this you require the AAD app on your on-prem environment. Once you get this app, you get a user id and password, which can receive permissions to access the key vault. 
+
+Inside the Azure Active Directory, you go to *App Registrations*, click on + New Registration. 
+
+![[Pasted image 20251111192407.png]]
+
+1) Create Azure Active Directory Application. 
+2) Inside the AAD you can find the client id, client secret and tenant ID/directory ID. 
+	1) Inside Certificates and secrets is where you can create a new client secret (password)
+3) Give access to the application from the Key Vault
+	- To give access you go inside the Key Vault -> Access Policies and inside here you can give permissions to your AAD App. You can choose to give access to keys, secrets or permissions. You decide which permissions you give. In the demo shown in the lecture, the professor gave all the permissions in Secrets. You also choose which principal will receive permissions. 
+	
+
+Once you give the necessary permissions:
+If you don't have a function, create one. Inside Code + Test is where you write the code for the function. The professor showed code that has a function that receives the key vault name and secret it wants to access/grab. It also receives the tenant ID, client ID and client secret so that authentication can be performed.  
+
+After you run the function you get a json back with your request.
+
+In case you don't want to type the secret strings (tenant id, client id and secret), you can deploy *Managed Identities*
+### Use case - Azure Function & Key Vault 
+You have a Key Vault and a data base. You also have an azure function that needs to access the database.
+
+For this you create the *AAP App/Service Principal*. The application receives permission to access the Key Vault. 
+
+1) Inside the Azure Function, you can use the AAP user Id (client id) and password (client secret) in your code and use that to authenticate and get a token to access the key vault. 
+2) You give token + secret you want to access to the Key Vault 
+3) Key Vault returns the Secret -> The function can now access the data base 
+
+With these steps you ensure that you don't need to put secrets in your code. 
+![[Pasted image 20251111192116.png]]
+
+# Managed Identities
+This can be deployed to remove the password and user id from the code and still get access to the key vault. 
+
+In previous steps, we had a function that would take in client id, tenant id and client secret. 
+
+When you enable Managed Identities, then there is a AAD App that is created for the particular resource. 
+
+## Setting Up
+Inside the Functions app, you go to *Identity*. System Assigned Managed Identity. It creates a Service Principal that is only applicable to the function app. There can only be one per service. 
+
+You still need to grant permissions from the Key Vault to let the resource access the Key Vault. 
+
+Steps:
+1) Enable *Managed Identity* inside resource. 
+2) Give Access to Managed Identity on Key Vault
+3) The resource can ask for a token from the key vault. Internally it uses the Service Principal from the resource. If permissions are right, then you do get the token back when you run the function (code).
+
+The only thing you need is to point to the right key vault and secret name
+
+### Where is this used
+You can grant Managed Identity to a VM so it can access secrets, functions also use this (very common). In app services. 
+- The VM can be granted identity and the app inside the VM can grab the secret 
+
+Azure Data Factory as well 
+
+
+> [!NOTE] Managed Identity Over All Security Services
+> Managed Identity is the recommended service. It is more scalable and safer than the o
 
