@@ -1,4 +1,4 @@
-[[SQL]] [[Database]]
+[[SQL]] [[Database]] [[NoSQL]] 
 # Azure SQL
 Set of database services in Azure
 
@@ -144,5 +144,65 @@ The benefit of this, is that you have redundant data. So if one node crashes you
 If your disk requirements increase, you can easily scale your data through *horizontal scaling*. 
 - The physical hardware is the only limiting factor. You can store unlimited amount of data. 
 
+The user can fetch data from any location (if his permissions allows him to).
+- compared to a relational database, all the queries go to one place. In NoSQL, there is *higher throughput*. 
+	- It doesn't have to run every query in one single place, only in the available and nearest node. 
 
+You can serve millions of requests per second. It will fetch the data from the nearest location. 
+
+*low latency* is provided by having the nearest and available node fetch the data.  
+
+# Use cases
+e-commerce sites -> each product has different attributes
+
+Content management -> images, videos, text, etc. 
+
+Personalization
+
+Build a network of entities -> for example, linkedin, different types of connections. 
+
+# NoSQL Database Types
+## Key-Value store
+Similar to a dictionary. The key needs to be unique and in the value you can store anything you want. You can store an image, video, text, or combination. 
+
+This is how the computer sees it:
+![[Pasted image 20251113192905.png]]
+
+The only requirement is a unique key 
+
+Optimized for simple look ups 
+## Document stores
+Implementation of a *key value store*. You still have a key (needs to be unique). Each key has a value, the value has a type of schema. Still, its a flexible schema, but it does have some structure (flexible structure).
+
+You can query: `give me the documents where prodcut 2010 has been sold.`
+- This query takes a bit longer since the schema is flexible. 
+
+For example:
+![[Pasted image 20251113193212.png]]
+
+Documents can be different formats, xml, json, yaml, bson, etc. 
+
+## Wide-column/Column family/Column stores
+![[Pasted image 20251113193701.png]]
+
+Column families. You create columns based on the nature of the data. 
+
+You can fetch individual categories of data.
+
+Columns also have flexible schemas, for example you can store names for one user, names and suffix for another, and so on. 
+
+One family is identity and another is contact info. 
+
+Keys are unique
+## Graph Stores
+node and edges 
+![[Pasted image 20251114170525.png]]
+
+Each node is related to another one by edges
+
+Good for relationships between entities
+
+query can look like `list of employees that work in marketing`
+
+queries traversing nodes by using relationships 
 
