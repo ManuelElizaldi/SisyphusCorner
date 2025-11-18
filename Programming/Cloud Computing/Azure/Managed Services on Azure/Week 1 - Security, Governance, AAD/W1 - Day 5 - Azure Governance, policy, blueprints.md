@@ -21,7 +21,6 @@ There are built in, but you can build custom
 
 In blueprint you can include policies, role assignments, resource groups and ARM templates. 
 
-
 ## Azure Policy 
 Can be applied at the subscription level or resource level. 
 

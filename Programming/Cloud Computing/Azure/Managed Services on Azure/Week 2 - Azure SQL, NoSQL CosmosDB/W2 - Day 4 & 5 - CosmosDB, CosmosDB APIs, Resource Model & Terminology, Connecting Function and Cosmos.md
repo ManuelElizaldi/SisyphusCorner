@@ -46,8 +46,7 @@ MongoDB service in Azure, powered by CosmosDB
 You can migrate easily from on prem MondoDB to azure MongoDB and keep the same functionality. 
 
 ## Cassandra API
-*Columnar store *
-
+*Columnar store*
 developed by FB, you can use Cassandra services in Azure powered by CosmosDB. Your on prem data can be migrated to Azure CosmosDB.
 
 You can still use Cassandra libraries and functionality 
@@ -78,7 +77,8 @@ data is encrypted at rest
 
 *Cosmos DB account* is where you specify the account
 
-Within one account you can create *multiple databases *
+Within one account you can create *multiple databases*
+- Just as the professor mentioned, there are companies that have 1 database per business need 
 
 Within each database you can have *containers*. Compared to SQL Relational databases, containers in NoSQL act as servers in RelationalDB.
 

@@ -1,5 +1,5 @@
 **Which of the following database hosting options are available in the Azure SQL family of services?**
-Managed IaaS, PaaS, IaaS
+Managed IaaS, PaaS, IaaS 
 
 Azure SQL is a family of managed, secure, and intelligent products that use the SQL Server database engine in the Azure cloud. These include Azure SQL database, Azure SQL Managed Instance and SQL server on Azure VMs.
 

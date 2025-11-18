@@ -13,26 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL/W2 - Day 1, 2, 3 - Azure SQL, Deployment Methods, Security, CosmosDB.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Quiz - Azure SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W2 - Day 1, 2, 3 - Azure SQL, Deployment Methods, Security, CosmosDB"
+              "title": "W2 - Quiz - Azure SQL"
             }
           },
           {
-            "id": "67efefaed946ce14",
+            "id": "012bef71dfaaf5c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion - How they do things.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1 - Messaging Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notion - How they do things"
+              "title": "W3 - Day 1 - Messaging Services"
+            }
+          },
+          {
+            "id": "6db0238c88ff38b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1 - Messaging Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W3 - Day 1 - Messaging Services"
             }
           },
           {
@@ -41,40 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL/W2 - Day 1, 2, 3 - Azure SQL, Deployment Methods, Security, CosmosDB.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Security, Governance AAD, Policy - Summary Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W2 - Day 1, 2, 3 - Azure SQL, Deployment Methods, Security, CosmosDB"
-            }
-          },
-          {
-            "id": "84954265beb78fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance/W1 - Day 2, 3 & 4 - Azure Security Services -Azure Active Directory Connect, Hybrid Identity,Azure Security Services, RBAC, Service Principal, Managed Identities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W1 - Day 2, 3 & 4 - Azure Security Services -Azure Active Directory Connect, Hybrid Identity,Azure Security Services, RBAC, Service Principal, Managed Identities"
-            }
-          },
-          {
-            "id": "1184208b1fedb7b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance/W1 - Class - 11.09.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W1 - Class - 11.09.2025"
+              "title": "W1 - Security, Governance AAD, Policy - Summary Notes"
             }
           },
           {
@@ -89,20 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "Bitcoin Lottery Miner"
-            }
-          },
-          {
-            "id": "62d22b112cfff8a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Azure/Azure Intro/Final Quiz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Final Quiz"
             }
           },
           {
@@ -148,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fault domain",
+                "query": "output bindin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 640.5,
-    "collapsed": true
+    "width": 499.5
   },
   "right": {
     "id": "b40f7f1996e3dee2",
@@ -300,30 +271,38 @@
   },
   "active": "33fb339e352a3539",
   "lastOpenFiles": [
-    "Resources/Pasted image 20251113190545.png",
-    "Resources/Pasted image 20251113190802.png",
-    "Notion - How they do things.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL/W2 - Day 1, 2, 3 - Azure SQL, Deployment Methods, Security, CosmosDB.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance/W1 - Day 2, 3 & 4 - Azure Security Services -Azure Active Directory Connect, Hybrid Identity,Azure Security Services, RBAC, Service Principal, Managed Identities.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance/W1 - Class - 11.09.2025.md",
-    "Resources/Pasted image 20251112180413.png",
-    "Resources/Pasted image 20251025091857.png",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance/W1 - Day 5 - Azure Governance, policy.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL/Untitled",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
     "Programming/Bitcoin Lottery Miner.md",
-    "Resources/Pasted image 20251111205450.png",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance/W1 - Day 4 - Azure Key Vault.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance/W1 - Day 1 - Azure Active Directory Features.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Security, Governance AAD, Policy - Summary Notes.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Day 4 & 5 - CosmosDB, CosmosDB APIs, Resource Model & Terminology, Connecting Function and Cosmos.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Day 1, 2, 3 - Azure SQL, Deployment Methods, Security, CosmosDB, NoSQL Database Types.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Day 5 - Azure Governance, policy, blueprints.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1 - Messaging Services.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Quiz - Azure SQL.md",
     "Programming/SKU.md",
-    "Resources/Pasted image 20251111192407.png",
-    "Resources/Pasted image 20251111192116.png",
-    "Resources/Pasted image 20251111180132.png",
-    "Resources/Pasted image 20251111180120.png",
-    "Resources/Pasted image 20251111180109.png",
-    "Programming/Cloud Computing/Azure/Azure Intro/Final Quiz.md",
+    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
     "Writing/Prompts for MSIS Master Program.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Final Quiz - Azure Intro.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Day 2, 3 & 4 - Azure Security Services -Azure Active Directory Connect, Hybrid Identity,Azure Security Services, RBAC, Service Principal, Managed Identities.md",
+    "Pasted image 20251117185626.png",
+    "Pasted image 20251117184411.png",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services",
+    "Pasted image 20251116101543.png",
+    "().md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Day 4 & 5 - Azure Functions.md",
+    "Pasted image 20251115134657.png",
+    "Pasted image 20251114174715.png",
+    "Pasted image 20251114170525.png",
+    "Pasted image 20251113193701.png",
+    "Pasted image 20251113193212.png",
+    "Pasted image 20251113192905.png",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Class - 11.09.2025.md",
+    "Resources/Pasted image 20251113190545.png",
+    "Notion - How they do things.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL/Untitled",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance/W1 - Day 4 - Azure Key Vault.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Day 1 - Azure Active Directory Features.md",
     "Writing/Writing Ideas.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 4 - Containers, Azure Container Services.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Class - 10-26-2025.md",
@@ -331,19 +310,11 @@
     "Notes on F50 AI Summit.md",
     "Writing/Technical/F50 Physical AI Summit.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/Untitled",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers/Week 2 - Quiz.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD",
     "Programming/Cloud Computing/Azure/Managed Services on Azure",
-    "().md",
-    "Writing/Writing Notes.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 1 - Intro/Class - 09-28-25 - Azure into.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 1 - Intro/Week 1 - Day 5 - VM Extensions, Scale Sets (ASGs).md",
-    "Untitled.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Day 1 - API Management, API Gateway, Mock, Policies.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 5 - Azure Containers",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 3/Untitled",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions"
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 3/Untitled"
   ]
 }

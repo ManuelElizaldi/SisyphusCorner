@@ -18,7 +18,7 @@ It is scalable and highly available - geographic replication and fail over
 *Azure SQL Databases* -> Fully platform databases. Most features of on-prem SQL server are supported. Cheaper and highly scalable. 
 - You don't need to manage the infrastructure, compared to SQL server on VM
 - Some features are not available, you need to check which are not so it doesn't affect you. 
-- You can pick a database -> MySQL, PostgreSQL, SQL Server 
+****- You can pick a database -> MySQL, PostgreSQL, SQL Server 
 
 *Azure SQL Managed Instance* -> Nearly compatible with on prem SQL server. Managed service, deployed inside virtual network 
 - You don't manage infrastructure 
