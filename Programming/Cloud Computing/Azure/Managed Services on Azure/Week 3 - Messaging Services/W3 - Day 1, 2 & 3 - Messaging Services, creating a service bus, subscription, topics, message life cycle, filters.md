@@ -162,3 +162,45 @@ If the Max Count is reached, then the message is deleted.
 *Peak and lock* -> default mode for azure, you must explicitly complete, abandon or dead letter the message after processing for it to be deleted. 
 
 # Filters 
+Placed after creating subscription
+
+If no filters are placed, all the subscriptions get the message
+
+Topics: A topic receives all messages sent to it. Each topic can have multiple subscriptions.
+
+Subscriptions: Subscriptions receive copies of messages from the topic, but you can use filters to control which messages each subscription actually gets.
+
+## Example of Filters
+
+Topic: “SalesUpdates”
+
+Subscriptions:
+Subscription A filter: region = 'US'
+Subscription B filter: priority = 'high'
+
+Message with properties region = 'US', priority = 'high' will be delivered to both subscriptions.
+
+Message with region = 'EU', priority = 'normal' will not go to either, unless you have a default/subscription with a broader filter.
+
+## Conditions
+Using SQL like syntax you can create filters 
+
+If you say `ProcessWarehouse = 1` in the filter and in the message you are sending you set a custom property `ProcessWarehouse = 1`, the topics that fit this criteria will receive this message
+![[Pasted image 20251119163739.png]]
+
+
+## Partitioning
+Inside topics
+
+*Partitioning* -> After choosing 5GB when creating the topic, after enabling partitioning, the Topic will be 80GB
+
+There will be more message brokers being created when enabling partitioning. 
+
+Allows higher throughput and scale by splitting the data across multiple partitions that can process messages in parallel 
+
+Each message has 16 options of queues. There is higher availability for our queue/topic. 
+- If a subscription crashes, the message can go to the next sub and so on. 
+
+# Storage Queues vs Service Bus
+![[Pasted image 20251119165519.png]]
+

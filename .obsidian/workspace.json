@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1 & 2 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1, 2 & 3 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W3 - Day 1 & 2 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters"
+              "title": "W3 - Day 1, 2 & 3 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1 & 2 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1, 2 & 3 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W3 - Day 1 & 2 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters"
+              "title": "W3 - Day 1, 2 & 3 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters"
             }
           },
           {
@@ -272,13 +272,15 @@
   },
   "active": "012bef71dfaaf5c3",
   "lastOpenFiles": [
+    "Pasted image 20251119165519.png",
+    "Pasted image 20251119163739.png",
     "Pasted image 20251118205003.png",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Security, Governance AAD, Policy - Summary Notes.md",
     "Programming/Bitcoin Lottery Miner.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Day 4 & 5 - CosmosDB, CosmosDB APIs, Resource Model & Terminology, Connecting Function and Cosmos.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Day 1, 2, 3 - Azure SQL, Deployment Methods, Security, CosmosDB, NoSQL Database Types.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Day 5 - Azure Governance, policy, blueprints.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1 & 2 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1, 2 & 3 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Quiz - Azure SQL.md",
     "Programming/SKU.md",
     "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
@@ -297,9 +299,7 @@
     "Pasted image 20251114170525.png",
     "Pasted image 20251113193701.png",
     "Pasted image 20251113193212.png",
-    "Pasted image 20251113192905.png",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Class - 11.09.2025.md",
-    "Resources/Pasted image 20251113190545.png",
     "Notion - How they do things.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL/Untitled",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB",
