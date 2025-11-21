@@ -204,3 +204,5 @@ Each message has 16 options of queues. There is higher availability for our queu
 # Storage Queues vs Service Bus
 ![[Pasted image 20251119165519.png]]
 
+Storage queues is cheaper and holds massive amounts of messages. But storage queue does not have enterprise level features. 
+
