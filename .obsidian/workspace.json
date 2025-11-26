@@ -8,26 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f49b46d7c96a95d1",
+            "id": "7d9ce44ae9557c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Summary Notes.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 4 - Azure Dev Ops/W4 - Day 1 - Dev Ops Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W3 - Summary Notes"
+              "title": "W4 - Day 1 - Dev Ops Intro"
             }
           },
           {
-            "id": "a807cde639703529",
+            "id": "1241f182256945f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Prompts for MSIS Master Program.md",
+                "file": "Writing/Masters/Prompts for MSIS Master Program.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,7 +36,49 @@
             }
           },
           {
-            "id": "3a1009ce13dd7c91",
+            "id": "7bf7a9bd24d6525b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Masters/Prompt 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt 1"
+            }
+          },
+          {
+            "id": "c75916bbf642b5f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Masters/Prompt 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt 2"
+            }
+          },
+          {
+            "id": "d1b9017cc618489e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Masters/Prompt 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt 3"
+            }
+          },
+          {
+            "id": "2d5caf61d88f1297",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,77 +92,21 @@
             }
           },
           {
-            "id": "3b363fe304b1262b",
+            "id": "36407e5116dd9584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Summary Notes - Security, Governance, AAD.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W1 - Summary Notes - Security, Governance, AAD"
-            }
-          },
-          {
-            "id": "950eda51b5ac52b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Bitcoin Lottery Miner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bitcoin Lottery Miner"
-            }
-          },
-          {
-            "id": "00796819befbeaf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study Guide - Dev Ops in AWS"
-            }
-          },
-          {
-            "id": "9ef13911a1509e23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/SKU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SKU"
-            }
-          },
-          {
-            "id": "b50ddc3392910397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 4 - Event Hubs, Partitions, Throughput, Event Grid.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W3 - Day 4 - Event Hubs, Partitions, Throughput, Event Grid"
+              "title": "W2 - Class - 11.16.2025"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "output bindin",
+                "query": "queue based load leveling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 792.5,
-    "collapsed": true
+    "width": 792.5
   },
   "right": {
     "id": "b40f7f1996e3dee2",
@@ -270,52 +255,91 @@
       "bases:Create new base": false
     }
   },
-  "active": "a807cde639703529",
+  "floating": {
+    "id": "8b5ff5fa3cb6855b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4b358baed80dc80f",
+        "type": "window",
+        "children": [
+          {
+            "id": "cf47a0edda5dee22",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ade8727da9926795",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Writing/Masters/Place holder for prompt 3.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Place holder for prompt 3"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1503,
+        "y": 29,
+        "width": 1876,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a4bbd77ddf2deb7d",
   "lastOpenFiles": [
+    "Writing/Masters/Place holder for prompt 3.md",
+    "Writing/Masters/Prompt 3.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 4 - Azure Dev Ops/W4 - Day 1 - Dev Ops Intro.md",
+    "Writing/Masters/Prompts for MSIS Master Program.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - 11.23.2025 - Class.md",
-    "Writing/Prompts for MSIS Master Program.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Summary Notes.md",
-    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
-    "Programming/SKU.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 4 - Event Hubs, Partitions, Throughput, Event Grid.md",
-    "Pasted image 20251123101631.png",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Summary Notes - Security, Governance, AAD.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Security, Governance AAD, Policy - Summary Notes.md",
-    "Programming/Bitcoin Lottery Miner.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025.md",
+    "Resources/Pasted image 20251125173343.png",
+    "Resources/Pasted image 20251125172923.png",
+    "Resources/Pasted image 20251125172301.png",
+    "Resources/Pasted image 20251125172205.png",
+    "Writing/Masters/Prompt 2.md",
+    "Writing/Masters/Prompt 1.md",
+    "Resources/Pasted image 20251118205003.png",
+    "Resources/Pasted image 20251113192905.png",
+    "Resources/Pasted image 20251113193701.png",
+    "Resources/Pasted image 20251123101631.png",
+    "Writing/Masters",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1, 2 & 3 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters.md",
+    "Programming/SKU.md",
+    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
+    "Programming/Bitcoin Lottery Miner.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Summary Notes - Security, Governance, AAD.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Summary Notes.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Quiz.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 4 - Azure Dev Ops",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 4 - Event Hubs, Partitions, Throughput, Event Grid.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Security, Governance AAD, Policy - Summary Notes.md",
     "Programming/Cloud Computing/AWS/Cloud Computing In AWS/Week 4/W4 - Day 1 - Forms of Storage on Cloud, terminology, volumes, IOs.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 5 - ARM Templates.md",
-    "Pasted image 20251121184807.png",
+    "Resources/Pasted image 20251121184807.png",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Summary Notes - API Management.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Final Quiz - Azure Intro.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Summary Notes - Azure SQL and CosmosDB.md",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Summary Notes.md",
-    "Pasted image 20251120204029.png",
+    "Resources/Pasted image 20251120204029.png",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Quiz - Azure SQL.md",
-    "Pasted image 20251120182857.png",
-    "Pasted image 20251119211849.png",
-    "Pasted image 20251119165519.png",
-    "Pasted image 20251119163739.png",
-    "Pasted image 20251118205003.png",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Day 4 & 5 - CosmosDB, CosmosDB APIs, Resource Model & Terminology, Connecting Function and Cosmos.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Day 1, 2, 3 - Azure SQL, Deployment Methods, Security, CosmosDB, NoSQL Database Types.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Day 5 - Azure Governance, policy, blueprints.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Day 2, 3 & 4 - Azure Security Services -Azure Active Directory Connect, Hybrid Identity,Azure Security Services, RBAC, Service Principal, Managed Identities.md",
-    "Pasted image 20251117185626.png",
-    "Pasted image 20251117184411.png",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services",
-    "().md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Day 4 & 5 - Azure Functions.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Class - 11.09.2025.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL/Untitled",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/Untitled",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD",
     "Programming/Cloud Computing/Azure/Managed Services on Azure",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 5 - Azure Containers",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 3/Untitled"
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers"
   ]
 }

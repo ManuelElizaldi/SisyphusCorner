@@ -38,9 +38,14 @@ Receivers connect to the subscriptions to receive the messages added to the queu
 ### Use case for Azure Service Bus
 Each has its advantages. What you use, depends on your application.
 ### Queue Based Load Leveling Pattern
-Email application system. You place marketing emails in your queue then sends them out to your email application.
+messages are being generated and consumed at different paces. - This is why it's called *Queue Based Load Leveling Pattern*
 
-Emails are being generated and consumed at different paces. - This is why it's called *Queue Based Load Leveling Pattern*
+The primary purpose of the **Queue-Based Load Leveling** pattern is to act as a **buffer** between the application (the task/producer) and the service (the consumer/resource).
+
+The producer sends the messages as fast as it needs to, the queue then cab absorb the high amount of messages, acting as a buffer. Then the receiver can pull the messages at its predetermined rate. 
+
+
+Email application system. You place marketing emails in your queue then sends them out to your email application.
 ### Competing Consumer Pattern
 Multiple consumers/receivers of queue which will pick up messages in parallel from the queue and process them. This way you can process even more messages. 
 

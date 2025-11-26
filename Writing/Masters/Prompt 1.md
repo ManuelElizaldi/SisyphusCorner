@@ -1,0 +1,2 @@
+Please address any information that you believe your application would be incomplete without and that sheds more light on your unique potential to succeed in the Master of Science Information Studies program and contribute to the university community and the field or profession.   
+Please limit your responses to 200 - 300 words
