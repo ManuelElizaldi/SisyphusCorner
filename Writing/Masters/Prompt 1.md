@@ -1,38 +1,7 @@
 Please address any information that you believe your application would be incomplete without and that sheds more light on your unique potential to succeed in the Master of Science Information Studies program and contribute to the university community and the field or profession.   
 Please limit your responses to 200 - 300 words
 
-Why succeed in master of science information sutdies
+### What makes me unique
+I started studying medicine because I had the opportunity to volunteer during high school at the red cross in my home town and I found purpose helping people. After one semester of medical school I realized this was not my vocation. I then realized that there were other ways of helping people and transferred to economics. I was attracted to this degree for its historical, physiological and even philosophical nature, alongside my passion for maths. Because I was a student with a scholarship I had to work for the university as a research assistant. I particularly enjoyed reading economic research papers and piecing together our database were we stored the necessary information for our research. The coding and organizing of information was more entertaining to me than the model building aspect 
 
-how can I contribute to the university community and field 
-
-
-
-
-
-What makes me unique -> I have worked as a researcher, at customer satisfaction building machine learning models and data visualizations, had entrepreneur experience building a small business selling ethically sourced coffee and acting as CTO building our website and stock tracking software and have also worked as a business intelligence developer in healthcare 
-
-I believe I have had interdisciplinary experience
-
-
-
-- **Faculty Alignment (Specific Contribution):** Identify a specific **UT Austin MSIS faculty member** and their current research area or lab that aligns directly with your expertise (e.g., ethical AI in healthcare, data management for small business/supply chains). This is mandatory for Body 3's contribution claim.
-
-Ken Fleischmann for his work on ethical AI and participation in the Good Systems initiative
-Ying Ding for her work with Health AI, database design, data semantics
-Jacek Gwizdka his class on human computer interactions
-Michael Mcquaid prompt engineering
-
-    
-- **Field Synthesis (Thesis Focus):** Define the core synthesis of your experience:
-    
-    - **Field 1 (Technical):** Business Intelligence / Machine Learning / Data Visualization.
-        
-    - **Field 2 (Humanistic/Applied):** Healthcare Data Ethics / Small Business Operations / Customer Satisfaction Research.
-        
-    - **Key Topic (Thesis):** The resultant research focus (e.g., _Applying ML Fairness Metrics to Healthcare BI_, _Archiving Ephemeral Small Business Data_).
-        
-- **Quantifiable Evidence (Body 1 Strength):** Select one achievement from your background that can be described with a metric:
-    
-    - _Example:_ "Reduced inventory variance by **X%** using the custom stock tracking software."
-        
-    - _Example:_ "Increased predictive accuracy of the customer satisfaction ML model by **Y points**."
+After the I graduated and faced covid layoff I had to move back to my home town and had time to study in subjects I enjoyed, data analysis, data visualization, python, sql, etc. at a University of Texas coding bootcamp. This led me to get a job at Austin to do data analysis that used data from call centers to perform speech analytics and provide clients with information on how to improve client satisfaction. The clients were varied and each data set was different, which required adaptability and interdisciplinary knowledge. I had clients from landscaping, insurance, banking, tech, etc. Also, since this was a start up, 

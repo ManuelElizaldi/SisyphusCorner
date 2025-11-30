@@ -14,23 +14,11 @@ Why this program -> AI Health + Database management + Human centered data scienc
 . As technology evolves, I envision a future where the patinet bedside functions as an --- continuously streaming vital information into a secure cloud fabric 
 
 ## My ideas:
-Five years from now, I see hospital rooms evolving from care units into a crucial stage for data ingestion. Leveraging the multiple scanners used to track vital signs we can create a data pipeline that continuously stream information into a secure cloud server. This is where I see my future: as a Clinical AI Systems Architect. My goal is to build the infrastructure that captures this massive amount of patient data and funnels it into robust AI model capable of predictive analysis. With this, we can build a tool that enabled the partnership between AI and health providers to give a better care for patients. 
+Throughout my career, I have witnessed technology serving humanity, but five years from now, I envision a future where hospital rooms evolve from simple care units into a crucial stage for a data ingestion process. Leveraging the multiple scanners used to track patients' vital signs, we can create a data pipeline that continuously streams information into a secure cloud server. This is where I see my future: as a Clinical AI Systems Architect. My goal is to work with systems that capture the massive amount of patient data and funnels it into an AI model capable of predictive analysis. With this, we can build a tool that enables the partnership between AI and health providers to offer better care for patients. Likewise, having a cloud database will give us the possibility of having historical patient data, giving providers a holistic view of the patient's health profile.
 
-Of course, a system as complicated as this will require rigorous ethical guardrails to ensure that patient privacy and careful design to 
-algorithmic decisions remain transparent to the clinicians who rely on them.
+Of course, a system as complicated as this will require rigorous ethical guardrails to ensure patient privacy, alongside human centered data science and careful design so algorithmic decisions remain transparent to the clinicians who rely on them. Technical capabilities are useless without user adoption, therefore I want to pursue mastery of human computer relationships to ensure these tools are seamless and trustworthy for providers. 
 
-
-, architectural mastery and a deep knowledge of how to build a system that providers can trust. The classes like human computers relationships are a key part of this facilitating the adoption of this new tool. 
-
-
-
-ensuring that all data from simple patient logs to complex waveform readings is organized, trustworthy, and protected by the highest standards of digital security.
-
-
-This will  This program’s unique curriculum is the bridge between my technical foundation and the ethical, architectural mastery required to engineer these next-generation clinical ecosystems.
-
-
-
+This specific challenge drives my interest in the iSchool's Health AI Lab, particularly the research on Contextualization of Explainable AI (XAI). By learning to bridge the gap between algorithms and human trust, I aim to build the secure, ethical, and transparent architectures necessary to realize this vision of data driven healthcare.
 
 
 
