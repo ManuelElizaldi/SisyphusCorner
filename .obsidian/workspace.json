@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "22602cf9b1fdaa6e",
+    "id": "be92869afac4c51d",
     "type": "split",
     "children": [
       {
-        "id": "a927264c5934dda1",
+        "id": "2157e2bc4a0b90b7",
         "type": "tabs",
         "children": [
           {
-            "id": "723bd366fd0fbfa2",
+            "id": "1241f182256945f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Masters/Prompts for MSIS Master Program.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompts for MSIS Master Program"
+            }
+          },
+          {
+            "id": "7bf7a9bd24d6525b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,22 +34,79 @@
               "icon": "lucide-file",
               "title": "Prompt 1"
             }
+          },
+          {
+            "id": "c75916bbf642b5f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Masters/Prompt 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt 2"
+            }
+          },
+          {
+            "id": "d1b9017cc618489e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Masters/Prompt 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt 3"
+            }
+          },
+          {
+            "id": "2d5caf61d88f1297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - 11.23.2025 - Class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W3 - 11.23.2025 - Class"
+            }
+          },
+          {
+            "id": "36407e5116dd9584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W2 - Class - 11.16.2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "712e556fc4b65224",
+    "id": "68f918424fbc9a12",
     "type": "split",
     "children": [
       {
-        "id": "2830df5dc05850ca",
+        "id": "861997ca0635ea9b",
         "type": "tabs",
         "children": [
           {
-            "id": "d888904a870f0630",
+            "id": "a4bbd77ddf2deb7d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +119,12 @@
             }
           },
           {
-            "id": "461329e038cc3d91",
+            "id": "27137742033dd3d8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "queue based load leveling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +136,7 @@
             }
           },
           {
-            "id": "bb8e481f15b309db",
+            "id": "8bfcb8e3ebcf102c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +149,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 792.5,
+    "collapsed": true
   },
   "right": {
-    "id": "cadd5d580ba3d63f",
+    "id": "b40f7f1996e3dee2",
     "type": "split",
     "children": [
       {
-        "id": "4531c7b1198ea8f9",
+        "id": "d44d338745ff6029",
         "type": "tabs",
         "children": [
           {
-            "id": "9e8fc28136738368",
+            "id": "294677b525ef0d26",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Masters/Prompt 1.md",
+                "file": "Programming/C Playground/Chapter 1.3 - The for statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +176,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prompt 1"
+              "title": "Backlinks for Chapter 1.3 - The for statement"
             }
           },
           {
-            "id": "88933e3bf884a361",
+            "id": "0196e4679202a644",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Masters/Prompt 1.md",
+                "file": "Programming/C Playground/Chapter 1.3 - The for statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prompt 1"
+              "title": "Outgoing links from Chapter 1.3 - The for statement"
             }
           },
           {
-            "id": "18c72b625ff3a7c5",
+            "id": "ef1ded5bb4881104",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +209,22 @@
             }
           },
           {
-            "id": "8eabcb6216210639",
+            "id": "524635853c7cb74e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/C Playground/Chapter 1.3 - The for statement.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 1.3 - The for statement"
+            }
+          },
+          {
+            "id": "a2c6e1155a33744c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,23 +236,9 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "7493746a15f50fc7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Writing/Masters/Prompt 1.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Prompt 1"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,6 +256,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "723bd366fd0fbfa2",
-  "lastOpenFiles": []
+  "active": "7bf7a9bd24d6525b",
+  "lastOpenFiles": [
+    "Writing/Masters/Prompt 2.md",
+    "Writing/Masters/Prompt 3.md",
+    "Writing/Masters/Prompt 1.md",
+    "Writing/Masters/Prompts for MSIS Master Program.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 4 - Azure Dev Ops/W4 - Day 1 - Dev Ops Intro.md",
+    "Writing/Masters/Place holder for prompt 3.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - 11.23.2025 - Class.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025.md",
+    "Resources/Pasted image 20251125173343.png",
+    "Resources/Pasted image 20251125172923.png",
+    "Resources/Pasted image 20251125172301.png",
+    "Resources/Pasted image 20251125172205.png",
+    "Resources/Pasted image 20251118205003.png",
+    "Resources/Pasted image 20251113192905.png",
+    "Resources/Pasted image 20251113193701.png",
+    "Resources/Pasted image 20251123101631.png",
+    "Writing/Masters",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1, 2 & 3 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters.md",
+    "Programming/SKU.md",
+    "Programming/Cloud Computing/AWS/Managed Services on AWS and DevOps/Study Guide - Dev Ops in AWS.md",
+    "Programming/Bitcoin Lottery Miner.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Summary Notes - Security, Governance, AAD.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Summary Notes.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Quiz.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 4 - Azure Dev Ops",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 4 - Event Hubs, Partitions, Throughput, Event Grid.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD/W1 - Security, Governance AAD, Policy - Summary Notes.md",
+    "Programming/Cloud Computing/AWS/Cloud Computing In AWS/Week 4/W4 - Day 1 - Forms of Storage on Cloud, terminology, volumes, IOs.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 5 - ARM Templates.md",
+    "Resources/Pasted image 20251121184807.png",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Summary Notes - API Management.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Final Quiz - Azure Intro.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Summary Notes - Azure SQL and CosmosDB.md",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Summary Notes.md",
+    "Resources/Pasted image 20251120204029.png",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Quiz - Azure SQL.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Day 4 & 5 - CosmosDB, CosmosDB APIs, Resource Model & Terminology, Connecting Function and Cosmos.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL/Untitled",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/Untitled",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 5 - Azure Containers",
+    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers"
+  ]
 }

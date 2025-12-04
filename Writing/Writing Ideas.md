@@ -40,6 +40,9 @@ For AI/algorithm lead life - books vs algorithm - both inspired behavior - have 
 
 Identity is found through elimination, once you determine what you are not, you find who you are. Expansion through reduction
 
+
+Game industry as an economist
+
 ### love letter
 - Love letter to squatting 
 
