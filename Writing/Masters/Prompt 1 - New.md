@@ -3,27 +3,23 @@ Please address any information that you believe your application would be incomp
 
 ---
 
-My journey into informatics started with a revelation. After volunteering in the Red Cross In Mexico, I found purpose in helping others. This led me to study Medicine for a semester, but I soon realized this was not my vocation. I then transferred to Economics and discovered that I could impact people's outcomes more effectively through the power of information than clinical practice. This has led me to view code as a direct instrument of care. 
+My application would be incomplete without understanding that my commitment to informatics was formed through direct experience of the health disparities that affect underserved regions. I volunteered at the Red Cross in Mexico and decided to study Medicine, but after a semester I realized this was not my vocation. I then transferred to economics realizing that I could help people more effectively through the power of information than clinical practice. 
 
-My professional resilience was forged through two layoffs. One during Covid, where I took this as an opportunity to join a coding Bootcamp at University of Texas. Then during the 2023 tech downturn, I did not wait for a new opportunity, I launched an ethically sourced coffee company, where I architected its full digital infrastructure.I believe these experiences give me the self directed learning style necessary to navigate the iSchool’s highly flexible, interdisciplinary curriculum.
+My unique potential to succeed in the MSIS program is defined by technical resilience and cultural fluency. After facing two layoffs, one during Covid, I took this as an opportunity to join a coding bootcamp at University of Texas. Then during the tech downturn in 2023, I did not wait for a new opportunity, I launched an ethically sourced coffee company, where I architected the digital infrastructure. I believe these experiences give me the self directed learning style necessary to navigate the iSchool’s flexible, interdisciplinary curriculum.
 
-Currently, I design data pipelines not just to track metrics, but to ensure patients receive yearly wellness visits. Viewing code as a direct instrument of care.
+Equipped with the cultural fluency to understand the patients we serve, I design data pipelines not just to track metrics, but to ensure patients receive proper care. Viewing data not as abstract numbers, but as the key to improve lives, I use code as a direct instrument of care. My purpose to help others was solidified through my experience volunteering in the Red Cross. 
 
-
-
+This experience, coupled with growing up along the Texas-Mexico border, equips me with the cultural understanding required to address health disparities in underserved Latino communities. Currently, I design data pipelines not just to track metrics, but to ensure patients receive yearly wellness visits—a clear continuation of my original mission to care for the vulnerable.
 
 I am eager to join the iSchool community, transforming my technical skills into tools that ensure no patient is left behind by the digital revolution. 
 
+I will contribute to the university community by leveraging my skill set for the benefit of my peers. As an active technical blogger, I plan to organize workshops with the **Student Association of the School of Information (SASI)**, focusing on practical data engineering and job market resilience. I am eager to join a community dedicated to developing human-centered technology that actively serves and uplifts society.
+
 
 #### Draft 
+My application would be incomplete without understanding that my career has completed a full circle, starting with a basic desire to help people, and returning to healthcare through technical leadership. My initial ambition was solidified by volunteering with the Red Cross in Mexico, though after one semester of Medicine, I realized I could impact patient outcomes more effectively through the power of information than clinical practice.
 
-I aim to bring this practical, patient centric experience to Ying Ding’s AI Health Lab.  Based on my experience I see direct application for my skills in her work on precision medicine, using AI and ML to transform complex medical datasets into actionable insights for the healthcare community.
-
-Furthermore, my work experience has taught me that technology is never neutral. 
-This motivates my desire to contribute to the Good Systems initiative under Dr. Ken Fleischmann. I want to use my time at UT Austin to research how we can build AI architectures that are not only efficient but ethically robust. 
-
-
-Finally, I will contribute to the university community by translating my industry experience into peer mentorship. I plan to organize "Technical Resilience" workshops for the **Student Association (SASI)**, helping peers leverage data engineering skills to navigate a volatile job market. I aim to leave UT not just as a graduate, but as a leader who builds systems that ensure no patient is left behind.
+My unique potential to succeed in the MSIS program is defined by **technical resilience** and **cultural fluency**. After facing two challenging layoffs, I responded by aggressively upskilling in Python/SQL and launching an ethically sourced coffee company, personally architecting its e-commerce and logistics infrastructure. This entrepreneurial experience honed the adaptive, self-directed learning style necessary to thrive in the iSchool’s flexible, interdisciplinary curriculum.1
 
 ---
 
