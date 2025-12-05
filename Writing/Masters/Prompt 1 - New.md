@@ -3,28 +3,27 @@ Please address any information that you believe your application would be incomp
 
 ---
 
-My journey into informatics started with a revelation. After volunteering in the Red Cross In Mexico, I found purpose in helping others. This led me to study Medicine for a semester, but I soon realized this was not my vocation. I then transferred to Economics and discovered that I could impact people's outcomes more effectively through the power of information than clinical practice. 
+My journey into informatics started with a revelation. After volunteering in the Red Cross In Mexico, I found purpose in helping others. This led me to study Medicine for a semester, but I soon realized this was not my vocation. I then transferred to Economics and discovered that I could impact people's outcomes more effectively through the power of information than clinical practice. This has led me to view code as a direct instrument of care. 
 
-My application is incomplete without understanding that
+My professional resilience was forged through two layoffs. One during Covid, where I took this as an opportunity to join a coding Bootcamp at University of Texas. Then during the 2023 tech downturn, I did not wait for a new opportunity, I launched an ethically sourced coffee company, where I architected its full digital infrastructure.I believe these experiences give me the self directed learning style necessary to navigate the iSchool’s highly flexible, interdisciplinary curriculum.
 
-
-my path to Health Informatics was forged through two layoffs. First during Covid, where I took this time as an opportunity to improve my coding skills through University of Austin's Coding BootCamp. Then in 2023 during a period of unemployment where I decided to build my own opportunity selling ethically sourced Mexican coffee, personally architecting the full digital infrastructure. 
-
-I believe these experiences give me the self directed learning style required to *study/take on/* iSchool's flexible, interdisciplinary curriculum. *My career has given me the unique potential in combining technical skills with the clinician's empathy*. Currently, I design data pipelines not just to track metrics, but to ensure patients receive yearly wellness visits. Viewing code as a direct instrument of care.
-
-#### Look into this program - Precision Medicine
-I aim to bring this practical, patient-centric engineering experience to **Dr. Ying Ding’s AI Health Lab**. I see a direct application for my skills in her work on **precision medicine**, helping to transform complex medical datasets into actionable insights for the healthcare community.
+Currently, I design data pipelines not just to track metrics, but to ensure patients receive yearly wellness visits. Viewing code as a direct instrument of care.
 
 
-Furthermore, my diverse work experience has taught me that data is never neutral. 
-This motivates my desire to contribute to the **Good Systems** initiative under **Dr. Ken Fleischmann**. I want to use my time at UT Austin to research how we can build AI architectures that are not only efficient but ethically robust. 
 
 
 I am eager to join the iSchool community, transforming my technical skills into tools that ensure no patient is left behind by the digital revolution. 
 
-I have continued to share knowledge in the Tech community through articles I have written on the advancements of AI and coding. 
+
+#### Draft 
+
+I aim to bring this practical, patient centric experience to Ying Ding’s AI Health Lab.  Based on my experience I see direct application for my skills in her work on precision medicine, using AI and ML to transform complex medical datasets into actionable insights for the healthcare community.
+
+Furthermore, my work experience has taught me that technology is never neutral. 
+This motivates my desire to contribute to the Good Systems initiative under Dr. Ken Fleischmann. I want to use my time at UT Austin to research how we can build AI architectures that are not only efficient but ethically robust. 
 
 
+Finally, I will contribute to the university community by translating my industry experience into peer mentorship. I plan to organize "Technical Resilience" workshops for the **Student Association (SASI)**, helping peers leverage data engineering skills to navigate a volatile job market. I aim to leave UT not just as a graduate, but as a leader who builds systems that ensure no patient is left behind.
 
 ---
 
