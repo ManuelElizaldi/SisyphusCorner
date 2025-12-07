@@ -3,17 +3,18 @@ Please address any information that you believe your application would be incomp
 
 ---
 
-My application would be incomplete without understanding that my commitment to informatics was formed through direct experience of the health disparities that affect underserved regions. I volunteered at the Red Cross in Mexico and decided to study Medicine, but after a semester I realized this was not my vocation. I then transferred to economics realizing that I could help people more effectively through the power of information than clinical practice. 
+This application would be incomplete without understanding that my commitment to informatics was formed through my direct experiences with health disparities in underserved regions. I volunteered at the Red Cross in Mexico and decided to study Medicine, but after a semester, I realized this was not my vocation. After transferring to economics, I discovered I could help people more effectively through the power of information than clinical practice. 
 
-My unique potential to succeed in the MSIS program is defined by technical resilience and cultural fluency. After facing two layoffs, one during Covid, I took this as an opportunity to join a coding bootcamp at University of Texas. Then during the tech downturn in 2023, I did not wait for a new opportunity, I launched an ethically sourced coffee company, where I architected the digital infrastructure. I believe these experiences give me the self directed learning style necessary to navigate the iSchool’s flexible, interdisciplinary curriculum.
+  
 
-Equipped with the cultural fluency to understand the patients we serve, I design data pipelines not just to track metrics, but to ensure patients receive proper care. Viewing data not as abstract numbers, but as the key to improve lives, I use code as a direct instrument of care. My purpose to help others was solidified through my experience volunteering in the Red Cross. 
+My unique potential to succeed in the MSIS program is defined by technical resilience and cultural fluency. After facing two layoffs, one during Covid, I took this as an opportunity to join a coding bootcamp at University of Texas. Then during the tech downturn in 2023, I did not wait for a new opportunity. I launched a company that sells ethically sourced coffee, where I architected the digital infrastructure. 
 
-This experience, coupled with growing up along the Texas-Mexico border, equips me with the cultural understanding required to address health disparities in underserved Latino communities. Currently, I design data pipelines not just to track metrics, but to ensure patients receive yearly wellness visits—a clear continuation of my original mission to care for the vulnerable.
+  
 
-I am eager to join the iSchool community, transforming my technical skills into tools that ensure no patient is left behind by the digital revolution. 
+My cultural fluency comes from growing up along the Texas-Mexico border, giving me the firsthand knowledge  required to address health disparities in underserved communities. Viewing data not as abstract numbers, but as a key to improving lives, I use code as a direct instrument of care. At my current job, I design data pipelines not just to track metrics, but to ensure patients receive proper care. Continuing my original goal to care for the vulnerable.
 
-I will contribute to the university community by leveraging my skill set for the benefit of my peers. As an active technical blogger, I plan to organize workshops with the **Student Association of the School of Information (SASI)**, focusing on practical data engineering and job market resilience. I am eager to join a community dedicated to developing human-centered technology that actively serves and uplifts society.
+  
+I believe these experiences give me the self directed learning style necessary to navigate the iSchool’s flexible, interdisciplinary curriculum. I am eager to join the iSchool community, transforming my technical skills into tools that ensure no patient is left behind by the digital revolution.
 
 
 #### Draft 
