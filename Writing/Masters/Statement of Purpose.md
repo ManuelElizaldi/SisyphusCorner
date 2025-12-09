@@ -8,5 +8,16 @@
 
 ---
 
+# Areas of Interest 
+Human-computer interactions -> User needs and human uses of technology. User centered design 
+
+Information Architecture and design -> make information findable 
+
+database management -> learn how to manage and build a database, since I have only worked on databases that are already produced and only have extracted data, I want to learn how to architect and maintain a database. I want to learn more data engineering 
+
+AI in Health -> Learn from Ying Ding
+
+Human AI Interactions 
+
 
 
