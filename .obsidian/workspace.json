@@ -13,26 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Masters/Prompts for MSIS Master Program.md",
+                "file": "Writing/Masters/Statement of Purpose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompts for MSIS Master Program"
+              "title": "Statement of Purpose"
             }
           },
           {
             "id": "7bf7a9bd24d6525b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Masters/Prompt 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prompt 1"
+              "title": "New tab"
             }
           },
           {
@@ -91,8 +87,7 @@
               "title": "W2 - Class - 11.16.2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,12 +251,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "7bf7a9bd24d6525b",
+  "active": "1241f182256945f3",
   "lastOpenFiles": [
+    "Writing/Masters/Prompts for MSIS Master Program.md",
+    "Writing/Masters/Statement of Purpose.md",
     "Writing/Masters/Prompt 2.md",
     "Writing/Masters/Prompt 3.md",
     "Writing/Masters/Prompt 1.md",
-    "Writing/Masters/Prompts for MSIS Master Program.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 4 - Azure Dev Ops/W4 - Day 1 - Dev Ops Intro.md",
     "Writing/Masters/Place holder for prompt 3.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - 11.23.2025 - Class.md",
