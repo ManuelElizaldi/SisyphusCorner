@@ -7,12 +7,35 @@
 **Career Objective(s)**: Discuss your long-term career goals and how you anticipate the completion of your MSIS degree advancing your career.
 
 ---
-# Areas of Interest 
+# Draft
+### Statement of Purpose: MSIS at UT Austin
+
+**Introduction** Early in my career as a data analyst, a manager shared a principle that has since defined my professional philosophy: "We are only as powerful as our data is clean." At the time, I was analyzing customer frustrations in call center logs, parsing thousands of hours of speech to find patterns in the noise. I realized then that information is not a static asset; it is a flow that must be architected, managed, and designed for human use. Today, working in the healthcare sector, I see the stakes of that lesson magnified. In finance or retail, poor data management leads to lost revenue; in healthcare, it leads to fragmented care and provider burnout. I am applying to the Master of Science in Information Studies (MSIS) at the University of Texas at Austin to bridge the gap between raw technical infrastructure and clinical utility. By specializing in Health Informatics and Human-Computer Interaction, I aim to design "digitally ergonomic" systems that transform massive datasets into intuitive clinical decision support tools.
+
+**Background & Experience** My path to information architecture has been defined by a constant desire to build more efficient systems. Following my Bachelor’s degree in Economics at Anahuac University, where I learned to model complex systems, I sought to ground my theoretical knowledge in technical application. This led me to the University of Texas at Austin for the first time, where I completed the Coding Bootcamp. This rigorous training allowed me to transition into a Data Analyst role for a startup, where I utilized machine learning to parse speech data and improve user experiences.
+
+Later, as an entrepreneur launching an ethically sourced coffee venture, I realized that managing a supply chain required more than spreadsheets; it required architecture. I personally developed a Python-based inventory system, integrating cloud infrastructure with Shopify APIs to automate shipping labels. This experience demonstrated the power of the cloud and motivated me to return to UT for the Post Graduate Program in Cloud Computing. These experiences gave me the "how"—the coding, the APIs, and the infrastructure. Now, I am seeking the MSIS to understand the "why."
+
+Currently, serving as a Business Intelligence Developer in the healthcare sector, I live at the intersection of data and operations. My daily reality involves developing ETL pipelines to answer management’s critical inquiries—ensuring patients are scheduled for wellness visits and streamlining the complex credentialing and billing cycles required for insurance reimbursement. While this work is vital for the operational health of the company, it has highlighted a significant gap in the industry. We are highly efficient at using data to ensure a claim is paid, yet we often struggle to use that same data to ensure a patient is healthy. I see vast ecosystems of patient information flowing through our pipelines, but too often, this data remains siloed in administrative tasks.
+
+**Areas of Interest** My objective is to pivot from optimizing back-office operations to enhancing clinical delivery. I want to master the information architecture necessary to ingest unstructured data—physician notes, images, and sensor outputs—and organize it for retrieval by next-generation AI models. However, the problem is not a lack of information; it is a lack of _design_ in how that information is presented to providers.
+
+This drives my interest in three key areas at the iSchool: Health Informatics, Human-Computer Interaction (HCI), and AI Ethics. I want to move beyond simple data extraction and become an architect of information systems that treat the doctor-computer relationship as a partnership. A system is only effective if it is adopted, and in healthcare, usability is a safety requirement. I aim to study how to create "digitally ergonomic" interfaces that extend the provider’s capabilities rather than competing for their attention.
+
+**Why UT Austin iSchool** Returning to UT Austin is the natural next step in my trajectory. Having already completed two certificate programs with the university, I have experienced the high quality of UT’s technical instruction and am eager to immerse myself in the iSchool’s research-driven environment.
+
+I am specifically drawn to the **Health Informatics** concentration. I aim to study under **Dr. Ying Ding** in the AI Health Lab; her work on data-driven science aligns perfectly with my goal to transform raw Electronic Health Records (EHR) into predictive clinical tools. Furthermore, acknowledging that healthcare algorithms carry high stakes, I am deeply interested in **Dr. Kenneth Fleischmann’s** research on AI ethics. I want to learn how to govern these pipelines so they remain transparent and equitable. Finally, the opportunity to study the human side of informatics with **Dr. Bo Xie** would provide the theoretical grounding I need to ensure the systems I build are accessible and effective for diverse populations.
+
+**Career Objectives** Looking five years ahead, I envision hospital rooms evolving from simple care units into the foundation of an **AI Augmented Provider Assistant System**. My long-term goal is to become a **Clinical AI Systems Architect**, leveraging IoT scanners to track patient vital signs and creating data pipelines that stream information into secure cloud servers for predictive analysis.
+
+However, technical capabilities are useless without user adoption and trust. This specific challenge motivates my interest in the research on Contextualization of Explainable AI (XAI). By learning to bridge the gap between algorithms and human trust, I aim to build the secure, ethical, and transparent architectures necessary to realize this vision of data-driven healthcare. The MSIS at UT Austin is the final bridge I need to cross to turn this vision into a reality.****
+# Notes
+## Areas of Interest 
 Health Informatics is the foundation of what I want to learn at the MSIS program. I want to perfect my knowledge in how IT can be used to improve healthcare delivery. I have worked in the financial and clinic operations side of this industry as a Business Intelligence Developer but the more I explore this field the more curious I am about using EHR and patient records to build systems that can help providers take better clinical decisions. I want to use information to improve health. From my perspective, there's always going to be room for improvement, specifically because I have never had formal training in health informatics. So taking this into account I want to take classes that teach me more about this subject. 
 
 Another area of interest is the relationships between human and computers. We interact with computers every day, but this relationship will only get closer and closer. This is even more prevalent with AI, people use these models to ask them about a plethora of subjects, including personal inquiries. Computers are used in every job, so understanding how we use them will give me knowledge to design digitally ergonomic systems that can best serve us. Understanding usability will give me the knowledge necessary to ensure our systems are adopted seamlessly. 
 
-The more natural a digital system feels, the easier its adoption. 
+The more natural a digital system feels, the easier its adoption. Make it digitally ergonomic, making it as easily as possible to adopt and learn. Integration between technology and humans by understanding how humans think and interact with AI. 
 
 A new relationship has emerged in recent years, and that's the relationship between humans and AI. The systems I want to build to help providers in hospitals demand high stakes ethical responsibilities. It is very important to understand how can we use AI for the improvement of everybody. Partnership between AI and humans.  
 
@@ -20,11 +43,17 @@ But behind all of these systems, there's a vast amount of information, I once he
 
 But this information needs to be findable and readable, organization is key. That is why I am interested in information architecture and design. 
 
-# Career background 
+## Career background 
 Since the beginning of my career I have worked with information. I studied my bachelor's in economics  in Anahuac University in Mexico City. There I was trained to work with data to build economic and statistical models. This laid the foundation for a career in data analysis. After graduating I took a coding boot camp at University of Texas, taking advantage of the time I had after a covid layoff. This had its reward with my job in Austin, Texas, as a Data Analyst for a Start up that used call center data to perform speech analysis and determine where customer frustrations happened. This way we could give insights into how companies could improve their product or services to better the user experience. I had variety of clients, each with its own data challenges which required flexibility and quick adaptability. Of course the foundation knowledge of working with data made me capable of this. Here I had my first experience with machine learning. This company was a start up, so it was required of me to wear different hats, working on product enhancement through user interaction data of our app. I also delved a little bit with API and deploying new features to our website. I also performed dashboards visualization. A very high demand environment where I had the opportunity to learn a lot of building high value systems. 
 
-After this I had experience as an entrepreneur where I built the digital infrastructure to sell ethically sourced coffee from Mexico. This was my first exposure to cloud infrastructure, which inspired my decision to take on the Post Graduate Cloud Computing at University of Texas. 
+After this I had experience as an entrepreneur where I built the digital infrastructure to sell ethically sourced coffee from Mexico. This was my first exposure to cloud infrastructure, which inspired my decision to take on the Post Graduate Cloud Computing at University of Texas. I have had very rewarding experiences with this school and the quality of the material and professors has been excellent, providing me with the necessary career skills to have a rewarding career. 
 
+I am currently working at a healthcare company, building pipelines that ensure patients receive their wellness visit, helping with the credentialing process and providing management with the necessary information for them to take decisions. 
 
-I have had very rewarding experiences with this school 
+I have plenty of exposure to the healthcare industry but I still want to learn more. 
+
+## Career objectives
+I want to continue in this path. I am committed to a career in healthcare informatics because I have realized that by building good systems I can provide proper healthcare for patients. Also, the new AI technologies together with cloud infrastructure can allow us to bring AI health straight into the patients hospital room. 
+
+I want to employ data engineering skills to use IoT devices to build databases that hold patient information that can then be used to feed it into an AI - with the necessary ethical and governances considerations - and use that tool to provide providers with a system they can use to expand their knowledge base. This system can act as an extension of the healthprovider, the objective is not to remove the doctor or nurse from the equation, but to give them more tools to give better health care 
 
