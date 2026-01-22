@@ -13,50 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Masters/Statement of Purpose.md",
+                "file": "Programming/RaspberryPi/Creating a key pair on raspberry pi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statement of Purpose"
-            }
-          },
-          {
-            "id": "7bf7a9bd24d6525b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c75916bbf642b5f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Masters/Prompt 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt 2"
-            }
-          },
-          {
-            "id": "d1b9017cc618489e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Masters/Prompt 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt 3"
+              "title": "Creating a key pair on raspberry pi"
             }
           },
           {
@@ -79,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025.md",
+                "file": "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025 - Azure SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W2 - Class - 11.16.2025"
+              "title": "W2 - Class - 11.16.2025 - Azure SQL"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 792.5
+    "width": 792.5,
+    "collapsed": true
   },
   "right": {
     "id": "b40f7f1996e3dee2",
@@ -208,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C Playground/Chapter 1.3 - The for statement.md",
+                "file": "Writing/Technical/Bitcoin miner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1.3 - The for statement"
+              "title": "Outline of Bitcoin miner"
             }
           },
           {
@@ -250,17 +214,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "1241f182256945f3",
+  "active": "36407e5116dd9584",
   "lastOpenFiles": [
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - 11.23.2025 - Class.md",
+    "Programming/RaspberryPi/Creating a key pair on raspberry pi.md",
+    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025 - Azure SQL.md",
+    "Programming/C Playground/Arrays, pass by values, & operator.md",
+    "Writing/Technical/Bitcoin miner.md",
+    "DevOps.md",
     "Writing/Masters/Prompt 3.md",
-    "Writing/Masters/Place holder for prompt 3.md",
     "Writing/Masters/Prompt 2.md",
+    "Writing/Technical/I am playing the Bitcoin lottery with only a Nerd Miner and my raspberrypi.md",
     "Writing/Masters/Statement of Purpose.md",
+    "Writing/Masters/Place holder for prompt 3.md",
     "Writing/Masters/Prompts for MSIS Master Program.md",
     "Writing/Masters/Prompt 1.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 4 - Azure Dev Ops/W4 - Day 1 - Dev Ops Intro.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - 11.23.2025 - Class.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025.md",
     "Resources/Pasted image 20251125173343.png",
     "Resources/Pasted image 20251125172923.png",
     "Resources/Pasted image 20251125172301.png",
@@ -284,12 +253,7 @@
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 5 - ARM Templates.md",
     "Resources/Pasted image 20251121184807.png",
     "Programming/Cloud Computing/Azure/Azure Intro/Week 4 - API Management/W4 - Summary Notes - API Management.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Final Quiz - Azure Intro.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Summary Notes - Azure SQL and CosmosDB.md",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 3 - Storage & Functions/W3 - Summary Notes.md",
     "Resources/Pasted image 20251120204029.png",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Quiz - Azure SQL.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Day 4 & 5 - CosmosDB, CosmosDB APIs, Resource Model & Terminology, Connecting Function and Cosmos.md",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL/Untitled",
     "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB",
