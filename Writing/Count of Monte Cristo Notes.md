@@ -17,28 +17,35 @@ One example of these collaborators was Auguste Maquet, he provided the entire hi
 
 I have to admit that at some point in my life I admired the lone wolf artist that is able to bring his idea to life by pure self-sufficiency, although they do deserve all my respect I have come to realize that the vast majority of great works of art have a common denominator: collaboration was a key ingredient. I first learned about this concept by reading the book [Leonardo Da Vinci by Walter Isaacson](https://en.wikipedia.org/wiki/Leonardo_da_Vinci_(Isaacson_book)). I later confirmed this idea by reading Robin Buss' introduction to Count of Monte Cristo. Da Vinci wouldn't have created his art pieces without the teachings and experience gained in Verrocchio's hybrid art school laboratory. And Dumas wouldn't have succeeded as a writer without the help of his company. Although their ends were different - one produced artists and the other created stories, it was the fact that ideas were shared that we remember both of these artists as monumental in their own fields. 
 
-In this regard I also want to mention how important it is for artists to surround themselves with likeminded people. One of Alexander's best friends and creative rivals was Victor Hugo. These two titans of french literature that pioneer the romanticism movement. 
+In regards to collaboration, I also want to mention how important it is for artists to surround themselves with people that have the same creative energy. One of Alexander's best friends and creative rival was Victor Hugo, author of Les Misérables. These two titans of french literature spent many hours exchanging ideas. They navigates several periods of uncertainty with the rise and fall of Napoleon, and the subsequent reinstatement of the Monarchy. 
 
-It is also important to note, that one of Alexander's best friends was Victor Hugo, another titan of that era. 
+**This still needs work**
 
-- Conclusion to this paragraph is needed
+They had to perfect their craft because artists were no longer performing for a patron, but rather, they had to satisfy the artistic demands of the people. 
+
+
+It is known that both attended each others theatre plays and then gave feedback. Each represented a benchmark of success where a healthy creative competition was ever present within these two titans. 
+
 #### The plot
 Before we talk about the plot, I do have to give a spoiler warning. 
 
-To understand why The Count of Monte Cristo was such a hard hitting novel, you have to picture yourself as an average frenchman during the 1840s. Back then your life consisted of the endless toil of working. Travel was a luxury reserved for the elite, so this left your imagination at the mercy of the rare, second-hand anecdote stories that were often as unreliable as they were rare. Then came Dumas like nitroglycerin dropped into the collecting imagination and lit up a whole nation. 
+To understand why The Count of Monte Cristo was such a hard hitting novel, you have to picture yourself as an average frenchman during the 1840s. Back then your life consisted of the endless toil of working. Travel was a luxury reserved for the elite, so this left your imagination at the mercy of the rare, second-hand anecdote stories that were often as unreliable as they were rare. Then came Dumas, like nitroglycerin dropped into the collective imagination lit up a whole nation with his story.
 
-Within this story you read about pirates, smugglers, the travels of The Count and how he gained the favor of many people with this ability to speak 8 languages. You can even read about a character consuming hashish. This was a 
+Within this novel you read about pirates, bandits, the travels of The Count to exotic lands and carnivals in Rome. We are entertained by the Counts charisma and his vast knowledge of 8 different languages. His skillfulness with science and the always present tangible thrill of not knowing how he will have his pay back. 
 
-Robin Buss mentions that one of his friends calls this book a children's novel. First of all it is important to note that his friend is Russian, and we know how insane Russians are with their literature. I would never call a 1200 page book a children's novel, but he does make a good point. The plot of The Count of Monte Cristo is in reality very simple. Our main character gets wrongly imprisoned, escapes from jail, finds a treasure and orchestrates his revenge years later with cold calculated effort. This book even embodies one of the oldest laws of human civilization - The Code of Hammurabi, an eye for an eye. 
+Robin Buss mentions that one of his friends calls this book a children's novel. First of all it is important to note that his colleague is Russian, and we know how insane Russians are with their literature. I would never call a 1,200 page book a children's novel, but he does make a good point. The plot of The Count of Monte Cristo is in reality very simple. Our main character gets wrongly imprisoned, escapes from jail, finds a treasure and orchestrates his revenge years later with cold calculated effort. This book even embodies one of the oldest laws of human civilization - The Code of Hammurabi, an eye for an eye. 
 
-Nonetheless within this simplicity you are allowed to delve deep into themes of sublime complexity. One of this ideas is related to the [Ship of Theseus Paradox](https://www.philosophy-foundation.org/enquiries/view/the-ship-of-theseus). When we first meet our main character, he is in the cusp of great happiness. He is about to be promoted to captain, he is able to help his father economically and will soon marry the love of his life. Tragically, right when he is about to have all that he wished for, he is arrested and taken to the Château d’If. There he spends 14 years without any connection to the outer world. Through hopeless pain he endured the isolation of this fortress of (in)justice. It was so much pain that we could argue that the meekness nature of Dante was transformed into a ruthless intelligence that allowed him to plot the revenge against his trespassers. So, we have to question ourselves, are we still ourselves even after great agony of things that happened to us? Are we transfoemed after each chapter in our lives like the Ship Of Theseus?
+Nonetheless within this simplicity you are allowed to delve deep into themes of sublime complexity. One of this ideas is related to the [Ship of Theseus Paradox](https://www.philosophy-foundation.org/enquiries/view/the-ship-of-theseus). When we first meet our main character, he is in the cusp of great happiness. He is about to be promoted to captain, he is able to help his father economically and will soon marry the love of his life. Tragically, right when he is about to have all that he wished for, he is arrested and taken to the Château d’If. There he spends 14 years without any connection to the outer world. Through hopeless pain he endured the isolation of this fortress of (in)justice. It was so much pain that we could argue that the meekness nature of Dante was transformed into a ruthless intelligence that allowed him to plot the revenge against his trespassers. 
 
+"One always hurries towards happiness, Monsieur Danglars, because when one has suffered much, one is at pains to believe in it. But I am not impelled by mere Selfishness. I have to go to Paris. "
 
-I also see a deep question about how we behave, having a sort of personal ship of Theseus, after suffering great pain, does Edmond Dante cease to exist to be replaced by the Count of Monte Cristo? There is a stark difference between the character we first meet at the beginning of the story compared to the Count of Monte Cristo. 
+Like the Ship of Theseus, we must wonder: does the essence of a person survive the total replacement of their character after great agony? Or, like the Count, are we destined to become strangers to the people we used to be?
 
-But the simplicity of this great work of art also allows us to just sit back and enjoy the story without having to analyze these philosophical themes. 
+Another idea I pondered when reading this novel was 
 
+Jean-Jacques Rousseau
+Another idea I pondered about while reading about Villefort's two sons is 
 
-#### Maybe were I am at reading - some quotes ? 
+Are we naturally born good or are we born evil. During this story you learn about The Count's enemy Villefort's sons. Bennedetto and Edouard. Both of them seem to have an evil nature, despite only being children. 
   
 
