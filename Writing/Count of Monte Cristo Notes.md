@@ -25,15 +25,14 @@ It is also important to note, that one of Alexander's best friends was Victor Hu
 #### The plot
 Before we talk about the plot, I do have to give a spoiler warning. 
 
-To understand why The Count of Monte Cristo was such a hard hitting novel, you have to picture yourself as an average frenchman during the 1840s. Back then your life consisted of the endless toil of working. Travel was a luxury reserved for the elite, so this left your imagination at the mercy of the rare, second-hand anecdote stories that were often as unreliable as they were rare. Then came Dumas, *nitroglycerin metaphor here*
-
-by creating this world that like nitroglycerin exploded the imagination of a whole nation. 
+To understand why The Count of Monte Cristo was such a hard hitting novel, you have to picture yourself as an average frenchman during the 1840s. Back then your life consisted of the endless toil of working. Travel was a luxury reserved for the elite, so this left your imagination at the mercy of the rare, second-hand anecdote stories that were often as unreliable as they were rare. Then came Dumas like nitroglycerin dropped into the collecting imagination and lit up a whole nation. 
 
 Within this story you read about pirates, smugglers, the travels of The Count and how he gained the favor of many people with this ability to speak 8 languages. You can even read about a character consuming hashish. This was a 
 
 Robin Buss mentions that one of his friends calls this book a children's novel. First of all it is important to note that his friend is Russian, and we know how insane Russians are with their literature. I would never call a 1200 page book a children's novel, but he does make a good point. The plot of The Count of Monte Cristo is in reality very simple. Our main character gets wrongly imprisoned, escapes from jail, finds a treasure and orchestrates his revenge years later with cold calculated effort. This book even embodies one of the oldest laws of human civilization - The Code of Hammurabi, an eye for an eye. 
 
-Nonetheless within this simplicity you are allowed to delve deeper into the layers of this novel and find great philosophical ideas like the purpose of life. Edmond Dante had everything he could ever ask for after finding his treasure, why set out to exact a revenge? Does struggle bring purpose? 
+Nonetheless within this simplicity you are allowed to delve deep into themes of sublime complexity. One of this ideas is related to the [Ship of Theseus Paradox](https://www.philosophy-foundation.org/enquiries/view/the-ship-of-theseus). When we first meet our main character, he is in the cusp of great happiness. He is about to be promoted to captain, he is able to help his father economically and will soon marry the love of his life. Tragically, right when he is about to have all that he wished for, he is arrested and taken to the Château d’If. There he spends 14 years without any connection to the outer world. Through hopeless pain he endured the isolation of this fortress of (in)justice. It was so much pain that we could argue that the meekness nature of Dante was transformed into a ruthless intelligence that allowed him to plot the revenge against his trespassers. So, we have to question ourselves, are we still ourselves even after great agony of things that happened to us? Are we transfoemed after each chapter in our lives like the Ship Of Theseus?
+
 
 I also see a deep question about how we behave, having a sort of personal ship of Theseus, after suffering great pain, does Edmond Dante cease to exist to be replaced by the Count of Monte Cristo? There is a stark difference between the character we first meet at the beginning of the story compared to the Count of Monte Cristo. 
 
@@ -42,5 +41,4 @@ But the simplicity of this great work of art also allows us to just sit back and
 
 #### Maybe were I am at reading - some quotes ? 
   
-
 
