@@ -25,10 +25,9 @@ Dumas was known to have joined the 1830 July Revolution and helped the insurgent
 
 _"I will remain in exile until the end. When liberty returns, I will return."_
 
-They also had to navigate economic changes brought by the industrial revolution, higher reading rates and the end of artits being sponsored by the nobility. The rise and fall of Napoleon and the eventual reinstatement of the Monarchy in France brought an end to the era of patrons sponsoring artists. Now your work as at the mercy of the market. Perfecting your craft was not just important, but it determined your livelihood. 
+Beyond political battles, they also had to navigate economic changes brought by the industrial revolution like higher reading rates in the population. Likewise the fall and rise of Napoleon and the reinstatement of the Monarchy which gave an end to the era or artists being sponsored by the nobility and wealthy patrons. Suddenly their work was at the mercy of the market. Perfecting their craft was not just important as an intellectual pursuit, but the key to their survival. 
 
-
-There is much that can be said about these two juggernauts and their lives could inspire a novel, 
+There is much that can be said about these two juggernauts and their lives could inspire a novel, but they exemplify the maxim "If you want to write good books, live an interesting life" which Robert Green recommended to Ryan Holiday when he first wanted to start his writing career. 
 
 
 
