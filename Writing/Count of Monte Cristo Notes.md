@@ -19,38 +19,17 @@ I have to admit that at some point in my life I admired the lone wolf artist tha
 
 I first learned about this concept by reading the book [Leonardo Da Vinci by Walter Isaacson](https://en.wikipedia.org/wiki/Leonardo_da_Vinci_(Isaacson_book)). Then I confirmed this idea by reading Robin Buss' introduction to Count of Monte Cristo. Da Vinci wouldn't have created his art pieces without the teachings and experience gained in his teacher's (Verrocchio) hybrid art school laboratory. And Dumas wouldn't have succeeded as a writer without the help of his company. Although their ends were different, one produced artists and the other created stories, it was the fact that ideas were shared and cultivated within these spaces that we remember both of these artists as monumental in their own fields. 
 
-Also related to collaboration, I learned that one of Alexandre's best friends and creative rivals was Victor Hugo, author of Les Misérables. These two titans of french literature spent many hours exchanging ideas, and together, as friends, overcame several periods of uncertainty, fought for liberty and became enemies of the state. 
+Also related to collaboration, I learned that one of Alexandre's best friends and creative rivals was Victor Hugo, author of Les Misérables. 
+These two titans of french literature spent many hours exchanging ideas, it is known that both attended each others theatre plays and then gave feedback. Each represented a benchmark of success for the other, where a healthy creative competition was ever present between them. They also, as friends, overcame several periods of uncertainty, fought for liberty and became enemies of the state. 
 
 Dumas was known to have joined the 1830 July Revolution and helped the insurgents seize weapons and ammunition. And Victor Hugo on the other hand openly opposed Napoleon III when he staged his "coup d'état" in 1851. Years later he was offered an official pardon from his 20 year exile, but monumentally declared:
 
 _"I will remain in exile until the end. When liberty returns, I will return."_
 
-Beyond political battles, they also had to navigate economic changes brought by the industrial revolution like higher reading rates in the population. Likewise the fall and rise of Napoleon and the reinstatement of the Monarchy which gave an end to the era or artists being sponsored by the nobility and wealthy patrons. Suddenly their work was at the mercy of the market. Perfecting their craft was not just important as an intellectual pursuit, but the key to their survival. 
+Beyond political battles, they had to navigate economic changes brought by the industrial revolution like higher reading rates in the population. Likewise the fall and rise of Napoleon and the reinstatement of the Monarchy which gave an end to the era or artists being sponsored by the nobility and wealthy patrons. Suddenly their work was at the mercy of the market. Perfecting their craft was not just important as an intellectual pursuit, but the key to their survival. 
 
-There is much that can be said about these two juggernauts and their lives could inspire a novel, but they exemplify the maxim "If you want to write good books, live an interesting life" which Robert Green recommended to Ryan Holiday when he first wanted to start his writing career. 
+There is much that can be said about these two juggernauts and their lives could inspire a novel, but they exemplify the maxim "If you want to write good books, live an interesting life" which Robert Greene recommended to Ryan Holiday when he first wanted to start his writing career.
 
-
-
-
-
-of artists being sponsored by the nobility or wealthy patrons. Now your work was at the mercy of the market. You had to perfect your craft in order to stand out when the competition was fierce. Parallel to this, if your novel or work of art didn't go in line with the current political ideology you could become an enemy of the state, like Dumas and Victor Hugo. 
-
-They also experienced a new economic shift in the artist's life. Before their time (~1800s) artists were paid to produce art pieces by their patrons or were sponsered by the nobility.
-
-
-Literacy rates in the population rose dramatically 
-
-
-
-
-to mention how important it is for artists to surround themselves with people that have the same creative energy. 
-
-**This still needs work**
-
-They had to perfect their craft because artists were no longer performing for a patron, but rather, they had to satisfy the artistic demands of the people. 
-
-
-It is known that both attended each others theatre plays and then gave feedback. Each represented a benchmark of success where a healthy creative competition was ever present within these two titans. 
 
 ----
 
