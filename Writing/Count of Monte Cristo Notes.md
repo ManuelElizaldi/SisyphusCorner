@@ -1,23 +1,50 @@
 [[Philosophy]] [[Novel]] [[Writing]]
 *Notes on Count of Monte Cristo with some spoilers and ideas*
 #### Intro and how this book was first published
-The Count of Monte Cristo by Alexander Dumas, A novel that has a special place in my heart. This was my grandfathers favorite author and although his favorite book by Dumas was the Three Musketeers, this book probably inspired the thousands of trips around the globe that he experienced. 
+The Count of Monte Cristo by Alexandre Dumas, A novel that has a special place in my heart. This was my grandfathers favorite author and although his favorite book by Dumas was the Three Musketeers, this book probably inspired many of trips around the globe that he experienced. 
 
-I also have memories of my cousin, which I see as an older brother, finishing this book during our month long summer vacation back in 2011 (or 2012). I can clearly remember observing him comically holding this massive book in his hands and being fully engaged in the story. Back then I naively thought to myself, "how can people read those long books?" not knowing that years down the road, this would become one of my favorite books. 
+I also have memories of my cousin, which I see as an older brother, finishing this book during our month long summer vacation back in 2012. I can clearly remember observing him comically holding this massive book in his hands and being fully engaged in the story. Back then I naively thought to myself, "how can people read those long books?" not knowing that years down the road, this would become one of my favorite books. 
 
 My first experience with this novel was during high school, where I had to read it for English class. Of course, as it is natural for any adolescent, the experience of reading was dampen by the obligation of meeting reading deadlines and writing the mandatory essays to get a passing grade. A small note on this, the version I read during this time was an educational copy that was considerably shorter and with less details than a regular translation. 
 
-Anybody that has read a classic book knows that your experience depends heavily on the translation that you choose. Based on my extensive research on this topic - which consisted of asking the Count Of Monte Cristo subreddit which one would be the best choice - I decided on the Penguin Classics translation by Robin Buss. I am grateful that I chose this version because as a a history fan, I appreciate the great introduction to the social and historical context of when and how this book was written. 
+Anybody that has read a classic book knows that your experience depends heavily on the translation that you choose. So when I decided to read this for a second time, I undertook an extensive research - which consisted of asking the Count Of Monte Cristo subreddit which one would be the best choice - I decided on the Penguin Classics translation by Robin Buss. I am grateful that I chose this version because as a a history fan, I appreciate the great introduction to the social and historical context of when and how this book was written. 
 
-For starters, Robin writes that this book was first published as a series in Parisian newspapers similar to what we now have as TV shows. Each day or week provided readers with a new chapter on the life of Edmond Dantes. Back then newspapers were the equivalent to our social media apps, in them you could find the main engine of social discourse, news, events and these serialized stories. It was customary for people  to gather around cafes and bars to discuss new chapters. As a natural born nostalgic for time periods I didn't live in, I would have been ecstatic to be part of those conversations in a Parisian cafes.  
+For starters, Robin writes that this book was first published as a series in Parisian newspapers similar to what we now have as TV shows. Each day or week provided readers with a new chapter on the life of Edmond Dantès. Back then newspapers were the equivalent to our social media apps, in them you could find the main engine of social discourse, news, events and these serialized stories. It was customary for people  to gather around cafes and bars to discuss new chapters. As a natural born nostalgic for time periods I didn't live in, I would have been ecstatic to be part of those conversations in a Parisian cafes.  
 
-Through this account we get a glimpse at Alexander Dumas' writing process. Publishing a serialized story was highly demanding work, specially for Dumas who lived a eccentric lifestyle similar in nature to the Count of Monte Cristo, but he developed a complex network of collaborators and ghostwriters. They operated more like a production house than a traditional publishing company. This allowed them to master the art of cliffhangers and ensured that readers were engaged so they would buy the next day's newspaper. 
+Through this account we get a glimpse at Alexandre Dumas' writing process. Publishing a serialized story was highly demanding work, specially for Dumas who lived a eccentric lifestyle similar in nature to the Count of Monte Cristo. He developed a complex network of collaborators and ghostwriters. They operated more like a production house than a traditional publishing company. This allowed them to master the art of cliffhangers and ensured that readers were engaged so they would buy the next day's newspaper. 
 
-One example of these collaborators was Auguste Maquet, he provided the entire historical research for the Count of Monte Cristo. Because of this some of Dumas' critics nicknamed him a "factory of novels". Comparing his creation process to a soulless mass production of factories. Although this was meant as an insult, when I first learned this I thought that the nickname was formidable. In the distraction ridden world we live in nowadays I strive to become a factory of novels. 
+One example of these collaborators was Auguste Maquet, who provided the entire historical research for the Count of Monte Cristo. Because of this some of Dumas' critics nicknamed him a "factory of novels". Comparing his creation process to the soulless mass production of factories. Although this was meant as an insult, when I first learned this I thought that the nickname was 'badass'. In the distraction ridden world we live in nowadays I strive to become a factory of novels. 
 
-I have to admit that at some point in my life I admired the lone wolf artist that is able to bring his idea to life by pure self-sufficiency, although they do deserve all my respect I have come to realize that the vast majority of great works of art have a common denominator: collaboration was a key ingredient. I first learned about this concept by reading the book [Leonardo Da Vinci by Walter Isaacson](https://en.wikipedia.org/wiki/Leonardo_da_Vinci_(Isaacson_book)). I later confirmed this idea by reading Robin Buss' introduction to Count of Monte Cristo. Da Vinci wouldn't have created his art pieces without the teachings and experience gained in Verrocchio's hybrid art school laboratory. And Dumas wouldn't have succeeded as a writer without the help of his company. Although their ends were different - one produced artists and the other created stories, it was the fact that ideas were shared that we remember both of these artists as monumental in their own fields. 
+I have to admit that at some point in my life I admired the lone wolf artist that is able to bring his idea to life by pure self-sufficiency, although they do deserve all my respect I have come to realize that the vast majority of great works of art have a common denominator: collaboration was a key ingredient. 
 
-In regards to collaboration, I also want to mention how important it is for artists to surround themselves with people that have the same creative energy. One of Alexander's best friends and creative rival was Victor Hugo, author of Les Misérables. These two titans of french literature spent many hours exchanging ideas. They navigates several periods of uncertainty with the rise and fall of Napoleon, and the subsequent reinstatement of the Monarchy. 
+I first learned about this concept by reading the book [Leonardo Da Vinci by Walter Isaacson](https://en.wikipedia.org/wiki/Leonardo_da_Vinci_(Isaacson_book)). Then I confirmed this idea by reading Robin Buss' introduction to Count of Monte Cristo. Da Vinci wouldn't have created his art pieces without the teachings and experience gained in his teacher's (Verrocchio) hybrid art school laboratory. And Dumas wouldn't have succeeded as a writer without the help of his company. Although their ends were different, one produced artists and the other created stories, it was the fact that ideas were shared and cultivated within these spaces that we remember both of these artists as monumental in their own fields. 
+
+Also related to collaboration, I learned that one of Alexandre's best friends and creative rivals was Victor Hugo, author of Les Misérables. These two titans of french literature spent many hours exchanging ideas, and together, as friends, overcame several periods of uncertainty, fought for liberty and became enemies of the state. 
+
+Dumas was known to have joined the 1830 July Revolution and helped the insurgents seize weapons and ammunition. And Victor Hugo on the other hand openly opposed Napoleon III when he staged his "coup d'état" in 1851. Years later he was offered an official pardon from his 20 year exile, but monumentally declared:
+
+_"I will remain in exile until the end. When liberty returns, I will return."_
+
+They also had to navigate economic changes brought by the industrial revolution, higher reading rates and the end of artits being sponsored by the nobility. The rise and fall of Napoleon and the eventual reinstatement of the Monarchy in France brought an end to the era of patrons sponsoring artists. Now your work as at the mercy of the market. Perfecting your craft was not just important, but it determined your livelihood. 
+
+
+There is much that can be said about these two juggernauts and their lives could inspire a novel, 
+
+
+
+
+
+of artists being sponsored by the nobility or wealthy patrons. Now your work was at the mercy of the market. You had to perfect your craft in order to stand out when the competition was fierce. Parallel to this, if your novel or work of art didn't go in line with the current political ideology you could become an enemy of the state, like Dumas and Victor Hugo. 
+
+They also experienced a new economic shift in the artist's life. Before their time (~1800s) artists were paid to produce art pieces by their patrons or were sponsered by the nobility.
+
+
+Literacy rates in the population rose dramatically 
+
+
+
+
+to mention how important it is for artists to surround themselves with people that have the same creative energy. 
 
 **This still needs work**
 
@@ -25,6 +52,8 @@ They had to perfect their craft because artists were no longer performing for a 
 
 
 It is known that both attended each others theatre plays and then gave feedback. Each represented a benchmark of success where a healthy creative competition was ever present within these two titans. 
+
+----
 
 #### The plot
 Before we talk about the plot, I do have to give a spoiler warning. 
