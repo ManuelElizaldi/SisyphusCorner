@@ -17,18 +17,24 @@ One example of these collaborators was Auguste Maquet, who provided the entire h
 
 I have to admit that at some point in my life I admired the lone wolf artist that is able to bring his idea to life by pure self-sufficiency, although they do deserve all my respect I have come to realize that the vast majority of great works of art have a common denominator: collaboration was a key ingredient. 
 
-I first learned about this concept by reading the book [Leonardo Da Vinci by Walter Isaacson](https://en.wikipedia.org/wiki/Leonardo_da_Vinci_(Isaacson_book)). Then I confirmed this idea by reading Robin Buss' introduction to Count of Monte Cristo. Da Vinci wouldn't have created his art pieces without the teachings and experience gained in his teacher's (Verrocchio) hybrid art school laboratory. And Dumas wouldn't have succeeded as a writer without the help of his company. Although their ends were different, one produced artists and the other created stories, it was the fact that ideas were shared and cultivated within these spaces that we remember both of these artists as monumental in their own fields. 
+I first learned about this concept by reading the book [Leonardo Da Vinci by Walter Isaacson](https://en.wikipedia.org/wiki/Leonardo_da_Vinci_(Isaacson_book)). Then I confirmed this idea by reading Robin Buss' introduction to Count of Monte Cristo. Da Vinci wouldn't have created his art pieces without the teachings and experience gained in his teacher's (Verrocchio) hybrid art school laboratory. And Dumas wouldn't have succeeded as a writer without the help of his company. Although their ends were different, one produced artists and the other created stories, it was the fact that ideas were shared and cultivated within these spaces that we remember both of these artists as monumental in their own fields.
 
 Also related to collaboration, I learned that one of Alexandre's best friends and creative rivals was Victor Hugo, author of Les Misérables. 
-These two titans of french literature spent many hours exchanging ideas, it is known that both attended each others theatre plays and then gave feedback. Each represented a benchmark of success for the other, where a healthy creative competition was ever present between them. They also, as friends, overcame several periods of uncertainty, fought for liberty and became enemies of the state. 
+These two titans of french literature spent many hours exchanging ideas. It is known that both attended each others theatre plays, giving each other constructive criticism. They represented a benchmark of success for the other, where a healthy creative competition was ever present between them. 
 
-Dumas was known to have joined the 1830 July Revolution and helped the insurgents seize weapons and ammunition. And Victor Hugo on the other hand openly opposed Napoleon III when he staged his "coup d'état" in 1851. Years later he was offered an official pardon from his 20 year exile, but monumentally declared:
+During their lifetime, they also overcame several periods of uncertainty, fought for liberty and became enemies of the state. Dumas was known to have joined the 1830 July Revolution and helped the insurgents seize weapons and ammunition. And Victor Hugo on the other hand openly opposed Napoleon III when he staged his "coup d'état" in 1851. Years later he was offered an official pardon from his 20 year exile, but monumentally declared:
 
 _"I will remain in exile until the end. When liberty returns, I will return."_
 
-Beyond political battles, they had to navigate economic changes brought by the industrial revolution like higher reading rates in the population. Likewise the fall and rise of Napoleon and the reinstatement of the Monarchy which gave an end to the era or artists being sponsored by the nobility and wealthy patrons. Suddenly their work was at the mercy of the market. Perfecting their craft was not just important as an intellectual pursuit, but the key to their survival. 
+Beyond political battles, they also had to navigate economic challenges brought by the industrial revolution, the fall and then rise of Napoleon and the subsequent reinstatement of the monarchy. 
 
-There is much that can be said about these two juggernauts and their lives could inspire a novel, but they exemplify the maxim "If you want to write good books, live an interesting life" which Robert Greene recommended to Ryan Holiday when he first wanted to start his writing career.
+These changes brought the end of the sponsored artist by nobility era that was practiced in antiquity. Thanks to the rise in reading rates and the advent of the high-speed steam printing press, their work was suddenly at the mercy of the market. Perfecting their craft was not just an important intellectual pursuit, but the key to their survival. 
+
+There is much that can be said about these two juggernauts and their lives could inspire a novel. They remind me of Robert Greene's maxim: "If you want to write good books, live an interesting life". Victor Hugo and Dumas didn't just endured through difficult times,
+
+
+
+
 
 
 ----
@@ -36,23 +42,27 @@ There is much that can be said about these two juggernauts and their lives could
 #### The plot
 Before we talk about the plot, I do have to give a spoiler warning. 
 
-To understand why The Count of Monte Cristo was such a hard hitting novel, you have to picture yourself as an average frenchman during the 1840s. Back then your life consisted of the endless toil of working. Travel was a luxury reserved for the elite, so this left your imagination at the mercy of the rare, second-hand anecdote stories that were often as unreliable as they were rare. Then came Dumas, like nitroglycerin dropped into the collective imagination lit up a whole nation with his story.
+To understand why The Count of Monte Cristo was such a hard hitting novel, you have to picture yourself as an average frenchman during the 1840s. Back then your life consisted of the endless toil of working. Travel was a luxury reserved for the elite, so this left your imagination at the mercy of the rare, second-hand anecdote stories that were often as unreliable as they were rare. Then came Dumas, like nitroglycerin dropped into the collective imagination, lit up a whole nation with his story.
 
-Within this novel you read about pirates, bandits, the travels of The Count to exotic lands and carnivals in Rome. We are entertained by the Counts charisma and his vast knowledge of 8 different languages. His skillfulness with science and the always present tangible thrill of not knowing how he will have his pay back. 
+Within this novel you read about pirates, bandits, travels of The Count to exotic lands and carnivals in Rome. We are entertained by the Counts charisma and his vast knowledge of science and 8 different languages. Then, there's an ever present thrill of not knowing, when his revenge will come. 
 
 Robin Buss mentions that one of his friends calls this book a children's novel. First of all it is important to note that his colleague is Russian, and we know how insane Russians are with their literature. I would never call a 1,200 page book a children's novel, but he does make a good point. The plot of The Count of Monte Cristo is in reality very simple. Our main character gets wrongly imprisoned, escapes from jail, finds a treasure and orchestrates his revenge years later with cold calculated effort. This book even embodies one of the oldest laws of human civilization - The Code of Hammurabi, an eye for an eye. 
 
 Nonetheless within this simplicity you are allowed to delve deep into themes of sublime complexity. One of this ideas is related to the [Ship of Theseus Paradox](https://www.philosophy-foundation.org/enquiries/view/the-ship-of-theseus). When we first meet our main character, he is in the cusp of great happiness. He is about to be promoted to captain, he is able to help his father economically and will soon marry the love of his life. Tragically, right when he is about to have all that he wished for, he is arrested and taken to the Château d’If. There he spends 14 years without any connection to the outer world. Through hopeless pain he endured the isolation of this fortress of (in)justice. It was so much pain that we could argue that the meekness nature of Dante was transformed into a ruthless intelligence that allowed him to plot the revenge against his trespassers. 
 
-"One always hurries towards happiness, Monsieur Danglars, because when one has suffered much, one is at pains to believe in it. But I am not impelled by mere Selfishness. I have to go to Paris. "
+"One always hurries towards happiness, Monsieur Danglars, because when one has suffered much, one is at pains to believe in it. But I am not impelled by mere Selfishness. I have to go to Paris." - Edmond Dantès
 
 Like the Ship of Theseus, we must wonder: does the essence of a person survive the total replacement of their character after great agony? Or, like the Count, are we destined to become strangers to the people we used to be?
 
-Another idea I pondered when reading this novel was 
+Another idea I pondered when reading the chapters about Villefort's son is the question Jean-Jacques Rousseau once proposed: "Are we naturally born pure, then society corrupts our spirit? Or is there an inherit evil inside of us?"
 
-Jean-Jacques Rousseau
-Another idea I pondered about while reading about Villefort's two sons is 
+We first learn about Benedetto by the anecdotes of the Count's assistant Bertuccio. We learn that he saved him from being buried alive by his father after being born outside of wedlock. We read about how he was prone to mischief, from what we see, there was nothing thsi kid never 
 
-Are we naturally born good or are we born evil. During this story you learn about The Count's enemy Villefort's sons. Bennedetto and Edouard. Both of them seem to have an evil nature, despite only being children. 
+Bertuccio provided all he needed and Assunta (Bertuccio's sister in law) nurtured him. 
+
+
+
+
+Bennedetto and Edouard. Both of them seem to have an evil nature, despite only being children. 
   
 
