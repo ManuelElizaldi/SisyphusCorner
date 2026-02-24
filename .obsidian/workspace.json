@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "be92869afac4c51d",
+    "id": "84ff77fca7156dba",
     "type": "split",
     "children": [
       {
-        "id": "86eb1c14d0ec2d07",
+        "id": "b68eaa8a352780a7",
         "type": "tabs",
         "children": [
           {
-            "id": "d7734b00cd1222d7",
+            "id": "8ed3bd8193e55068",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "68f918424fbc9a12",
+    "id": "95f7399e4d8ad1fc",
     "type": "split",
     "children": [
       {
-        "id": "861997ca0635ea9b",
+        "id": "01e09c4c9e8ecf7b",
         "type": "tabs",
         "children": [
           {
-            "id": "a4bbd77ddf2deb7d",
+            "id": "4f93e07ff42eb926",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "27137742033dd3d8",
+            "id": "e378b54beb1bbc71",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "queue based load leveling",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "8bfcb8e3ebcf102c",
+            "id": "8384d576d6e862ea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 792.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "b40f7f1996e3dee2",
+    "id": "2f12e88d65105122",
     "type": "split",
     "children": [
       {
-        "id": "d44d338745ff6029",
+        "id": "d013e45d46f4f86d",
         "type": "tabs",
         "children": [
           {
-            "id": "294677b525ef0d26",
+            "id": "604495ba2e696b3e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C Playground/Chapter 1.3 - The for statement.md",
+                "file": "Writing/Count of Monte Cristo Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 1.3 - The for statement"
+              "title": "Backlinks for Count of Monte Cristo Notes"
             }
           },
           {
-            "id": "0196e4679202a644",
+            "id": "e6348a50ab7fd732",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C Playground/Chapter 1.3 - The for statement.md",
+                "file": "Writing/Count of Monte Cristo Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 1.3 - The for statement"
+              "title": "Outgoing links from Count of Monte Cristo Notes"
             }
           },
           {
-            "id": "ef1ded5bb4881104",
+            "id": "e8e54d8e6103dd10",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,22 +138,7 @@
             }
           },
           {
-            "id": "524635853c7cb74e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Writing/Technical/Bitcoin miner.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Bitcoin miner"
-            }
-          },
-          {
-            "id": "a2c6e1155a33744c",
+            "id": "ecb18b2ee0d95612",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,9 +150,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "9180e9097e947de0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Writing/Count of Monte Cristo Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Count of Monte Cristo Notes"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,53 +184,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "d7734b00cd1222d7",
-  "lastOpenFiles": [
-    "Writing/Count of Monte Cristo Notes.md",
-    "Writing/Running as meditation.md",
-    "Programming/RaspberryPi/Creating a key pair on raspberry pi.md",
-    "Programming/RaspberryPi/Website Set With WordPress up & Cloudflare.md",
-    "Writing/Writing Ideas.md",
-    "Writing/Technical/The request to Chat GPT.md",
-    "Writing/Things I learned today.md",
-    "Writing/Writer’s Launch Kit – Blogging & Creative Writing Plan.md",
-    "Programming/Useful Terminology.md",
-    "Writing/Technical/About me.md",
-    "Programming/C Playground/C - IOT project.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB/W2 - Class - 11.16.2025 - Azure SQL.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - 11.23.2025 - Class.md",
-    "Programming/C Playground/Arrays, pass by values, & operator.md",
-    "Writing/Technical/Bitcoin miner.md",
-    "DevOps.md",
-    "Writing/Masters/Prompt 3.md",
-    "Writing/Masters/Prompt 2.md",
-    "Writing/Technical/I am playing the Bitcoin lottery with only a Nerd Miner and my raspberrypi.md",
-    "Writing/Masters/Statement of Purpose.md",
-    "Writing/Masters/Place holder for prompt 3.md",
-    "Writing/Masters/Prompts for MSIS Master Program.md",
-    "Writing/Masters/Prompt 1.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 4 - Azure Dev Ops/W4 - Day 1 - Dev Ops Intro.md",
-    "Resources/Pasted image 20251125173343.png",
-    "Resources/Pasted image 20251125172923.png",
-    "Resources/Pasted image 20251125172301.png",
-    "Resources/Pasted image 20251125172205.png",
-    "Resources/Pasted image 20251118205003.png",
-    "Resources/Pasted image 20251113192905.png",
-    "Resources/Pasted image 20251113193701.png",
-    "Resources/Pasted image 20251123101631.png",
-    "Writing/Masters",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services/W3 - Day 1, 2 & 3 - Messaging Services, creating a service bus, subscription, topics, message life cycle, filters.md",
-    "Programming/SKU.md",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 4 - Azure Dev Ops",
-    "Resources/Pasted image 20251121184807.png",
-    "Resources/Pasted image 20251120204029.png",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 3 - Messaging Services",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL/Untitled",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 2 - Azure SQL, NoSQL CosmosDB",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1/Untitled",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure/Week 1 - Security, Governance, AAD",
-    "Programming/Cloud Computing/Azure/Managed Services on Azure",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 5 - Azure Containers",
-    "Programming/Cloud Computing/Azure/Azure Intro/Week 2 - Networking & Load Balancers"
-  ]
+  "active": "8ed3bd8193e55068",
+  "lastOpenFiles": []
 }
