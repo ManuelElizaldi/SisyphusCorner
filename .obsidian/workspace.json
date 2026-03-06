@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b68eaa8a352780a7",
+        "id": "b0dbdda831227c33",
         "type": "tabs",
         "children": [
           {
-            "id": "8ed3bd8193e55068",
+            "id": "6f3fe579f0485f9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Count of Monte Cristo Notes.md",
+                "file": "Writing/Technical/F50 Physical AI Summit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Count of Monte Cristo Notes"
+              "title": "F50 Physical AI Summit"
+            }
+          },
+          {
+            "id": "a3cd1878a5ba7e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Technical/About me.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About me"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "monte cr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "2f12e88d65105122",
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Count of Monte Cristo Notes.md",
+                "file": "Writing/Technical/About me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Count of Monte Cristo Notes"
+              "title": "Backlinks for About me"
             }
           },
           {
@@ -184,6 +198,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ed3bd8193e55068",
-  "lastOpenFiles": []
+  "active": "a3cd1878a5ba7e00",
+  "lastOpenFiles": [
+    "Writing/Technical/F50 Physical AI Summit.md",
+    "Writing/Entries/Running For My Problems.md",
+    "Writing/Writing Ideas.md",
+    "Writing/Running as meditation.md",
+    "Writing/Technical/The beauty of creating your own tools.md",
+    "Writing/Technical/Done/I am playing the Bitcoin lottery with only a nerd miner and my raspberrypi.md",
+    "Writing/Technical/Done/I am playing the Bitcoin lottery with only a nerd miner and my raspberrypi.md",
+    "Writing/Technical/The request to Chat GPT.md",
+    "Writing/Entries/A Factory of Novels Notes on The Count of Monte Cristo.md",
+    "Programming/AWS Certification Prep/Week 1/Quiz and Practice Quiz.md",
+    "Programming/C Playground/ESP32 - Ticket Screen Project/Notes.md",
+    "Programming/AWS Certification Prep/Week 1/Lab Exercises Notes - AWS GuardDuty & AWS Athena.md",
+    "Programming/C Playground/ESP32 - Ticket Screen Project",
+    "Pasted image 20260303171600.png",
+    "Pasted image 20260303165640.png",
+    "Pasted image 20260303160002.png",
+    "Pasted image 20260303155627.png",
+    "Pasted image 20260303150109.png",
+    "Writing/Technical/About me.md",
+    "Programming/AWS Certification Prep/Week 1",
+    "Programming/AWS Certification Prep"
+  ]
 }

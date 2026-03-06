@@ -69,3 +69,9 @@ un meteorito que termina siendo una nave espacial
 
 
 "I been saying this for a couple years now. I first noticed it with the remake of GoW1. Games are too focused on looking pretty that they surrender their unique ambiance aesthetic. Most games go for pretty when instead they should aim to design their own style. Think about the gritty ambiance of GoW, the edge of Jet Set Radio or Halo CE's purple, chrome, clearer skies."
+
+
+Great man are behind me, it keeps me going forward. Talking about why I have been so demanding of myself. 
+
+
+Talk about my faith? I was against authority, rebellious. Everything that humans touch is corrupted. 
