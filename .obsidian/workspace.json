@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "b0dbdda831227c33",
+        "id": "eb7dfe1aab3cbab9",
         "type": "tabs",
         "children": [
           {
-            "id": "6f3fe579f0485f9a",
+            "id": "8556d426bb36703b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Technical/F50 Physical AI Summit.md",
+                "file": "Programming/Cloud Computing/AWS Certification Prep/Cantrill Course/General Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F50 Physical AI Summit"
+              "title": "General Notes"
             }
           },
           {
-            "id": "a3cd1878a5ba7e00",
+            "id": "9db791caaa4f5b49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Technical/About me.md",
+                "file": "Programming/Cloud Computing/AWS Certification Prep/Week 2/Notes and Class Notes -  TOOLS FOR CLOUD-NATIVE APPLICATIONS - 03.08.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About me"
+              "title": "Notes and Class Notes -  TOOLS FOR CLOUD-NATIVE APPLICATIONS - 03.08.26"
+            }
+          },
+          {
+            "id": "aa4dc4ed564f9da1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C Playground/ESP32 - Ticket Screen Project/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ],
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monte cr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 464.5
   },
   "right": {
     "id": "2f12e88d65105122",
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Technical/About me.md",
+                "file": "Writing/Count of Monte Cristo Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for About me"
+              "title": "Backlinks for Count of Monte Cristo Notes"
             }
           },
           {
@@ -198,20 +212,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "a3cd1878a5ba7e00",
+  "active": "9db791caaa4f5b49",
   "lastOpenFiles": [
-    "Writing/Technical/F50 Physical AI Summit.md",
-    "Writing/Entries/Running For My Problems.md",
-    "Writing/Writing Ideas.md",
-    "Writing/Running as meditation.md",
-    "Writing/Technical/The beauty of creating your own tools.md",
-    "Writing/Technical/Done/I am playing the Bitcoin lottery with only a nerd miner and my raspberrypi.md",
-    "Writing/Technical/Done/I am playing the Bitcoin lottery with only a nerd miner and my raspberrypi.md",
-    "Writing/Technical/The request to Chat GPT.md",
-    "Writing/Entries/A Factory of Novels Notes on The Count of Monte Cristo.md",
-    "Programming/AWS Certification Prep/Week 1/Quiz and Practice Quiz.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Cantrill Course/General Notes.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Week 2/Notes and Class Notes -  TOOLS FOR CLOUD-NATIVE APPLICATIONS - 03.08.26.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Cantrill Course",
+    "Programming/Cloud Computing/AWS Certification Prep/Week 1/Quiz and Practice Quiz.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Week 2",
     "Programming/C Playground/ESP32 - Ticket Screen Project/Notes.md",
-    "Programming/AWS Certification Prep/Week 1/Lab Exercises Notes - AWS GuardDuty & AWS Athena.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Week 1/Lab Exercises Notes - AWS GuardDuty & AWS Athena.md",
     "Programming/C Playground/ESP32 - Ticket Screen Project",
     "Pasted image 20260303171600.png",
     "Pasted image 20260303165640.png",
@@ -219,7 +228,10 @@
     "Pasted image 20260303155627.png",
     "Pasted image 20260303150109.png",
     "Writing/Technical/About me.md",
-    "Programming/AWS Certification Prep/Week 1",
-    "Programming/AWS Certification Prep"
+    "Programming/Cloud Computing/AWS Certification Prep/Week 1",
+    "Programming/Cloud Computing/AWS Certification Prep",
+    "Writing/Technical/Done/A Factory of Novels Notes on The Count of Monte Cristo.md",
+    "Writing/Technical/Bitcoin miner.md",
+    "Writing/Running as meditation.md"
   ]
 }
