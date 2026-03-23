@@ -5,12 +5,13 @@ write a note about where mile comes from
 ### Technical
 
 - Using tailscale to connect your raspberry pi to computer via secure ssh *technical*
-- Why and how Armenia adopted christianity 
 - Necromancer experience 
 - history of cloud computing
 
 How texas is shapping up to be the leader in AI
 I also had the opportunity to learn how my home state, Texas, is setting its self up for success by prioritizing infrastructure to supply new Data Centers and micro chip factories with enough energy to fit their needs combined with the right legal and physical infrastructure 
+
+home lab set up - do it by parts or one big ass article?
 ### Discussion
 - Rugby vs futbol *discussion*
 	- I have some notes on my ideas journal
@@ -26,7 +27,7 @@ What would I do if I had infinite money?
 
 Substack and writing made me consume content more critically - analysis characters etc. 
 
-should mexico accept help from the USA to fight the cartels ? historical examples 
+should Mexico accept help from the USA to fight the cartels ? historical examples 
 
 What is it about old things that makes me love them and want to keep them forever? + On nostalgia?
 
@@ -41,11 +42,21 @@ Authors and their crazy lives/lifes (?)
 
 For AI/algorithm lead life - books vs algorithm - both inspired behavior - have we always been easily moved? 
 
-
 Identity is found through elimination, once you determine what you are not, you find who you are. Expansion through reduction
 
-
 Game industry as an economist
+- purest form of competition
+
+Butter - thoughts on the book 
+
+Story of starcarft, economics, social consequence and talk about the game 
+- public policy 
+
+Running as meditation
+
+
+Removed this from 'running as meditation' article, could use it for something else - the impact of our parents? positive influence on others? Idk:
+I remember my dad talking about how he ran 10 km everyday during college. I think that's where I first thought about adopting this practice. I even remember he ran a half marathon once, my mom, my brother and I went to cheer him on. I remember he was cramping real bad, he even screamed, I wonder why he stopped running.
 
 ### love letter
 - Love letter to squatting 
@@ -60,8 +71,6 @@ Game industry as an economist
 The scholar - I have some notes on my notebook 
 
 un meteorito que termina siendo una nave espacial 
-
-
 ### Currently working on:
 - ~~Books that helped me in my career *technical*~~
 - ~~MY AI experiment - Learning Game Development~~
@@ -75,3 +84,6 @@ Great man are behind me, it keeps me going forward. Talking about why I have bee
 
 
 Talk about my faith? I was against authority, rebellious. Everything that humans touch is corrupted. 
+
+### History 
+Why and how Armenia adopted christianity 
