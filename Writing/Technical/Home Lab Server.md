@@ -24,6 +24,14 @@ dev wlan0 metric 600   ← higher number = lower priority
 
 **Key term — Web Server:** Software that listens on a port (usually 80 for HTTP, 443 for HTTPS) and responds to requests with web pages or data. When you type an address in your browser, a web server on the other end is what answers.
 
+**Key term — Self-signed certificate:** An SSL certificate you generated yourself rather than obtained from a trusted authority. Valid for encryption, not valid for public trust. Fine for internal/lab use, not acceptable for public-facing websites.
+- When opening the pi hole admin web ui I got a warning, this is what it means. 
+
+Socket statistics -> This tool shows all network connections and listening ports on the system
+- Used to know which ports are open 
+
+
+---
 ## Objective
 I am an aspiring Solutions Architect/Cloud Engineer, theory + practice = great preparation. You need to have theory but having a lab that you can experiment with gives you the knowledge required. Nothing beats blowing up a node and fixing it from scratch.
 
@@ -192,3 +200,52 @@ The distinction that matters here:
 | Port 80 open, no router port forward   | Only your home devices can reach it — safe ✅ |
 | Port 80 open + router port forwards it | The whole internet can reach it — risky ❌    |
 
+Now we were able to reach -> http://192.168.0.65/admin/, but we got a 403 forbidden error. 
+
+Now I got myself into a pickle as they say, because I have a wordpress web page installed on my rasbperry pi so there's a conflict in the directories. 
+1. **You have a WordPress site** — that's the Apache website you mentioned. It lives in `/var/www/html/` and that's what lighttpd is serving when you hit `192.168.0.65`.
+2. **2. Pi-hole admin is a subfolder** — it lives at `/var/www/html/admin/` which is why you need to go to `192.168.0.65/admin` — but WordPress's `.htaccess` file is likely intercepting requests before they reach it.
+
+lighttpd's config file is missing entirely from the directory where it should be, we use a grep finder -> `manu@manupi:/ $ sudo find / -name "*.conf" | grep pihole 2>/dev/null` and find the file in: /etc/pihole/dnsmasq.conf
+
+
+### Why the Config is Missing
+Since we installed pihole without having lighttpd installed, pihole's installer tried to set up the lighttpd config file but didn't find lighttpd installed so it just skipped that step. 
+
+When we installed lighttpd pi hole didn't have a way of knowing the config file was available. So the cleanest way of fixing this is by doing the pi hole repair command:
+
+`sudo pihole -r`
+
+
+Now confirming the config files are available:
+
+```
+manu@manupi:/ $ ls /etc/lighttpd/conf-enabled/
+10-fastcgi.conf  15-fastcgi-php.conf  90-javascript-alias.conf
+```
+
+## Fixing the 403 error - The actual fix 
+command that allowed it to work -> `sudo ufw allow 443/tcp` and we also ran:
+`sudo ufw allow 53/tcp` & `sudo ufw allow 53/udp`
+
+`sudo ss -tlnp | grep pihole`
+- ss = socket statistics
+- -t = tcp only
+- -l = listening sockets
+- -n = show port numbers instead of service names (443, not https)
+- -p show the process name that owns the socket 
+- | grabs the output of the left command and feeds it to the right command
+- grep pihole = filters the output and only shows lines that contain the word pihole
+
+_"Show me all TCP ports currently listening, with process names, and filter to only show lines related to pihole."_
+
+No lighttpd anywhere. Pi-hole was already serving the admin UI the whole time — just on 443 (HTTPS) instead of 80 (HTTP). We were knocking on the wrong door.
+
+Besides bringing down apache, I also noticed that pihole was listening on port 443 
+
+Open the web ui at https:// not http:// 
+
+### Deleted lighttpd
+Since we are not using this, we delete it form the system. Any software on the system is surface for attack. 
+
+Before I had done `sudo systemctl disable lighttpd` but that doesn't stop it from starting on boot and leaves all files on the machine. 
