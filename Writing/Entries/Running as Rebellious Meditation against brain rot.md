@@ -17,7 +17,5 @@ When I run in this fashion I feel the sun in my skin, I hear the wind move the t
 Praying and running, an exercise for body and spirit. Running has also allowed me to pray more often. I know this is something I have to do and enjoy doing, but with my daily tasks, distractions and work I simply forget of doing so. I read somewhere that the recommended exercise time is around 30 minutes a day. This is enough for me to run 5 kilometers and it gives me plenty of time to pray. Those unnoticed worries and thoughts that I mentioned earlier? Here's where I deal with them. Similar to the runners high people experience, I get a certain sense of calm that I only get after I pray.
 
 
-
-
 A sense of pure gratitude inundates me for being able to move the way I do. 
 

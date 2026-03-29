@@ -1,5 +1,5 @@
 **Raspberry** pi 
-# Terms
+# Terms & Commands
 DHCP Dynamic Host Configuration Protocol -> Your router acting as a hotel receptionist. Each device that is connected gets a room (IP address). Default setting is that each device has a dynamic IP, one day you have `.65` and the next `.75`.  For home labbing that is an issue
 - Why DHCP? For convenience, managing IPs is a lot of work, having a system that automatically sets IPs make it easy. If this system wasn't present you would have to add a new ip for each new device. You can think of DHCP as a parking lot. You might get the same spot each time you connect, but if a device was offline for some time some other device could've taken its place. 
 
@@ -29,6 +29,33 @@ dev wlan0 metric 600   ← higher number = lower priority
 
 Socket statistics -> This tool shows all network connections and listening ports on the system
 - Used to know which ports are open 
+
+`sudo ufw status` -> knowing which ports are open 
+- guest list at the door, shows you who's in the list, anyone not listed does not get in. 
+`sudo ufw delete allow 80/tcp` -> closing a port 
+`sudo ufw allow 80/tcp` -> opening a port 
+
+Port 53 -> universal standard port for DNS. Every device that needs to resolve a domain name sends that request to port 53. 
+- For example, when you google instagram.com, that request/packet goes directly through port 53 on the DNS server the router handed it.  
+
+Universal ports:
+|Port|Protocol|Used for|
+|---|---|---|
+|`22`|TCP|SSH|
+|`53`|TCP + UDP|DNS|
+|`80`|TCP|HTTP|
+|`443`|TCP|HTTPS|
+|`3306`|TCP|MySQL / MariaDB|
+|`5432`|TCP|PostgreSQL|
+|`6443`|TCP|Kubernetes API server|
+|`8006`|TCP|Proxmox web UI|
+|`9090`|TCP|Prometheus|
+|`3000`|TCP|Grafana|
+|`51820`|UDP|WireGuard VPN|
+
+DNS Cache - When your computer resolves a domain name it saves the answer for a while, so it doesn't need to ask the DNS server every time. 
+
+Proxy -> Client -> proxy -> server. A proxy is anything that sits in between tow things and acts on behalf of one of them. The client only talks to the proxy, it never touches the server. 
 
 
 ---
@@ -245,7 +272,137 @@ Besides bringing down apache, I also noticed that pihole was listening on port 4
 
 Open the web ui at https:// not http:// 
 
+
+## To know which ports are open
+`sudo ufw status`
+
+No open ports without a reason — that's the rule.
+
+
 ### Deleted lighttpd
 Since we are not using this, we delete it form the system. Any software on the system is surface for attack. 
 
 Before I had done `sudo systemctl disable lighttpd` but that doesn't stop it from starting on boot and leaves all files on the machine. 
+
+#### Clean up process:
+`sudo apt remove lighttpd -y`
+`sudo apt purge lighttpd -y`
+
+|Command|What it does|
+|---|---|
+|`apt remove`|Uninstalls the software but keeps config files|
+|`apt purge`|Uninstalls the software AND deletes all config files|
+
+On any machine, if you are not using the package/software do purge.
+# Adding Local DNS - Inside PiHole admin web ui
+![[Pasted image 20260328104221.png]]
+
+![[Pasted image 20260328105631.png]]
+
+Settings -> Local DNS Records 
+
+What we are adding:
+
+| Domain          | IP             |
+| --------------- | -------------- |
+| `pi.lab`        | `192.168.0.65` |
+| `node-a.lab`    | `192.168.0.20` |
+| `node-b.lab`    | `192.168.0.21` |
+| `grafana.lab`   | `192.168.0.65` |
+| `proxmox-a.lab` | `192.168.0.20` |
+| `proxmox-b.lab` | `192.168.0.21` |
+
+Testing what we just configured: `nslookup node-a.lab 192.168.0.65`
+- nslookup -> name server look up. A tool for querying DNS servers directly, you give it a domain and it tells you the IP it resolves to. 
+- node-a.lab -> the first laptop we will set up.
+- 192.168.0.65 -> the DNS server we are asking, in this case we are asking pihole. 
+
+
+> [!NOTE] Analogy
+> **The analogy:** Imagine you have two phone books — one from Google and one you made yourself. `nslookup node-a.lab` looks in whatever phone book you normally use. `nslookup node-a.lab 192.168.0.65` says "look specifically in the phone book at address `192.168.0.65`" — your Pi-hole.
+
+![[Pasted image 20260328105608.png]]
+
+
+> [!NOTE] DevOps tip -When DNS breaks in production you need to know:
+> Is the DNS server itself broken? 
+> Or is the client not pointed at the right DNS server
+
+## Modifying router settings DHCP Server
+Always know the IP of critical devices, for example the router -> `192.168.0.1` 
+
+Inside my router's settings we go to *DHCP server* settings.
+
+Settings for DHCP server:
+![[Pasted image 20260328113252.png]]
+
+8.8.8.8 is the google fallback. 
+
+192.168.0.65 is the pihole 
+
+## Restarting Network Manager Services 
+On linux:
+`sudo systemctl restart NetworkManager`
+
+We restart the NetworkManager to force the desktop to drop the current DHCP configuration and grab a new one. The new DHCP request will not include the new DNS server 192.168.0.65 we set up on the router. 
+
+On mac
+`sudo killall -HUP mDNSResponder`
+Same thing but on mac - reloads the DHCP 
+
+
+
+## Testing nslookup again with new DNS server
+Now we run the same command but without pointing it to a DNS server:
+`nslookup node-a.lab` and it outputs:
+
+```
+manu@ManuelDesktop:~/Downloads$ nslookup node-a.lab
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	node-a.lab
+Address: 192.168.0.20
+
+```
+
+Things to note here, there is a Server : 127.0.0.53. This is a local address (on the desktop). This is *systemd-resolved* a DNS proxy built into Ubuntu/Linux that sits between your applications and the real DNS server. It receives requests locally then upstream to the DNS server. 
+- systemd-resovled is a DNS cache, faster response, less network traffic. Every application asks 127.0.0.53 for DNS, one consistent address. 
+
+Pipeline looks like this:
+
+Your desktop app
+      ↓
+127.0.0.53 (systemd-resolved — local proxy)
+      ↓
+192.168.0.65 (Pi-hole)
+      ↓
+8.8.8.8 (Google — if Pi-hole doesn't have the answer)
+
+
+## Checking which DNS server my system is using:
+```
+manu@ManuelDesktop:~/Downloads$ resolvectl status | grep "DNS Server"
+Current DNS Server: 192.168.0.65
+       DNS Servers: 192.168.0.65 8.8.8.8
+```
+
+# Checkpoint
+Your Desktop
+     ↓
+127.0.0.53 (systemd-resolved — local cache)
+     ↓
+192.168.0.65 (Pi-hole — lab DNS + ad blocking)
+     ↓ (if Pi-hole doesn't have the answer)
+8.8.8.8 (Google — public internet DNS)
+## Phase 1 Progress Check
+
+|Task|Status|
+|---|---|
+|Static IP on ethernet|✅ Done|
+|Pi-hole running on port 443|✅ Done|
+|Local DNS records added|✅ Done|
+|Port 53 open in UFW|✅ Done|
+|Router pointing at Pi-hole|✅ Done|
+|Desktop using Pi-hole for DNS|✅ Done|
