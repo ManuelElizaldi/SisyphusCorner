@@ -104,3 +104,7 @@ The experience of running in the cold is more joyful than subjecting myself to a
 - To prove something to myself? Danger?
 
 When I first started running I used music as a booster. I would crank it up, listening to metal, hip hop punk or anything that had a good beat with a high BPM that I could match with my stride, high BPM, high running octane. Funny enough, now I don't listen to any music. There was an inevitable internal adjustment that made me prefer the sounds of my surroundings, having no music blasting inside my head allows my thoughts to be loud and clear. All of my insecurities, worries, and longings are on display. This allows me to dance (run) with my demons.
+
+
+# Blog
+Maybe write a piece about eggs benedict? 
