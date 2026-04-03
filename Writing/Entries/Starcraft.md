@@ -1,10 +1,19 @@
-I recently started playing Starcraft 2 after almost 10 years of not playing this game and forgot how rewarding it can be. If you are not familiar with this sci-fi masterpiece of a game, it falls under the genre RTS - Real Time Strategy. Maybe if you are a 90s kid like I am, you will remember a time when this genre was king, it even became South Koreas national sport and gave way to the E-Sports industry. 
+After a break of almost 10 years, I got back to playing Starcraft 2 and forgot how rewarding it can be. This video game is a true departure of the modern day game experience. Where norm now is to build games where the player is hand held and made convenient, Starcraft is a game that punishes the ill prepared and offers triumph to the player that can design the best strategy. 
 
-To better understand the magnitude of this genre, let me give you a brief introduction. In a real time strategy game you are the architect of an army. This involves managing an economy, using those resources to build key buildings and then crafting your army unit by unit. 
+Starcraft falls under the genre RTS - Real Time Strategy. Allow me to give a brief introduction to this 
+
+
+genre was king, it even became South Koreas national sport and gave way to the E-Sports industry. 
+
+To better understand the magnitude of this genre, let me give you a brief introduction. In a real time strategy game you are the architect of an army. This involves the intricate process of juggling different tasks. An ADHD's paradise. Managing an economy by building and defending bases all around the playing field then you use the gathered resources to invest in key infrastructure that allows you to build an army. 
 
 You have a combination of different units. Each unit serves a purpose, some can fly, others can burrow underneath the ground. Some can only attack ground units from the sky and other can only attack flying units from the ground. Some lend powerful support through special abilities but aren't able to attack the enemy directly. There is a great variety of units and each is similar to a tool that has to be used for certain scenarios. 
 
-While you are managing your resources, just like a general, you have to control each individual unit of your army. You need to determine when's the best time to attack or play defensive. This plays like chess at 120 actions per minute, to become competitive in this game you have to learn your opponents weaknesses and build a strategy on the fly. Every decision matters and victory depends on your strategy. 
+While you are managing your resources, just like a general, you have to control each individual unit of your army. You need to determine when's the best time to attack or play defensive. This plays like chess where the rook is an angry alien insectoid that wants to chop your head off. 
+
+To become competitive in this game one needs to adopt a Sun Tzu art of war philosophy and know thy enemy. 
+
+you have to learn your opponents weaknesses and build a strategy on the fly. Every decision matters and victory depends on your strategy. 
 
 There's a plethora of RTS games, ranging from different settings, like fantasy, trench warfare, medieval and sci-fi. Without a doubt, I am confident about this and I would die on this hill, but Starcraft is king in this genre. 
 
@@ -13,7 +22,9 @@ Starcraft is a game where there's 3 major factions. The Terran, that are humans 
 ![[Pasted image 20260321153658.png]]
 Terran base defending a Protos attack
 
-Starcraft's path to becoming one of history's most impactful video games is an interesting story about how economics, technology and culture intersect. 
+Besides the amazing gameplay, this game became a legend because of cultural and economic factors that pushed it to 
+
+Starcraft's path to becoming one of history's most impact video games is an interesting story about how economics, technology and culture intersect. 
 
 This has its genesis in 1995 during a Korean economic boom funded by an exports based economy. This country was producing high tech products like semiconductors, electronics, ships, cars and telecommunications devices. Infrastructure was needed to remain competitive in this field at an international level. Additionally, the internet revolution was on the horizon and South Korea's Government wanted to come out victorious from it. 
 
@@ -39,4 +50,23 @@ There was also a ban on Japanese media placed in 1945, so the coast was clear fo
 During the 1990s consoles were the favored medium to play video games around the world, except in Korea. During this time consoles like the Nintendo 64 or the Playstation were not accessible and there was also a disdain for Japanese products. This removed any competition in the Korean market, so it was easier for PC Bangs to just plug in computers. Starcraft grew in a vacuum of video games.  
 
 
+----
+# Rewrite 
 
+During the 90s, countries in South East Asia enjoyed a economic boom. People worked in factories producing high tech products that were sold to other countries. Investors and workers had a sense of security backed by foreign investment fueling more growth. 
+
+The Internet Revolution was on the horizon bringing more prosperity, to guarantee this, the South Korean Government started investing aggressively in optical networks. Similar to a strategy in Starcraft (*should I ad this?*) they wanted to ensure internet access for their population. They were slowly preparing the factory worker to become a knowledge based worker. They also invested in key infrastructure for corporations to keep them competitive at an international level. 
+
+All of this was possible because of an economic tool called currency pegging, where you match your currency to the value of the dollar, in this case. This gave investors the sense of a free risk investment. But thanks to over confidence leading to bad investments, the boom was no more and crisis fell upon the people. 
+
+Now the South Korean factory worker or Samsung executive was layed off because there was no money to pay for the huge debt caused by invested money towards growth. As it is the norm, necessity is the mother of all inventions and the South Korean people were smart enough to take advantage of the infrastructure that was built by the government. Internet Cafes with powerful computers and internet connection called PC Bangs started to bloom around Korean towns. These small businesses were a refuge for families that lost their jobs during these hard economic challenges. 
+
+Now, an interesting factor 
+
+--- 
+
+a Korean executive borrows money in dollars because it feels safe, the promise holds, and then overnight the math changes and a $100 billion debt becomes $170 billion. He didn't make a bad decision. The rules changed on him. That's not economics. That's a story about a person who did everything right and still lost, funny enough, just like starcraft 
+
+So here's the question I'd leave you with before you redraft this section: **can you find one person — real or representative — standing at the moment the trap snapped shut?** Not an executive, not a statistic. Someone your reader can see.
+
+What image comes to mind when you think about that moment?

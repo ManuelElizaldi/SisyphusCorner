@@ -38,7 +38,7 @@ The two permissions we selected:
 - **AmazonEC2ReadOnlyAccess**
 - **AmazonS3ReadOnlyAccess**
 
-Both provide read access to Ec2 and S3
+Both provide read access to EC2 and S3
 - Read access: You can open, read/view, copy files but not modify them. You can use resources without the ability to modify them.  
 
 For HR Team we only give them *Billing* permission policy -> Grants permissions for billing and cost management

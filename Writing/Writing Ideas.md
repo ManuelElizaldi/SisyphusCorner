@@ -1,6 +1,5 @@
 [[Ideas]] [[Writing]]
 This is a section to write down any ideas I have for writing. 
-
 write a note about where mile comes from
 ### Technical
 
@@ -88,8 +87,6 @@ Talk about my faith? I was against authority, rebellious. Everything that humans
 ### History 
 Why and how Armenia adopted christianity 
 
-
-
 #### For another running article in the future:
 usually after a run, I have a lot to write about, ideas fly around in my mind. I wish I could run with a with a notebook so I can capture those flying ideas, I could try and record myself?
 
@@ -106,5 +103,17 @@ The experience of running in the cold is more joyful than subjecting myself to a
 When I first started running I used music as a booster. I would crank it up, listening to metal, hip hop punk or anything that had a good beat with a high BPM that I could match with my stride, high BPM, high running octane. Funny enough, now I don't listen to any music. There was an inevitable internal adjustment that made me prefer the sounds of my surroundings, having no music blasting inside my head allows my thoughts to be loud and clear. All of my insecurities, worries, and longings are on display. This allows me to dance (run) with my demons.
 
 
+The fashion of count of monte cristo - the way he carried himself. Where does this come from? 
+
+
 # Blog
 Maybe write a piece about eggs benedict? 
+
+
+
+AI prompt:
+```
+"I'm about to start this project. Interview me until you have 95% confidence about what I actually want, not what I think I should want."
+```
+
+

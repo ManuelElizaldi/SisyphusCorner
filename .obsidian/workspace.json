@@ -22,45 +22,45 @@
             }
           },
           {
-            "id": "8b2475553de4cb57",
+            "id": "a3afc4977c92d1b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics - Introduction to AWS Step Functions & Lab.md",
+                "file": "Programming/Cloud Computing/AWS Certification Prep/Udemy Course/General Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Cost Control and Analytics - Introduction to AWS Step Functions & Lab"
+              "title": "General Notes"
             }
           },
           {
-            "id": "45702eda8b96b40c",
+            "id": "69ad82049309f933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Entries/Running as Rebellious Meditation against brain rot.md",
+                "file": "Writing/Entries/Starcraft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Running as Rebellious Meditation against brain rot"
+              "title": "Starcraft"
             }
           },
           {
-            "id": "5932ea55824eb0f2",
+            "id": "adbd361a5c82ccd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge - Cloud Cost Control and Analytics - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent.md",
+                "file": "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics Challenge - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Challenge - Cloud Cost Control and Analytics - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent"
+              "title": "Cloud Cost Control and Analytics Challenge - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 616.5,
+    "width": 567.5,
     "collapsed": true
   },
   "right": {
@@ -228,25 +228,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "45702eda8b96b40c",
+  "active": "69ad82049309f933",
   "lastOpenFiles": [
-    "Writing/Writing Ideas.md",
-    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics - Introduction to AWS Step Functions & Lab.md",
-    "Challenge - Cloud Cost Control and Analytics - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent.md",
-    "Pasted image 20260329163649.png",
-    "Pasted image 20260329163240.png",
-    "Pasted image 20260329163237.png",
-    "Pasted image 20260329163005.png",
-    "Pasted image 20260329162522.png",
-    "Pasted image 20260329160605.png",
-    "Pasted image 20260329160549.png",
-    "Pasted image 20260329160256.png",
-    "Pasted image 20260329102735.png",
-    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Introduction to AWS Identity Access Management (IAM).md",
-    "Pasted image 20260329100557.png",
-    "Writing/Entries/Running as Rebellious Meditation against brain rot.md",
-    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs",
+    "Programming/Cloud Computing/AWS Certification Prep/Udemy Course/General Notes.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics Challenge - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent.md",
+    "Writing/Entries/Starcraft.md",
+    "Writing/Writing Ideas.md",
+    "Writing/Entries/Done/Running as Rebellious Meditation against brain rot.md",
+    "Writing/Entries/Running as Rebellious Meditation Against Brain Rot.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Serverless Healthcare Analytics Pipeline - S3, Glue, Athena, QuickSight.md",
+    "Resources/Pasted image 20260328115757.png",
+    "Pasted image 20260331201632.png",
+    "Pasted image 20260331201037.png",
+    "Pasted image 20260331200410.png",
+    "Pasted image 20260330204448.png",
+    "Pasted image 20260330202121.png",
+    "Pasted image 20260330201600.png",
+    "Pasted image 20260330201200.png",
+    "Pasted image 20260330194649.png",
+    "Pasted image 20260330193858.png",
+    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Introduction to AWS Identity Access Management (IAM).md",
+    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics - Introduction to AWS Step Functions & Lab.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Week 1/Lab Exercises Notes - AWS GuardDuty & AWS Athena.md",
     "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Programming/DevOps.md",
     "Programming/Home Lab",
