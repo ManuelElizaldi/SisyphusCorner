@@ -85,6 +85,8 @@ Great man are behind me, it keeps me going forward. Talking about why I have bee
 Talk about my faith? I was against authority, rebellious. Everything that humans touch is corrupted. 
 
 ### History 
+Napoleon said something that stuck with me: "The reading of history very soon made me feel that I was capable of achieving as much as the men who are placed in the highest ranks of our annals."
+
 Why and how Armenia adopted christianity 
 
 #### For another running article in the future:
