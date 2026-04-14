@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "11bc3567d6cdcff5",
+        "id": "a40eea9c0f75cc28",
         "type": "tabs",
         "children": [
           {
-            "id": "d33ecde987493de1",
+            "id": "f5d915cae3305e40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Home Lab/Home Lab Server Phase 1.md",
+                "file": "Claude/ABOUT_ME/LinkedIn Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Lab Server Phase 1"
-            }
-          },
-          {
-            "id": "a3afc4977c92d1b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/AWS Certification Prep/Udemy Course/General Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Notes"
-            }
-          },
-          {
-            "id": "69ad82049309f933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Starcraft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Starcraft"
-            }
-          },
-          {
-            "id": "adbd361a5c82ccd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics Challenge - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cloud Cost Control and Analytics Challenge - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent"
+              "title": "LinkedIn Workflow"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sudo nmcli connection modify \"Wired connection 1\" ipv4.dns \"8.8.8.8,1.1.1.1\"",
+                "query": "ecs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,30 +185,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "69ad82049309f933",
+  "active": "f5d915cae3305e40",
   "lastOpenFiles": [
-    "Programming/Cloud Computing/AWS Certification Prep/Udemy Course/General Notes.md",
-    "Programming/Home Lab/Home Lab Server Phase 1.md",
-    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics Challenge - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent.md",
+    "Claude/Workflow.md",
+    "Claude/ABOUT_ME/LinkedIn Workflow.md",
+    "Notion - How they do things.md",
+    "Resources/Pasted image 20260330204448.png",
     "Writing/Entries/Starcraft.md",
-    "Writing/Writing Ideas.md",
+    "Claude",
+    "Programming/Home Lab/Home Lab Server Phase 1.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Udemy Course/General Notes.md",
+    "ECS.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Amazon AuroraClusters, Replicas& Advanced Features.md",
+    "Resources/Pasted image 20260408220134.png",
+    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics Challenge - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Tips on quizes.md",
+    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Create a sample Web Application and monitor it in AWS X-Ray.md",
+    "Programming/Home Lab/Home Lab Server Phase 2.md",
+    "Resources/Pasted image 20260405104817.png",
     "Writing/Entries/Done/Running as Rebellious Meditation against brain rot.md",
+    "Writing/Writing Ideas.md",
     "Writing/Entries/Running as Rebellious Meditation Against Brain Rot.md",
     "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Serverless Healthcare Analytics Pipeline - S3, Glue, Athena, QuickSight.md",
     "Resources/Pasted image 20260328115757.png",
-    "Pasted image 20260331201632.png",
-    "Pasted image 20260331201037.png",
-    "Pasted image 20260331200410.png",
-    "Pasted image 20260330204448.png",
-    "Pasted image 20260330202121.png",
-    "Pasted image 20260330201600.png",
-    "Pasted image 20260330201200.png",
-    "Pasted image 20260330194649.png",
-    "Pasted image 20260330193858.png",
+    "Resources/Pasted image 20260331201632.png",
+    "Resources/Pasted image 20260331201037.png",
+    "Resources/Pasted image 20260331200410.png",
+    "Resources/Pasted image 20260330202121.png",
+    "Resources/Pasted image 20260330201600.png",
+    "Resources/Pasted image 20260330201200.png",
     "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Introduction to AWS Identity Access Management (IAM).md",
     "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics - Introduction to AWS Step Functions & Lab.md",
     "Programming/Cloud Computing/AWS Certification Prep/Week 1/Lab Exercises Notes - AWS GuardDuty & AWS Athena.md",
-    "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Programming/DevOps.md",
     "Programming/Home Lab",
     "Programming/RaspberryPi/Website Set With WordPress up & Cloudflare.md",

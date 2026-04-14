@@ -94,3 +94,19 @@ ABSORB DDoS attacks?
 AUTO-REMEDIATE anything?
 → EventBridge + Lambda (triggered BY Security Hub)
 → Never Security Hub alone
+
+# Cloud Formation
+You don't need to specify resource order when creating infrastructure. CLoudFormation figures it out on its own.
+
+There is an attribute you can determine on the config file `DependsOn` but this is used for resources that are not as obvious. 
+- You don't need to declare 1) vpc, 2) subnet 3) EC2. CloudFormation can determine the order on its own. 
+- **Cloud Formation is Declarative not Imperative**
+
+CloudFormation can detect drift -> when a resource differs from the config file/template. 
+- but it cannot remediate the drift. You can perform a **Stack Update** that brings everything back to the template format. 
+  
+In order to fix drift you can pair Cloud Formation with AWS Config. 
+
+# IAM Identity Center
+User to login to AWS with corporate credentials 
+

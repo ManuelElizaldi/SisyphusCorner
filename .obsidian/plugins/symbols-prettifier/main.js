@@ -302,13 +302,14 @@ var characterMap = {
   "--": { transform: "\u2013" },
   "!=": { transform: "\u2260" },
   "===": { transform: "\u2261" },
+  "=/=": { transform: "\u2260" },
   "=<": { transform: "\u2264" },
   ">=": { transform: "\u2265" },
   "+-": { transform: "\xB1" },
   "-+": { transform: "\u2213" }
 };
 function getCharacterRegex() {
-  return new RegExp("(<->|->|<-|<=>|<=|=>|--|!=|===|=<|>=|\\+\\-|\\-\\+)", "g");
+  return new RegExp("(<->|->|<-|<=>|<=|=>|--|!=|===|\u2260|=<|>=|\\+\\-|\\-\\+)", "g");
 }
 var SymbolsPrettifier3 = class extends import_obsidian3.Plugin {
   constructor() {
@@ -327,6 +328,5 @@ var SymbolsPrettifier3 = class extends import_obsidian3.Plugin {
     console.log("unloading symbols prettifier");
   }
 };
-
 
 /* nosourcemap */

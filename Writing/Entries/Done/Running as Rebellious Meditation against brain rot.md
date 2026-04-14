@@ -6,7 +6,7 @@ First, you will feel your muscles screaming at you to stop, then you feel like y
 
 Comparing this to weightlifting, another of my favorite forms of exercise, running does not offer any breaks from the exertion. When you hit the gym you do an exercise for 6 - 15 reps and you get time to catch your breath, then go again. 
 
-Running is the complete opposite, you run until you are done, not when you are tired. Not to discredit weightlifting's pain inducing exercises, there are plenty of ways to torture yourself in the gym. For example there's Bulgarian squats or burpees. But any runner that has experience on both, will tell you that there is a special feeling you get for tolerating the inherit pain of running.
+Running is the complete opposite, you run until you are done, not when you are tired. Not to discredit weightlifting's pain inducing exercises, there are plenty of ways to torture yourself in the gym. For example there's Bulgarian squats or burpees. But any runner that has experience on both, will tell you that there is a special feeling you get for tolerating the inherent pain of running.
 
 There is also an added element of difficulty to running. If you are anything like me, running on a treadmill is the last thing you would ever want to do. So you head outside to run. Then the weather plays an important role. Sometimes you will be forced to run in the scorching heat of summer, other times the cold wind will be your dear companion, but this just makes the experience more visceral, more real. 
 

@@ -64,8 +64,11 @@ Now the South Korean factory worker or Samsung executive was layed off because t
 Now, an interesting factor 
 
 --- 
+# Economic Section Rewrite
 
-a Korean executive borrows money in dollars because it feels safe, the promise holds, and then overnight the math changes and a $100 billion debt becomes $170 billion. He didn't make a bad decision. The rules changed on him. That's not economics. That's a story about a person who did everything right and still lost, funny enough, just like starcraft 
+a Korean executive borrows money in dollars because it feels safe, the promise holds, and then overnight trust is broken, the mechanism fails and a $100 billion debt becomes $170 billion. He didn't make a bad decision. 
+
+The rules changed on him. That's not economics. That's a story about a person who did everything right and still lost, funny enough, just like starcraft 
 
 So here's the question I'd leave you with before you redraft this section: **can you find one person — real or representative — standing at the moment the trap snapped shut?** Not an executive, not a statistic. Someone your reader can see.
 
