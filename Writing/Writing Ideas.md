@@ -89,6 +89,13 @@ Napoleon said something that stuck with me: "The reading of history very soon ma
 
 Why and how Armenia adopted christianity 
 
+#### Workouts of historical figures
+The workouts of famous historical figures: Geoerge Washigton huntin for 6 hours straight chasing the hounds that were chasing the fox. Going in for the kill. Long hikes when he was young. Surveying the land
+
+Porfirio Diaz swimming and calisthenics, horseback riding 
+
+
+
 #### For another running article in the future:
 usually after a run, I have a lot to write about, ideas fly around in my mind. I wish I could run with a with a notebook so I can capture those flying ideas, I could try and record myself?
 

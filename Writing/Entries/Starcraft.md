@@ -3,7 +3,7 @@ After a break of almost 10 years, I got back to playing Starcraft 2 and forgot h
 Starcraft falls under the genre RTS - Real Time Strategy. Allow me to give a brief introduction to this 
 
 
-genre was king, it even became South Koreas national sport and gave way to the E-Sports industry. 
+genre was king, it even became South Korea's national sport and gave way to the E-Sports industry. 
 
 To better understand the magnitude of this genre, let me give you a brief introduction. In a real time strategy game you are the architect of an army. This involves the intricate process of juggling different tasks. An ADHD's paradise. Managing an economy by building and defending bases all around the playing field then you use the gathered resources to invest in key infrastructure that allows you to build an army. 
 
@@ -73,3 +73,9 @@ The rules changed on him. That's not economics. That's a story about a person wh
 So here's the question I'd leave you with before you redraft this section: **can you find one person — real or representative — standing at the moment the trap snapped shut?** Not an executive, not a statistic. Someone your reader can see.
 
 What image comes to mind when you think about that moment?
+
+
+## Some thoughts on the game play 
+I finished a round of SC2 games and I lost all of them, 5 games played 5 games I was defeated. Of course, I got mad the firs time I lost, but when I lost on the next games I just shrugged it off. This game has showed me to appreciate the process of mastering something. It made me understand that defeat is just another step. There is always a crack in your strategy, even if you win, that your opponent can unknowingly or consciously exploit to defeat you. 
+
+But when you win, you will feel like you are on the top of the world. Intoxicating you. 

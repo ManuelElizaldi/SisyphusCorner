@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "LinkedIn Workflow"
             }
+          },
+          {
+            "id": "ed23802c8f7ad9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Entries/Starcraft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Starcraft"
+            }
+          },
+          {
+            "id": "76392c4fe6389210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Entries/Hats I Love - Gifted Hats pt.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hats I Love - Gifted Hats pt.1"
+            }
+          },
+          {
+            "id": "d17d056a484d0d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Writing Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing Ideas"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +228,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "f5d915cae3305e40",
+  "active": "76392c4fe6389210",
   "lastOpenFiles": [
-    "Claude/Workflow.md",
+    "Writing/Entries/Starcraft.md",
     "Claude/ABOUT_ME/LinkedIn Workflow.md",
+    "Writing/Writing Ideas.md",
+    "Writing/Entries/Hats I Love - Gifted Hats pt.1.md",
+    "Claude/Workflow.md",
     "Notion - How they do things.md",
     "Resources/Pasted image 20260330204448.png",
-    "Writing/Entries/Starcraft.md",
     "Claude",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/Cloud Computing/AWS Certification Prep/Udemy Course/General Notes.md",
@@ -204,7 +249,6 @@
     "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Resources/Pasted image 20260405104817.png",
     "Writing/Entries/Done/Running as Rebellious Meditation against brain rot.md",
-    "Writing/Writing Ideas.md",
     "Writing/Entries/Running as Rebellious Meditation Against Brain Rot.md",
     "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Serverless Healthcare Analytics Pipeline - S3, Glue, Athena, QuickSight.md",
     "Resources/Pasted image 20260328115757.png",
