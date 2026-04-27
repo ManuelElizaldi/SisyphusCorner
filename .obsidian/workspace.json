@@ -62,6 +62,20 @@
               "icon": "lucide-file",
               "title": "Writing Ideas"
             }
+          },
+          {
+            "id": "574d6fede776ea22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Writing Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing Notes"
+            }
           }
         ],
         "currentTab": 2
@@ -230,10 +244,13 @@
   },
   "active": "76392c4fe6389210",
   "lastOpenFiles": [
-    "Writing/Writing Ideas.md",
-    "Claude/ABOUT_ME/LinkedIn Workflow.md",
-    "Writing/Entries/Hats I Love - Gifted Hats pt.1.md",
     "Writing/Entries/Starcraft.md",
+    "Claude/ABOUT_ME/LinkedIn Workflow.md",
+    "Writing/Writing Ideas.md",
+    "Pasted image 20260426123054.png",
+    "Writing/Writing Schedule.md",
+    "Writing/Writing Notes.md",
+    "Writing/Entries/Hats I Love - Gifted Hats pt.1.md",
     "Claude/Workflow.md",
     "Notion - How they do things.md",
     "Resources/Pasted image 20260330204448.png",
@@ -257,15 +274,12 @@
     "Resources/Pasted image 20260331200410.png",
     "Resources/Pasted image 20260330202121.png",
     "Resources/Pasted image 20260330201600.png",
-    "Resources/Pasted image 20260330201200.png",
     "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Introduction to AWS Identity Access Management (IAM).md",
     "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics - Introduction to AWS Step Functions & Lab.md",
     "Programming/Cloud Computing/AWS Certification Prep/Week 1/Lab Exercises Notes - AWS GuardDuty & AWS Athena.md",
     "Programming/DevOps.md",
     "Programming/Home Lab",
     "Programming/RaspberryPi/Website Set With WordPress up & Cloudflare.md",
-    "Programming/RaspberryPi/Raspberrypi Set Up Notes.md",
-    "Programming/RaspberryPi/NAS Setup on Raspberry Pi.md",
-    "Programming/RaspberryPi/Creating a key pair on raspberry pi.md"
+    "Programming/RaspberryPi/Raspberrypi Set Up Notes.md"
   ]
 }

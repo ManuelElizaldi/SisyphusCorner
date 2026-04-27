@@ -126,3 +126,6 @@ AI prompt:
 ```
 
 
+# Rancho el Venadito
+essay inspired by this image
+![[Pasted image 20260426123054.png]]
