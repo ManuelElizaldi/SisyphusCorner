@@ -94,8 +94,6 @@ The workouts of famous historical figures: Geoerge Washigton huntin for 6 hours 
 
 Porfirio Diaz swimming and calisthenics, horseback riding 
 
-
-
 #### For another running article in the future:
 usually after a run, I have a lot to write about, ideas fly around in my mind. I wish I could run with a with a notebook so I can capture those flying ideas, I could try and record myself?
 
@@ -114,9 +112,19 @@ When I first started running I used music as a booster. I would crank it up, lis
 
 The fashion of count of monte cristo - the way he carried himself. Where does this come from? 
 
+count of monte cristo essay - patience 
+
 
 # Blog
 Maybe write a piece about eggs benedict? 
+
+
+# Skiing in alta, cheap skis essay 
+This year we went to Alta and providence set up a series of events that gave us a side quest that we will remember our entire life. Our dear friend who recommended these mountains to us, mentioned that we could park closer to the lift in different parking spot.We heard his advice and the last day of our trip we did so. 
+
+We parked next to a group of charming people that were talking about buying ski boots for $100 USD. Being the nosy person that I am, especially if its concerning a deal like that, I asked them what in the world were they talking about. They pointed us to a warehouse in the outskirts of Salt Lake City, where they had massive clearance sale. We thanked them for this and as they were leaving to go ski, one of them started singing "Deep in the Heart of Texas" for us. 
+
+Debating if we should go or not, me and my girlfriend accepted the side quest bestowed upon us by providence. We Finished our ski session, removed our skiing boots, pressure reducing and feeling coming back to our feet brought immense pleasure, then we took some candid pictures and started the drive to the warehouse.
 
 
 
@@ -129,3 +137,10 @@ AI prompt:
 # Rancho el Venadito
 essay inspired by this image
 ![[Pasted image 20260426123054.png]]
+
+
+Your father took you to a hockey game and sat next to you while you figured out violence on your own. Your uncle skied down a mountain and showed you what courage looked like. And now you stand at the top of a run watching your girlfriend cry, knowing encouragement is all you have.
+
+The whole book is about people who love you standing nearby while you become yourself.
+
+Did you realize that before right now?
