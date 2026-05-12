@@ -127,6 +127,13 @@ We parked next to a group of charming people that were talking about buying ski 
 Debating if we should go or not, me and my girlfriend accepted the side quest bestowed upon us by providence. We Finished our ski session, removed our skiing boots, pressure reducing and feeling coming back to our feet brought immense pleasure, then we took some candid pictures and started the drive to the warehouse.
 
 
+## Some other skiing stuff
+#### Describing what it is like to ski in the back bowls 
+This was more easily appreciated from the back bowls of the mountain. To get to there you have to slowly ski through a long and knife skinny cat walk. There are some signs through out this path that say "Avalanche Zone" which kick start the adrenaline.  I can feel it flow through my bloodstream demanding a way out, but I have to compose myself until the end of this catwalk. <- might need better flow. 
+
+I can notice my kneed starting to shake a little, my body let's me know I am nervous, a good type of nervous, grateful and excited to be out here in the mountains. 
+
+
 
 AI prompt:
 ```
