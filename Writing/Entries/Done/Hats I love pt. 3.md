@@ -23,10 +23,24 @@ Using this piece of art as our guide, we had a couple of candidates. Since I had
 
 Sitting in this flying chair, anticipation increased the closer we got to the peak. Cold wind blew and brought a palpable tension with it. During the lift, I asked questions, said some cheap words of pseudo encouragement. I tried to fill the silence, perhaps now I was nervous for the baptism of snow that was about to occur. 
 
-We got to the start of the run, my girlfriend seemed to have better composure. I hid my nervousness the best I could. I felt like a coach taking a struggling team to the final of a punishing tournament. I told my girlfriend "Don't get fooled by the steepness, you got plenty of horizontal playground, just ski long parallel to the mountain and you should be good."
+We got to the start of the run, my girlfriend seemed to have better composure. I hid my nervousness the best I could. I felt like a coach taking a struggling team to the final game of a punishing tournament. I told my girlfriend "Don't get fooled by the steepness, you got plenty of horizontal playground, just ski long parallel to the mountain and you should be good."
 
 She gracefully skied, trusting her training. The tips of her skis responding to her command. Traces of her ability were imprinted on the snow. She was now gliding. The hesitation melted like snow in the warmer seasons to come. After a couple of turns she was at the bottom of the run, not believing what she just had done. I cheered her on and told her to turn around to witness the mountain she just conquered. 
 
-The exploration of the mountain continued. To get to Mt. Baldy from Sugarloaf Peak we had to traverse a mile long catwalk named Devil's Way. During this flat transition run I told my girlfriend how proud I was about her black diamond run. She asked for some feedback which I provided to the best of my abilities. *Nothing I could've said would prepare my girlfriend for what was about to come.* <- could improve the flow
+The exploration of the mountain continued. To get to Mt. Baldy from Sugarloaf Peak we had to traverse a mile long catwalk named Devil's Way. During this flat transition run I told my girlfriend how proud I was about her black diamond run. She asked for some feedback which I provided to the best of my abilities. Nothing could have said, would've prepared her for what was to come. 
+
+In front of us was a blue run, called Mambo, maybe foreshadowing the dance of emotions we were about to feel. This route had a steepness not even some of the blacks in Alta could boast. As I stood there, I wondered who the hell graded this run, this was for sure a black. Then I turned to see my girlfriend. A paralyzing fear took hold of her, she started repeating over and over that she could not do this. panic like a contagious disease took hold of me. 
+
+There was no other way down, removing her skis and crawling down to a safer less steep area was not an option. It was time to get serious, I knew my girlfriend needed me. I had to be the pillar of comfort, but standing there with my skis planted in the snow I felt powerless. No suggestion or strategy I offered could help her. We had just skied down a black run, now we were stuck in the middle of a blue. I tried reminding her of her previous runs, the past is gone, fear is present. 
+
+As she lied down in the snow, we see a little kid, probably 6 years old sending it. Stacking humiliation on top of the paralyzing panic. My girlfriend struggled to understand how it was so easy for that rascal. Then, from the snow emerged an old mountaineer ski patrol. I noticed the familiar beat up red, black and white jacket, a faded white mustache and the comforting goggle tan only years of high altitude mountains can bestow upon someone with immense experience. 
+
+He's speech was tender, like a fire during a cold night. Every word spoken was precisely aimed at reassuring my girlfriend she was safe. I wanted his ability to comfort, but I knew only time could provide such powers. Captivated by the patrol's words, the powerlessness faded into the cold wind. 
+
+Recovered from that scare, my girlfriend stood up. Standing near her I could hear how she was giving herself a pep talk, cheering herself. She slowly glided through the steepness, long horizontal gliding. I remained on top of the mountain, having a front row seat. 
+
+I caught up with her before the end of Mambo, confidence and pride for my girlfriend taking a hold of me once more. She gave a cry of joy because she was done with this run. I hugged her and we continued exploring the mountain. 
+
+ 
 
 
