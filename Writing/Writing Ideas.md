@@ -12,6 +12,14 @@ I also had the opportunity to learn how my home state, Texas, is setting its sel
 
 home lab set up - do it by parts or one big ass article?
 ### Discussion
+
+## Why start to workout?
+talk about how men workout after a heartbreak, after being bullied, worth while pursuits, but at the en ephemeral purposes. 
+
+## More sandbag ideas
+_You bought sand at Home Depot._ That sentence alone is an essay. What did that moment feel like — building your own equipment like that?
+
+
 - Rugby vs futbol *discussion*
 	- I have some notes on my ideas journal
 - Style in gaming 
@@ -174,11 +182,11 @@ So your dots are well-connected. If anything, _The Joke_ is a case study in what
 
   
 
+# About Working out
+Write something about how people start working out to get the girl. How this is a wrong approach, with failure inevitable. 
   
 
 ----
-
-  
 
   
 
