@@ -50,31 +50,17 @@
             }
           },
           {
-            "id": "d1a659b57fb1b4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/Sandbag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sandbag"
-            }
-          },
-          {
             "id": "00a48383568c0d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Writing Ideas.md",
+                "file": "Programming/Lost Semester Classes - Notes/Lecture 1 - Intro to the Shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing Ideas"
+              "title": "Lecture 1 - Intro to the Shell"
             }
           }
         ],
@@ -241,41 +227,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "dbd88b3155220a35",
+  "active": "00a48383568c0d77",
   "lastOpenFiles": [
+    "Writing/Entries/Fear and Loathing in Las Vegas.md",
+    "Programming/Lost Semester Classes - Notes/Lecture 1 - Intro to the Shell.md",
     "Writing/Writing Ideas.md",
+    "Untitled.md",
+    "Programming/Lost Semester Classes - Notes",
+    "Programming/Home Lab/Home Lab Server Phase 1.md",
+    "Programming/Bitcoin Lottery Miner.md",
+    "Writing/Technical/The beauty of creating your own tools.md",
+    "Writing/Entries/Starcraft.md",
+    "Writing/Technical/Raspberry Pi.md",
+    "Claude/ABOUT_ME/LinkedIn Workflow.md",
     "Writing/Entries/Done/Sandbag.md",
     "Pasted image 20260518135006.png",
     "Pasted image 20260518134631.png",
     "Pasted image 20260518134621.png",
-    "Writing/Entries/Fear and Loathing in Las Vegas.md",
     "Writing/Entries/Done/Hats I love pt. 3.md",
     "Writing/Writing Notes.md",
-    "Writing/Entries/Starcraft.md",
     "Writing/Entries/Done/Hats I Love - Gifted Hats pt.1.md",
     "Claude/ABOUT_ME/about-me.md",
     "Writing/Entries/Done/Hats I love pt. 2.md",
     "Programming/C Playground/C - IOT project.md",
     "Programming/Cloud Computing/AWS Certification Prep/placeholder.md",
-    "Claude/ABOUT_ME/LinkedIn Workflow.md",
     "Pasted image 20260426123054.png",
     "Writing/Writing Schedule.md",
     "Claude/Workflow.md",
     "Notion - How they do things.md",
     "Resources/Pasted image 20260330204448.png",
     "Claude",
-    "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/Cloud Computing/AWS Certification Prep/Udemy Course/General Notes.md",
     "ECS.md",
     "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Amazon AuroraClusters, Replicas& Advanced Features.md",
     "Resources/Pasted image 20260408220134.png",
     "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Cloud Cost Control and Analytics Challenge - Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent.md",
     "Programming/Cloud Computing/AWS Certification Prep/Tips on quizes.md",
-    "Programming/Cloud Computing/AWS Certification Prep/Lab Notes - Whizlabs/Create a sample Web Application and monitor it in AWS X-Ray.md",
-    "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Resources/Pasted image 20260405104817.png",
-    "Writing/Entries/Done/Running as Rebellious Meditation against brain rot.md",
-    "Writing/Entries/Running as Rebellious Meditation Against Brain Rot.md",
     "Resources/Pasted image 20260328115757.png",
     "Resources/Pasted image 20260331201632.png",
     "Resources/Pasted image 20260331201037.png",

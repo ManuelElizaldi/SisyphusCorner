@@ -59,8 +59,6 @@ Butter - thoughts on the book
 Story of starcarft, economics, social consequence and talk about the game 
 - public policy 
 
-Running as meditation
-
 
 Removed this from 'running as meditation' article, could use it for something else - the impact of our parents? positive influence on others? Idk:
 I remember my dad talking about how he ran 10 km everyday during college. I think that's where I first thought about adopting this practice. I even remember he ran a half marathon once, my mom, my brother and I went to cheer him on. I remember he was cramping real bad, he even screamed, I wonder why he stopped running.
@@ -86,9 +84,7 @@ un meteorito que termina siendo una nave espacial
 
 "I been saying this for a couple years now. I first noticed it with the remake of GoW1. Games are too focused on looking pretty that they surrender their unique ambiance aesthetic. Most games go for pretty when instead they should aim to design their own style. Think about the gritty ambiance of GoW, the edge of Jet Set Radio or Halo CE's purple, chrome, clearer skies."
 
-
 Great man are behind me, it keeps me going forward. Talking about why I have been so demanding of myself. 
-
 
 Talk about my faith? I was against authority, rebellious. Everything that humans touch is corrupted. 
 
