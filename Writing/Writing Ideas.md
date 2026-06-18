@@ -16,9 +16,26 @@ home lab set up - do it by parts or one big ass article?
 ## Why start to workout?
 talk about how men workout after a heartbreak, after being bullied, worth while pursuits, but at the en ephemeral purposes. 
 
-## More sandbag ideas
-_You bought sand at Home Depot._ That sentence alone is an essay. What did that moment feel like — building your own equipment like that?
+## on building stuff
+reading the book on hells angels, how they build custom bikes, mostly from stolen or refurbished bikes.
 
+sandbag - building my own gym gear
+
+my daily struggle, trying to remember that behind every number there's a patient 
+
+happiest day of my life was building a house for people in need in mexico
+
+my journals, pens, pages, ink stains on my hands
+- connect the though to hands holding immense power, they are a direct connection to the physical world 
+
+absurdisim -> you create your own mining 
+
+repairing stuff too 
+
+
+## More sandbag ideas
+_~~You bought sand at Home Depot._ That sentence alone is an essay. What did that moment feel like — building your own equipment like that?~~
+- talk about generated AI code vs hand written code
 
 - Rugby vs futbol *discussion*
 	- I have some notes on my ideas journal
@@ -85,6 +102,7 @@ un meteorito que termina siendo una nave espacial
 "I been saying this for a couple years now. I first noticed it with the remake of GoW1. Games are too focused on looking pretty that they surrender their unique ambiance aesthetic. Most games go for pretty when instead they should aim to design their own style. Think about the gritty ambiance of GoW, the edge of Jet Set Radio or Halo CE's purple, chrome, clearer skies."
 
 Great man are behind me, it keeps me going forward. Talking about why I have been so demanding of myself. 
+- men have to justify their existence, they can't give life. 
 
 Talk about my faith? I was against authority, rebellious. Everything that humans touch is corrupted. 
 
@@ -209,3 +227,4 @@ Your intuition is pointing at something real and well-documented. There are actu
 **Mircea Eliade** called a related idea the "myth of the eternal return" — the deep human tendency to locate the sacred and ideal _in the past_, at an origin point, rather than the future. This predates modernity and may be close to a cognitive default.
 
 What's interesting is that the "past" being invoked is almost always partially invented or selectively curated. The Renaissance's Rome was a cleaned-up Rome. The Founders' Republic was a Rome without slaves (rhetorically). This doesn't make the pattern less real — if anything it makes it more psychologically interesting, because the _function_ is to provide a usable mirror, not historical accuracy.
+

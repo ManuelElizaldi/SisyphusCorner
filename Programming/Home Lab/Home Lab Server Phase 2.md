@@ -258,3 +258,4 @@ storage -> retention time -> how long we are going to keep the data for. For a R
 
 web -> set the listen address to all networks (0.0.0.0) in the network interface. This way prometheus is reachable from your laptop, nitro 5s and any device on the network via por 9090
 - port 9090 is prometheus default - memorize it
+

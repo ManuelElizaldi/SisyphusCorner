@@ -1,3 +1,29 @@
+# Rewrite 2 
+
+I stare at the radar, see red dots in my expansion. I scroll to that part of the map. Flames cover my secondary base, destruction is imminent.  Key units of my army are lost in a failed attempt at an attack to the enemy's base. I receive a flank at my main base that costs me my infrastructure. Gradually, pieces fall and I lose the power to fight back. I yield typing GG into the chat and leave the match. 
+
+The 'DEFEAT!' screen reminds me this was my 5th lost match in a row. I try my best to remember I haven't touched Starcraft 2 in more than 10 years. The muscle memory gives me a slim chance at a lucky win, but against well crafted strategies I am deserving of this loosing streak. 
+
+During the first matches I get frustrated, but there's a small glimpse of excitement too at being able to build an economy, deciding which units to produce, all of this decisions made at a blazing fast pace with the objective to wrangle my opponent into defeat. But before I do such a thing I need to relearn how to craft a proper winning strategy. 
+
+Sitting at my desktop, illuminated by the RGB lights, my pen in my hand and my notebook opened to receive the knowledge from a Starcraft II fundamentals video, it is clear to me why I loved this game so much back in high school. This is a in your face lesson of the cost of mastering a craft. Just like Chess, possibilities are endless here. There's too many strategies to learn so you are better of learning the fundamentals and letting your creativity design the path to victory. But even if you win there's always a crack. Vulnerabilities are always present, there's always room for improvement and perhaps that's what makes this game so exciting. You are always a beginner. Opponents will knowingly or unknowingly exploit your vulnerabilities. 
+
+You can appreciate the process of mastery through playing this. Defeat gives you two options, the first is to sit in your frustration and blame the opponent or you have a more noble route, learning from your mistakes and spin up another match. 
+
+I am not sure why after a long, 10 year break I decided to reinstall this master piece of RTS (real time strategy) game. 
+
+
+But I am glad I did because this game has led me through a rabbit hole which inspired this article. 
+## Some thoughts on the game play 
+I finished a round of SC2 games and I lost all of them, 5 games played 5 games I was defeated. Of course, I got mad the firs time I lost, but when I lost on the next games I just shrugged it off. This game has showed me to appreciate the process of mastering something. It made me understand that defeat is just another step. There is always a crack in your strategy, even if you win, that your opponent can unknowingly or consciously exploit to defeat you. 
+
+But when you win, you will feel like you are on the top of the world. Intoxicating you. 
+
+
+
+
+
+---
 After a break of almost 10 years, I got back to playing Starcraft 2 and forgot how rewarding it can be. This video game is a true departure of the modern day game experience. Where norm now is to build games where the player is hand held and made convenient, Starcraft is a game that punishes the ill prepared and offers triumph to the player that can design the best strategy. 
 
 Starcraft falls under the genre RTS - Real Time Strategy. Allow me to give a brief introduction to this 
@@ -74,8 +100,3 @@ So here's the question I'd leave you with before you redraft this section: **ca
 
 What image comes to mind when you think about that moment?
 
-
-## Some thoughts on the game play 
-I finished a round of SC2 games and I lost all of them, 5 games played 5 games I was defeated. Of course, I got mad the firs time I lost, but when I lost on the next games I just shrugged it off. This game has showed me to appreciate the process of mastering something. It made me understand that defeat is just another step. There is always a crack in your strategy, even if you win, that your opponent can unknowingly or consciously exploit to defeat you. 
-
-But when you win, you will feel like you are on the top of the world. Intoxicating you. 
