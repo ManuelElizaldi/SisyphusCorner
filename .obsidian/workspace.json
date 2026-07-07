@@ -49,7 +49,8 @@
               "title": "Martyr! Book Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +214,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "83dba3cf24271356",
+  "active": "881f29623f4523ee",
   "lastOpenFiles": [
-    "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/Home Lab/A Status Bot, a Dead Cron Job, and the Log Line That Explained Everything.md",
+    "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/Home Lab/Article 1 - Phase 1 & 2.md",
     "Writing/Entries/Martyr! Book Analysis.md",
     "Resources/Pasted image 20260703143647.png",

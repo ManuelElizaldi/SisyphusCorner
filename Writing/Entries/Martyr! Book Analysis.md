@@ -1,4 +1,3 @@
-n
 # Arguments
 — A martyr dies _for_ something. Cyrus has nothing to die for, and the book reveals this slowly. His project is to manufacture meaning through death rather than discover meaning in life.
 
