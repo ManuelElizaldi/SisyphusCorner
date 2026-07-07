@@ -38,5 +38,8 @@ The definition of Martyr -> "A martyr is ==a person who suffers immense persecut
 From islamic -> The Arabic word for martyr is _shahid_, which also translates to "witness". While it is applied to those who die defending their faith or unjustly, it can also encompass those who die from specific illnesses (like the plague or stomach ailments), in accidents (fires or collapsing buildings), or women who die during childbirth.
 - Did Cyrus believe he had no witnesses? He never published a book, maybe there was no witnesses to what he wanted to say (I can't find the chapter where this is mentioned.) 
 
-Based on these 2 definitions, I would want to understand/know what was Cryus wanting to die for? Maybe the entire book is trying to 
+Based on these 2 definitions, I would want to understand/know what was Cyrus wanting to die for? Maybe the entire book is trying to fight the understanding that there is no meaning to life, the meaning is built by you. Influenced by your community, your work, your religion. Each area of your life provides a brick to building the meaning of life. Perhaps Cyrus understood that there is no meaning unless you build it, but what had he built through out his life? He was empty. Perhaps this emptiness comes form an extremely free country like the USA, there is no constraints like the ones the martyrs mentioned by Cyrus had to face. 
 
+Cyrus faces an absurdist battle: from page 76 -> "The version of my uncle he might have been was killed in the war, and for no reason at all. Him personally losing his mind didn't lose or win the war. It's meaningless. That's what fucks me up. My dad drops me off at college and then dies like, barely a year later. I'm not saying all this to say 'poor me' or even 'poor us'. But none of those deaths me"
+
+Can the mother be considered a Martyr? Although I do not agree at all with what she did, she mentiones that Roya was killed, and in her place Orkideh 
