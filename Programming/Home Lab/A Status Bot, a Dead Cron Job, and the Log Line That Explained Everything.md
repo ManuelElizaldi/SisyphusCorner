@@ -51,7 +51,7 @@ Scrolling through the cron journal log, one line kept repeating, every five minu
 (manu) CMD (/home/manuel/obsidian-sync.sh)
 ```
 
-That script is my Obsidian vault backup. I use Obsidian for everything: blog drafts, note taking, system organization. It is a solid tool if you work from one computer, but I don't, so my vault lives on a network SSD shared over SMB, reachable from every machine I own. The catch is the dependency on a stable connection. If the network glitches mid-write, notes can be lost, and I learned that the painful way. So I [built a system](https://www.linkedin.com/pulse/my-pi-lost-connection-i-notes-heres-what-built-manuel-elizaldi-bwopc/) that commits the vault to a private GitHub repo every five minutes.
+That script is my Obsidian vault backup. I use Obsidian for everything: blog drafts, note taking, system organization. It is a solid tool if you work from one computer, but I don't, so my vault lives on a network SSD shared over [SMB](https://www.samba.org/samba/docs/), reachable from every machine I own, which live in a shared [Tailscale VPN mesh](https://tailscale.com/docs). The catch is that this system depends on a stable connection. If the network glitches mid-write, notes can be lost, and I learned that the painful way. So I [built a system](https://www.linkedin.com/pulse/my-pi-lost-connection-i-notes-heres-what-built-manuel-elizaldi-bwopc/) that commits the vault to a private GitHub repo every five minutes.
 
 My username is `manu`. That path says `manuel`. The directory does not exist.
 
