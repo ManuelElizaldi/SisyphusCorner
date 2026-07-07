@@ -222,11 +222,14 @@ Scrolling through the cron entries, one line kept repeating, every five minutes,
 (manu) CMD (/home/manuel/obsidian-sync.sh)
 ```
 
-*Add something here with the hyperlink [obsidian back up system](https://www.linkedin.com/pulse/my-pi-lost-connection-i-notes-heres-what-built-manuel-elizaldi-bwopc/). I use obsidian for my blog writing, note taking, and system organization. It is a solid tool if you are working in one computer. But this is not my case, I set up a network ssd to be shared through SMB, then all of my systems had access to the obsidian notes living in that ssd. The problem is that I depend on a good internet connection. If it goes down, the read/writre operations can glitch, losing precious progress on my notes. So I designed a *
+*Add something here with the hyperlink [obsidian back up system](https://www.linkedin.com/pulse/my-pi-lost-connection-i-notes-heres-what-built-manuel-elizaldi-bwopc/). I use obsidian for my blog writing, note taking, and system organization. It is a solid tool if you are working in one computer. But this is not my case, I set up a network ssd to be shared through SMB, then all of my systems had access to the obsidian notes living in that ssd. The problem is that I depend on a good internet connection. If it goes down, the read/writre operations can glitch, losing precious progress on my notes. So I designed a system that creates a backup in github every 5 minutes, if you want to learn more, check the blog post.*
+- this addition does not need to be too long, only briefly explain the system I built for the backups. 
 
 My username is `manu`. That path says `manuel`. The directory does not exist.
+- Add something about a simple typo being a humbling experience, it doesn't matter how good you become at programming and building systems, if you are not paying attention to what you are doing, if you are not writing conciously, a simple automating (as in turning of your brain) typing of your name can screw up the most sophisticated systems. 
 
 This was my Obsidian vault backup, a script I wrote months ago to sync my notes to a private GitHub repo. Everything I know is in that vault: my AWS study notes, my homelab runbook, my essay drafts. I wrote the backup after losing notes once already, scheduled it every five minutes, and never thought about it again.
+- Add something like: Here I was blindly trusting my system, another lesson. Always QA everything. Since I was also manually pushing my notes to github, I blindly trusted the back up system, without probeprly testing the cron job, I only tested the bash script. QA every part of the system!!! 
 
 It had been failing every five minutes since the day I wrote it. Thousands of failures. I never knew.
 
@@ -237,6 +240,7 @@ The reason I never knew is the most instructive line in the whole journal:
 ```
 
 When a cron job produces output, including error messages, cron's default behavior is to email it to the user. My Pi has no mail server. So on every failure, cron composed its report, found nowhere to send it, and threw it away. The system was trying to tell me. It just had no mouth.
+- Add something like -> perhaps this MTA server is another to do project I can build. It is funny how one project shows you the path to another project and so on. 
 
 Cron's default failure mode is discarding the evidence.
 
