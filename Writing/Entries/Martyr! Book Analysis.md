@@ -38,7 +38,8 @@ The definition of Martyr -> "A martyr is ==a person who suffers immense persecut
 From islamic -> The Arabic word for martyr is _shahid_, which also translates to "witness". While it is applied to those who die defending their faith or unjustly, it can also encompass those who die from specific illnesses (like the plague or stomach ailments), in accidents (fires or collapsing buildings), or women who die during childbirth.
 - Did Cyrus believe he had no witnesses? He never published a book, maybe there was no witnesses to what he wanted to say (I can't find the chapter where this is mentioned.) 
   
-The uncle could also be considered a Martyr - 
+The uncle could also be considered a Martyr? 
+- the guy who slashed his throat 
 
 pg 54 Ali's death and Cyrus' shame 
 
@@ -55,6 +56,7 @@ Can the mother be considered a Martyr? Although I do not agree at all with what 
 Uncle Arash, interesting enough does see the power of language, pg 124 - 125
 - "I have heard people say smell is the sense most attached to memory, but for me it is always language, if language can be thought of a sense, which of course it can be. Compared to even the dullest dog humanns can smell nothing. But compare us with - what? - a monkey who can say 'apple' with her hands? - and we are the gods of language, everything else just chirpign and burping. And how fiting too, that our superpower as a species, the source of our divinity, stems from such a broken invention.
   
-  It was invented, of course, language. The first baby didn't come out speaking farsi or arabic or english, or anything. We invented it, this language where one man is called Iraqi and one man is called Iranian and so they kill each other. Where one man is called an officer so he sends other men, with heads and hearts the size of his own, to spit their stomachs open over barbed wire. Because languag
+  It was invented, of course, language. The first baby didn't come out speaking farsi or arabic or english, or anything. We invented it, this language where one man is called Iraqi and one man is called Iranian and so they kill each other. Where one man is called an officer so he sends other men, with heads and hearts the size of his own, to spit their stomachs open over barbed wire. Because language, this sound stands for this thing, that sound stands for that thing, all these invented sounds strutting around, certain as roosters. It is no wonder we got it so wrong."
   
-  "
+  
+  Why a soldier with no education, living in Iran, martyr, fighting a war he didn't ask for, nor believed in saw more power in language than Cyrus, a poet, who studied it more? 
