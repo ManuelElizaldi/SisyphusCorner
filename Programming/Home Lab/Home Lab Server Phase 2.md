@@ -18,6 +18,17 @@
 
 # Prometheus + Grafana Install
 
+Node_exporter is looking at the metrics. exposes them at 9100/metrics. Prometheus is the database storing these metrics. Grafana visualizes the data in the database
+
+```
+node_exporter = a weather station measuring temperature/humidity
+Prometheus    = the database recording those readings over time
+Grafana       = the app showing you the graphs
+```
+
+
+
+
 ## Checking Pi Architecture
 
 command: `uname -m` = aarch64 = means 64-bit ARM
@@ -37,6 +48,8 @@ tar xvf - unpacks a copmpress archive
 
 ## node_exporter
 Installing node_exporter -> the agent that collects system metrics. CPU, memory, disk, network from the Pi and exposes them to prometheus. 
+
+Node exporter only grabs the data and exposes them at :9100/metrics
 
 We installed it for our dedicated system version: aarch64 -> command `uname -m`
 - Raspberry pi processor architecture 
@@ -259,3 +272,89 @@ storage -> retention time -> how long we are going to keep the data for. For a R
 web -> set the listen address to all networks (0.0.0.0) in the network interface. This way prometheus is reachable from your laptop, nitro 5s and any device on the network via por 9090
 - port 9090 is prometheus default - memorize it
 
+### Starting Prometheus
+
+Series of commands we ran after writing the config yaml:
+```
+sudo systemctl daemon-reload
+sudo systemctl enable --now prometheus
+sudo systemctl status prometheus
+```
+
+
+After running the second command from that series we get the message:
+`Created symlink /etc/systemd/system/multi-user.target.wants/prometheus.service → /etc/systemd/system/prometheus.service`
+
+This auto start prometheus on boot 
+
+we can check on the status of prometheus with `sudo systemctl status prometheus`
+
+then we open port 9090/tcp to view prometheus on browser 
+![[Pasted image 20260627182057.png]]
+
+Now we have the prometheus UI from the browser. 
+
+TCP vs UDP -> TCP is slower, but every packet is tracked and acknowledged. Delivery is guaranteed, if something is lost it will be resent. 
+
+UDP -> packets are fired and forgotten. Faster, but if something is lost, it will be forgotten. 
+
+We open TCP because we are aiming for accuracy. Since this is a HTTP web UI, we want to keep track of everything. 
+
+
+> [!NOTE] UDP vs TCP
+> > **Web UI or API = TCP. Real-time streaming or small fast queries = UDP.**
+
+## Prometheus Targets Web UI
+![[Pasted image 20260627182512.png]]
+## Grafana Install
+We added Grafana's officiaal package repo to apt so that any updates can be simply performed with a sudo apt upgrade, instead of manually installing upgrades. 
+
+after the lengthy update process, it is now installed. We enable it and open port 3000 for this service now - tcp protocol
+
+`sudo ufw allow 3000/tcp`
+
+default username and password -> admin
+
+Very easy to understand UI, it is crazy how all of these UIs are packages I installed on my PI, and now they are being served to my desktop through the localhost 3000 tunnel. 
+
+I added a data source to grafana, added prometheus, used the localhost:9090 as source and then we are good to go 
+
+grafana is a pre built dashboard that gives us metrics about our raspberrypi
+
+Prometheus scarpes it -> grafana serves it in a cool way
+
+### Importing a dashboard
+From the hamburger menu we clicked on new then import. We used the browse dashboard and typed 1860, which is the id for a default grafana built dashboard. Import, then load! 
+
+## Uptime Kuma 
+This service used to monitor - answers the question -> is this service up or down? It gives you a notification when something goes down.
+
+Basically like a console management tool similar to AWS. 
+
+installed with the simple docker command
+```
+docker run -d \
+  --restart=always \
+  --name uptime-kuma \
+  -p 3001:3001 \
+  -v uptime-kuma:/app/data \
+  louislam/uptime-kuma:1
+
+```
+
+also opened port 3001
+
+opened:
+http://192.168.0.65:3001
+
+created an account - user -> manu
+password -> you know ;) 
+
+created a monitor for each service we just set up on the raspberry pi:
+![[Pasted image 20260629143000.png]]
+
+pihole, prometheus, grafana, node_exporter 
+
+## Setting up telegram for Uptime Kuma 
+
+Created a bot that gave me an API key, then a chat id 
