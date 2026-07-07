@@ -29,7 +29,7 @@ After reading the plot twist about Cryus' mom being alive, I felt anger. How can
 
 One could even argue that all the shame, alcoholism, drugs, etc. was caused by not having a mother by her side. I think about how important it is for babies to have their mother, the nurture aspects are truly important for the physiological development of children. Maybe, the true Martyr of this story is Ali, he sacrificed everything he knew in order to give Cyrus a better life. He even gave his life, dying in the chicken farm. 
 
-Ali maybe didn't die for a cause or religious beliefs, but he was willing to forgo his liberty in order to provide for his child. He left his culture, land, etc. to give him a better life. 
+Ali maybe didn't die for a cause or religious beliefs, but he was willing to forgo his liberty in order to provide for his child. He left his culture, land, etc. to give him a better life.
 
 Who gives power to the story of a Martyr? is it the survivor? is it the act of dying or is it a well lived life, driven by purpose, intention. Is the act of being a Martyr exclusively religious? perhaps yes, maybe not. 
 
@@ -37,9 +37,12 @@ The definition of Martyr -> "A martyr is ==a person who suffers immense persecut
 
 From islamic -> The Arabic word for martyr is _shahid_, which also translates to "witness". While it is applied to those who die defending their faith or unjustly, it can also encompass those who die from specific illnesses (like the plague or stomach ailments), in accidents (fires or collapsing buildings), or women who die during childbirth.
 - Did Cyrus believe he had no witnesses? He never published a book, maybe there was no witnesses to what he wanted to say (I can't find the chapter where this is mentioned.) 
+  
+The uncle could also be considered a Martyr - 
 
 Based on these 2 definitions, I would want to understand/know what was Cyrus wanting to die for? Maybe the entire book is trying to fight the understanding that there is no meaning to life, the meaning is built by you. Influenced by your community, your work, your religion. Each area of your life provides a brick to building the meaning of life. Perhaps Cyrus understood that there is no meaning unless you build it, but what had he built through out his life? He was empty. Perhaps this emptiness comes form an extremely free country like the USA, there is no constraints like the ones the martyrs mentioned by Cyrus had to face. 
 
-Cyrus faces an absurdist battle: from page 76 -> "The version of my uncle he might have been was killed in the war, and for no reason at all. Him personally losing his mind didn't lose or win the war. It's meaningless. That's what fucks me up. My dad drops me off at college and then dies like, barely a year later. I'm not saying all this to say 'poor me' or even 'poor us'. But none of those deaths me"
+Cyrus faces an absurdist battle: from page 76 -> "The version of my uncle he might have been was killed in the war, and for no reason at all. Him personally losing his mind didn't lose or win the war. It's meaningless. That's what fucks me up. My dad drops me off at college and then dies like, barely a year later. I'm not saying all this to say 'poor me' or even 'poor us'. But none of those deaths meant anything. I don't think it's crazy to want mine to. Or to study people whose deaths mattered, you know? People who at least tried to make their deaths mean something"
+- Also from this passage -> The uncle and people that he wants to study, all had something to die for. Cyrus still doesn't have that. 
 
 Can the mother be considered a Martyr? Although I do not agree at all with what she did, she mentiones that Roya was killed, and in her place Orkideh 
