@@ -264,7 +264,7 @@ The `2>&1` sends errors to the same file as normal output. If I had written this
 
 The crontab is fixed. The vault syncs. And twice a day now, at 8 AM and 8 PM Central (after discovering my Pi believed it lived in London, but that's its own small story about checking `timedatectl` before trusting any schedule), my phone buzzes with four green lines.
 
-The strange part is what the bot actually did for me. I built it to watch four services. Its first real catch was a fifth thing, a job I had forgotten I owned, dead in plain sight in the logs. Monitoring doesn't just answer the questions you ask. It surfaces the ones you didn't know to ask.
+The strange part is what the bot actually did for me. I built it to watch four services. Its first real catch was a fifth thing, a job I had forgotten I owned *add: and that I was blindly trusting* , dead in plain sight in the logs. Monitoring doesn't just answer the questions you ask. It surfaces the ones you didn't know to ask.
 
 My homelab is one Raspberry Pi and, as of this week, two retired gaming laptops waiting for Proxmox. The lab keeps teaching the same lesson in different costumes: the systems you don't look at are the systems you don't know.
 
