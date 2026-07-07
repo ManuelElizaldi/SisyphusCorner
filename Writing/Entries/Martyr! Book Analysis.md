@@ -27,9 +27,16 @@ The three questions move from the specific to the philosophical to the personal-
 # Notes
 After reading the plot twist about Cryus' mom being alive, I felt anger. How can you be so egotistical/narcisit? I understand that women in middle eastern countries are practically like live stock, no voice, no vote, not able to make any decisions. This plus the fact that she was a lesbian (or bisexual) pushed her outside of her country, providence, the universe, allah or God gave her a chance to flee and she took it. I understand it but don't justify it. I think she could've done it better. She could've notified Ali Shams, she could've sent a card or something. This could've unfolded a search for her, but still. I just don't think it was fair for Ali and Cryus to live in the darkness of her lie. 
 
-One could even argue that all the shame, alcoholism, drugs, etc. was caused by not having a mother by her side. I think about how important it is for babies to have their mother, the nurture aspects are truly important for the physiological development of children. Maybe, the true Martyr of this story is Ali, he sacrificed everything he knew in order to give Cyrus a better life. He even gave his life, dieing in the chicken farm. 
+One could even argue that all the shame, alcoholism, drugs, etc. was caused by not having a mother by her side. I think about how important it is for babies to have their mother, the nurture aspects are truly important for the physiological development of children. Maybe, the true Martyr of this story is Ali, he sacrificed everything he knew in order to give Cyrus a better life. He even gave his life, dying in the chicken farm. 
+
+Ali maybe didn't die for a cause or religious beliefs, but he was willing to forgo his liberty in order to provide for his child. He left his culture, land, etc. to give him a better life. 
 
 Who gives power to the story of a Martyr? is it the survivor? is it the act of dying or is it a well lived life, driven by purpose, intention. Is the act of being a Martyr exclusively religious? perhaps yes, maybe not. 
 
 The definition of Martyr -> "A martyr is ==a person who suffers immense persecution or gives their life rather than renounce their religious faith or strongly held principles==."
+
+From islamic -> The Arabic word for martyr is _shahid_, which also translates to "witness". While it is applied to those who die defending their faith or unjustly, it can also encompass those who die from specific illnesses (like the plague or stomach ailments), in accidents (fires or collapsing buildings), or women who die during childbirth.
+- Did Cyrus believe he had no witnesses? He never published a book, maybe there was no witnesses to what he wanted to say (I can't find the chapter where this is mentioned.) 
+
+Based on these 2 definitions, I would want to understand/know what was Cryus wanting to die for? Maybe the entire book is trying to 
 
