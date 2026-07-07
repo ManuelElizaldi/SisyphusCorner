@@ -25,4 +25,4 @@ _Three._ Cyrus has Persian blood, Shia heritage, American culture, no religion, 
 The three questions move from the specific to the philosophical to the personal-comparative, which gives the conversation somewhere to go over the course of an evening. Start with the first. Let her answer before you do. The second one will come up naturally once you've both staked positions on the first
 
 # Notes
-After reading the plot t
+After reading the plot twist about Cryus' mom being alive, I felt anger. How can you be so egotistical/narcisit? I understand that women in middle eastern countries are practically like live stock, no voice, no vote, not able to make any decisions. This plus the fact that she was a lesbian (or bisexual) pushed her outside of her country, providence, the universe, allah or God gave her a chance to flee and she took it. I understand it but don't
