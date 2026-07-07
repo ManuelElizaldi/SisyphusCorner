@@ -40,6 +40,10 @@ From islamic -> The Arabic word for martyr is _shahid_, which also translates to
   
 The uncle could also be considered a Martyr - 
 
+pg 54 Ali's death and Cyrus' shame 
+
+111 the father's acceptance of the absurd 
+
 Based on these 2 definitions, I would want to understand/know what was Cyrus wanting to die for? Maybe the entire book is trying to fight the understanding that there is no meaning to life, the meaning is built by you. Influenced by your community, your work, your religion. Each area of your life provides a brick to building the meaning of life. Perhaps Cyrus understood that there is no meaning unless you build it, but what had he built through out his life? He was empty. Perhaps this emptiness comes form an extremely free country like the USA, there is no constraints like the ones the martyrs mentioned by Cyrus had to face. 
 
 Cyrus faces an absurdist battle: from page 76 -> "The version of my uncle he might have been was killed in the war, and for no reason at all. Him personally losing his mind didn't lose or win the war. It's meaningless. That's what fucks me up. My dad drops me off at college and then dies like, barely a year later. I'm not saying all this to say 'poor me' or even 'poor us'. But none of those deaths meant anything. I don't think it's crazy to want mine to. Or to study people whose deaths mattered, you know? People who at least tried to make their deaths mean something"
