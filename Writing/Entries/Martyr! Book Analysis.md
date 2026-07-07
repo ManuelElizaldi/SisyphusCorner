@@ -50,3 +50,11 @@ Cyrus faces an absurdist battle: from page 76 -> "The version of my uncle he mig
 - Also from this passage -> The uncle and people that he wants to study, all had something to die for. Cyrus still doesn't have that. 
 
 Can the mother be considered a Martyr? Although I do not agree at all with what she did, she mentiones that Roya was killed, and in her place Orkideh 
+
+
+Uncle Arash, interesting enough does see the power of language, pg 124 - 125
+- "I have heard people say smell is the sense most attached to memory, but for me it is always language, if language can be thought of a sense, which of course it can be. Compared to even the dullest dog humanns can smell nothing. But compare us with - what? - a monkey who can say 'apple' with her hands? - and we are the gods of language, everything else just chirpign and burping. And how fiting too, that our superpower as a species, the source of our divinity, stems from such a broken invention.
+  
+  It was invented, of course, language. The first baby didn't come out speaking farsi or arabic or english, or anything. We invented it, this language where one man is called Iraqi and one man is called Iranian and so they kill each other. Where one man is called an officer so he sends other men, with heads and hearts the size of his own, to spit their stomachs open over barbed wire. Because languag
+  
+  "
