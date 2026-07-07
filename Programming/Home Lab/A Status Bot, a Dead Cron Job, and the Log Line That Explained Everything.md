@@ -1,4 +1,3 @@
-# Cron Discards the Evidence
 
 _I built a bot that texts me when my homelab is healthy. In the process I found a backup that had been dead for weeks._
 
@@ -28,7 +27,7 @@ That's where the twenty-minute project ended and the real one began.
 
 I added a test entry to my crontab, set to run every few minutes, and waited. Nothing. Waited more. Nothing.
 
-Cron fails silently by design, so the debugging chain matters. First, does the entry exist? `crontab -l` said yes. Second, is cron actually launching the job? On modern Raspberry Pi OS there is no `/var/log/syslog` anymore; everything flows through the journal:
+Cron fails silently by design, so the debugging chain matters. First, does the entry exist? `crontab -l` said: yes. Second, is cron actually launching the job? On modern Raspberry Pi OS there is no `/var/log/syslog` anymore, everything flows through the journal:
 
 ```bash
 journalctl -u cron --since "15 minutes ago"
@@ -40,13 +39,13 @@ And there it was. Cron was firing my script on schedule. The script was failing,
 /bin/sh: 1: /home/manu/scripts/daily_status.sh: Permission denied
 ```
 
-A missing execute bit. One `chmod +x` and the bot came alive. My phone buzzed on the next tick of the clock.
+A missing execute bit. One `chmod +x` command, making the file executable and the bot came alive. My phone buzzed on the next tick of the clock.
 
 That should have been the end of the story. But the journal had shown me something else.
 
 ## The Body in the Logs
 
-Scrolling through the cron entries, one line kept repeating, every five minutes, like a heartbeat:
+Scrolling through the cron journal log, one line kept repeating, every five minutes, like a heartbeat:
 
 ```
 (manu) CMD (/home/manuel/obsidian-sync.sh)

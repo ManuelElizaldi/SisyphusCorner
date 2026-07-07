@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Home Lab/Cron, bot and discovering a dead process.md",
+                "file": "Programming/Home Lab/A Status Bot, a Dead Cron Job, and the Log Line That Explained Everything.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cron, bot and discovering a dead process"
+              "title": "A Status Bot, a Dead Cron Job, and the Log Line That Explained Everything"
             }
           },
           {
@@ -216,7 +216,7 @@
   "active": "83dba3cf24271356",
   "lastOpenFiles": [
     "Programming/Home Lab/Home Lab Server Phase 1.md",
-    "Programming/Home Lab/Cron, bot and discovering a dead process.md",
+    "Programming/Home Lab/A Status Bot, a Dead Cron Job, and the Log Line That Explained Everything.md",
     "Programming/Home Lab/Article 1 - Phase 1 & 2.md",
     "Writing/Entries/Martyr! Book Analysis.md",
     "Resources/Pasted image 20260703143647.png",
