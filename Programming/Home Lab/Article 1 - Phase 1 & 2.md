@@ -177,7 +177,7 @@ _I built a bot that texts me when my homelab is healthy. In the process I  found
 
 Sunday afternoon, and the plan is small: I want my Raspberry Pi to text me twice a day confirming that everything in my homelab is alive.
 - add something like -> I have writen in my previous [blog post](https://www.linkedin.com/pulse/i-spent-two-hours-debugging-web-server-my-system-didnt-elizaldi-yvzdc/) I started setting up a home lab, which uses a monitoring tool to notify me if my systems are online. I found this to be one of the most rewarding parts of phase 1, so I wanted to amplify that. 
-- Explain after the amplify thing, that it is truly interesting how two seperate systems (my raspberrypi and my cellphone) are able to communicate through apis 
+- Explain after the amplify thing, that it is truly interesting how two separate systems (my raspberrypi and my cellphone) are able to communicate through apis 
 	
 Pi-hole, Prometheus, Grafana, node_exporter. Four services, one message, 8 AM and 8 PM. The kind of project that should take twenty minutes.
 
@@ -188,6 +188,7 @@ code=$(curl -skL -o /dev/null -w "%{http_code}" --max-time 10 "$url")
 ```
 
 A 200 means healthy. Anything else gets flagged. The script assembles a summary and hands it to the Telegram bot API, which delivers it to my phone. The bot token lives in its own file with `chmod 600`, readable by my user and nobody else, because a credential typed directly into a script is a credential waiting to leak.
+- make a note about the L argument, while building the script, pihole kept giving me a 304 code, meaning it was being redirected. That's why I added that L, which was new knowledge for me. 
 
 The script worked on the first manual run. My phone buzzed: four services, four OKs. All that remained was scheduling it with cron.
 
@@ -215,11 +216,13 @@ That should have been the end of the story. But the journal had shown me somethi
 
 ## The Body in the Logs
 
-Scrolling through the cron entries, one line kept repeating, every five minutes, like a heartbeat:
+Scrolling through the cron entries, one line kept repeating, every five minutes, like a heartbeat: 
 
 ```
 (manu) CMD (/home/manuel/obsidian-sync.sh)
 ```
+
+*Add something here with the hyperlink [obsidian back up system](https://www.linkedin.com/pulse/my-pi-lost-connection-i-notes-heres-what-built-manuel-elizaldi-bwopc/). I use obsidian for my blog writing, note taking, and system organization. It is a solid tool if you are working in one computer. But this is not my case, I set up a network ssd to be shared through SMB, then all of my systems had access to the obsidian notes living in that ssd. The problem is that I depend on a good internet connection. If it goes down, the read/writre operations can glitch, losing precious progress on my notes. So I designed a *
 
 My username is `manu`. That path says `manuel`. The directory does not exist.
 
