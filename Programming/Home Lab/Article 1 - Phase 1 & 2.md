@@ -175,9 +175,11 @@ _I built a bot that texts me when my homelab is healthy. In the process I  found
 
 ---
 
-
-
-Sunday afternoon, and the plan is small: I want my Raspberry Pi to text me twice a day confirming that everything in my homelab is alive. Pi-hole, Prometheus, Grafana, node_exporter. Four services, one message, 8 AM and 8 PM. The kind of project that should take twenty minutes.
+Sunday afternoon, and the plan is small: I want my Raspberry Pi to text me twice a day confirming that everything in my homelab is alive.
+- add something like -> I have writen in my previous [blog post](https://www.linkedin.com/pulse/i-spent-two-hours-debugging-web-server-my-system-didnt-elizaldi-yvzdc/) I started setting up a home lab, which uses a monitoring tool to notify me if my systems are online. I found this to be one of the most rewarding parts of phase 1, so I wanted to amplify that. 
+- Explain after the amplify thing, that it is truly interesting how two seperate systems (my raspberrypi and my cellphone) are able to communicate through apis 
+	
+Pi-hole, Prometheus, Grafana, node_exporter. Four services, one message, 8 AM and 8 PM. The kind of project that should take twenty minutes.
 
 The pieces are simple. A bash script loops over each service and curls it, asking for one thing only: the HTTP status code.
 
