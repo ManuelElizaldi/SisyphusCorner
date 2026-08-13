@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Material Gruvbox",
+  "theme": "obsidian",
+  "accentColor": "#33d1e6",
+  "interfaceFontFamily": "Roboto Mono",
+  "monospaceFontFamily": "Roboto Mono",
+  "textFontFamily": "Roboto Mono",
+  "baseFontSize": 16
+}

@@ -1,0 +1,19 @@
+## Question 3 
+Think of yourself in five years. What kind of job would you like to have? Feel free to create a job title if you like. Why is this program your preferred option to pursue?  
+Please limit your responses to 200 - 300 words
+
+Throughout my career, I have witnessed technology adapt to serve humanity, but looking five years ahead, I envision hospital rooms evolving from simple care units into the foundation of an AI Augmented Provider Assistant System.
+
+Leveraging the multiple scanners used to track patients' vital signs, we can create a data pipeline that continuously streams information into a secure cloud server. This is where I see my future: as a Clinical AI Systems Architect. My goal is to work with systems that capture the massive amount of patient data and funnel it into an AI model capable of predictive analysis. With this, we can build a tool that enables the partnership between AI and health providers to offer better care for patients. Likewise, having a cloud database will give us the possibility of having historical patient data, giving providers a holistic view of the patient's health profile.
+
+Of course, a system as complicated as this will require rigorous ethical guardrails to ensure patient privacy alongside human centered data science and careful design, so algorithmic decisions remain transparent to the clinicians who rely on them. Technical capabilities are useless without user adoption, therefore I want to pursue mastery of human computer relationships to ensure these tools are seamless and trustworthy for providers. 
+
+
+This specific challenge motivates my interest in the iSchool's Health AI Lab, particularly the research on Contextualization of Explainable AI (XAI). By learning to bridge the gap between algorithms and human trust, I aim to build the secure, ethical, and transparent architectures necessary to realize this vision of data driven healthcare.
+
+
+
+---
+
+
+
