@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "a2f9816972e2b2de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          },
+          {
             "id": "f030877ec7201a84",
             "type": "leaf",
             "state": {
@@ -63,7 +75,8 @@
               "title": "Home Lab Server Phase 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -226,7 +241,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0193bda9f018a17a",
+  "active": "a2f9816972e2b2de",
   "lastOpenFiles": [
     "Writing/Entries/You Choose To See The Magic.md",
     "Writing/Entries/Absurdism, Sandbag, Building Stuff.md",
