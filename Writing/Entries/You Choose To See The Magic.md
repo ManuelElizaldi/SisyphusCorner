@@ -8,15 +8,15 @@ Pushing the need for adventure aside and instead focusing on my biological need 
 
 Placing the strips of bacon in a low heat pan to slowly roast the fat, I submerge myself in the dreadful repetition of routine. With the smell of bacon inundating my apartment, I Then crack the eggs on the pan on top of a tablespoon of chinese chili oil, one of my most recent culinary obsessions. 
 
-As I placed the last knife in the drying mat, next to the neatly stacked dishes, a sudden pang hit me. The satisfaction of having finished a task made me realize how ungrateful I have been. This laziness is a privilege. The frustration I felt because of my household duties turns into guilt.
+As I placed the last knife in the drying mat, next to the neatly stacked dishes, a sudden pang hit me. The satisfaction of having finished a task opened my eyes to how ungrateful I have been. This laziness is a privilege. The frustration I felt because of my household duties turned into guilt.
 
-I go into my room and notice that within the dirty clothes there's a new pair of jeans and t-shirts I bought specifically for my trip. I look back at the dishes that I cleaned and feel how my belly is full with satisfaccion - provided by a well cooked home meal. The more I sat in this realization, the more evident the details of a blessed life became to me.
+*How did I go into the room? Like a toddler that know he's done something wrong*, I go into my room and notice that within the dirty clothes there's a new pair of jeans and t-shirts I bought specifically for my trip. I look back at the dishes that I cleaned and feel how my belly is full with satisfaccion - provided by a well cooked home meal. The more I sat in this realization, the more evident the details of a blessed life became to me.
 
 Finally accepting the duel of my dirty laundury I plunged myself into a tale that was told to me by one of our tour guides. Even though the level of education is high in this country, poeple still believe in the stories crafted by vikings which gave these group of poeples their distinctive legendary status in history. 
 
-During the construction of one of the main highways near Reykjavik, the working crew faced challenges that were not common in a project like this. Tools went missing, drills snapped and machinery stopped working. The cause accoring to 
+During the construction of one of the main highways near Reykjavik, the working crew faced challenges that were not common in a project like this. Tools went missing, drills snapped and machinery stopped working. The highway went near 
 
-
+Inevitably, the logical economist part of my brain thinks, "how ". After all there's an elf comitee with prepared statements at the ready since it has 
 
 
 
