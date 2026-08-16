@@ -1,4 +1,7 @@
-My dirty laundry has been defiantly staring me down with a challenging look for a couple of days now. Next to this pile of procrastination I see my half unpacked duffel bag from my recent trip. Both chores I have been avoiding for the last week. Ever since I got back from the lush lands of Iceland, there has been a sort of blue heaviness hanging over me. 
+Since I arrived home, my dirty laundry has been defiantly staring me down with a challenging gaze, next to this pile of procrastination,
+
+
+see my half unpacked duffel bag from my recent trip. Both chores I have been avoiding for the last week. Ever since I got back from the lush lands of Iceland, there has been a sort of blue heaviness hanging over me. 
 
 It is a familiar feeling, one that often visits me after a trip. Every time I remember a *something/good tiems, time well spent* from the trip I am also reminded of the inexorable passage of time, beautiful moments that are now gone. Only able to reexperienced them after I conjure the memory inside of me. 
 
