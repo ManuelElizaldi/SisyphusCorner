@@ -1,11 +1,8 @@
-Since I arrived home, my dirty laundry has been defiantly staring me down with a challenging gaze, next to this pile of procrastination,
+My dirty laundry has been defiantly staring me down with a challenging gaze. Next to this pile of procrastination my half unpacked duffel bag awaits to be unpacked. Both chores I have been avoiding for the last week. Ever since I got back from the lush lands of Iceland, there has been a sort of blue heaviness hanging over me. 
 
+It is a familiar feeling, one that has often inhabit me after a trip. Every time I remember a *something/good tiems, time well spent* from the trip I am also reminded of the inexorable passage of time, beautiful moments that are now gone. Only able to reexperienced them after I conjure the memory inside of me. 
 
-see my half unpacked duffel bag from my recent trip. Both chores I have been avoiding for the last week. Ever since I got back from the lush lands of Iceland, there has been a sort of blue heaviness hanging over me. 
-
-It is a familiar feeling, one that often visits me after a trip. Every time I remember a *something/good tiems, time well spent* from the trip I am also reminded of the inexorable passage of time, beautiful moments that are now gone. Only able to reexperienced them after I conjure the memory inside of me. 
-
-As I sit in my sofa, staring out the window, ignoring the challenge of my dirty clothes, I wonder how is it possible to grow such a strong attachment to a country where I have no roots. There's no nordic blood coursing through me, no family or friends there. My only tie to that country is the swelling desire to go back to what once was and relive the trip with my family.  
+As I sit in my sofa, staring out the window, ignoring the challenge of my dirty clothes, I wonder how is it possible to grow such a strong attachment to a country where I have no roots. There's no nordic blood coursing through me, no family or friends there. The only tie to that country is the swelling desire to go back to what once was and relive the trip with my family.  
 
 Pushing the need for adventure aside and instead focusing on my biological need for food, I open the fridge and realize I am almost out of bacon and eggs. How I wish I could just go back to the infinite options of the hotel breakfast buffet. There I didn't have to worry about groceries. There was enough food to satisfy my appetite, and best of all, I could grab one plate of food use it, then grab another and then another, with no care about having to clean the dirty dishes when I am done.  
 
