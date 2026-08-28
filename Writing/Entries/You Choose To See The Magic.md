@@ -18,7 +18,7 @@ Now with a guilt ridden consciousness I finally accept the duel of my dirty laun
 
 The tale goes like this, during the construction of one of the main highways near Reykjavik, the working crew faced challenges that were not common in a projects like this. Tools went missing, drills snapped and machinery stopped working. At first this was brushed off as bad luck, but then they noticed the highway went through a rock named **Álfhóll**, "Elf Hill". 
 
-They asked around and found out that this is the 
+The workers asked around and found out that this rock is the home of some Elfs, or as they are known in Iceland: Hidden People. This group of objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home moved or torn down to have a highway   
 
 When I first heard this story, inevitably, the logical economist part of my brain turned on. I thought "how hard would it be to implement public policy in a place like this? Where a troll or a fairy could stall a million dollar project". Back in Mexico it takes a miracle and a half to finish any infrastructure project, but I am certain that it would be even harder if we still practiced Mayan or Aztec mythology or folk tales. 
 
