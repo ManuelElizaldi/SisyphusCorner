@@ -10,17 +10,17 @@ Placing my last strips of bacon in a low heat pan I patiently wait for the fat t
 
 Still in the haze of the post trip blues, I eat my breakfast as if my mind was set in auto pilot. Not really stopping to savor the saltiness of the bacon or the punchy umami heat from the chili oil. One spoon full of food after another I gently refill my gas tank while sort of paying attention to a random YouTube video playing on my phone.
 
-After finishing my breakfast, it was time to clean the pile of dirty dishes. Without thinking about it I just went at it, being carried away by the years of practice. One by one I placed them in the drying mat forming a neatly stack of --- . As I placed the last knife, a sudden pang hit me. The satisfaction of having finished a task opened my eyes to how ungrateful I had been.
+After finishing my breakfast, it was time to clean the pile of dirty dishes. Without thinking I just went at it, being carried away by the years of practice. One by one I placed them in the drying mat forming a neatly stack of --- . As I placed the last knife, like a flag over a won battlefield, a sudden pang hit me. Finishing this task made the heavy blue fog start to fade. 
 
-**This laziness is a privilege. The frustration I felt because of my household duties turned into guilt.**
+With brand new eyes I go into my room and notice that within the dirty clothes there's a new pair of Carhartt jeans and solid color t-shirts I purposefully bought for my trip. I look back at the dishes that I cleaned and feel how my belly is full, satisfied by a home cooked meal. The more I sat in this realization, the more evident the details of a blessed life became to me.
 
-I go into my room and notice that within the dirty clothes there's a new pair of Carhartt jeans and solid color t-shirts I bought specifically for my trip. I look back at the dishes that I cleaned and feel how my belly is full with satisfaction, provided by a well cooked home meal. The more I sat in this realization, the more evident the details of a blessed life became to me.
+Now with a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes. Immersed in the task I remembered a tale that I heard from one of our tour guides. Even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these group of peoples their distinctive legendary status. 
 
-With a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes. Immersed in the task I remembered a tale that I heard from one of our tour guides. Even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these group of peoples their distinctive legendary status. 
+The tale goes like this, during the construction of one of the main highways near Reykjavik, the working crew faced challenges that were not common in a projects like this. Tools went missing, drills snapped and machinery stopped working. At first this was brushed off as bad luck, but then they noticed the highway went through a rock named **Álfhóll**, "Elf Hill". 
 
-The tale goes like this, during the construction of one of the main highways near Reykjavik, the working crew faced challenges that were not common in a project like this. Tools went missing, drills snapped and machinery stopped working. At first this was brushed off as bad luck, but then they noticed the highway went through a rock *name of rock* , which was the house of fairies 
+They asked around and found out that this is the 
 
-When I first heard this story, inevitably, the logical economist part of my brain turned on, I thought "how hard would it be to implement public policy in a place like this? Where a troll or a fairy could stall a million dollar infrastructure project". Back in Mexico it takes a miracle and a half to finish any infrastructure project, but I am certain that it would be much harder if we still practiced Mayan or Aztec mythology or folk tales. 
+When I first heard this story, inevitably, the logical economist part of my brain turned on. I thought "how hard would it be to implement public policy in a place like this? Where a troll or a fairy could stall a million dollar project". Back in Mexico it takes a miracle and a half to finish any infrastructure project, but I am certain that it would be even harder if we still practiced Mayan or Aztec mythology or folk tales. 
 
 After all there's an elf comitee with prepared statements at the ready since it has 
 
@@ -38,8 +38,6 @@ After all, we humans, can't ask the bird not to fly, the cow not to give its mil
 
 
 
-### could be the conclusion
-One thing is clear to me, one decides how to see life unfolding. It is not easy, but I learned one thing from the poeple of Iceland, if you make the effort to be open to the magic of the world, rocks stop being rocks
 
 
 
