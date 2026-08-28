@@ -6,23 +6,23 @@ Basking in this stew of longing I ignore the challenge of my dirty clothes. My a
 
 Pushing the need for adventure aside and instead focusing on my biological need for food, I open the fridge and realize I am almost out of eggs and bacon. How I wish I could just go back to the infinite possibilities of the hotel breakfast buffet. There I didn't have to worry about groceries. There was enough food to satisfy my appetite and best of all, I could grab one plate of food use it, then grab another and then another and another without worrying about having to clean the dirty dishes.
 
-Placing the strips of bacon in a low heat pan I patiently wait for the fat to render, the smell inundates my apartment. Once that is ready, I Carefully crack an egg on top of a tablespoon of Chinese chili oil, one of my most recent culinary obsessions.  
+Placing the strips of bacon in a low heat pan I patiently wait for the fat to render, the smell inundates my apartment. Once that is ready, I Carefully crack an egg on top of a tablespoon of Chinese chili oil, one of my most recent culinary obsessions. I dreadfully allow myself to sip slowly into the routine.
 
-Dreadfully I allow myself to sip slowly into the routine. 
+Still in the haze of the post trip blues, I eat my breakfast as if my mind was set in auto pilot. Not really stopping to savor the saltiness of the bacon or the heat from the chili oil. One spoon full of food after another I gently refill my gas tank while half watching some random YouTube videos on my phone.  
+
+Then its time to clean the pile of dirty dishes, without thinking about it I just start, being carried away by the years of practice looking after my apartment. One by one I place the clean 
 
 
 
-Still in the haze of the post trip blues, I eat my breakfast as if my mind was set in auto pilot. Not really stopping to taste the saltiness of the bacon or the heat from the chili oil, but one spoon full of food after another, like somone - more as one would stop at a gas station to refill the car's tank.
+As I placed the last knife in the drying mat, next to the neatly stacked dishes, a sudden pang hit me. The satisfaction of having finished a task opened my eyes to how ungrateful I had been.
 
-Then its time to clean the pile of dirty dishes, without thinking about it I just start, being carried away by the years of practice looking after my apartment *maybe something else here*
 
-*need a connecting paragraph here*
+This laziness is a privilege. The frustration I felt because of my household duties turned into guilt.
 
-As I placed the last knife in the drying mat, next to the neatly stacked dishes, a sudden pang hit me. The satisfaction of having finished a task opened my eyes to how ungrateful I have been. This laziness is a privilege. The frustration I felt because of my household duties turned into guilt.
 
-*How did I go into the room? Like a toddler that know he's done something wrong, a dog with its tail between its legs*, I go into my room and notice that within the dirty clothes there's a new pair of Carhartt jeans and solid color t-shirts I bought specifically for my trip. I look back at the dishes that I cleaned and feel how my belly is full with satisfaction, provided by a well cooked home meal. The more I sat in this realization, the more evident the details of a blessed life became to me.
+I go into my room and notice that within the dirty clothes there's a new pair of Carhartt jeans and solid color t-shirts I bought specifically for my trip. I look back at the dishes that I cleaned and feel how my belly is full with satisfaction, provided by a well cooked home meal. The more I sat in this realization, the more evident the details of a blessed life became to me.
 
-With a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and remember a tale that was told to me by one of our tour guides. Even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these group of peoples their distinctive legendary status. 
+With a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes, while remember a tale that was told to me by one of our tour guides. Even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these group of peoples their distinctive legendary status. 
 
 The tale goes like this, during the construction of one of the main highways near Reykjavik, the working crew faced challenges that were not common in a project like this. Tools went missing, drills snapped and machinery stopped working. At first this was brushed off as bad luck, but then they noticed the highway went through a rock *name of rock* , which was the house of fairies 
 
