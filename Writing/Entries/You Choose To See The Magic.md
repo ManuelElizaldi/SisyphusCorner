@@ -4,7 +4,7 @@ It is a familiar feeling, one that often visits me after every family trip. Ceme
 
 Basking in this stew of longing I ignore the challenge of my dirty clothes. My attention goes to the world passing by outside my window. Laying here in my sofa I wonder how is it possible to grow such a strong attachment to a country where I have no roots. There's no nordic blood coursing through me, no family or friends there. My only tie to that country is the swelling desire to go back to what once was and relive the trip.
 
-Pushing the need for adventure aside and instead focusing on my biological need for food, I open the fridge and realize I am almost out of bacon and eggs. How I wish I could just go back to the infinite possibilities of the hotel breakfast buffet. There I didn't have to worry about groceries. There was enough food to satisfy my appetite and best of all, I could grab one plate of food use it, then grab another and then another, providing a respite from the need to clean my dirty dishes. 
+Pushing the need for adventure aside and instead focusing on my biological need for food, I open the fridge and realize I am almost out of eggs and bacon. How I wish I could just go back to the infinite possibilities of the hotel breakfast buffet. There I didn't have to worry about groceries. There was enough food to satisfy my appetite and best of all, I could grab one plate of food use it, then grab another and then another and another without worrying about having to clean the dirty dishes.
 
 Placing the strips of bacon in a low heat pan I patiently wait for the fat to render, the smell inundates my apartment. Once that is ready, I Carefully crack an egg on top of a tablespoon of Chinese chili oil, one of my most recent culinary obsessions.  
 
