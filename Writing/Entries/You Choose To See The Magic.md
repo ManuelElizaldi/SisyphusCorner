@@ -10,27 +10,17 @@ Placing my last strips of bacon in a low heat pan I patiently wait for the fat t
 
 Still in the haze of the post trip blues, I eat my breakfast as if my mind was set in auto pilot. Not really stopping to savor the saltiness of the bacon or the punchy umami heat from the chili oil. One spoon full of food after another I gently refill my gas tank while sort of paying attention to a random YouTube video playing on my phone.
 
-After finishing my breakfast, it was time to clean the pile of dirty dishes. Without thinking about it I just started, being carried away by the years of practice. One by one I place the clean 
+After finishing my breakfast, it was time to clean the pile of dirty dishes. Without thinking about it I just went at it, being carried away by the years of practice. One by one I placed them in the drying mat forming a neatly stack of --- . As I placed the last knife, a sudden pang hit me. The satisfaction of having finished a task opened my eyes to how ungrateful I had been.
 
-
-
-As I placed the last knife in the drying mat, next to the neatly stacked dishes, a sudden pang hit me. The satisfaction of having finished a task opened my eyes to how ungrateful I had been.
-
-
-This laziness is a privilege. The frustration I felt because of my household duties turned into guilt.
-
+**This laziness is a privilege. The frustration I felt because of my household duties turned into guilt.**
 
 I go into my room and notice that within the dirty clothes there's a new pair of Carhartt jeans and solid color t-shirts I bought specifically for my trip. I look back at the dishes that I cleaned and feel how my belly is full with satisfaction, provided by a well cooked home meal. The more I sat in this realization, the more evident the details of a blessed life became to me.
 
-With a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes, while remember a tale that was told to me by one of our tour guides. Even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these group of peoples their distinctive legendary status. 
+With a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes. Immersed in the task I remembered a tale that I heard from one of our tour guides. Even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these group of peoples their distinctive legendary status. 
 
 The tale goes like this, during the construction of one of the main highways near Reykjavik, the working crew faced challenges that were not common in a project like this. Tools went missing, drills snapped and machinery stopped working. At first this was brushed off as bad luck, but then they noticed the highway went through a rock *name of rock* , which was the house of fairies 
 
-When I first heard this story, inevitably, the logical economist part of my brain turned on, I thought "how hard would it be to implement public policy in a place like this? Where a troll or a fairy could stall a million dollar project". Did politicians used mythology as an excuse to not meet project deadlines? 
-
-
-I am sure that if we still  Mexico As an outsider, it didn't seem like they did. - maybe something else here 
-
+When I first heard this story, inevitably, the logical economist part of my brain turned on, I thought "how hard would it be to implement public policy in a place like this? Where a troll or a fairy could stall a million dollar infrastructure project". Back in Mexico it takes a miracle and a half to finish any infrastructure project, but I am certain that it would be much harder if we still practiced Mayan or Aztec mythology or folk tales. 
 
 After all there's an elf comitee with prepared statements at the ready since it has 
 
