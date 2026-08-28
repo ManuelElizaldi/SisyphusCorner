@@ -4,13 +4,13 @@ It is a familiar feeling, one that often visits me after every family trip. Ceme
 
 Basking in this stew of longing I ignore the challenge of my dirty clothes. My attention goes to the world passing by outside my window. Laying here in my sofa I wonder how is it possible to grow such a strong attachment to Iceland. There's no nordic blood coursing through me, no family or friends there. My only tie to that country is the swelling desire to go back to what once was and relive the trip.
 
-Pushing the need for adventure aside and instead focusing on my biological need for food, I open the fridge and realize I am almost out of eggs and bacon. How I wish I could just go back to the infinite possibilities of the hotel breakfast buffet where I didn't have to worry about groceries. There was an ample variety of foods to satisfy my appetite and best of all, I could grab one plate of food use it, then grab another and then another and another without worrying about having to clean them.
+Pushing the need for adventure aside and instead answering my biological need for food, I open the fridge and realize I am almost out of eggs and bacon. How I wish I could just go back to the infinite possibilities of the hotel breakfast buffet where I didn't have to worry about groceries. There was an ample variety of foods to satisfy my appetite and best of all, I could grab one plate of food use it, then grab another and then another and another without worrying about having to clean them.
 
-Placing my last strips of bacon in a low heat pan I patiently waited for the fat to render, slowly the smell inundated my apartment. Once that was ready, I carefully crack an egg on top of a tablespoon of Chinese chili oil, one of my most recent culinary obsessions. I watched the egg go from a translucent color to a tasty white, dreadfully allowing myself to sip slowly into the routine.
+Placing my last strips of bacon in a low heat pan I patiently wait for the fat to render, the smell slowly inundates my apartment. Once that was ready, I carefully crack an egg on top of a tablespoon of Chinese chili oil, one of my most recent culinary obsessions, this time around I am going sunny side up, same as it has been for the last week. I observe how the egg cooking and  dreadfully allow myself to sip into the routine.
 
-Still in the haze of the post trip blues, I eat my breakfast as if my mind was set in auto pilot. Not really stopping to savor the saltiness of the bacon or the heat from the chili oil. One spoon full of food after another I gently refill my gas tank while half watching some random YouTube videos on my phone.  
+Still in the haze of the post trip blues, I eat my breakfast as if my mind was set in auto pilot. Not really stopping to savor the saltiness of the bacon or the punchy umami heat from the chili oil. One spoon full of food after another I gently refill my gas tank while sort of paying attention to a random YouTube video playing on my phone.
 
-Then its time to clean the pile of dirty dishes, without thinking about it I just start, being carried away by the years of practice looking after my apartment. One by one I place the clean 
+After finishing my breakfast, it was time to clean the pile of dirty dishes. Without thinking about it I just started, being carried away by the years of practice. One by one I place the clean 
 
 
 
