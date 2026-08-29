@@ -16,23 +16,28 @@ With a grogginess/With brand new eyes I go into my room and notice that within t
 
 *The more I sat in this realization, the more evident the details of a blessed life became to me.* needs some work, a jig saw puzzle, every piece filled the image of a blessed life. 
 
-Now with a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes by the degree of dirtyness. Immersed in the task I remembered a tale that I heard from one of our tour guides. He explained that even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these group of peoples their distinctive legendary status. 
+Now with a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes by the degree of dirtyness and color. Immersed in the task I remembered a tale that I heard from one of our tour guides. He explained that even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these people their distinctive legendary status. 
 
 The tale goes like this, during the construction of one of the main highways near Reykjavik, the working crew faced challenges that were not common in a projects like this. Tools went missing, drills snapped and machinery stopped working. At first this was brushed off as bad luck, but then they noticed the highway went through a rock named Álfhóll, "Elf Hill". 
 
 The workers asked around and found out that this rock is the home of a group of Elfs, or as they are known in Iceland: Hidden People. This group of objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home destroyed and replaced by a highway. 
 
-When I first heard this story, inevitably, the logical economist part of my brain turned on. I thought "how hard would it be to implement public policy in a place like this? Where a troll or a fairy could stall a million dollar project". Back in Mexico it takes a miracle and a half to finish any infrastructure project, but I am certain that it would be even harder if we still practiced Mayan or Aztec mythology or folk tales/practices. *last sentence needs better flow*
+*mexico connection*
 
 A peace treaty was agreed upon with the Hidden People, and construction resumed when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home so that construction could resume, to which they simply responded _No_. 
+- *flow needs to improve here*
 
-After this and perhaps many other scraps with the hidden people, a Elf Comittee was formed and equipped with statements to answer any questions regarding these practices. 
+After this and perhaps many other scraps with the hidden people, an Elf Committee was formed and equipped with statements to answer any questions regarding these practices. 
 
-It is not hard to be held in the grasps of this countries magic after spending some days here. While I was over there it was easy to notice easy going cheerfulness within me.I observed the world and it tipped its hat to me, clouds were not just condensated water flying over me but huge Star Wars space ships or . Mountains became bears or trolls frozen in time.
+
+Iceland acts like quick sand, spend enough time in this country and you will be held in its magical grasp. Even after you have left, you can still feel its imprints in your mind. 
+
+While I was over there an easy going attitude had taken over me. A curious cheerfulness that I hadn't been aware of in some time. I observed the world and it tipped its hat to me, clouds were not just condensated water flying over me but huge Star Wars space ships or . Mountains became bears or trolls frozen in time.
+- maybe I have this observational powers at home but it was easier to notice them here in iceland 
 
 There's a Yoda Cave
 
-This is a land where volcanoes are not a an it but a she. People await their awakening with resignatin, knowing it will, but not the when. 
+This is a land where volcanoes are not a an it but a she. People await their awakening with resignation, knowing it will, but not the when. 
 
 From the pestilence of rotten egg around different points in the Iceland
 
