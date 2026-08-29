@@ -229,3 +229,7 @@ Your intuition is pointing at something real and well-documented. There are actu
 What's interesting is that the "past" being invoked is almost always partially invented or selectively curated. The Renaissance's Rome was a cleaned-up Rome. The Founders' Republic was a Rome without slaves (rhetorically). This doesn't make the pattern less real — if anything it makes it more psychologically interesting, because the _function_ is to provide a usable mirror, not historical accuracy.
 
 Fitness for the sake of function not vanity
+
+
+# Iceland stuff
+When I first heard this story, inevitably, the logical economist part of my brain turned on. I thought "how hard would it be to implement public policy in a place like this? Where a troll or a fairy could stall a million dollar project". Back in Mexico it takes a miracle and a half to finish any infrastructure project, but I am certain that it would be even harder if we still practiced Mayan or Aztec mythology or folk tales/practices. *last sentence needs better flow*
