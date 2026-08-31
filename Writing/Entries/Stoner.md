@@ -8,5 +8,12 @@ Love for knowledge - I, like Stoner, truly enjoy the pleasure of reading, learni
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
-#### Not be as passive as he was 
+#### Not be as passive as he was , although I admire his resilience 
+
+#### Regardless of his hardships, he still had a decent life
+
+#### The death of an institution, utilitarian school, what do you stand for, Sloane 
+
+#### Choosing your path even though there's uncertainty 
+
 

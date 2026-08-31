@@ -406,3 +406,5 @@ Your Desktop
 |Port 53 open in UFW|✅ Done|
 |Router pointing at Pi-hole|✅ Done|
 |Desktop using Pi-hole for DNS|✅ Done|
+
+# Personal Notes
