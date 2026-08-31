@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Entries/You Choose To See The Magic.md",
+                "file": "Writing/Study/Life I want questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "You Choose To See The Magic"
+              "title": "Life I want questions"
             }
           },
           {
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5,
-    "collapsed": true
+    "width": 472.5
   },
   "right": {
     "id": "443984180475832a",
@@ -244,8 +243,9 @@
   },
   "active": "0d20e83a85760b2c",
   "lastOpenFiles": [
-    "Writing/Writing Ideas.md",
     "Writing/Entries/You Choose To See The Magic.md",
+    "Writing/Study/Life I want questions.md",
+    "Writing/Writing Ideas.md",
     "Writing/Entries/Stoner.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/Cloud Computing/AWS - HIPAA Labs/Lab 1 Notes.md",
@@ -281,7 +281,6 @@
     "Programming/Bitcoin Lottery Miner.md",
     "Writing/Technical/The beauty of creating your own tools.md",
     "Writing/Technical/Raspberry Pi.md",
-    "Writing/Entries/Done/Sandbag.md",
     "Claude",
     "Programming/Home Lab"
   ]

@@ -24,7 +24,7 @@ The workers asked around and found out that this rock is the home of a group of 
 
 When I heard this story, I inevitably thought of Mexico's love affair with folk and the occult. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. *We want to evolve into a utilitarian society, boast about our progress.* needs better flow 
 
-In Mexico a dining table lets anybody have a front row seat at people deciding their fate. Don't drink after a toast and you'll have bad luck, but don't look at your partner in the eyes after clanking your glass and you got yourself bad sex for some years
+In Mexico a dining table lets anybody have a front row seat at people deciding their fate. Don't drink after a toast and you'll have bad luck, but don't look at your partner in the eyes after clanking your glass and you got yourself bad sex for years. 
 
 
 ---
