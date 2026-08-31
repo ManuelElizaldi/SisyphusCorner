@@ -49,8 +49,7 @@
               "title": "Writing Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +213,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "564bd74cb18a6a52",
+  "active": "0193bda9f018a17a",
   "lastOpenFiles": [
-    "Writing/Writing Ideas.md",
     "Writing/Entries/You Choose To See The Magic.md",
+    "Writing/Writing Ideas.md",
     "Programming/Cloud Computing/AWS - HIPAA Labs/Lab 1 Notes.md",
     "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Writing/Entries/Absurdism, Sandbag, Building Stuff.md",
