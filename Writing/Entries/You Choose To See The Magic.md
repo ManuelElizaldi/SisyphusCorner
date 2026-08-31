@@ -22,7 +22,17 @@ The tale goes like this, during the construction of one of the main highways nea
 
 The workers asked around and found out that this rock is the home of a group of Elfs, or as they are known in Iceland: Hidden People. This group of objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home destroyed and replaced by a highway. 
 
-When I heard this story, I inevitably thought of my father's 
+When I heard this story, I inevitably thought of Mexico's love affair with folk and the occult. Like a reptile we desire to shed our old skin, forgo our folk tales and beliefs of magic to boast about our progress, but we forget that we 
+
+where 
+
+We desire to be a first world country, boast of progress while still being able to make food fall from someone's hand 
+
+
+
+
+
+ Mexicans can make your food fall from your hand if we find it appetizing. We believe that if you don't drink after doing a cheers you'll have bad luck, and if you don't look at your partner in the eyes after clanking your glass, the universe punishes you with bad sex. 
 
 A peace treaty was agreed upon with the Hidden People, and construction resumed when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home so that construction could resume, to which they simply responded _No_. 
 - *flow needs to improve here*
@@ -46,7 +56,6 @@ After all, we humans, can't ask the bird not to fly, the cow not to give its mil
 Like the rock near the highway, magic remains 
 
 
-As I am writing this piece, I thought about the magic around me. Mexicans can make your food fall from your hand if we find it appetizing. We believe that if you don't drink after doing a cheers you'll have bad luck, and if you don't look at your partner in the eyes after clanking your glass, the universe punishes you with bad sex. 
 
 We have a day were the death walk among us and we prepare their favorite dishes, play their favorite songs and spend time with them as if the bridge between the lands far away reserved for whom has moved on and the land of the living became a one dimensional space where we get a chance to socialize with our loved ones. 
 
