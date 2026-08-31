@@ -8,7 +8,10 @@ Love for knowledge - I, like Stoner, truly enjoy the pleasure of reading, learni
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
+Perhaps it was love at first sight, or 
+
 #### Not be as passive as he was , although I admire his resilience 
+- was he using books to escape? work to distract himself? 
 
 #### Regardless of his hardships, he still had a decent life
 
@@ -16,4 +19,5 @@ Love for knowledge - I, like Stoner, truly enjoy the pleasure of reading, learni
 
 #### Choosing your path even though there's uncertainty 
 
+John William's prose was as simple as Stoner's life, ordinarily extraordinary 
 
