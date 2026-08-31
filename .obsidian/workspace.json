@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Entries/You Choose To See The Magic.md",
+                "file": "Writing/Entries/Stoner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "You Choose To See The Magic"
+              "title": "Stoner"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Writing Ideas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +214,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "0193bda9f018a17a",
+  "active": "564bd74cb18a6a52",
   "lastOpenFiles": [
     "Writing/Entries/You Choose To See The Magic.md",
-    "Writing/Writing Ideas.md",
+    "Writing/Entries/Stoner.md",
     "Programming/Cloud Computing/AWS - HIPAA Labs/Lab 1 Notes.md",
+    "Writing/Writing Ideas.md",
     "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Writing/Entries/Absurdism, Sandbag, Building Stuff.md",
     "Writing/Study/Phrases.md",
@@ -252,7 +254,6 @@
     "Writing/Technical/The beauty of creating your own tools.md",
     "Writing/Technical/Raspberry Pi.md",
     "Writing/Entries/Done/Sandbag.md",
-    "Writing/Entries/Done/Hats I love pt. 3.md",
     "Claude",
     "Programming/Home Lab"
   ]

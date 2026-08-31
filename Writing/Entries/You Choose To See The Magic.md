@@ -16,7 +16,7 @@ With a grogginess/With brand new eyes I go into my room and notice that within t
 
 *The more I sat in this realization, the more evident the details of a blessed life became to me.* needs some work, a jig saw puzzle, every piece filled the image of a blessed life. 
 
-Now with a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes by the degree of dirtyness and color. Immersed in the task I remembered a tale that I heard from one of our tour guides. He explained that even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these people their distinctive legendary status. 
+Now with a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes by the degree of dirtiness and color. Immersed in the task I remembered a tale that I heard from one of our tour guides. He explained that even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these people their distinctive legendary status. 
 
 The tale goes like this, during the construction of one of the main highways near Reykjavik, the working crew faced challenges that were not common in a projects like this. Tools went missing, drills snapped and machinery stopped working. At first this was brushed off as bad luck, but then they noticed the highway went through a rock named Álfhóll, "Elf Hill". 
 
