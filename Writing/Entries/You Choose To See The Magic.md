@@ -57,7 +57,7 @@ After this and perhaps many other scraps with the hidden people, an Elf Committe
 
 Iceland acts like quick sand, spend enough time in this country and you will be held in its magical grasp. Even after you have left, you can still feel its imprints in your mind. 
 
-While I was over there an easy going attitude had taken over me. A curious cheerfulness that I hadn't been aware of in some time. I observed the world and it tipped its hat to me, clouds were not just condensed water flying over me but huge landscapes Guernica/a centaur punching a  space ships or . Mountains became bears or trolls frozen in time.
+While I was over there an easy going attitude had taken over me. A curious cheerfulness that I hadn't been aware of in some time. I observed the world and it tipped its hat to me, clouds were not just condensed water flying over me but huge landscapes Guernica/a centaur punching a gladiator or starwars battleships or . Mountains became bears or trolls frozen in time.
 - maybe I have this observational powers at home but it was easier to notice them here in iceland 
 
 There's a Yoda Cave
