@@ -57,7 +57,7 @@ After this and perhaps many other scraps with the hidden people, an Elf Committe
 
 Iceland acts like quick sand, spend enough time in this country and you will be held in its magical grasp. Even after you have left, you can still feel its imprints in your mind. 
 
-While I was over there an easy going attitude had taken over me. A curious cheerfulness that I hadn't been aware of in some time. I observed the world and it tipped its hat to me, clouds were not just condensated water flying over me but huge Star Wars space ships or . Mountains became bears or trolls frozen in time.
+While I was over there an easy going attitude had taken over me. A curious cheerfulness that I hadn't been aware of in some time. I observed the world and it tipped its hat to me, clouds were not just condensed water flying over me but huge landscapes Guernica/a centaur punching a  space ships or . Mountains became bears or trolls frozen in time.
 - maybe I have this observational powers at home but it was easier to notice them here in iceland 
 
 There's a Yoda Cave
@@ -83,3 +83,5 @@ Then there's the little actions one inherits from our family. Like breathing, on
 This is a man that doesn't carry a wallet, he only has the necessary cash in order to pay for a haircut, put some gas in his car or bribe a Mexican traffic police in case they stop him with some false pretense. He also despises credit cards and blames them for the ruin of society and believes the number one reason for divorce is bad finances. His number one advice in life is to save as much money as possible, invest it diligently and to take care of the cents in order to enjoy the dollars. 
 
 So whenever we go out to eat and he drops salt on the table, his gasping and quick motion of his hands to throw the salt over his shoulder is a twisted contraditcion to this frugal disciplined man. I have never asked him if he truly believes in these esoteric actions, but I assume this is his insurance, a just in case action to avoid pissing of the 'cause and effect' of the universe. 
+
+
