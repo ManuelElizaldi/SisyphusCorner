@@ -12,17 +12,19 @@ Still in the haze of the post trip blues, I eat my breakfast as if my mind was s
 
 After finishing my breakfast, it was time to clean the pile of dirty dishes. Without thinking I just went at it, being carried away by the years of practice. One by one I placed them in the drying mat forming a neatly stack of *clean dishes?*. As I placed the last knife, like a flag over a won battlefield, a sudden pang hit me. The finished task made the blue heavy fog fade.
 
-With a grogginess/With brand new eyes I go into my room and notice that within the dirty clothes there's a new pair of Carhartt jeans and t-shirts I purposefully bought for my trip. I look back at the dishes that I cleaned and feel how my belly is full, satisfied by a home cooked meal. 
+Similar to a child that was just was reprimanded, I go into my room and notice that within the dirty clothes there's a new pair of Carhartt jeans and t-shirts I purposefully bought for my trip. I look back at the dishes that I cleaned and feel how my belly is full, satisfied by a home cooked meal. This heaviness was not letting me appreciate the details that composed the tapestry of my blessed life.
 
-*The more I sat in this realization, the more evident the details of a blessed life became to me.* needs some work, a jig saw puzzle, every piece filled the image of a blessed life. 
-
-Now with a guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes by the degree of dirtiness and color. Immersed in the task I remembered a tale that I heard from one of our tour guides. He explained that even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these people their distinctive legendary status. 
+With my Guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes by the degree of dirtiness and color. Immersed in the task I remembered a tale that I heard from one of our tour guides. He explained that even though the level of education is high in Iceland, people still believe in the stories crafted by vikings which gave these people their distinctive legendary status. 
 
 The tale goes like this, during the construction of one of the main highways near Reykjavik, the working crew faced challenges that were not common in a projects like this. Tools went missing, drills snapped and machinery stopped working. At first this was brushed off as bad luck, but then they noticed the highway went through a rock named Álfhóll, "Elf Hill". 
 
-The workers asked around and found out that this rock is the home of a group of Elfs, or as they are known in Iceland: Hidden People. This group of objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home destroyed and replaced by a highway. 
+The workers asked around and discovered that this rock is the home of a group of Elfs, or as they are known in Iceland: Hidden People. These objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home destroyed and replaced by a highway. 
 
-When I heard this story, I inevitably thought of Mexico's love affair with folk and the occult. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. *We want to evolve into a utilitarian society, boast about our progress.* needs better flow 
+When I heard this story, I inevitably thought of Mexico's love affair with folk and the occult. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
+
+The dining table offers a front row seat at people 
+
+I have clear memories of people sealing their fates at a dining table because they didn't drink after a toast, receiving years of bad luck. I have also been able to make food drop from ones 
 
 In Mexico a dining table lets anybody have a front row seat at people deciding their fate. Don't drink after a toast and you'll have bad luck, but don't look at your partner in the eyes after clanking your glass and you got yourself bad sex for years. 
 
