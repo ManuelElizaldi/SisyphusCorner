@@ -20,27 +20,16 @@ The tale goes like this, during the construction of one of the main highways nea
 
 The workers asked around and discovered that this rock is the home of a group of Elfs, or as they are known in Iceland: Hidden People. These objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home destroyed and replaced by a highway. 
 
-When I heard this story, I inevitably thought of Mexico's love affair with folk practices and the occult. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
+When I heard this story, I inevitably thought of Mexico's love affair with folk practices. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
 
 In Mexico, the dining table offers a front row seat at people deciding their fate by what they do, or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then if I don't look at my partner in the eyes after clanking my glass this unseen force will condemn us to bad sex for an unknown amount of years. 
 
-One must also be vigilant about dispense appetizing glances at someone else's food, because this can make it fall from their hand. And especially forget about dropping salt and not throwing it behind your back because this will spell financial ruin on you. 
+One must also be vigilant about dispense appetizing glances at someone else's food, because this can make it fall from their hand. Most of these customs, are just performed by us, we don't learn how to breathe, but we it came to us naturally. *might need to improve the flow here*
 
-Most of these customs, are just performed by us, you don't learn them, you just do them. 
-
-
-
- 
-
-
-
-----
-
-This is a man that doesn't carry a wallet, he only has the necessary cash in order to pay for a haircut, put some gas in his car or bribe a Mexican traffic police in case they stop him with some false pretense. He also despises credit cards and blames them for the ruin of society and believes the number one reason for divorce is bad finances. His number one advice in life is to save as much money as possible, invest it diligently and to take care of the cents in order to enjoy the dollars. 
+This is a man that doesn't carry a wallet, he only has the necessary cash in order to pay for a haircut, put some gas in his car or if need be to bribe a Mexican traffic police if he is stopped by some fake pretense. He also despises credit cards and blames them for the ruin of society and believes the number one reason for divorce is bad finances. His number one advice in life is to save as much money as possible, invest it diligently and to take care of the cents in order to enjoy the dollars. 
 
 So whenever we go out to eat and he drops salt on the table, his gasping and quick motion of his hands to throw the salt over his shoulder is a twisted contraditcion to this frugal disciplined man. I have never asked him if he truly believes in these esoteric actions, but I assume this is his insurance, a just in case action to avoid pissing of the 'cause and effect' of the universe. 
 
-Mexicans can make your food fall from your hand if we find it appetizing. We believe that if you don't drink after doing a cheers you'll have bad luck, and if you don't look at your partner in the eyes after clanking your glass, the universe punishes you with bad sex.
 
 -----
 
