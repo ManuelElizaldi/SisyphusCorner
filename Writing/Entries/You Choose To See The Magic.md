@@ -20,22 +20,19 @@ The tale goes like this, during the construction of one of the main highways nea
 
 The workers asked around and discovered that this rock is the home of a group of Elfs, or as they are known in Iceland: Hidden People. These objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home destroyed and replaced by a highway. 
 
-When I heard this story, I inevitably thought of Mexico's love affair with folk and the occult. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
+When I heard this story, I inevitably thought of Mexico's love affair with folk practices and the occult. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
 
-The dining table offers a front row seat at people 
+In Mexico, the dining table offers a front row seat at people deciding their fate by what they do, or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then if I don't look at my partner in the eyes after clanking my glass this unseen force will condemn us to bad sex for an unknown amount of years. 
 
-I have clear memories of people sealing their fates at a dining table because they didn't drink after a toast, receiving years of bad luck. I have also been able to make food drop from ones 
-
-In Mexico a dining table lets anybody have a front row seat at people deciding their fate. Don't drink after a toast and you'll have bad luck, but don't look at your partner in the eyes after clanking your glass and you got yourself bad sex for years. 
-
-
----
-
-the table is where if you don't drink after a cheers you'll have some bad luck, but don't dare to not look at your partner in the eyes after a cheers and you condemn yourself to bad sex. 
-
-The table is where if you drop some salt and don't throw it behind your back, you are stepping into financial ruin. 
+One must also be vigilant about dispense appetizing glances at someone else's food, because this can make it fall from their hand. And especially forget about dropping salt and not throwing it behind your back because this will spell financial ruin on you. 
 
 Most of these customs, are just performed by us, you don't learn them, you just do them. 
+
+
+
+ 
+
+
 
 ----
 
