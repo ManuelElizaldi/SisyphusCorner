@@ -20,7 +20,7 @@ The tale goes like this, during the construction of one of the main highways nea
 
 The workers asked around and discovered that this rock is the home of a group of Elfs, or as they are known in Iceland: Hidden People. These objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home destroyed and replaced by a highway. 
 
-When I heard this story, I inevitably thought of Mexico's love affair with folk practices. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
+When I heard this story, I inevitably my logical **economist** mind thought of Mexico's love affair with folk practices. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
 
 In Mexico, the dining table offers a front row seat at people deciding their fate by what they do, or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then, if I don't look at my partner in the eyes while clanking my glass this unseen force will condemn us to bad sex for an unknown amount of years. 
 
