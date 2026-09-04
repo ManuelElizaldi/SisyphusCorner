@@ -22,21 +22,13 @@ The workers asked around and discovered that this rock is the home of a group of
 
 When I heard this story, I inevitably thought of Mexico's love affair with folk practices. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
 
-In Mexico, the dining table offers a front row seat at people deciding their fate by what they do, or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then, if I don't look at my partner in the eyes after clanking my glass this unseen force will condemn us to bad sex for an unknown amount of years. 
+In Mexico, the dining table offers a front row seat at people deciding their fate by what they do, or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then, if I don't look at my partner in the eyes while clanking my glass this unseen force will condemn us to bad sex for an unknown amount of years. 
 
-One must also be vigilant when eating. Dispensing appetizing glances at someone else's food can make it fall from their hand or dropping salt can cast financial ruin. Most of these customs, are just performed by us, just like we don't learn how to breathe, it comes to us naturally. 
+One must also be vigilant when eating. Dispensing appetizing glances at someone else's food can make it fall from their hand and dropping salt can cast financial ruin. Most of these customs, are just performed by us, just like humans don't learn how to breathe, it comes to us naturally. 
 
-My father is a man that doesn't carry a wallet, he only has the necessary cash in order to pay for a haircut, fill the gas tank on his car or if need be to bribe a Mexican traffic police officer if he's stopped on some fake pretense. He despises credit cards, blaming them for the ruin of society and believes the number one reason for divorces is bad finances. 
+My father is a man that doesn't carry a wallet, he only has the necessary cash in order to pay for a haircut, fill the gas tank on his car or if need be to bribe a Mexican traffic police officer, if he's stopped on some fake pretense. He despises credit cards, blaming them for the ruin of society and believes the number one reason for divorces is bad finances. 
 
-He has always reminded me to save as much money as possible, invest it diligently and his life motto is to take care of the cents to enjoy the dollars.
-
-Whenever we go out to eat and he drops salt on the table, his gasping and quick motion of his hands to throw the salt over his shoulder 
-
-I have never asked him if he truly believes in these esoteric actions to avoid financial ruin, 
-
-
-'cause and effect' of the universe. 
-
+He has always reminded me to save as much money as possible, invest it diligently and his life motto is to take care of the cents to enjoy the dollars. Whenever we go out to eat, if he drops salt on the table he gasps with horror, afraid to piss off the 'cause and effect' of the universe. He quickly pinches the salt and tosses it behind his shoulder, keeping the books in this world and in the astral plane.  
 
 A peace treaty was agreed upon with the Hidden People, and construction resumed when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home so that construction could resume, to which they simply responded _No_. 
 - *flow needs to improve here*
