@@ -24,14 +24,13 @@ When I heard this story, I inevitably my logical economist mind thought of Mexic
 
 In Mexico, the dining table offers a front row seat at people deciding their fate by what they do, or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then, if I don't look at my partner in the eyes while clanking our glasses this unseen force will condemn us to bad sex for an unknown amount of years. 
 
-One must also be vigilant when eating. Dispensing appetizing glances at someone else's food can make it fall from their hand and dropping salt can cast financial ruin. Most of these customs, are just performed by us, just like you don't learn how to breathe, it comes to us naturally. 
+One must also be vigilant when eating. Dispensing appetizing glances at someone else's food can make it fall from their hand and dropping salt can cast financial ruin. Most of these customs, are just performed by us, not learned like one studies table manners but performed as naturally as breathing.
 
 My father is a man that doesn't carry a wallet, he only has the necessary cash in order to pay for a haircut, fill the gas tank on his car or if need be to bribe a Mexican traffic police officer, if he's stopped on some fake pretense. He despises credit cards, blaming them for the ruin of society and believes the number one reason for divorces is bad finances. 
 
 He has always reminded me to save as much money as possible, invest it diligently and his life motto is to take care of the cents to enjoy the dollars. Whenever we go out to eat, if he drops salt on the table he gasps with horror. He quickly pinches the salt and tosses it over his shoulder. 
 
-A peace treaty was agreed upon with the Hidden People, and construction resumed when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home so that construction could resume, to which they simply responded _No_. 
-- *flow needs to improve here*
+A peace treaty was agreed upon with the Hidden People, and construction resumed, when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home so that construction could resume, to which they simply responded _No_.
 
 After this and perhaps many other scraps with the hidden people, an Elf Committee was formed and equipped with statements to answer any questions regarding these practices. 
 
