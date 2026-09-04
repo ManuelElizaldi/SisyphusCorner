@@ -28,7 +28,7 @@ One must also be vigilant when eating. Dispensing appetizing glances at someone 
 
 My father is a man that doesn't carry a wallet, he only has the necessary cash in order to pay for a haircut, fill the gas tank on his car or if need be to bribe a Mexican traffic police officer, if he's stopped on some fake pretense. He despises credit cards, blaming them for the ruin of society and believes the number one reason for divorces is bad finances. 
 
-He has always reminded me to save as much money as possible, invest it diligently and his life motto is to take care of the cents to enjoy the dollars. Whenever we go out to eat, if he drops salt on the table he gasps with horror, afraid to piss off the 'cause and effect' of the universe. He quickly pinches the salt and tosses it behind his shoulder, keeping the books in this world and in the astral plane.  
+He has always reminded me to save as much money as possible, invest it diligently and his life motto is to take care of the cents to enjoy the dollars. Whenever we go out to eat, if he drops salt on the table he gasps with horror. He quickly pinches the salt and tosses it over his shoulder. 
 
 A peace treaty was agreed upon with the Hidden People, and construction resumed when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home so that construction could resume, to which they simply responded _No_. 
 - *flow needs to improve here*
