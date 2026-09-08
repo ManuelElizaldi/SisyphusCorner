@@ -1,6 +1,13 @@
 [[Ideas]] [[Writing]]
 This is a section to write down any ideas I have for writing. 
 write a note about where mile comes from
+# Elden Ring Article
+What I learned about myself from finishing elden ring 
+- I like to do hard things
+- if you fail, try again
+- don't do everything by yourself, research a boss, summon companions. Don't be stubborn 
+- One of the most beautiful pieces of media ever created, music art style, etc. 
+
 ### Technical
 
 - Using tailscale to connect your raspberry pi to computer via secure ssh *technical*
