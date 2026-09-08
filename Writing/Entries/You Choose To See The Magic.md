@@ -12,7 +12,7 @@ Still in the haze of the post trip blues, I eat my breakfast as if my mind was s
 
 After finishing my breakfast, it was time to clean the pile of dirty dishes. Without thinking I just went at it, being carried away by the years of practice. One by one I placed them in the drying mat forming a neatly stack of *clean dishes?*. As I placed the last knife, like a flag over a won battlefield, a sudden pang hit me. The finished task made the blue heavy fog fade. *blue heavy fog fade?*
 
-*perhaps I need a new sentence in this paragraph* Similar to a child that was just was reprimanded, I go into my room and notice that within the dirty clothes there's a new pair of Carhartt jeans and t-shirts I purposefully bought for my trip. I look back at the dishes that I cleaned and feel how my belly is full, satisfied by a home cooked meal.
+*perhaps I need a new sentence in this paragraph* Similar to a child that just was reprimanded, I go into my room and notice that within the dirty clothes there's a new pair of Carhartt jeans and t-shirts I purposefully bought for my trip. I look back at the dishes that I cleaned and feel how my belly is full, satisfied by a home cooked meal.
 
 With my Guilt ridden consciousness I finally accept the duel of my dirty laundry, I start unpacking my duffel bag and arrange my clothes by the degree of dirtiness and color. Immersed in the task I remembered a tale that I heard from one of our tour guides. He explained that even though the level of education is high in Iceland, people still believe in the stories crafted by vikings in a time far away. 
 
@@ -30,9 +30,12 @@ My father is a man that doesn't carry a wallet, he only has the necessary cash i
 
 He has always reminded me to save as much money as possible, invest it diligently and his life motto is to take care of the cents to enjoy the dollars. Whenever we go out to eat, if he drops salt on the table he gasps with horror. He quickly pinches the salt and tosses it over his shoulder. 
 
-A peace treaty was agreed upon with the Hidden People, and construction resumed, when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home so that construction could resume, to which they simply responded _No_.
+*too sudden of a change here, no?*
 
-After this and perhaps many other scraps with the hidden people, an Elf Committee was formed and equipped with statements to answer any questions regarding these practices. 
+A peace treaty was agreed upon with the Hidden People, and construction resumed, when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home. They simply responded _No_.
+
+After this and perhaps many other scraps with the hidden people, an Elf Committee was formed and equipped with statements to answer any questions regarding these practices. *could remove this, not really doing much*
+
 
 
 Iceland acts like quick sand, spend enough time in this country and you will be held in its magical grasp. Even after you have left, you can still feel its imprints in your mind. 
