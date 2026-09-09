@@ -24,6 +24,8 @@ The workers asked around and discovered that this rock is the home of a group of
 
 A peace treaty was agreed upon with the Hidden People, and construction resumed, when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home. To which they simply replied: _No_.
 
+This is a land where volcanoes are not a an it but a she, you can notice her breathing by the pestilent rotten egg smell scattered around this country. People wait for her awakening with resignation, knowing it will, but not when. 
+
 When I heard this story, inevitably my logical economist mind thought of Mexico's love affair with folk practices. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
 
 But we are too quick to forget that in Mexico, the dining table offers a front row seat at people deciding their fate by what they do or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then, if I don't look at my partner in the eyes while clanking our glasses this unseen force will condemn us to bad sex for an unknown amount of years. 
@@ -40,7 +42,7 @@ While I was in Iceland an easy going attitude had taken over me. A childlike cur
 
 Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. Caves are shaped like Yoda
 
-This is a land where volcanoes are not a an it but a she, you can notice her breathing by the pestilent rotten egg smell scattered around different points of this country. People wait for her awakening with resignation, knowing it will, but not when. 
+
 
 
 
