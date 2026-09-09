@@ -22,6 +22,8 @@ The tale goes like this, during the construction of one of the main highways nea
 
 The workers asked around and discovered that this rock is the home of a group of Elfs, or as they are known in Iceland: Hidden People. These objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home destroyed and replaced by a highway. 
 
+A peace treaty was agreed upon with the Hidden People, and construction resumed, when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home. They simply responded _No_.
+
 When I heard this story, inevitably my logical economist mind thought of Mexico's love affair with folk practices. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
 
 In Mexico, the dining table offers a front row seat at people deciding their fate by what they do or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then, if I don't look at my partner in the eyes while clanking our glasses this unseen force will condemn us to bad sex for an unknown amount of years. 
@@ -32,15 +34,9 @@ My father is a man that doesn't carry a wallet, he only has the necessary cash i
 
 He has always reminded me to save as much money as possible, invest it diligently and his life motto is to take care of the cents to enjoy the dollars. Whenever we go out to eat, if he drops salt on the table he gasps with horror. He quickly pinches the salt and tosses it over his shoulder. 
 
-*too sudden of a change here, no?*
+The washing machine spun and slushed cleansing my clothes of the adventure, turning them into *routine/ordinary/everyday* clothes again. Its hum brought me back to my apartment. I opened the window of my room to let some natural light in and noticed an abstract familiarity soaring up in the sky. While I was in Iceland an easy going attitude had taken over me. A childlike cheerfulness that I hadn't felt in some time. Over there, wrapped in this state, every landscape offered an opportunity to draw with my imagination. Mountains were not just rock formations, but trolls frozen in time. There clouds were not a warning of rain but huge mythological battles between centaurs and gladiators. 
 
-A peace treaty was agreed upon with the Hidden People, and construction resumed, when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home. They simply responded _No_.
-
-After this and perhaps many other scraps with the hidden people, an Elf Committee was formed and equipped with statements to answer any questions regarding these practices. *could remove this, not really doing much*
-
-The washing machine spun and slushed cleansing my clothes of the adventure, turning them into *routine/ordinary/everyday* clothes again. Its hum brought me back to my apartment, I opened the window of my room to let some natural light in and noticed an abstract familiarity soaring up in the sky. While I was over there an easy going attitude had taken over me. A curious cheerfulness that I hadn't been aware of in some time.
-
-I noticed an abstract familiarity in the clouds soaring up in the sky. My mind turned the different shapes into a battle between a minotaur and a hydra. These were not warnings of the rain, but an opportunity to draw with my imagination. 
+Somehow sparks of this emotional state still lingered, for I was able to notice a Guernica like landscape with mighty Star Wars battleships  in the Texas sky. 
 
 
 
@@ -48,8 +44,10 @@ I noticed an abstract familiarity in the clouds soaring up in the sky. My mind t
 
 
 
-I observed the world and it tipped its hat to me, clouds were not just condensed water flying over me but huge landscapes Guernica/a centaur punching a gladiator or starwars battleships or . Mountains became bears or trolls frozen in time.
-- maybe I have this observational powers at home but it was easier to notice them here in iceland 
+
+
+
+
 
 There's a Yoda Cave
 
