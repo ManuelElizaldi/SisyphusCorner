@@ -40,8 +40,7 @@ The washing machine spun and slushed cleansing my clothes of the adventure, turn
 
 While I was in Iceland an easy going attitude had taken over me. A childlike curiosity that I hadn't felt in some time. Over there, wrapped in this state, every landscape offered an opportunity to draw with my imagination. Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. 
 
-
-
+Having won the duel, I grab my clean Carhartt jeans and a t-shirt and dress for my ATX Writing Club session. Refill my fountain pens with ink, grab my leather brief case, placing my journal inside and  
 
 
 
