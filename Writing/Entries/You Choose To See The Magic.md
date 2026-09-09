@@ -34,11 +34,11 @@ My father is a man that doesn't carry a wallet, he only has the necessary cash i
 
 He has always reminded me to save as much money as possible, invest it diligently and his life motto is to take care of the cents to enjoy the dollars. Whenever we go out to eat, if he drops salt on the table he gasps with horror. He quickly pinches the salt and tosses it over his shoulder. 
 
-The washing machine spun and slushed cleansing my clothes of the adventure, turning them into *routine/ordinary/everyday* clothes again. Its hum brought me back to my apartment. I opened the window of my room to let some natural light in and noticed ---- 
+The washing machine spun and slushed cleansing my clothes of the adventure, turning them into everyday clothes again. Its hum brought me back to my apartment. I opened the window of my room to let some natural light in and noticed Star Wars battleships drifting up in the sky.
 
 While I was in Iceland an easy going attitude had taken over me. A childlike curiosity that I hadn't felt in some time. Over there, wrapped in this state, every landscape offered an opportunity to draw with my imagination. 
 
-Mountains were not just rock formations, but trolls frozen in time. There clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. 
+Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. 
 
 Somehow sparks of this emotional state still lingered, for I was able to notice a Guernica like landscape with mighty Star Wars battleships  in the Texas sky. 
 
