@@ -1,3 +1,5 @@
+### Rercordar es volver a vivir 
+
 My dirty laundry has been staring me down with a challenging gaze. Next to this pile of defiant procrastination my duffel bag awaits to be unpacked. Ever since I got back from the lush lands of Iceland there has been a sort of blue heaviness hanging over me preventing me from completing my chores.
 
 It is a familiar feeling, one that often visits me after every family trip. Cementing its presence every time I remember the inside jokes my brothers and I carelessly repeated through out our vacation or those long conversations between the entire family where we talk about everything and nothing with a philosophical air. Where I am from, we say that to remember is to live the moment twice, but right now remembering only exposes the inexorable passage of time, moments that are long gone. 
@@ -36,11 +38,17 @@ A peace treaty was agreed upon with the Hidden People, and construction resumed,
 
 After this and perhaps many other scraps with the hidden people, an Elf Committee was formed and equipped with statements to answer any questions regarding these practices. *could remove this, not really doing much*
 
+The washing machine spun and slushed cleansing my clothes of the adventure, turning them into *routine/ordinary/everyday* clothes again. Its hum brought me back to my apartment, I opened the window of my room to let some natural light in and noticed an abstract familiarity soaring up in the sky. While I was over there an easy going attitude had taken over me. A curious cheerfulness that I hadn't been aware of in some time.
+
+I noticed an abstract familiarity in the clouds soaring up in the sky. My mind turned the different shapes into a battle between a minotaur and a hydra. These were not warnings of the rain, but an opportunity to draw with my imagination. 
 
 
-Iceland acts like quick sand, spend enough time in this country and you will be held in its magical grasp. Even after you have left, you can still feel its imprints in your mind. 
 
-While I was over there an easy going attitude had taken over me. A curious cheerfulness that I hadn't been aware of in some time. I observed the world and it tipped its hat to me, clouds were not just condensed water flying over me but huge landscapes Guernica/a centaur punching a gladiator or starwars battleships or . Mountains became bears or trolls frozen in time.
+
+
+
+
+I observed the world and it tipped its hat to me, clouds were not just condensed water flying over me but huge landscapes Guernica/a centaur punching a gladiator or starwars battleships or . Mountains became bears or trolls frozen in time.
 - maybe I have this observational powers at home but it was easier to notice them here in iceland 
 
 There's a Yoda Cave
@@ -55,16 +63,7 @@ Like the rock near the highway, magic remains
 
 
 
-## Notes on Mexico
 
-We have a day were the death walk among us and we prepare their favorite dishes, play their favorite songs and spend time with them as if the bridge between the lands far away reserved for whom has moved on and the land of the living became a one dimensional space where we get a chance to socialize with our loved ones. 
-
-"recordar es volver a vivir"
-
-Then there's the little actions one inherits from our family. Like breathing, one does not learn how to do it, we just do, I learned from my father, that if one wants to avoid financial ruin from dropping salt, one most grab some of that salt and throw it behind your back. 
-
-This is a man that doesn't carry a wallet, he only has the necessary cash in order to pay for a haircut, put some gas in his car or bribe a Mexican traffic police in case they stop him with some false pretense. He also despises credit cards and blames them for the ruin of society and believes the number one reason for divorce is bad finances. His number one advice in life is to save as much money as possible, invest it diligently and to take care of the cents in order to enjoy the dollars. 
-
-So whenever we go out to eat and he drops salt on the table, his gasping and quick motion of his hands to throw the salt over his shoulder is a twisted contraditcion to this frugal disciplined man. I have never asked him if he truly believes in these esoteric actions, but I assume this is his insurance, a just in case action to avoid pissing of the 'cause and effect' of the universe. 
+ 
 
 
