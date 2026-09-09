@@ -22,7 +22,7 @@ The tale goes like this, during the construction of one of the main highways nea
 
 The workers asked around and discovered that this rock is the home of a group of Elfs, or as they are known in Iceland: Hidden People. These objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home destroyed and replaced by a highway. 
 
-A peace treaty was agreed upon with the Hidden People, and construction resumed, when according to my guide, the mayor of that region of Iceland asked the Hidden People for permission to move their home. To which they simply replied: _No_.
+According to my guide the mayor of this region of Iceland asked the Hidden People for permission to move their rock home, to which they simply replied *No*. Construction resumed and now the higway bends around Álfhóll.
 
 This is a land where volcanoes are not a an it but a she, you can notice her breathing by the pestilent rotten egg smell scattered around this country. People wait for her awakening with resignation, knowing it will, but not when. 
 
@@ -30,7 +30,7 @@ When I heard this story, inevitably my logical economist mind thought of Mexico'
 
 But we are too quick to forget that in Mexico, the dining table offers a front row seat at people deciding their fate by what they do or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then, if I don't look at my partner in the eyes while clanking our glasses this unseen force will condemn us to bad sex for an unknown amount of years. 
 
-One must also be vigilant when eating. Dispensing appetizing glances at someone else's food can make it fall from their hand and dropping salt on the able can cast financial ruin. Most of these customs, are just performed by us, not learned like one studies table manners but performed naturally as breathing.
+One must also be vigilant when eating. Dispensing appetizing glances at someone else's food can make it fall from their hand and dropping salt on the able can cast financial ruin. Most of these customs, are just performed by us, not learned like one studies table manners but done naturally as breathing.
 
 My father is a man that doesn't carry a wallet, he only has the necessary cash in order to pay for a haircut, fill the gas tank on his car or if needed to bribe a Mexican traffic police officer, if he's stopped on some fake pretense. He despises credit cards, blaming them for the ruin of society and believes the number one reason for divorces is bad finances. 
 
@@ -38,20 +38,10 @@ He has always reminded me to save as much money as possible, invest it diligentl
 
 The washing machine spun and slushed cleansing my clothes of the adventure, turning them into everyday clothes again. Its hum brought me back to my apartment. I opened the window of my room to let some natural light in and noticed Star Wars battleships drifting up in the sky.
 
-While I was in Iceland an easy going attitude had taken over me. A childlike curiosity that I hadn't felt in some time. Over there, wrapped in this state, every landscape offered an opportunity to draw with my imagination. 
-
-Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. Caves are shaped like Yoda
+While I was in Iceland an easy going attitude had taken over me. A childlike curiosity that I hadn't felt in some time. Over there, wrapped in this state, every landscape offered an opportunity to draw with my imagination. Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. 
 
 
 
-
-
-
-
-
-
-
-There's a Yoda Cave
 
 
 
