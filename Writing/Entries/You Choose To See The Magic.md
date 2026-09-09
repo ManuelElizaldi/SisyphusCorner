@@ -38,7 +38,9 @@ The washing machine spun and slushed cleansing my clothes of the adventure, turn
 
 While I was in Iceland an easy going attitude had taken over me. A childlike curiosity that I hadn't felt in some time. Over there, wrapped in this state, every landscape offered an opportunity to draw with my imagination. 
 
-Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. 
+Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. Caves are shaped like Yoda
+
+This is a land where volcanoes are not a an it but a she, you can notice her breathing by the pestilent rotten egg smell scattered around different points of this country. People wait for her awakening with resignation, knowing it will, but not when. 
 
 
 
@@ -48,15 +50,6 @@ Mountains were not just rock formations, but trolls frozen in time. There, cloud
 
 
 There's a Yoda Cave
-
-This is a land where volcanoes are not a an it but a she. People await their awakening with resignation, knowing it will, but not the when. 
-
-From the pestilence of rotten egg around different points in the Iceland
-
-After all, we humans, can't ask the bird not to fly, the cow not to give its milk or prevent the sun from rising.  
-
-Like the rock near the highway, magic remains 
-
 
 
 
