@@ -40,9 +40,17 @@ The washing machine spun and slushed cleansing my clothes of the adventure, turn
 
 While I was in Iceland an easy going attitude had taken over me. A childlike curiosity that I hadn't felt in some time. Over there, wrapped in this state, every landscape offered an opportunity to draw with my imagination. Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. 
 
-Having won the duel with my laundury, I grab my clean Carhartt jeans and a t-shirt and dress for my ATX Writing Club session. I then Refill my fountain pens with ink, grab my leather brief case, placing my journal and my copy of 101 Reykjavik by Hallgrimur Helgasson inside. 
+Having won the duel with my laundury, I grab my clean Carhartt jeans and a t-shirt and dress for my ATX Writing Club session. I then Refilled my fountain pens with ink, grab my leather brief case, placing my journal and my copy of 101 Reykjavik by Hallgrimur Helgasson inside. 
 
-When I got there I waited in line to order some 
+I arrived at the coffee shop and was surprised by the weather. It wasn't too hot, even though it was summer. Waiting in line I met a gentleman wearing a similar brief case to mine and using that to break the ice I started conversing with him. 
+
+He mentioned that he enjoyed to write poetry, but most of his recent efforts were aimed at starting his own magazine. He talked about this project with a mellow passion. I got the impression that although he wanted this project to do good, there was no higher purpose for it, it wasn't a representation of a grand insurrection to the digital age. It was jsut something he wanted to do and I admired that.
+
+We ordered two cold brews since the espressso machine was out of order and searched for a table to sit in. Most were already occupied by fellow writers, but we found a spot where a group of people were already discussing their differnet sources of inspiration and their writing routines. 
+
+One lady pullled out a book on writing by the author of Fight 
+
+We ended up ordering cold brew since the espresso machine was out of order and then searched for two open seats. When we sat down in our table, people were already discussing what they were working 
 
 
 
