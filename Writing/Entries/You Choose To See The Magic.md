@@ -40,12 +40,6 @@ While I was in Iceland an easy going attitude had taken over me. A childlike cur
 
 Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. 
 
-Somehow sparks of this emotional state still lingered, for I was able to notice a Guernica like landscape with mighty Star Wars battleships  in the Texas sky. 
-
-
-
-
-
 
 
 
