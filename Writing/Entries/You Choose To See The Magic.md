@@ -50,13 +50,28 @@ He mentioned that he enjoyed to write poetry, but most of his recent efforts wer
 
 We ordered two cold brews since the espresso machine was out of order and searched for a table to sit in. Most were already occupied by fellow writers, but we found a spot where a group of people were already discussing their different sources of inspiration and their writing routines. 
 
-We sat down as a lady was pulling out a book on writing by the author of Fight Club - Chuck Palahniuk, which she found in the public library. I wrote this recommendation on my journal, just in case I needed in the future. Her kind eagerness to share what has worked for her writing 
+We sat down just as a woman was pulling out a book out of a big tote bag that also had a yoga mat in it. With great eagerness she explained how it has helped her with the process of writing by the author of Fight Club - Chuck Palahniuk. She mentioned that she got it from the public library,  
+ 
 
-After some inspiring conversations the organizers of the Writing Club set a timer for an hour to do some deep uninterrupted work. The murmur of writers went mute, replaced by the wind rustling the trees above us, clanking of keyboards and the pens sctraching paper. 
+With great eagerness she told us about how she found this book in the public library
+
+
+explained how this book written by the author of Fight Club has helped her writing. 
+
+
+
+
+
+I wrote this recommendation on my journal, just in case I needed in the future.
+
+After some inspiring conversations the organizers of the Writing Club set a timer for an hour to do some deep uninterrupted work. The murmur of writers went mute, replaced by the wind rustling the trees above us, clanking of keyboards and the pens scratching paper. 
 
 Ideas came easily to me, one sentence lead to the next and so on for sixty minutes. Without me realizing the alarm shook us all out of the trance. I cap my fountain pen and noticed the writers around me stretching, smiling and sighing with satisfaction.
 
-As we begin to ask eachother how did it go, a leaf fell from the sky and landed on the lady that recommended the writing book, to which she said "oh a little present".
+As we begin to ask each other how did it go, a leaf fell from the tree above and landed on the 
+
+
+lady that recommended the writing book, to which she said "oh a little present".
  
 
 
