@@ -1,5 +1,3 @@
-### Rercordar es volver a vivir 
-
 My dirty laundry has been staring me down with a challenging gaze. Next to this pile of defiant procrastination my duffel bag awaits to be unpacked. Ever since I got back from the lush lands of Iceland there has been a sort of blue heaviness hanging over me preventing me from completing my chores.
 
 It is a familiar feeling, one that often visits me after every family trip. Cementing its presence every time I remember the inside jokes my brothers and I carelessly repeated throughout our vacation or those long conversations between the entire family where we discussed everything and nothing. Where I am from, we say that to remember is to live the moment twice, but right now remembering only exposes the inexorable passage of time, moments that are long gone. 
@@ -57,7 +55,7 @@ After some inspiring conversations the organizers of the Writing Club set a time
 
 Ideas came easily to me, one sentence led to the next and so on for sixty minutes. Without me realizing the alarm shook us all out of the trance. I capped my fountain pen and noticed the writers around me stretching, smiling and sighing with satisfaction.
 
-As we begin to ask each other how did it go, a leaf fell from the tree above and landed on the lap of the big tote bag woman. She grabbed it and held it up to her eyes and said "ohh a little present."
+As we began to ask each other how did it go, a leaf fell from the tree above and landed on the lap of the big tote bag woman. She held it up to her eyes and said "ohh a little present."
  
 
 
