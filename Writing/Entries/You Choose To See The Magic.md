@@ -22,15 +22,17 @@ The tale goes like this, during the construction of one of the main highways nea
 
 The workers investigated this matter and discovered that this rock is the home of a group of Elfs, or as they are known in Iceland: Hidden People. These objectors were responsible for causing all those issues in the construction site. But who could blame them? No one wants their home destroyed and replaced by a highway. 
 
-According to my guide the mayor of this region of Iceland asked the Hidden People for permission to move their rock home, to which they simply replied *No*. Construction resumed and now the higway bends around Álfhóll.
+According to my guide the mayor of this region of Iceland asked the Hidden People for permission to move their rock home, to which they simply replied *No*. Construction resumed and now the highway bends around Álfhóll.
 
-This is a land where volcanoes are not a an it but a she, you can notice her breathing by the pestilent rotten egg smell scattered around this country. People wait for her awakening with resignation, knowing it will, but not when. 
+This is a land where volcanoes are not an it but a she, you can notice her breathing by the pestilent rotten egg smell scattered around this country. People wait for her awakening with resignation, knowing it will, but not when. 
+
+![[Pasted image 20260910114737.png]]
 
 When I heard this story, inevitably my logical economist mind thought of Mexico's love affair with folk practices. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
 
 But we are too quick to forget that in Mexico, the dining table offers a front row seat at people deciding their fate by what they do or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then, if I don't look at my partner in the eyes while clanking our glasses this unseen force will condemn us to bad sex for an unknown amount of years. 
 
-One must also be vigilant when eating. Dispensing appetizing glances at someone else's food can make it fall from their hand and dropping salt on the able can cast financial ruin. Most of these customs, are just performed by us, not learned like one studies table manners but done naturally as breathing.
+One must also be vigilant when eating. Dispensing appetizing glances at someone else's food can make it fall from their hand and dropping salt on the able can cast financial ruin. Most of these customs are just performed by us, not learned like one studies table manners but done naturally like breathing.
 
 My father is a man that doesn't carry a wallet, he only has the necessary cash in order to pay for a haircut, fill the gas tank on his car or if needed to bribe a Mexican traffic police officer, if he's stopped on some fake pretense. He despises credit cards, blaming them for the ruin of society and believes the number one reason for divorces is bad finances. 
 
@@ -40,15 +42,15 @@ The washing machine spun and slushed cleansing my clothes of the adventure, turn
 
 While I was in Iceland an easy going attitude had taken over me. A childlike curiosity that I hadn't felt in some time. Over there, wrapped in this state, every landscape offered an opportunity to draw with my imagination. Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. 
 
-Having won the duel with my laundury, I grab my clean Carhartt jeans and a t-shirt and dress for my ATX Writing Club session. I then refill my fountain pens with ink, grab my leather brief case, placing my journal and my copy of 101 Reykjavik by Hallgrimur Helgasson inside. 
+Having won the duel with my laundry, I grab my clean Carhartt jeans and a t-shirt and dress for my ATX Writing Club session. I refill my fountain pens with ink, grab my leather brief case, placing my journal and my copy of 101 Reykjavik by Hallgrimur Helgasson inside. 
 
-When I arrived at the coffee shop and was surprised by the weather. It wasn't too hot, even though it was summer. Waiting in line I met a gentleman wearing a similar brief case to mine and using that to break the ice I started conversing with him. 
+I arrived at the coffee shop and was surprised by the weather. It wasn't too hot, even though it was summer. Waiting in line I met a gentleman wearing a similar brief case to mine and using that to break the ice I started conversing with him. 
 
-He mentioned that he enjoyed to write poetry, but most of his recent efforts were aimed at starting his own magazine. He talked about this project with a mellow passion. I got the impression that although he wanted this project to do good, there was no higher purpose for it, it wasn't a grand insurrection to the digital age. It was jsut something he wanted to do and I admired that.
+He mentioned that he enjoyed to write poetry, but most of his recent efforts were aimed at starting his own magazine. He talked about this project with a mellow passion. I got the impression that although he wanted this project to do good, there was no higher purpose for it, it wasn't a grand insurrection to the digital age. It was just something he wanted to do and I admired that.
 
-We ordered two cold brews since the espressso machine was out of order and searched for a table to sit in. Most were already occupied by fellow writers, but we found a spot where a group of people were already discussing their differnet sources of inspiration and their writing routines. 
+We ordered two cold brews since the espresso machine was out of order and searched for a table to sit in. Most were already occupied by fellow writers, but we found a spot where a group of people were already discussing their different sources of inspiration and their writing routines. 
 
-We sat down just when one lady pulled out a book on writing by the author of Fight Club - Chuck Palahniuk, which she found in the public library. I wrote this recommendation on my journal, just in case I needed in the future. 
+We sat down as a lady was pulling out a book on writing by the author of Fight Club - Chuck Palahniuk, which she found in the public library. I wrote this recommendation on my journal, just in case I needed in the future. Her kind eagerness to share what has worked for her writing 
 
 After some inspiring conversations the organizers of the Writing Club set a timer for an hour to do some deep uninterrupted work. The murmur of writers went mute, replaced by the wind rustling the trees above us, clanking of keyboards and the pens sctraching paper. 
 
