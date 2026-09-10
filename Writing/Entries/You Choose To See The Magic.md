@@ -31,7 +31,7 @@ This is a land where volcanoes are not an it but a she, you can notice her breat
 
 When I heard this story, inevitably my logical economist mind thought of Mexico's love affair with folk practices. Like a snake, we desire to shed our old skin, forgo our folk tales and beliefs of magic to be more like our big brother up north. 
 
-But we are too quick to forget that in Mexico, the dining table offers a front row seat at people deciding their fate by what they do or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then, if I don't look at my partner in the eyes while clanking our glasses this unseen force will condemn us to bad sex for an unknown amount of years. 
+But we are too quick to forget that in Mexico, the dining table offers a front row seat at people deciding their fate by what they do or what they don't do. I have clear memories of family members warning me not to toast with water and to drink after each toast if I don't want bad luck. Then, if I don't look at my partner in the eyes while clinking our glasses this unseen force will condemn us to bad sex for an unknown amount of years. 
 
 One must also be vigilant when eating. Dispensing appetizing glances at someone else's food can make it fall from their hand and dropping salt on the able can cast financial ruin. Most of these customs are just performed by us, not learned like one studies table manners but done naturally like breathing.
 
@@ -43,15 +43,15 @@ The washing machine was spinning and slushing cleansing my clothes of the advent
 
 While I was in Iceland an easy going attitude had taken over me. A childlike curiosity that I hadn't felt in some time. Over there, wrapped in this state, every landscape offered an opportunity to draw with my imagination. Mountains were not just rock formations, but trolls frozen in time. There, clouds were not warnings of rain but huge mythological battles between centaurs and gladiators. 
 
-Having won the duel with my laundry, I grab my clean Carhartt jeans and a t-shirt and dress for my ATX Writing Club session. I refill my fountain pens with ink, grab my leather brief case, placing my journal and my copy of 101 Reykjavik by Hallgrimur Helgasson inside. 
+Having won the duel with my laundry, I grab my clean Carhartt jeans and a t-shirt and dress for my ATX Writing Club session. I refill my fountain pens with ink, grab my leather briefcase, placing my journal and my copy of 101 Reykjavik by Hallgrimur Helgasson inside. 
 
-I arrive at the coffee shop and was surprised by the weather. It wasn't too hot, even though it was summer. Waiting in line I met a gentleman wearing a similar brief case to mine and using that to break the ice I started conversing with him. 
+I arrive at the coffee shop and was surprised by the weather. It wasn't too hot, even though it was summer. Waiting in line I met a gentleman wearing a similar briefcase to mine and using that to break the ice I started conversing with him. 
 
 He mentioned that he enjoyed to write poetry, but most of his recent efforts were aimed at starting his own magazine. He talked about this project with a mellow passion. I got the impression that although he wanted this project to do good, there was no higher purpose for it, it wasn't a grand insurrection to the digital age. It was just something he wanted to do and I admired that.
 
 We ordered two cold brews since the espresso machine was out of order and searched for a table to sit in. Most were already occupied by fellow writers, but we found a spot where a group of people were already discussing their different sources of inspiration and their writing routines. 
 
-We sat down just as a woman was pulling out a book out of a big tote bag that also had a yoga mat in it. With great eagerness she explained how this book written by the author of Fight Club - Chuck Palahniuk  has helped her with the process of writing. She mentioned that she got it from the public library and I wrote this recommendation down on my journal, just in case I needed in the future.
+We sat down just as a woman was pulling out a book from a big tote bag that also had a yoga mat in it. With great eagerness she explained how this book written by the author of Fight Club - Chuck Palahniuk  has helped her with the process of writing. She mentioned that she got it from the public library and I wrote this recommendation down on my journal, just in case I needed in the future.
  
 After some inspiring conversations the organizers of the Writing Club set a timer for an hour to do some deep uninterrupted work. The murmur of writers went mute, replaced by the wind rustling the trees above us, clanking of keyboards and the pens scratching paper. 
 
