@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5,
-    "collapsed": true
+    "width": 472.5
   },
   "right": {
     "id": "443984180475832a",
@@ -270,15 +269,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "564bd74cb18a6a52",
+  "active": "baa9d3248a1f0cf3",
   "lastOpenFiles": [
+    "Writing/Entries/Stoner.md",
     "Writing/Entries/Done/Little presents.md",
     "Programming/Garmin/Notes.md",
     "Writing/Study/Phrases.md",
     "Writing/Study/Life I want questions.md",
     "Pasted image 20260910114737.png",
     "Writing/Writing Ideas.md",
-    "Writing/Entries/Stoner.md",
     "Programming/Garmin",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/Cloud Computing/AWS - HIPAA Labs/Lab 1 Notes.md",

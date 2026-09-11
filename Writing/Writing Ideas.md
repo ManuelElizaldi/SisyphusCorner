@@ -240,3 +240,11 @@ Fitness for the sake of function not vanity
 
 # Iceland stuff
 When I first heard this story, inevitably, the logical economist part of my brain turned on. I thought "how hard would it be to implement public policy in a place like this? Where a troll or a fairy could stall a million dollar project". Back in Mexico it takes a miracle and a half to finish any infrastructure project, but I am certain that it would be even harder if we still practiced Mayan or Aztec mythology or folk tales/practices. *last sentence needs better flow*
+
+
+# Work on this 
+**Under the Influence**
+
+The art we surround ourselves with affects our reality. What happens when we use authors or artists as guides to our travels, near and far? Which artist’s presence accompanies you down a street or rests with you on a park bench? Tell us about the interplay between art and reality, and how the lens of each showed you something interesting about the other. Title your submission along the lines of “Reading [author] in [place]”/ “Listening to [artist] in [place],” etc.
+
+from -> https://offassignment.submittable.com/submit?utm_source=chatgpt.com
