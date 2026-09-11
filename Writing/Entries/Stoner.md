@@ -1,4 +1,8 @@
-It was around 11:00 pm, I was already feeling sleepy. I have this ritual where I have to read for a couple of minutes before going to bed so that I can surrender 
+It was around 11:00 pm, I was already feeling sleepy. I have this ritual where I have to read for a couple of minutes before going to bed so that I can peacefully surrender to Morpheus. Before I had this ritual in place, I watched YouTube instead, frying my dopamine receptors until I was anesthetized.
+
+I was reading Stoner by John Williams. I had 2 chapters left and my plan was to read one that night, then in the morning, finish the book. I finished the second to last chapter, placed the coffee bag label I was using as a book mark inside and closed the book. 
+
+With my eyes closed, trying to fall asleep, Stoner was calling my name. There was a deep desire inside of me to know h
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
