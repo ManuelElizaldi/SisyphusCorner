@@ -8,7 +8,10 @@ Love for knowledge - I, like Stoner, truly enjoy the pleasure of reading, learni
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
-Perhaps it was love at first sight, or 
+I have found 
+
+
+Perhaps it was love at first sight,
 
 #### Not be as passive as he was , although I admire his resilience 
 - was he using books to escape? work to distract himself? 

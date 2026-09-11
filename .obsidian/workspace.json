@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Entries/Little presents.md",
+                "file": "Writing/Entries/Done/Little presents.md",
                 "mode": "source",
                 "source": false
               },
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,12 +270,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "950281f9662a4048",
+  "active": "564bd74cb18a6a52",
   "lastOpenFiles": [
+    "Writing/Entries/Done/Little presents.md",
     "Programming/Garmin/Notes.md",
     "Writing/Study/Phrases.md",
     "Writing/Study/Life I want questions.md",
-    "Writing/Entries/Little presents.md",
     "Pasted image 20260910114737.png",
     "Writing/Writing Ideas.md",
     "Writing/Entries/Stoner.md",
