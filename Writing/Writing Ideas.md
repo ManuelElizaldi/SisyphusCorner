@@ -247,4 +247,9 @@ When I first heard this story, inevitably, the logical economist part of my brai
 
 The art we surround ourselves with affects our reality. What happens when we use authors or artists as guides to our travels, near and far? Which artist’s presence accompanies you down a street or rests with you on a park bench? Tell us about the interplay between art and reality, and how the lens of each showed you something interesting about the other. Title your submission along the lines of “Reading [author] in [place]”/ “Listening to [artist] in [place],” etc.
 
+
+**Goodbye to That Place**  For this column expanding from Didion’s canonical “Goodbye to All That,” we invite you to pen a narrative farewell to a place that has held significance in your life. It could be a breakup letter to your apartment (like Nancy Franklin's ["How Did I Get Here?"](https://www.newyorker.com/magazine/1995/10/16/how-did-i-get-here)), a revisit of a bygone version of your hometown (think “[The Hard Crowd](https://www.newyorker.com/magazine/2021/01/18/the-hard-crowd)” by Rachel Kushner), an au revoir to that layover city you saw too briefly and left too fast, but where your life might have taken a different turn. We ask only that the essay be about your personal relationship to a place no longer yours.
+
+Word count: 1000-2500.
+
 from -> https://offassignment.submittable.com/submit?utm_source=chatgpt.com
