@@ -1,6 +1,6 @@
 The calendar marks June 30th, the World Cup euphoria is running hot. Mexico just won against Ecuador in a 2-0 match were the Mexican team displayed the best football I have ever seen from my country. National optimism was soaring, everyone I talked to felt like they were invincible. 
 
-A part of me had a crumble of regret from not watching this game at a sports bar or at a friends house. My spirit demanded of me to share this feeling. I was sipping my Asahi beers while I howled at the TV for more goals, more action. I needed this, my country needed this. 
+A part of me had a crumble of regret from not watching this game at a sports bar or at a friends house. My spirit demanded of me to share this extasy. I was sipping my Asahi beers while I howled at the TV for more goals, more action. I needed this, my country needed this. 
 
 Suddenly it seemed like all of Mexicos issues were on pause, because we were watching history happen. "¿Y si sí?". I was infected with this *enhancing/boosted/lifted* wild optimism. 
 
