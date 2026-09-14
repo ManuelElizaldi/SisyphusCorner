@@ -1,12 +1,10 @@
 The calendar marks June 30th, the World Cup euphoria is running hot. Mexico just won against Ecuador in a 2-0 match were the Mexican team displayed the best football I have ever seen from my country. National optimism was soaring, everyone I talked to felt like they were invincible. 
 
-A part of me had a crumble of regret from not watching this game at a sports bar or at a friends house. My spirit demanded of me to share this ecstasy. But faith wanted me here, at my sofa sipping my Asahi beer while I howled at the TV for more goals, more action. I needed this, my country needed this. 
+A part of me had a crumble of regret from not watching this game at a sports bar or at a friend's house. My spirit demanded me to share this ecstasy. But faith wanted me here, at my sofa sipping my Asahi beer while I howled at the TV for more goals. I needed this, my country needed this. 
 
-Suddenly it seemed like all of Mexicos issues were on pause, because we were watching history erupt. "¿Y si sí?". I was infected with this *enhancing/boosted/lifted* wild optimism. 
+Suddenly it seemed like all of Mexico's issues were on pause, because we were watching history erupt. "¿Y si sí?". I was infected with this *enhancing/boosted/lifted* wild optimism. 
 
-The game finished and I was left with this riding the buzz of this high. Illuminated by the blues of the TV I was left asking myself what just happened.
-
-In that post game euphoria, I remembered a fruitful conversation I had with my friend over cigars. We are both high achieving individuals with a voracious appetite for life and all of its rewards. We have a creed to the struggle and we respect doing hard things. We had observed how if we let it, living in a developed country, the world will pamper you with comfort. So he invited me to run an ultra marathon with him in West Texas. At the time, I had postponed registering for the race, perhaps unconsciously or maybe consciously. I had avoided doing so placing excuses like: rugby season is coming up, I need to prepare for that. Or sometimes I would say that registering is expensive and I couldn't afford it right now. I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel and my mind loves comfort and any trace of writers blocked is eliminated when it comes to creating excuses not to do hard things. 
+The game finished and I was left riding the adrenaline buzz. Illuminated by the blues of the TV I was left asking myself what just happened. In that post game euphoria, I remembered a fruitful conversation I had with my friend over cigars. We are both high achieving individuals with a voracious appetite for life and all of its rewards. We have a creed to the struggle and we respect doing hard things. We had observed how if we let it, living in a developed country, the world will pamper you with comfort. So he invited me to run an ultra marathon with him in West Texas. At the time, I had postponed registering for the race, perhaps unconsciously or maybe consciously. I had avoided doing so placing excuses like: rugby season is coming up, I need to prepare for that. Or sometimes I would say that registering is expensive and I couldn't afford it right now. I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel and my mind loves comfort and any trace of writers blocked is eliminated when it comes to creating excuses not to do hard things. 
 
 
 #### These 2 are the same paragraph, condense into 1
@@ -43,7 +41,7 @@ Doing the hard things meant dealing with the tiredness of the stacking kilometer
 
 Doing the hard thing meant less writing for Substack since all of my energy was aimed at the training sessions. Even though my spirit craved the pen and paper, all it could reach for was the sofa. 
 
-Despite all of these sacrifices, doing the hard things offers respite 
+Despite all of these sacrifices, doing the hard things has its moments of respite, were love is most heartfelt. 
 
 
 
