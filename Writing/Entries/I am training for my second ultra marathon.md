@@ -6,23 +6,19 @@ Suddenly it seemed like all of Mexicos issues were on pause, because we were wat
 
 The game finished and I was left with this riding the buzz of this high. Illuminated by the blues of the TV I was left asking myself what just happened.
 
-In that post game euphoria, I remembered a fruitful conversation I had with my friend over cigars. We are both high achieving individuals with a voracious appetitie for life and all of its h
-
-my friend had invited me to do an Ultra Marathon. Over cigars, we had discussed our creed to the struggle and the importance of doing hard things. a pair of highly achieving individuals with a voracious appetite for life and all of its hard earned rewards. 
+In that post game euphoria, I remembered a fruitful conversation I had with my friend over cigars. We are both high achieving individuals with a voracious appetite for life and all of its rewards. We have a creed to the struggle and we respect doing hard things. We had observed how if we let it, living in a developed country, the world will pamper you with comfort. So he invited me to run an ultra marathon with him in West Texas. At the time, I had postponed registering for the race, perhaps unconsciously or maybe consciously. I had avoided doing so placing excuses like: rugby season is coming up, I need to prepare for that. Or sometimes I would say that registering is expensive and I couldn't afford it right now. I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel and my mind loves comfort and any trace of writers blocked is eliminated when it comes to creating excuses not to do hard things. 
 
 
+#### These 2 are the same paragraph, condense into 1
+But what Mexico's national team had shown during that game was *grit/tenacity/playful tenacity?*. A sort of grit the lifts an entire's country spirits. 
 
-I had posponed registering for the race, perhaps unconsciously or maybe consciously. I had avoided doing so placing excuses like, rugby season is coming up, I need to prepare for that. Or sometimes I would say that registering is expensive and I couldn't afford it. I also thought about my work vacations, an ultra marathon in West Texas would take at least a day of travel and my mind loves comfort and any trace of writers blocked is eliminated when it comes to creating excuses not to do hard things. 
+I remember I didn't even think about it, I just did a leap of faith. I grabbed my laptop looked for that months old message my friend sent me, checked my wallet for my credit card and registered. 
 
-But what Mexico's national team had shown during that game was *grit/tenacity/playful tenacity?*. A sort of grit the lifts an entire's country spirits. I remember I didn't even think about it, I just did a leap of faith. I grabbed my laptop looked for that months old message my friend sent me, checked my wallet for my credit card and registered. 
-
-Looking back at how I registered, the process was similar to how I start a run I don't want to do. I don't think about it and just grab my running shoes. If I sit and let my mind do the talking, listen to the voice inside my head, I wouldn't have registered and I wouldn't have done thousands of workouts. 
+Looking back at how I registered, the process was similar to how I start a run when I don't want to run. I don't think about it and just grab my running shoes. If I sit and let my mind do the talking, listen to the voice inside my head, I wouldn't have registered and I wouldn't have done thousands of workouts. 
 
 *riding the crest of a high and beautiful wave*
 
-I took a screenshot of my receipt and sent it to my friend "Asi no mas quedo" I said, and went to bed. The next day, a bit hung over from the exhilarating game and sharp Mexican tactics, the euphoria had lessen and reality hit me like the recoil of a lever actioned magnum .460. Had I really signed up for 
-
-what sort of insane atavistic patriotic euphoria had possessed me to do such a twisted thing? 
+I took a screenshot of my receipt and sent it to my friend "Asi no mas quedo" I said, and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessen and reality hit me like the recoil of a lever actioned magnum .460. Had I really signed up for the race? What sort of insane atavistic patriotic elation had possessed me to do such a twisted thing? The day before I was riding on the top of a high and beautiful wave 
 
 2 and a half months of training for a 50 km/30 mi race. Ideally I would've liked more time to train the legs and the spirits for this endeavor but what else is there to do? We can't stop this train, with the limited time I had to come up with a plan, pronto. 
 
@@ -30,7 +26,11 @@ Following a training program similar to Sebastian Sawe, the current marathon rec
 
 I enjoy weight lifting and kettlebell aerobic exercises, short but explosive, completely opposite of what this training was about. This is low effort sustained through out a long period of time. These workouts took a *second place? placed on hold*
 
-Texas summer came fast,  some runs were done in the Texas heat at +100°f because Morpheus couldn't let me out of bed. 
+When I registered, I didn't think about it, I had no foresight. I did not know that a scorching Texas summer was waiting in the horizon. It came fast and even though I have been living in this region for the greater part of my life, it surprised me.
+
+This meant that some runs had to be done in the at +100°F because your humbler servant rarely wins a fight against Morpheus and I didn't leave my bed before work. 
+
+
 
 
 
