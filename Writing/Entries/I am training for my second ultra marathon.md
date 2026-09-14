@@ -10,15 +10,15 @@ In that post game euphoria, I remembered a fruitful conversation I had with my f
 
 
 #### These 2 are the same paragraph, condense into 1
-But what Mexico's national team had shown during that game was *grit/tenacity/playful tenacity?*. A sort of grit the lifts an entire's country spirits. 
+But what Mexico's national team had shown during that game was *grit/tenacity/playful tenacity?*. A sort of grit the lifts an entire's country spirits.
 
-I remember I didn't even think about it, I just did a leap of faith. I grabbed my laptop looked for that months old message my friend sent me, checked my wallet for my credit card and registered. 
+Riding atop a high and beautiful wave I remember I didn't even think about it, I just did a leap of faith. I grabbed my laptop looked for that months old message my friend sent me, checked my wallet for my credit card and registered. 
 
 Looking back at how I registered, the process was similar to how I start a run when I don't want to run. I don't think about it and just grab my running shoes. If I sit and let my mind do the talking, listen to the voice inside my head, I wouldn't have registered and I wouldn't have done thousands of workouts. 
 
-*riding the crest of a high and beautiful wave*
+I took a screenshot of my receipt and sent it to my friend "Asi no mas quedo" I said, and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessen and reality hit me like the recoil of a lever actioned magnum .460. 
 
-I took a screenshot of my receipt and sent it to my friend "Asi no mas quedo" I said, and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessen and reality hit me like the recoil of a lever actioned magnum .460. Had I really signed up for the race? What sort of insane atavistic patriotic elation had possessed me to do such a twisted thing? The day before I was riding on the top of a high and beautiful wave 
+The text message of my friend asking "Did you really sign up? I don't believe it!" Had brought me back to the now. Had I really signed up for the race? What sort of atavistic patriotic elation had possessed me to do such a twisted thing?  
 
 2 and a half months of training for a 50 km/30 mi race. Ideally I would've liked more time to train the legs and the spirits for this endeavor but what else is there to do? We can't stop this train, with the limited time I had to come up with a plan, pronto. 
 
@@ -28,7 +28,13 @@ I enjoy weight lifting and kettlebell aerobic exercises, short but explosive, co
 
 When I registered, I didn't think about it, I had no foresight. I did not know that a scorching Texas summer was waiting in the horizon. It came fast and even though I have been living in this region for the greater part of my life, it surprised me.
 
-This meant that some runs had to be done in the at +100°F because your humbler servant rarely wins a fight against Morpheus and I didn't leave my bed before work. 
+This meant that some runs had to be done in the at +100°F because your humbler servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
+
+When people talk about doing hard things, they mention the marathons, the passed exam or the hard conversation with their partner. Spectators only see the glory and admire that it was done, but after training for this second ultra marathon, on top of mt. Lakeway training my ascent I came to realize that the hard thing is not the thing in itself, but the process one must walk to obtain it. 
+
+To do hard things means to sacrifice 
+
+
 
 
 
