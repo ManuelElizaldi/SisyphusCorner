@@ -30,9 +30,21 @@ When I registered, I didn't think about it, I had no foresight. I did not know t
 
 This meant that some runs had to be done in the at +100°F because your humbler servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
 
-When people talk about doing hard things, they mention the marathons, the passed exam or the hard conversation with their partner. Spectators only see the glory and admire that it was done, but after training for this second ultra marathon, on top of mt. Lakeway training my ascent I came to realize that the hard thing is not the thing in itself, but the process one must walk to obtain it. 
+When people talk about doing hard things, they mention the marathons, the passed exam or the hard conversation with their partner. Spectators only see the glory and admire that it was done, but after training for this second ultra marathon, in the middle of my ascent training in Mt. Lakeway I had a revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
 
-To do hard things means to sacrifice 
+
+Having already trained for an ultra back in 2023, I knew the effort required, but now I had lived a little, 3 years doesn't seem like much to me but apparently the kilometers were bestowing wisdom upon my spirit. 
+
+Doing the hard thing, now meant sacrificing my weekend mornings. I enjoy waking up on a Saturday with little to no responsibilities. Turn on my espresso machine, waiting for its mechanical innards heat up with a rumble. Depending on my mood I would choose a the coffee beans of the day. Most of the times I would act as a barista for my girlfriend and prepare a honey brown sugar latte, practice my latte art, then make myself an americano and watch tv or read together. 
+
+Doing the hard thing meant sacrificing the late night online gaming sessions with the boys where we would fool around calling each other nasty insults because tough love is our love language. 
+
+Doing the hard things meant dealing with the tiredness of the stacking kilometers at work, making my coding sluggish, my inspiration dried for the kilometers ran in the heat. 
+
+Doing the hard thing meant less writing for Substack since all of my energy was aimed at the training sessions. Even though my spirit craved the pen and paper, all it could reach for was the sofa. 
+
+Despite all of these sacrifices, doing the hard things offers respite 
+
 
 
 
