@@ -4,7 +4,12 @@ A part of me had a crumble of regret from not watching this game at a sports bar
 
 After 90 minutes of art, the game finished and I was left riding the adrenaline buzz. Illuminated by the blues of the TV I was left asking myself what just happened, I couldn't believe my eyes.
 
-Inspired by players like  I remembered a fruitful conversation I had with my friend over cigars. We are both high achieving individuals with a voracious appetite for life and all of its rewards. We have a creed to the struggle and we respect doing hard things.
+I had just witnessed a small teenager baptized by the name of Gilberto, last name Mora who spread a feast of passes to forwards with such grace that it reminded me of Iniesta. Fed by these play making passes players such as Quiñones
+
+Inspired by the bravado of this national team 
+
+
+remembered a fruitful conversation I had with my friend over cigars. We are both high achieving individuals with a voracious appetite for life and all of its rewards. We have a creed to the struggle and we respect doing hard things.
 
 We had observed around us how a developed country can pamper you with comfort, *then what? what comes after comfot?*
 
