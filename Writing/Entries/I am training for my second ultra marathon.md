@@ -10,7 +10,7 @@ Over cigars we had come to the conclusion that we had a creed for the struggle. 
 
 So he invited me to run an ultra marathon in West Texas. A 50 kilometer/30 mile race in the desert mountains of Fort Davis. At the time, I had postponed registering for the race, perhaps unconsciously or maybe consciously. I had avoided doing so placing excuses like: rugby season is coming up, I need to prepare for that. Or sometimes I would say that registering is expensive and I couldn't afford at the moment. I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel. 
 
-My mind loves comfort and any trace of writers blocked is eliminated when it comes to creating excuses not to do hard things. 
+*I yet can't still deny my human nature and ignore the fact that* My mind loves comfort and any trace of writers blocked is eliminated when it comes to creating excuses not to do hard things. 
 
 I remember I didn't even think about it, I just did a leap of faith. I grabbed my laptop looked for that months old message my friend sent me, checked my wallet for my credit card and registered. 
 
