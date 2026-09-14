@@ -16,7 +16,7 @@ I took a screenshot of my receipt and sent it to my friend "Asi no mas quedo" I 
 
 Following a training program similar to Sebastian Sawe, the current marathon record holder (1:59:30), I focused on increasing the aerobic engine of my body, meaning I had to re-adapt my body to squeeze as much energy out of oxygen as possible. I followed the run slower to run faster method, lots of kilometer volume at a slower pace. As Rich Roll said in his book Finding Ultra, "Races are won not by the fastest, but by those who never stop.", in this equation I might not be the hare but this turtle can go for a long time. 
 
-I enjoy weight lifting and kettlebell aerobic exercises, short but explosive, completely opposite of what this training was about. This is low effort sustained through out a long period of time. 
+I enjoy weight lifting and kettlebell aerobic exercises, short but explosive, completely opposite of what this training was about. This is low effort sustained through out a long period of time. These workouts took a *second place? placed on hold*
 
 Summer came fast, some runs were done in the Texas heat at +100°f because Morpheus couldn't let me out of bed. 
 
