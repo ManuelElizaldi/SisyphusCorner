@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Writing Ideas.md",
+                "file": "Writing/Entries/I am training for my second ultra marathon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing Ideas"
+              "title": "I am training for my second ultra marathon"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -256,9 +258,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "564bd74cb18a6a52",
+  "active": "baa9d3248a1f0cf3",
   "lastOpenFiles": [
     "Writing/Writing Ideas.md",
+    "Writing/Entries/I am training for my second ultra marathon.md",
     "Writing/Entries/Stoner.md",
     "Writing/Entries/Done/Little presents.md",
     "Programming/Garmin/Notes.md",
