@@ -4,7 +4,9 @@ A part of me had a crumble of regret from not watching this game at a sports bar
 
 After 90 minutes of art, the game finished and I was left riding the adrenaline buzz. Illuminated by the blues of the TV I was left asking myself what just happened, I couldn't believe my eyes. I had just witnessed a small teenager baptized by the name of Gilberto, last name Mora who spread a feast of passes to forwards with such grace that it reminded me of Iniesta back in 2010. Fed by these play making passes players such as Quiñones with his canon right foot had no mercy to the opposition's goalie. 
 
-What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire's country's spirit, "¿Y si sí?" everyone wondered with high hopes. I was infected with this wild optimism. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends. 
+What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire's country's spirit, "¿Y si sí?" everyone wondered with high hopes. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars. 
+
+*deeper into the scene here*
 
 Over cigars we had come to the conclusion that we had a creed for the struggle. Being high achieving individuals with a voracious appetite for life and all of its rewards. We had observed around us how in a developed country you can be pampered by comfort. So, with the intention to keep doing hard things, he invited me to run an ultra marathon in West Texas. 
 
@@ -26,7 +28,7 @@ Following a training program similar to Sebastian Sawe, the current marathon rec
 
 Even though I've been living in Texas for the greater part of my life, I did not contemplate the looming heat wave in the horizon. It came fast, surprising me. 
 
-This meant that some runs had to be done in the at +100°F because your humbler servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
+This meant that some runs had to be done in the at +100°F because your humble servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
 
 When people talk about doing hard things, they mention the marathons, the passed exam or the hard conversation with their partner. Spectators only see the glory and admire that it was done, but after training for this second ultra marathon, in the middle of my ascent training in Mt. Lakeway I had a revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
 
