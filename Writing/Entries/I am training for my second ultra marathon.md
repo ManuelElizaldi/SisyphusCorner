@@ -12,15 +12,13 @@ A 50 kilometer/30 mile race in the desert mountains of Fort Davis. At the time p
 
 I had avoided registering saying excuses like: "rugby season is coming up, I need to prepare for that". Sometimes I would say "registering is expensive and I couldn't afford at the moment". I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel. 
 
+Regardless of this, watching my national team display an elegant piece of football had motivated me enough to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and payed the registration. 
 
+Looking back at this moment, the process was similar to how I start a run that I don't want to do. Most of the times, in this situation I ignore the voice inside my head, grab my trusted Asics Novablast 5s, put them on and head outside. If I sit and let my mind do the talking, getting absorbed by the negative talk, a lot of my runs wouldn't have been completed and I wouldn't have registered. 
 
-I remember I didn't even think about it, I just did a leap of faith. I grabbed my laptop looked for that months old message my friend sent me, checked my wallet for my credit card and registered. 
+I took a screenshot of my receipt and sent it to my friend via text message saying "Asi no mas quedo", and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessen and reality hit me like the recoil of a bolt action rifle. 
 
-Looking back at how I registered, the process was similar to how I start a run when I don't want to run. I don't think about it and just grab my running shoes. If I sit and let my mind do the talking, listen to the voice inside my head, I wouldn't have registered and I wouldn't have done thousands of workouts. 
-
-I took a screenshot of my receipt and sent it to my friend "Asi no mas quedo" I said, and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessen and reality hit me like the recoil of a lever actioned magnum .460. 
-
-The text message of my friend asking "Did you really sign up? I don't believe it!" The wave had crashed, brining me back to the now. Had I really signed up for the race? What sort of insane patriotic excitement had possessed me to do such a twisted thing?  
+My friend had replied "Did you really sign up? I can't believe it!" The wave had crashed, brining me back to the now. Had I really signed up for the race? What sort of insane patriotic excitement had possessed me to do such a twisted thing?  
 
 2 and a half months of training for a 50 km/30 mi race. Ideally I would've liked more time to train the legs and the spirits for this endeavor but what else is there to do? We can't stop this train, with the limited time I had to come up with a plan, pronto. 
 
