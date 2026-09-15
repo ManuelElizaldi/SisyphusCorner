@@ -6,11 +6,13 @@ After 90 minutes of art, the game finished and I was left riding the adrenaline 
 
 What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire's country's spirit, "¿Y si sí?" everyone wondered with high hopes. I was infected with this wild optimism. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends. 
 
-Over cigars we had come to the conclusion that we had a creed for the struggle. Being high achieving individuals with a voracious appetite for life and all of its rewards we had observed around us how in a developed country you can be pampered by comfort.  *then what? what comes after comfot?*
+Over cigars we had come to the conclusion that we had a creed for the struggle. Being high achieving individuals with a voracious appetite for life and all of its rewards. We had observed around us how in a developed country you can be pampered by comfort. So, with the intention to keep doing hard things, he invited me to run an ultra marathon in West Texas. 
 
-So he invited me to run an ultra marathon in West Texas. A 50 kilometer/30 mile race in the desert mountains of Fort Davis. At the time, I had postponed registering for the race, perhaps unconsciously or maybe consciously. I had avoided doing so placing excuses like: rugby season is coming up, I need to prepare for that. Or sometimes I would say that registering is expensive and I couldn't afford at the moment. I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel. 
+A 50 kilometer/30 mile race in the desert mountains of Fort Davis. At the time perhaps unconsciously or maybe consciously, I had postponed registering for the race. My love for challenge can't eclipse my human nature. The fact of the matter is that my mind loves comfort and any trace of writers blocked is evaporated when it comes to creating excuses not to do hard things. 
 
-*I yet can't still deny my human nature and ignore the fact that* My mind loves comfort and any trace of writers blocked is eliminated when it comes to creating excuses not to do hard things. 
+I had avoided registering saying excuses like: "rugby season is coming up, I need to prepare for that". Sometimes I would say "registering is expensive and I couldn't afford at the moment". I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel. 
+
+
 
 I remember I didn't even think about it, I just did a leap of faith. I grabbed my laptop looked for that months old message my friend sent me, checked my wallet for my credit card and registered. 
 
