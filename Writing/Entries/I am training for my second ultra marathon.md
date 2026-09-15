@@ -20,18 +20,15 @@ I took a screenshot of my receipt and sent it to my friend via text message sayi
 
 My friend had replied "Did you really sign up? I can't believe it!" The wave had crashed, brining me back to the now. Had I really signed up for the race? What sort of insane patriotic excitement had possessed me to do such a twisted thing?  
 
-I had little time to train and apparently, less foresight. two and a half months of training for a 50 km/30 mi race. Not ideal, I would've liked more time to train the legs and the spirits for this endeavor but what else is there to do? We can't stop this train, with the limited time I had to come up with a plan, pronto. 
+I had little time to train and apparently, less foresight. two and a half months of training for a 50 km/30 mi race. Not ideal, I would've liked more time to train the legs and the spirits for this endeavor but what else is there to do? 
 
-Following a training program similar to Sebastian Sawe, the current marathon record holder (1:59:30), I focused on increasing the aerobic engine of my body, meaning I had to re-adapt my body to squeeze as much energy out of oxygen as possible. "Run slower to run faster" method, lots of kilometer volume at a slower pace. As Rich Roll said in his book Finding Ultra, "Races are won not by the fastest, but by those who never stop."
+Following a training program similar to Sebastian Sawe, the current marathon record holder (1:59:30), I focused on increasing the aerobic engine of my body, meaning I had to re-adapt my body to squeeze as much energy out of oxygen as possible. The sacred "Run slower to run faster" method, lots of kilometer volume at a slower pace. As Rich Roll said in his book Finding Ultra, "Races are won not by the fastest, but by those who never stop."
 
-I enjoy weight lifting and kettlebell aerobic exercises, short but explosive, completely opposite of what this training was about. This is low effort sustained through out a long period of time. These workouts took a *second place? placed on hold*
-
-Designing my plan, researching the best strategies I realized how little foresight I had. Even though I've been living in Texas for the greater part of my life, I did not contemplate the looming heat wave in the horizon. It came fast, surprising me.
+Even though I've been living in Texas for the greater part of my life, I did not contemplate the looming heat wave in the horizon. It came fast, surprising me. 
 
 This meant that some runs had to be done in the at +100°F because your humbler servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
 
 When people talk about doing hard things, they mention the marathons, the passed exam or the hard conversation with their partner. Spectators only see the glory and admire that it was done, but after training for this second ultra marathon, in the middle of my ascent training in Mt. Lakeway I had a revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
-
 
 Having already trained for an ultra back in 2023, I knew the effort required, but now I had lived a little, 3 years doesn't seem like much to me but apparently the kilometers were bestowing wisdom upon my spirit. 
 
