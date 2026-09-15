@@ -20,7 +20,7 @@ I took a screenshot of my receipt and sent it to my friend via text message sayi
 
 My friend had replied "Did you really sign up? I can't believe it!" The wave had crashed, brining me back to the now. Had I really signed up for the race? What sort of insane patriotic excitement had possessed me to do such a twisted thing?  
 
-2 and a half months of training for a 50 km/30 mi race. Ideally I would've liked more time to train the legs and the spirits for this endeavor but what else is there to do? We can't stop this train, with the limited time I had to come up with a plan, pronto. 
+I had little time to train and apparently, less foresight. two and a half months of training for a 50 km/30 mi race. Not ideal, I would've liked more time to train the legs and the spirits for this endeavor but what else is there to do? We can't stop this train, with the limited time I had to come up with a plan, pronto. 
 
 Following a training program similar to Sebastian Sawe, the current marathon record holder (1:59:30), I focused on increasing the aerobic engine of my body, meaning I had to re-adapt my body to squeeze as much energy out of oxygen as possible. "Run slower to run faster" method, lots of kilometer volume at a slower pace. As Rich Roll said in his book Finding Ultra, "Races are won not by the fastest, but by those who never stop."
 
