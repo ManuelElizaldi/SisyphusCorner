@@ -1,6 +1,6 @@
 The calendar marks June 30th, the World Cup euphoria is running hot. Mexico just won against Ecuador in a 2-0 match were the Mexican team displayed the best football I have ever seen from my country. National optimism was soaring, everyone I talked to felt like they were invincible. 
 
-A part of me had a crumble of regret from not watching this game at a sports bar or at a friend's house. My spirit demanded me to share this ecstasy. But destiny wanted me here, at my sofa, sipping my Asahi beer howling at the TV for more goals. I needed this, my country needed this. Suddenly it seemed like all of Mexico's issues were on pause, because we were watching history erupt.
+A part of me had a crumble of regret from not watching this game at a sports bar or at a friend's house. My heart demanded me to share this ecstasy. But destiny wanted me here, at my sofa, sipping my Asahi beer howling at the TV for more goals. I needed this victory, my country needed this. Suddenly it seemed like all of Mexico's issues were on pause, because we were watching history erupt.
 
 After 90 minutes of art, the game finished and I was left riding the adrenaline buzz. Illuminated by the blues of the TV I was left asking myself what just happened, I couldn't believe my eyes. 
 
@@ -8,29 +8,23 @@ I had just witnessed a small teenager baptized by the name of Gilberto, last nam
 
 What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire's country's spirit, "¿Y si sí?" everyone wondered with high hopes, perhaps we were not so far from glory. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars. 
 
-My friend is someone who's always there to help, sometimes even at his own expense. If I could categorize his way of helping, it would be a Swiss army knife. He's ready to lend an ear to hear you complain, only if you promise to find a solution. He will gladly offer his Toyota Tacoma if you need to move something or share his tools and bast DIY knowledge. But most importantly, he is ready to crawl to the depts of struggle along your side do *suffer with you through the depths of struggle. something like that*
+My friend is someone who's always there to help, sometimes even at his own expense. If I could summarize his way of helping, it would be like Swiss army knife. He's ready to lend an ear to hear you complain, only if you promise to find a solution. He will gladly offer his Toyota Tacoma if you need to move a heavy load or share his tools and bast DIY knowledge. But most importantly, he is ready to crawl to the depths of pain to accompany you through the struggle. 
 
-With cigars in hand, smoke rosing from us and nicotine rushing through us, we started to discuss how easy it can be to be pampered by comfort. Distractions all around us suppressing our appetite for life. 
+With cigars in hand, smoke rosing from us and nicotine rushing through us, we started to discuss how easy it can be to be pampered by comfort. Distractions all around us suppressing our appetite for life. The burning rolled tobacco unrolled a desire that was inside my friend, "we should do a race again, just like years ago. We need to do something hard." he said while staring at the horizon. Maybe talking to himself or perhaps testing the waters he said "An ultra marathon wouldn't be too bad." 
 
-*voracious appetite for life*
+He ended up registering, to the Sky Island Trail Race. A 50 kilometer/30 mile race in the desert mountains of Fort Davis, in West Texas, and insisted to me to register with him. At the time perhaps unconsciously or maybe consciously, I had postponed the registration. My love for challenge can't eclipse my human nature. The fact of the matter is that my mind loves comfort and any trace of writers blocked is evaporated when it comes to creating excuses not to do hard things. 
 
-Over cigars we had come to the conclusion that we had a creed for the struggle.  We had observed around us how in a developed country you can be pampered by comfort. So, with the intention to keep doing hard things, he invited me to run an ultra marathon in West Texas. 
+I had avoided registering with excuses like: "rugby season is coming up, I need to prepare for that". Or I would say "registering is expensive and I can't afford it at the moment". I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel. 
 
-A 50 kilometer/30 mile race in the desert mountains of Fort Davis. At the time perhaps unconsciously or maybe consciously, I had postponed registering for the race. My love for challenge can't eclipse my human nature. The fact of the matter is that my mind loves comfort and any trace of writers blocked is evaporated when it comes to creating excuses not to do hard things. 
+Regardless of all this, the combination of my Japanese bottled liquid courage and the elegant football displayed by my national team had motivated me to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and payed the registration. 
 
-I had avoided registering saying excuses like: "rugby season is coming up, I need to prepare for that". Sometimes I would say "registering is expensive and I couldn't afford at the moment". I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel. 
+Looking back at this moment, the process was similar to how I start a run that I don't want to do. Most of the time, in this situation I ignore the voice inside my head, grab my trusted Asics Novablast 5s, put them on and head outside. If I sit and let my mind do the talking, I get absorbed by the negative talk. Most of my runs wouldn't have been completed and I wouldn't have registered. *flow needs improvement here*
 
-Regardless of this, watching my national team display an elegant piece of football had motivated me enough to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and payed the registration. 
+I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó", and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessen and reality hit me like the recoil of a bolt action rifle. 
 
-Looking back at this moment, the process was similar to how I start a run that I don't want to do. Most of the times, in this situation I ignore the voice inside my head, grab my trusted Asics Novablast 5s, put them on and head outside. If I sit and let my mind do the talking, getting absorbed by the negative talk, a lot of my runs wouldn't have been completed and I wouldn't have registered. 
+My friend had replied "Did you really sign up? I can't believe it!" The wave had crashed, brining me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
-I took a screenshot of my receipt and sent it to my friend via text message saying "Asi no mas quedo", and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessen and reality hit me like the recoil of a bolt action rifle. 
-
-My friend had replied "Did you really sign up? I can't believe it!" The wave had crashed, brining me back to the now. Had I really signed up for the race? What sort of insane patriotic excitement had possessed me to do such a twisted thing?  
-
-I had little time to train and apparently, less foresight. two and a half months of training for a 50 km/30 mi race. Not ideal, I would've liked more time to train the legs and the spirits for this endeavor but what else is there to do? 
-
-Following a training program similar to Sebastian Sawe, the current marathon record holder (1:59:30), I focused on increasing the aerobic engine of my body, meaning I had to re-adapt my body to squeeze as much energy out of oxygen as possible. The sacred "Run slower to run faster" method, lots of kilometer volume at a slower pace. As Rich Roll said in his book Finding Ultra, "Races are won not by the fastest, but by those who never stop."
+I had little time to train and apparently, less foresight. two and a half months of training for a 50 km/30 mi race. Not ideal, I would've liked more time to train the legs and the spirit for this endeavor but what else is there to do? 
 
 Even though I've been living in Texas for the greater part of my life, I did not contemplate the looming heat wave in the horizon. It came fast, surprising me. 
 
