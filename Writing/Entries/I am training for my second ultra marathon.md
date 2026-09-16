@@ -2,11 +2,13 @@ The calendar marks June 30th, the World Cup euphoria is running hot. Mexico just
 
 A part of me had a crumble of regret from not watching this game at a sports bar or at a friend's house. My spirit demanded me to share this ecstasy. But destiny wanted me here, at my sofa, sipping my Asahi beer howling at the TV for more goals. I needed this, my country needed this. Suddenly it seemed like all of Mexico's issues were on pause, because we were watching history erupt.
 
-After 90 minutes of art, the game finished and I was left riding the adrenaline buzz. Illuminated by the blues of the TV I was left asking myself what just happened, I couldn't believe my eyes. I had just witnessed a small teenager baptized by the name of Gilberto, last name Mora who spread a feast of passes to forwards with such grace that it reminded me of Iniesta back in 2010. Fed by these play making passes players such as Quiñones with his canon right foot had no mercy to the opposition's goalie. 
+After 90 minutes of art, the game finished and I was left riding the adrenaline buzz. Illuminated by the blues of the TV I was left asking myself what just happened, I couldn't believe my eyes. 
 
-What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire's country's spirit, "¿Y si sí?" everyone wondered with high hopes. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars. 
+I had just witnessed a small teenager baptized by the name of Gilberto, last name Mora who spread a feast of passes to forwards with such grace that it reminded me of Iniesta back in 2010. Fed by these play making passes players such as Quiñones with his canon right foot had no mercy to the opposition's goalie. 
 
-*deeper into the scene here*
+What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire's country's spirit, "¿Y si sí?" everyone wondered with high hopes, perhaps we were not so far from glory. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars. 
+
+My friend is someone who's always there, ready to help. He's aid is what I'd call the Swiss knife of friendships. He's ready to lend you an ear to hear you complain, only if you promise to find a solution. He's ready to offer his Toyota Tacoma if you need to move something and he is more than ready to 
 
 Over cigars we had come to the conclusion that we had a creed for the struggle. Being high achieving individuals with a voracious appetite for life and all of its rewards. We had observed around us how in a developed country you can be pampered by comfort. So, with the intention to keep doing hard things, he invited me to run an ultra marathon in West Texas. 
 
