@@ -8,7 +8,9 @@ I had just witnessed a small teenager baptized by the name of Gilberto, last nam
 
 What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire's country's spirit, "¿Y si sí?" everyone wondered with high hopes, perhaps we were not so far from glory. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars. 
 
-My friend is someone who's always there, ready to help. He's aid is what I'd call the Swiss knife of friendships. He's ready to lend you an ear to hear you complain, only if you promise to find a solution. He's ready to offer his Toyota Tacoma if you need to move something and he is more than ready to 
+My friend is someone who's always there to help, sometimes even at his own expense. If I could categorize his way of helping it would be called the 'Swiss knife of friendships'. He's ready to lend an ear to hear you complain, only if you promise to find a solution. He's ready to offer his Toyota Tacoma if you need to move something or lend his tools and bast DIY knowledge. And most importantly, *something about doing hard things with you*
+
+Discussing the importance of 
 
 Over cigars we had come to the conclusion that we had a creed for the struggle. Being high achieving individuals with a voracious appetite for life and all of its rewards. We had observed around us how in a developed country you can be pampered by comfort. So, with the intention to keep doing hard things, he invited me to run an ultra marathon in West Texas. 
 
