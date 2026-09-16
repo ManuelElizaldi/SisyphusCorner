@@ -8,11 +8,13 @@ I had just witnessed a small teenager baptized by the name of Gilberto, last nam
 
 What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire's country's spirit, "¿Y si sí?" everyone wondered with high hopes, perhaps we were not so far from glory. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars. 
 
-My friend is someone who's always there to help, sometimes even at his own expense. If I could categorize his way of helping it would be called the 'Swiss knife of friendships'. He's ready to lend an ear to hear you complain, only if you promise to find a solution. He's ready to offer his Toyota Tacoma if you need to move something or lend his tools and bast DIY knowledge. And most importantly, *something about doing hard things with you*
+My friend is someone who's always there to help, sometimes even at his own expense. If I could categorize his way of helping, it would be a Swiss army knife. He's ready to lend an ear to hear you complain, only if you promise to find a solution. He will gladly offer his Toyota Tacoma if you need to move something or share his tools and bast DIY knowledge. But most importantly, he is ready to crawl to the depts of struggle along your side do *suffer with you through the depths of struggle. something like that*
 
-Discussing the importance of 
+With cigars in hand, smoke rosing from us and nicotine rushing through us, we started to discuss how easy it can be to be pampered by comfort. Distractions all around us suppressing our appetite for life. 
 
-Over cigars we had come to the conclusion that we had a creed for the struggle. Being high achieving individuals with a voracious appetite for life and all of its rewards. We had observed around us how in a developed country you can be pampered by comfort. So, with the intention to keep doing hard things, he invited me to run an ultra marathon in West Texas. 
+*voracious appetite for life*
+
+Over cigars we had come to the conclusion that we had a creed for the struggle.  We had observed around us how in a developed country you can be pampered by comfort. So, with the intention to keep doing hard things, he invited me to run an ultra marathon in West Texas. 
 
 A 50 kilometer/30 mile race in the desert mountains of Fort Davis. At the time perhaps unconsciously or maybe consciously, I had postponed registering for the race. My love for challenge can't eclipse my human nature. The fact of the matter is that my mind loves comfort and any trace of writers blocked is evaporated when it comes to creating excuses not to do hard things. 
 

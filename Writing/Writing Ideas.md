@@ -253,3 +253,8 @@ The art we surround ourselves with affects our reality. What happens when we use
 Word count: 1000-2500.
 
 from -> https://offassignment.submittable.com/submit?utm_source=chatgpt.com
+
+
+
+# Phrases
+Being high achieving individuals with a voracious appetite for life and all of its rewards.
