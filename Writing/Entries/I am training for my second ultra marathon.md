@@ -2,7 +2,7 @@ The calendar marks June 30th, the World Cup euphoria is running hot. Mexico just
 
 A part of me had a crumble of regret from not watching this game at a sports bar or at a friend's house. My heart demanded me to share this ecstasy. But destiny wanted me here, at my sofa, sipping my Asahi beer howling at the TV for more goals. I needed this victory, my country needed this. Suddenly it seemed like all of Mexico's issues were on pause, because we were watching history erupt.
 
-After 90 minutes of art, the game finished and I was left riding the adrenaline buzz. Illuminated by the blues of the TV I was left asking myself what just happened, I couldn't believe my eyes. 
+After 90 minutes of art, the game finished and I was left riding the adrenaline buzz. Illuminated by the blues of the TV, I was left asking myself what just happened.
 
 I had just witnessed a small teenager baptized by the name of Gilberto, last name Mora who spread a feast of passes to forwards with such grace that it reminded me of Iniesta back in 2010. Fed by these play making passes players such as Quiñones with his canon right foot had no mercy to the opposition's goalie. 
 
@@ -14,17 +14,19 @@ The burning rolled tobacco unrolled a desire that was inside my friend, "we shou
 
 He ended up registering to the Sky Island Trail Race. A 50 kilometer/30 mile race in the desert mountains of Fort Davis, in West Texas. He insisted I register. At the time perhaps unconsciously or maybe consciously, I had postponed the registration.
 
-Any trace of writer's block is evaporated when it comes to formulating excuses. I had avoided registering with excuses like: "rugby season is coming up, I need to prepare for that". Or I would say "registering is expensive and I can't afford it at the moment". I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel.
+Any trace of writer's block is evaporated when it comes to formulating excuses. I had avoided registering with excuses like "rugby season is coming up, I need to prepare for that". Or I would say "registering is expensive and I can't afford it at the moment". I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel.
 
-Regardless of all this, the combination of my Japanese bottled liquid courage and the elegant football displayed by my national team had motivated me to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and payed the registration. 
+Regardless of all this, the combination of my Japanese bottled liquid courage and the elegant football displayed by my national team had motivated me to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and paid the registration. 
 
 Looking back at this moment, the process was similar to how I start a run that I don't want to do. Most of the time, in this situation I ignore the voice inside my head, grab my trusted Asics Novablast 5s, put them on and head outside. If I sit and let my mind do the talking, I get absorbed by the negative talk, halting any good intentions I have. 
 
 I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó", and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessened and reality hit me like the recoil of a bolt action rifle. 
 
-My friend had replied "Did you really sign up? I can't believe it!" The wave had crashed, brining me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
+He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What were you doing up at that time, and did you really sign up?" The wave had crashed, bringing me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
-I had little time to train and apparently, less foresight. two and a half months of training for a 50 km/30 mi race. Not ideal, I would've liked more time to train the legs and the spirit for this endeavor but what else is there to do? 
+I had little time to train and apparently, less foresight. two and a half months of training for a 50 km/30 mi race. Not ideal, I would've liked more time to train the legs and most importantly my mind for this hellish test.  
+
+With a heat wave in the horizon, which I didn't contemplate, 
 
 Even though I've been living in Texas for the greater part of my life, I did not contemplate the looming heat wave in the horizon. It came fast, surprising me. 
 
