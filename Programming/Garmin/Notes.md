@@ -13,14 +13,24 @@ Pull general and specific for dashboard on ESP board
 - `api.get_sleep_daily('2026-09-01','2026-09-03')`
 	- This one is for ranges and gives a general overview
 - `api.get_sleep_data('2026-09-03')` this is specific 
-	- pull this daily? 
+	- pull this daily?
+
+'sleepTimeSeconds': 23760,
+'sleepStartTimestampGMT': 1789710120000,
+'sleepEndTimestampGMT': 1789734240000,
+'sleepEndTimestampLocal': 1789716240000,
+'deepSleepSeconds': 4200,
+  'lightSleepSeconds': 15840,
+  'remSleepSeconds': 3720,
+  sleepScores': {'totalDuration': {'qualifierKey': 'FAIR',
 
 # General health stats
 api.
 
 
-### Memory concern
+### Concern
 How much data should I be holding on the database? 
 - for the AI model 
 	- 2 to 3 months of data is enough? 
 - screen description? Should only be displaying weekly info? unless I set up a 2nd page for monthly stats
+- Might need a script that pulls the initial data, then another one that is scheduled for daily? 
