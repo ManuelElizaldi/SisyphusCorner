@@ -6,13 +6,17 @@ After 90 minutes of art, the game finished and I was left riding the adrenaline 
 
 I had just witnessed a small teenager baptized by the name of Gilberto, last name Mora who spread a feast of passes to forwards with such grace that it reminded me of Iniesta back in 2010. Fed by these play making passes players such as Quiñones with his canon right foot had no mercy to the opposition's goalie. 
 
-What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire's country's spirit, "¿Y si sí?", perhaps we were not so far from glory. 
+What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire's country's spirit, "¿Y si sí?", perhaps we were not so far from glory. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars.
 
-Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars. 
+With cigars in hand, smoke rosing from us and nicotine rushing through us, we looked back at how we used to run Spartan Races yearly, like a pilgrimage, life got in the way and that 
 
-My friend is someone who's always there to help, sometimes even at his own expense. If I could summarize his way of helping, it would be like Swiss army knife. He's ready to lend an ear to hear you complain, only if you promise to find a solution. He will gladly offer his Toyota Tacoma if you need to move a heavy load or share his tools and vast DIY knowledge. But most importantly, he is ready to crawl to the depths of pain to accompany you through the struggle. 
 
-With cigars in hand, smoke rosing from us and nicotine rushing through us, we started to discuss how easy it can be to be pampered by comfort. Distractions all around us suppress our appetite for life. The burning rolled tobacco unrolled a desire that was inside my friend, "we should do a race again, just like years ago. We need to do something hard." he said while staring at the horizon. Maybe talking to himself or perhaps testing the waters he said "An ultra marathon would be a good challenge." 
+we started to discuss how easy it can be to be pampered by comfort. Distractions all around us suppress our appetite for life. The burning rolled tobacco unrolled a desire that was inside my friend, "we should do a race again, just like years ago. We need to do something hard." he said while staring at the horizon. Maybe talking to himself or perhaps testing the waters he said "An ultra marathon would be a good challenge." 
+
+might remove:
+**My friend is someone who's always there to help, sometimes even at his own expense. If I could summarize his way of helping, it would be like Swiss army knife. He's ready to lend an ear to hear you complain, only if you promise to find a solution. He will gladly offer his Toyota Tacoma if you need to move a heavy load or share his tools and vast DIY knowledge. But most importantly, he is ready to crawl to the depths of pain to accompany you through the struggle.** 
+
+
 
 He ended up registering to the Sky Island Trail Race. A 50 kilometer/30 mile race in the desert mountains of Fort Davis, in West Texas. He insisted to me to register with him. At the time perhaps unconsciously or maybe consciously, I had postponed the registration. My love for challenge can't eclipse my human nature. The fact of the matter is that my mind loves comfort and any trace of writers blocked is evaporated when it comes to creating excuses not to do hard things. 
 
