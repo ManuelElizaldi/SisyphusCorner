@@ -22,7 +22,7 @@ Regardless of all this, the combination of my Japanese bottled liquid courage an
 
 Looking back at this moment, the process was similar to how I start a run that I don't want to do. Most of the time, in this situation I ignore the voice inside my head, grab my trusted Asics Novablast 5s, put them on and head outside. If I sit and let my mind do the talking, I get absorbed by the negative talk, halting any good intentions I have. 
 
-I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó", and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessen and reality hit me like the recoil of a bolt action rifle. 
+I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó", and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessened and reality hit me like the recoil of a bolt action rifle. 
 
 My friend had replied "Did you really sign up? I can't believe it!" The wave had crashed, brining me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
