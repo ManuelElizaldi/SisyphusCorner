@@ -18,7 +18,9 @@ Any trace of writer's block is evaporated when it comes to formulating excuses. 
 
 Regardless of all this, the combination of my Japanese bottled liquid courage and the elegant football displayed by my national team had motivated me to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and paid the registration. 
 
-Looking back at this moment, the process was similar to how I start a run that I don't want to do. Most of the time, in this situation I ignore the voice inside my head, grab my trusted Asics Novablast 5s, put them on and head outside. If I sit and let my mind do the talking, I get absorbed by the negative talk, halting any good intentions I have. 
+**Looking back at this moment, the process was similar to how I start a run that I don't want to do. Perhaps the many repetitions of not listening to the negative talk inside my head has developed a muscle** 
+
+**Most of the time, in this situation I ignore the voice inside my head, grab my trusted Asics Novablast 5s, put them on and head outside. If I sit and let my mind do the talking, I get absorbed by the negative talk, halting any good intentions I have.** 
 
 I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó", and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessened and reality hit me like the recoil of a bolt action rifle. 
 
@@ -26,11 +28,7 @@ He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What we
 
 I had little time to train and apparently, less foresight. two and a half months of training for a 50 km/30 mi race. Not ideal, I would've liked more time to train the legs and most importantly my mind for this hellish test.  
 
-With a heat wave in the horizon, which I didn't contemplate, 
-
-Even though I've been living in Texas for the greater part of my life, I did not contemplate the looming heat wave in the horizon. It came fast, surprising me. 
-
-This meant that some runs had to be done in the at +100°F because your humble servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
+A heat wave assaulted central Texas, which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
 
 When people talk about doing hard things, they mention the marathons, the passed exam or the hard conversation with their partner. Spectators only see the glory and admire that it was done, but after training for this second ultra marathon, in the middle of my ascent training in Mt. Lakeway I had a revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
 
