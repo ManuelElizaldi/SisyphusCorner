@@ -46,7 +46,7 @@ While driving I was listening to Pxndx, a Mexican pop punk band I used to listen
 Despite all of these sacrifices, doing the hard things has its moments of respite, were love is most heartfelt. 
 
 
-The first 20 kilometers where a breeze, as each day passe
+The first 20 kilometers where a breeze, as each day passes, I could feel the muscles in my leg harden. Even though I am n
 
 
 the horse power I have been 
