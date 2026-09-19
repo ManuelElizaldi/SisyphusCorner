@@ -20,9 +20,9 @@ I took a screenshot of my receipt and sent it to my friend via text message sayi
 
 He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What were you doing up at that time? Did you really sign up?" The wave had crashed, bringing me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
-I had little time to train and apparently, less foresight. two and a half months of training for a 50 km race. Not ideal, I would've liked more time to train the legs and most importantly my mind for this hellish test. 
+I had little time to train and apparently, less foresight. two and a half months of training for a 50 km race. Not ideal, I would've liked more time to train the legs and most importantly my mind for this hellish test, but alas here I am, embarking in another hard thing. 
 
-Having already ran an ultra marathon back in 2023, I knew the effort requiered, 
+Having already ran an ultra marathon back in 2023, I knew the effort required, 
 
 
 #### Doing the hard thing
