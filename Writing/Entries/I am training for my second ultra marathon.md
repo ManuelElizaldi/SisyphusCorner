@@ -22,7 +22,7 @@ He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What we
 
 I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 km race is not ideal. I would've liked more time to train the legs and most importantly my mind for this hellish test.
 
-When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness the near overdose of coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but had no idea of the thousands of times I stayed quiet in fear of not knowing how she will react. 
+When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but had no idea of the thousands of times I stayed quiet in fear of not knowing how she would react. 
 
 During the weeks before the race, a heat wave assaulted central Texas,  which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
 
@@ -34,9 +34,12 @@ Doing the hard thing, now meant sacrificing my weekend mornings. I enjoy waking 
 
 Doing the hard thing meant sacrificing the late night online gaming sessions with the boys where we would fool around calling each other nasty insults because tough love is our love language. 
 
-Doing the hard things meant dealing with the tiredness of the stacking kilometers at work, making my coding sluggish, my inspiration dried for the kilometers ran in the heat. 
+Doing the hard things meant dealing with the tiredness of the stacking kilometers at work, where solutions to coding problems were easily found, not I struggled. Inspiration dried up from the kilometers ran in the heat.
 
 Doing the hard thing meant less writing for Substack since all of my energy was aimed at the training sessions. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake. 
+
+Saturday morning, three weeks out from the ultra marathon, the training schedule says that I need to run a 30km ascent focused session. This means at least five hours 
+
 
 Despite all of these sacrifices, doing the hard things has its moments of respite, were love is most heartfelt. 
 
