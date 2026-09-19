@@ -2,17 +2,15 @@ The calendar marks June 30th, the World Cup euphoria is running hot. Mexico just
 
 A part of me had a crumble of regret from not watching this game at a sports bar or at a friend's house. My heart demanded me to share this ecstasy. But destiny wanted me here, at my sofa, sipping my Asahi beer howling at the TV for more goals. I needed this victory, my country needed this. Suddenly it seemed like all of Mexico's issues were on pause, because we were watching history erupt.
 
-After 90 minutes of art, the game finished and I was left riding the adrenaline buzz. Illuminated by the blues of the TV, I was left asking myself what just happened.
-
-I had just witnessed a small teenager baptized by the name of Gilberto, last name Mora who spread a feast of passes to forwards with such grace that it reminded me of Iniesta back in 2010. Fed by these play making passes players such as Quiñones with his canon right foot had no mercy to the opposition's goalie. 
+After 90 minutes of art, the game finished and I was left riding the adrenaline buzz. Illuminated by the blues of the TV, I was left asking myself what just happened. I had just witnessed a small teenager baptized by the name of Gilberto, last name Mora who spread a feast of passes to forwards with such grace that it reminded me of Iniesta back in 2010. Fed by these play making passes players such as Quiñones with his canon right foot had no mercy to the opposition's goalie. 
 
 What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire country's spirit, "¿Y si sí?", perhaps we were not so far from glory. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars.
 
 Sitting at the cigar lounge, with tobacco in hand, smoke rising from us and nicotine rushing through us, we looked back at how we used to run Spartan Races yearly. A crucible of pain where months before we prepared our minds and bodies for the 10 kilometer trail run with obstacles scattered around the course.
 
-The burning rolled tobacco unrolled a desire that was inside my friend, "we should do a race again, just like those spartan races. We need to do something hard." he said while staring at the horizon. Maybe talking to himself or perhaps testing the waters he said "An ultra marathon would be a good challenge." 
+The burning rolled tobacco unrolled a desire that was inside my friend, "we should do a race again, just like those Spartan races. We need to do something hard." he said this while staring at the horizon. Maybe talking to himself or perhaps testing the waters he then mentioned "An ultra marathon would be a good challenge." 
 
-He ended up registering to the Sky Island Trail Race. A 50 kilometer/30 mile race in the desert mountains of Fort Davis, in West Texas. He insisted I register. At the time perhaps unconsciously or maybe consciously, I had postponed the registration.
+He ended up registering to the Sky Island Trail Race. A 50 kilometer/30 mile race in the desert mountains of Fort Davis, in West Texas. He insisted I register, but at the time perhaps unconsciously or maybe consciously, I had postponed the registration.
 
 Any trace of writer's block is evaporated when it comes to formulating excuses. I had avoided registering with excuses like "rugby season is coming up, I need to prepare for that". Or I would say "registering is expensive and I can't afford it at the moment". I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel.
 
@@ -22,15 +20,23 @@ I took a screenshot of my receipt and sent it to my friend via text message sayi
 
 He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What were you doing up at that time? Did you really sign up?" The wave had crashed, bringing me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
-I had little time to train and apparently, less foresight. two and a half months of training for a 50 km/30 mi race. Not ideal, I would've liked more time to train the legs and most importantly my mind for this hellish test.  
+I had little time to train and apparently, less foresight. two and a half months of training for a 50 km race. Not ideal, I would've liked more time to train the legs and most importantly my mind for this hellish test. 
 
-When people talk about doing hard things, they only see the glory
+Having already ran an ultra marathon back in 2023, I knew the effort requiered, 
 
-mention the marathons, the passed exam or the hard conversation with their partner. Spectators only see the glory and admire that it was done, but after training for this second ultra marathon, in the middle of my ascent training in Mt. Lakeway I had a revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
+
+#### Doing the hard thing
+
+When people talk about doing hard things, they only witness the crowning moment. They watch you cross the finish line, they go celebrate with you after graduation or acknowledge your emotions after a hard conversation. 
+
+
+They admire that you did the thing, but a heat wave that assaulted central texas did not only bring +100°F
+
+Iron Maiden's Revelation - revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
 
 A heat wave assaulted central Texas, which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
 
-Having already trained for an ultra back in 2023, I knew the effort required, but now I had lived a little, 3 years doesn't seem like much to me but apparently the kilometers were bestowing wisdom upon my spirit. 
+
 
 Doing the hard thing, now meant sacrificing my weekend mornings. I enjoy waking up on a Saturday with little to no responsibilities. Turn on my espresso machine, waiting for its mechanical innards heat up with a rumble. Depending on my mood I would choose a the coffee beans of the day. Most of the times I would act as a barista for my girlfriend and prepare a honey brown sugar latte, practice my latte art, then make myself an americano and watch tv or read together. 
 
@@ -42,7 +48,7 @@ Doing the hard thing meant less writing for Substack since all of my energy was 
 
 Despite all of these sacrifices, doing the hard things has its moments of respite, were love is most heartfelt. 
 
-	
+
 
 
 
@@ -51,4 +57,4 @@ Despite all of these sacrifices, doing the hard things has its moments of respit
 
 
 ---
-Marathon record holder -> Sabastian Sawe
+add that life got in the way of fito, making him transfer into the 25k, 
