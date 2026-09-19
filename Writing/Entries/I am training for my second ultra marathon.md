@@ -30,19 +30,26 @@ Despite this obstacle, the objective was simple. Rack up the kilometers per week
 
 But this training methodology has its drawbacks, since I was not speeding through the workout sessions, I end up spending too much time in my running shoes, watching the distance metric go up in my smart watch. A one hour 10km session becomes a 15km two hour session, eating up my body battery and my time. 
 
-Doing the hard thing, now meant sacrificing my weekend mornings. I enjoy waking up on a Saturday with little to no responsibilities. Turn on my espresso machine, waiting for its mechanical innards heat up with a rumble. Depending on my mood I would choose a the coffee beans of the day. Most of the times I would act as a barista for my girlfriend and prepare a honey brown sugar lattes, practice my latte art, then make myself an americano and watch tv or read together. 
+Doing the hard thing, now meant sacrificing my weekend mornings. I enjoy waking up on a Saturday with little to no responsibilities. Turn on my espresso machine, wait for its mechanical innards heat up with a rumble. Choose a coffee bean roast depending on my mood, then pretend I am a barista for my girlfriend and prepare a honey brown sugar latte for her. Then make myself an americano and enjoy the passing of time together.
 
 Doing the hard thing meant sacrificing the late night online gaming sessions with the boys where we would fool around calling each other nasty insults because tough love is our love language. 
 
-Doing the hard things meant dealing with the tiredness of the stacking kilometers at work, where solutions to coding problems were easily found, not I struggled. Inspiration dried up from the kilometers ran in the heat.
+**Doing the hard things meant dealing with the tiredness of the massive volume of kilometers, making me sluggish stacking kilometers at work, where solutions to coding problems were easily found, not I struggled. Inspiration dried up from the kilometers ran in the heat.**
 
 Doing the hard thing meant less writing for Substack since all of my energy was aimed at the training sessions. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake. 
 
-Saturday morning, three weeks out from the ultra marathon, the training schedule says that I need to run a 30km ascent focused session. This means at least five hours 
+Saturday morning, three weeks out from the ultra marathon, the training schedule marks a 30km and 2500ft ascent session. This means at least five hours out there in the suck. I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I Packed everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. 
 
+##### Pending stuff here:
+While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager. The heavy guitar riffs and emotionally visceral lyrics warm up my mind for what's ahead. Similar to most training sessions, I ignore the mind like a shaolin monk.  
 
 Despite all of these sacrifices, doing the hard things has its moments of respite, were love is most heartfelt. 
 
+
+The first 20 kilometers where a breeze, as each day passe
+
+
+the horse power I have been 
 
 
 
