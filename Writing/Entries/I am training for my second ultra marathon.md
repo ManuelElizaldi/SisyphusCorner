@@ -22,6 +22,11 @@ He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What we
 
 I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 km race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
 
+During the weeks before the race, a heat wave assaulted central Texas,  which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
+
+Despite this obstacle, the objective was simple. Rack up the kilometers per week following the "run slow to run fast" philosophy. Running at a moderate pace diminishes the strain on the legs allowing me to generate running volume, resulting in training the aerobic engine. 
+
+
 When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but had no idea of the thousands of times I stayed quiet in fear of not knowing how she would react. 
 
 Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I wake up early for my last long run of this training season.
@@ -31,9 +36,6 @@ Doing the hard thing, now meant sacrificing my weekend mornings. I enjoy waking 
 
 three weeks out from the ultra marathon, the training schedule marks a 30km and 2500ft ascent session. This means at least five hours out there in the suck. I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I Packed everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment.
 
-During the weeks before the race, a heat wave assaulted central Texas,  which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
-
-Despite this obstacle, the objective was simple. Rack up the kilometers per week following the "run slow to run fast" philosophy. Running at a moderate pace diminishes the strain on the legs allowing me to generate running volume, resulting in training the aerobic engine. 
 
 But this training methodology has its drawbacks, since I was not speeding through the workout sessions, I end up spending too much time in my running shoes, watching the distance metric go up in my smart watch. A one hour 10km session becomes a 15km two hour session, eating up my body battery and my time. 
 
