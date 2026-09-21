@@ -20,7 +20,9 @@ I took a screenshot of my receipt and sent it to my friend via text message sayi
 
 He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What were you doing up at that time? Did you really sign up?" The wave had crashed, bringing me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
-I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 km race is not ideal. I would've liked more time to train the legs and most importantly my mind for this hellish test.
+I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 km race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
+
+*insert weeks later moment here*
 
 When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but had no idea of the thousands of times I stayed quiet in fear of not knowing how she would react. 
 
