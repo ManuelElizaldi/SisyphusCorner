@@ -24,24 +24,24 @@ I had little time to train and apparently, less foresight. Having already ran an
 
 When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness the sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but has no idea of the thousands of times I stayed quiet in fear of not knowing how she would react.
 
-During the weeks before the race, a heat wave assaulted central Texas,  which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
+During the weeks before the race, a heat wave assaulted central Texas,  which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus, not being able to leave my bed before work for an early morning run. 
 
 Despite this obstacle, the objective was simple. Rack up the kilometers per week following the "run slow to run fast" philosophy. Running at a moderate pace diminishes the strain on the legs allowing me to generate running volume, resulting in training the aerobic engine. 
 
-But this training methodology has its drawbacks, since I was not speeding through the workout sessions, I end up spending too much time in my running shoes, watching the distance metric go up in my smart watch. A one hour 10km session became a 15km two hour session, eating up my body battery and my valuable time. 
+But this training methodology has its drawbacks, since I was not speeding through the workout sessions, I end up spending too much time in my running shoes. A one hour 10km session became a 15km two hour session, eating up my body battery and my valuable time. 
 
 Choosing to do the hard thing meant dealing with the tiredness of the massive volume of kilometers. The tiredeness was most apparent during my work. Usually I am quick to come up with coding solutions to the problems I face, but during the preparation I became sluggish. Inspiration dried up from the kilometers ran in the heat.
 
-Doing the hard thing meant less writing for Substack since all of my energy was aimed at the training sessions. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake. 
+Since all of my energy was aimed at training, doing the hard thing meant less writing for Substack too. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake. 
 
- 
+Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I woke up early for my last long run of this training season. The program marked a 30km and 2500ft ascent workout. I chose the hard thing so this early weekend morning meant sacrificing pretending to be a barist for my girlfriend. 
 
-Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I wake up early for my last long run of this training season.
+I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract on my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema everytime. I try my best at latte art, but only get so far as to drawing a kidney with tumors. I finally present my offering to my muse.  
 
-Doing the hard thing, now meant sacrificing my weekend mornings. I enjoy waking up on a Saturday with little to no responsibilities. Turn on my espresso machine, wait for its mechanical innards heat up with a rumble. Choose a coffee bean roast depending on my mood, then pretend I am a barista for my girlfriend and prepare a honey brown sugar latte for her. Then make myself an americano and enjoy the passing of time together.
+But that Saturday morning, 
 
 
-three weeks out from the ultra marathon, the training schedule marks a 30km and 2500ft ascent session. This means at least five hours out there in the suck. I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I Packed everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment.
+three weeks out from the ultra marathon, the training schedule marks a . This means at least five hours out there in the suck. I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I Packed everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment.
 
 
 
