@@ -49,15 +49,12 @@ I recall my mind was ready to go, but my muscles still needed to wake up. Grabbi
 *might cut this:*
 Parking at a spot that allowed me to lap the trail, I could easily come back to my car to rest and refuel. Each lap was approximately 6 to 7 kilometers, which meant I to do around six laps. 
 
-My first 15 kilometers where proof that my time sacrificed in honor of training was paying off. Going up the first ascent at a moderate speed, I noticed the absence of the burning sensation when breathing after this strenuous.
+My first 15 kilometers where proof that my time sacrificed in honor of training was paying off. Going up the first ascent at a moderate speed, I noticed the absence of the burning sensation when breathing after a strenuous climb. Each passing kilometer made the hardening of my legs more evident. I had built true horsepower, my body wanted to go faster, but I knew this was just the beginning. 
 
-Before starting this 
+As I ran up Mt. Lakeway, already a couple hours in, I started to hear the text 
 
-I had already trained a couple of times here so this was not unknown terrain, but it has been some years since I ran 30 kilometers in preparation for an ultra marathon. I knew I could do it, but still I needed the assurance of doing it to consider myself ready for Fort Davis. 
 
-As each week passed, I felt the horsepower of my aerobic capacity develop. The muscles in my legs hardened, my calves grew. Fat was being shredded off my body and the burning sensation when breathing after a strenuous ascent was becoming rare.
-
-Before starting this training session, I had messaged my family, friends and girlfriend about today's session early in the morning. Time passed by and they started their days, I heard the notification sounds coming from my phone and made a mental note to check what they were saying at a pit stop.
+I heard the notification sounds coming from my phone and made a mental note to check what they were saying at a pit stop.
 
 I had sent them a message to share my excitement with them, going through 
 
