@@ -20,14 +20,21 @@ I took a screenshot of my receipt and sent it to my friend via text message sayi
 
 He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What were you doing up at that time? Did you really sign up?" The wave had crashed, bringing me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
-I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 km race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
+I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 kilometer race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
+
+When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness the sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but has no idea of the thousands of times I stayed quiet in fear of not knowing how she would react.
 
 During the weeks before the race, a heat wave assaulted central Texas,  which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus and I don't leave my bed before work for an early morning run. 
 
 Despite this obstacle, the objective was simple. Rack up the kilometers per week following the "run slow to run fast" philosophy. Running at a moderate pace diminishes the strain on the legs allowing me to generate running volume, resulting in training the aerobic engine. 
 
+But this training methodology has its drawbacks, since I was not speeding through the workout sessions, I end up spending too much time in my running shoes, watching the distance metric go up in my smart watch. A one hour 10km session became a 15km two hour session, eating up my body battery and my valuable time. 
 
-When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but had no idea of the thousands of times I stayed quiet in fear of not knowing how she would react. 
+Choosing to do the hard thing meant dealing with the tiredness of the massive volume of kilometers. The tiredeness was most apparent during my work. Usually I am quick to come up with coding solutions to the problems I face, but during the preparation I became sluggish. Inspiration dried up from the kilometers ran in the heat.
+
+Doing the hard thing meant less writing for Substack since all of my energy was aimed at the training sessions. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake. 
+
+ 
 
 Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I wake up early for my last long run of this training season.
 
@@ -37,13 +44,13 @@ Doing the hard thing, now meant sacrificing my weekend mornings. I enjoy waking 
 three weeks out from the ultra marathon, the training schedule marks a 30km and 2500ft ascent session. This means at least five hours out there in the suck. I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I Packed everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment.
 
 
-But this training methodology has its drawbacks, since I was not speeding through the workout sessions, I end up spending too much time in my running shoes, watching the distance metric go up in my smart watch. A one hour 10km session becomes a 15km two hour session, eating up my body battery and my time. 
+
 
 Doing the hard thing meant sacrificing the late night online gaming sessions with the boys where we would fool around calling each other nasty insults because tough love is our love language. 
 
-**Doing the hard things meant dealing with the tiredness of the massive volume of kilometers, making me sluggish stacking kilometers at work, where solutions to coding problems were easily found, not I struggled. Inspiration dried up from the kilometers ran in the heat.**
 
-Doing the hard thing meant less writing for Substack since all of my energy was aimed at the training sessions. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake. 
+
+
 
  
 
