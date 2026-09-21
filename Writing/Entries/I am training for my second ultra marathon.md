@@ -28,25 +28,31 @@ During the weeks before the race, a heat wave assaulted central Texas,  which I 
 
 Despite this obstacle, the objective was simple. Rack up the kilometers per week following the "run slow to run fast" philosophy. Running at a moderate pace diminishes the strain on the legs allowing me to generate running volume, resulting in training the aerobic engine. 
 
-But this training methodology has its drawbacks, since I was not speeding through the workout sessions, I end up spending too much time in my running shoes. A one hour 10km session became a 15km two hour session, eating up my body battery and my valuable time. 
+But this training methodology has its drawbacks, since I was not speeding through the workout sessions, I end up spending too much time in my running shoes. A one-hour 10km session became a 15km two-hour session, eating up my body battery and my valuable time. 
 
-Choosing to do the hard thing meant dealing with the tiredness of the massive volume of kilometers. The tiredeness was most apparent during my work. Usually I am quick to come up with coding solutions to the problems I face, but during the preparation I became sluggish. Inspiration dried up from the kilometers ran in the heat.
+Choosing to do the hard thing meant dealing with the tiredness of the massive volume of kilometers. The tiredness was most apparent during my work. Usually I am quick to come up with coding solutions to the problems I face, but during the preparation I became sluggish. Inspiration dried up from the kilometers ran in the heat.
 
 Since all of my energy was aimed at training, doing the hard thing meant less writing for Substack too. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake. 
 
-Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I woke up early for my last long run of this training season. The program marked a 30km and 2500ft ascent workout. I chose the hard thing so this early weekend morning meant sacrificing pretending to be a barist for my girlfriend. 
+Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I woke up early for my last long run of this training season. The program marked a 30km and 2500ft ascent workout. I chose the hard thing, so this early weekend morning meant sacrificing pretending to be a baristaa for my girlfriend. 
 
-I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract in my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema everytime. I try my best at latte art, but only get so far as to drawing a kidney with tumors. I finally present my offering to my muse.  
+I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract in my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema every time. Trying my best at latte art, but only get so far as to drawing a kidney with tumors. Finally, I present my offering to my muse.  
 
 But that Saturday morning, it was just myself, drinking an americano. While I wait for the caffeine to kick in, I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I was going to spend at least 5 hours in the trail, I didn't mind the extra supplies. 
 
-I loaded everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager. 
+I loaded everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager.
 
 I played the album Amantes Sun Amantes. It offered heavy guitar riffs, slugger like drums and emotionally visceral lyrics. It tuned my mind for the workout ahead, calming the anxiety one feels *before standing trail.*
 
-I arrived early in the morning. I had found out about this trail thanks to some influencer who was also training for an ultra marathon and blogged his experience on instagram. I had already trained a couple of times here so this was not uknown terrain, but it has been some years since I ran 30 kilometers in preparation for an ultra marathon. I knew I could do it, but still I needed the assurance of doing it to consider myself ready for Fort Davis. 
+I arrived early in the morning. I had found out about this trail thanks to some influencer who was also training for an ultra marathon and blogged his experience on Instagram. 
 
-The first 20 kilometers where a breeze, as each week passed, I felt the horse power of my aerobic capacity increase. The muscles in my legs hardened, my calves grew. The burning sension when breathing after a strenious 
+I had already trained a couple of times here so this was not unknown terrain, but it has been some years since I ran 30 kilometers in preparation for an ultra marathon. I knew I could do it, but still I needed the assurance of doing it to consider myself ready for Fort Davis. 
+
+As each week passed, I felt the horsepower of my aerobic capacity develop. The muscles in my legs hardened, my calves grew. Fat was being shredded off my body and the burning sensation when breathing after a strenuous ascent was becoming rare.
+
+Before starting this training session, I had messaged my family, friends and girlfriend about today's session early in the morning. Time passed by and they started their days, I heard the notification sounds coming from my phone and made a mental note to check what they were saying at a pit stop.
+
+I had sent them a message to share my excitement with them, going through 
 
 
 as each day passes, I could feel the muscles in my leg harden. Even though I am n
