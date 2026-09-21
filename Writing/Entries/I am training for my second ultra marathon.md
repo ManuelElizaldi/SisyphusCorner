@@ -42,9 +42,16 @@ But that Saturday morning, it was just myself, drinking an americano. While I wa
 
 I loaded everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager.
 
-I played the album Amantes Sun Amantes. It offered heavy guitar riffs, slugger like drums and emotionally visceral lyrics. It tuned my mind for the workout ahead, calming the anxiety one feels *before standing trail.*
+Playing the album Amantes Sunt Amantes, the nerves I felt were tamed by the heavy guitar riffs, slugger like drums and emotionally visceral lyrics. I arrived early in the morning, grabbed my phone and reported for duty by texting my girlfriend and family. I also checked to see if any of my friends had accepted the invite I sent last night for some self-inflicted torture, no one had responded yet.
 
-I arrived early in the morning. I had found out about this trail thanks to some influencer who was also training for an ultra marathon and blogged his experience on Instagram. 
+I recall my mind was ready to go, but my muscles still needed to wake up. Grabbing my resistance band I started to do abductor and glute exercises, two essential muscle groups when going up mountains. Then I performed a couple of sets of isometrics that supercharged the quads and calves.
+
+*might cut this:*
+Parking at a spot that allowed me to lap the trail, I could easily come back to my car to rest and refuel. Each lap was approximately 6 to 7 kilometers, which meant I to do around six laps. 
+
+My first 15 kilometers where proof that my time sacrificed in honor of training was paying off. Going up the first ascent at a moderate speed, I noticed the absence of the burning sensation when breathing after this strenuous.
+
+Before starting this 
 
 I had already trained a couple of times here so this was not unknown terrain, but it has been some years since I ran 30 kilometers in preparation for an ultra marathon. I knew I could do it, but still I needed the assurance of doing it to consider myself ready for Fort Davis. 
 
