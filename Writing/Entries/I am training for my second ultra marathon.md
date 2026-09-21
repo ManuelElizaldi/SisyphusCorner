@@ -20,11 +20,11 @@ I took a screenshot of my receipt and sent it to my friend via text message sayi
 
 He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What were you doing up at that time? Did you really sign up?" The wave had crashed, bringing me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
-I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 kilometer race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
+I had little time to train and apparently, less foresight. Having already run an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 kilometer race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
 
 When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness the sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but has no idea of the thousands of times I stayed quiet in fear of not knowing how she would react.
 
-During the weeks before the race, a heat wave assaulted central Texas,  which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus, not being able to leave my bed before work for an early morning run. 
+During the weeks before the race, a heat wave assaulted central Texas,  which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus I am not able to wake up early for a morning run.
 
 Despite this obstacle, the objective was simple. Rack up the kilometers per week following the "run slow to run fast" philosophy. Running at a moderate pace diminishes the strain on the legs allowing me to generate running volume, resulting in training the aerobic engine. 
 
@@ -36,12 +36,23 @@ Since all of my energy was aimed at training, doing the hard thing meant less wr
 
 Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I woke up early for my last long run of this training season. The program marked a 30km and 2500ft ascent workout. I chose the hard thing so this early weekend morning meant sacrificing pretending to be a barist for my girlfriend. 
 
-I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract on my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema everytime. I try my best at latte art, but only get so far as to drawing a kidney with tumors. I finally present my offering to my muse.  
+I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract in my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema everytime. I try my best at latte art, but only get so far as to drawing a kidney with tumors. I finally present my offering to my muse.  
 
-But that Saturday morning, 
+But that Saturday morning, it was just myself, drinking an americano. While I wait for the caffeine to kick in, I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I was going to spend at least 5 hours in the trail, I didn't mind the extra supplies. 
+
+I loaded everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager. 
+
+I played the album Amantes Sun Amantes. It offered heavy guitar riffs, slugger like drums and emotionally visceral lyrics. It tuned my mind for the workout ahead, calming the anxiety one feels *before standing trail.*
+
+I arrived early in the morning. I had found out about this trail thanks to some influencer who was also training for an ultra marathon and blogged his experience on instagram. I had already trained a couple of times here so this was not uknown terrain, but it has been some years since I ran 30 kilometers in preparation for an ultra marathon. I knew I could do it, but still I needed the assurance of doing it to consider myself ready for Fort Davis. 
+
+The first 20 kilometers where a breeze, as each week passed, I felt the horse power of my aerobic capacity increase. The muscles in my legs hardened, my calves grew. The burning sension when breathing after a strenious 
 
 
-three weeks out from the ultra marathon, the training schedule marks a . This means at least five hours out there in the suck. I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I Packed everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment.
+as each day passes, I could feel the muscles in my leg harden. Even though I am n
+
+
+the horse power I have been 
 
 
 
@@ -55,15 +66,11 @@ Doing the hard thing meant sacrificing the late night online gaming sessions wit
  
 
 ##### Pending stuff here:
-While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager. The heavy guitar riffs and emotionally visceral lyrics warm up my mind for what's ahead. Similar to most training sessions, I ignore the mind like a shaolin monk.  
+ 
 
 Despite all of these sacrifices, doing the hard things has its moments of respite, were love is most heartfelt. 
 
 
-The first 20 kilometers where a breeze, as each day passes, I could feel the muscles in my leg harden. Even though I am n
-
-
-the horse power I have been 
 
 
 
