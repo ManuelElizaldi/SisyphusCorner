@@ -22,7 +22,15 @@ He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What we
 
 I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 km race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
 
-*insert weeks later moment here*
+Saturday morning,
+
+Runs counted:       45
+Total distance:     310.1 km
+Total ascent:       12,288 ft
+Total descent:      12,057 ft
+
+
+three weeks out from the ultra marathon, the training schedule marks a 30km and 2500ft ascent session. This means at least five hours out there in the suck. I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I Packed everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment.
 
 When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but had no idea of the thousands of times I stayed quiet in fear of not knowing how she would react. 
 
@@ -40,7 +48,7 @@ Doing the hard thing meant sacrificing the late night online gaming sessions wit
 
 Doing the hard thing meant less writing for Substack since all of my energy was aimed at the training sessions. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake. 
 
-Saturday morning, three weeks out from the ultra marathon, the training schedule marks a 30km and 2500ft ascent session. This means at least five hours out there in the suck. I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I Packed everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. 
+ 
 
 ##### Pending stuff here:
 While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager. The heavy guitar riffs and emotionally visceral lyrics warm up my mind for what's ahead. Similar to most training sessions, I ignore the mind like a shaolin monk.  
