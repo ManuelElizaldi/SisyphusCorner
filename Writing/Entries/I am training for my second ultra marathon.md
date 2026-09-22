@@ -58,6 +58,13 @@ I reached the cross on top of Mt. Lakeway, touched it, said thanks and crossed m
 
 Sitting down on a little chair I made myself with scattered rocks, I checked my phone and noticed my parents had said "Good morning, good luck on your run, be careful!" then from the corner of my eye I caught the new shoes they had gifted me for this ultra marathon. They felt sturdy, even after many kilometers of pounding and leaping, and were starting to feel worn in, shaping to my feet. No wonder I felt like a mountain goat.
 
+21 kilometers down, only 9 left. Finishing a loop I got back to my car to refuel and charge up. The legs that once felt like well oiled suspension now felt like a wagon wheel carrying a heavy load. I could use any help I could get, so I texted everybody that I was almost done, only 9 kilometers left. Their words 
+
+
+Grasping for any aid I could get, I texted everybody that I only had 9 kilometers left. I started to receive their cheers. 
+
+
+When I run, it is usually without music, sometimes I like to listen to a podcast or an audiobook, but these, in my opinion take from the experience. Running, from my point of view offers a perfect meditative experience where there's no other choice but to be in the moment.
 
 
 
