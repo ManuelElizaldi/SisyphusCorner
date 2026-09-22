@@ -44,39 +44,29 @@ I loaded everything into the trunk of my car and made my way to Mt.Lakeway, a hi
 
 Playing the album Amantes Sunt Amantes, the nerves I felt were tamed by the heavy guitar riffs, slugger like drums and emotionally visceral lyrics. I arrived early in the morning, grabbed my phone and reported for duty by texting my girlfriend and family. I also checked to see if any of my friends had accepted the invite I sent last night for some self-inflicted torture, no one had responded yet.
 
-I recall my mind was ready to go, but my muscles still needed to wake up. Grabbing my resistance band I started to do abductor and glute exercises, two essential muscle groups when going up mountains. Then I performed a couple of sets of isometrics that supercharged the quads and calves.
+My mind was ready to go, but my muscles still needed to wake up. Grabbing my resistance band I started to do abductor and glute exercises, two essential muscle groups when going up mountains. Then I performed a couple of sets of isometrics that supercharged the quads and calves.
 
 *might cut this:*
 Parking at a spot that allowed me to lap the trail, I could easily come back to my car to rest and refuel. Each lap was approximately 6 to 7 kilometers, which meant I to do around six laps. 
 
-My first 15 kilometers where proof that my time sacrificed in honor of training was paying off. Going up the first ascent at a moderate speed, I noticed the absence of the burning sensation when breathing after a strenuous climb. Each passing kilometer made the hardening of my legs more evident. I had built true horsepower, my body wanted to go faster, but I knew this was just the beginning. 
+15 kilometers in I had enough proof that my time sacrificed in honor of training was paying off. Going up the first ascent at a moderate speed, I noticed the absence of the burning sensation when breathing after a strenuous climb. Each passing kilometer made the hardening of my legs more evident. I had built true horsepower, my body wanted to go faster, but I knew this was just the beginning. 
 
-As I ran up Mt. Lakeway, already a couple hours in, I started to hear the text 
+Going up Mt. Lakeway, about an hour and a half into this ordeal I started to hear the notification sounds from my phone, the outside world was waking up. Then, I passed an old lady, cross paths with another runner and saw a pack of firefighters. 
 
+A part of me felt glad the trail was sprinkled with people. The night before my girlfriend mentioned that she felt worried about me being alone up in the trail, all by myself. I assured her that there was nothing to worry about, mentioned that there's plenty of houses around and I was going to carry my phone for the entire run.
 
-I heard the notification sounds coming from my phone and made a mental note to check what they were saying at a pit stop.
+Trekking through the climb, near the top, I took a mental note to text my girlfriend to let her know I was not the only one here. Then, thanks to some unseen force or perhaps the runner's high I was inundated with gratefulness. I remembered that through out these 2 months my girlfriend was always there to support me during training. She even gladly paced me once in a bike when I had to run a 
 
-I had sent them a message to share my excitement with them, going through 
-
-
-as each day passes, I could feel the muscles in my leg harden. Even though I am n
-
-
-the horse power I have been 
-
-
-
-
-Doing the hard thing meant sacrificing the late night online gaming sessions with the boys where we would fool around calling each other nasty insults because tough love is our love language. 
+Her worry for me was her way of accompanying me through this run. I remembered in the weeks leading to this run I had to run 16 kilometers, which my girlfriend gladly paced me with a bike we rented. 
 
 
 
 
 
- 
 
-##### Pending stuff here:
- 
+
+
+
 
 Despite all of these sacrifices, doing the hard things has its moments of respite, were love is most heartfelt. 
 
