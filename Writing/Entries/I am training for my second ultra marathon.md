@@ -52,14 +52,15 @@ Going up Mt. Lakeway, about an hour and a half into this ordeal I started to hea
 
 A part of me felt glad the trail was sprinkled with people. The night before my girlfriend mentioned that she felt worried about me being alone up in the trail. I assured her that there was nothing to worry about and said that there are plenty of houses around, and I was going to carry my phone for the entire run.
 
-Trekking through the climb, near the top, I took a mental note to text my girlfriend to let her know I was not the only one here. Then, thanks to some unseen force or perhaps the runner's high I was inundated with gratefulness. I remembered that throughout these 2 months my girlfriend was always there to support me during training. She even gladly paced me once in a bike when I had to run 16 kilometers. 
+Trekking through the climb, near the top, I took a mental note to text my girlfriend to let her know I was not the only one here. Then, thanks to some unseen force or perhaps the runner's high I was inundated with gratefulness. I remembered that throughout these 2 months my girlfriend was always there to support me during training. She even gladly paced me once riding a bike when I had to run 16 kilometers. 
 
 I reached the cross on top of Mt. Lakeway, touched it, said thanks and crossed myself, just like I had been doing these past training sessions. It was time for a little rest and some energy waffles. 
 
-Sitting down on a little chair I made myself with scattered rocks, I checked my phone and noticed my parents had said "Good morning, good luck on your run, be careful!" then from the corner of my eye I caught the new shoes they had gifted me for this run. They felt sturdy after many kilometers of pounding and leaping. They were staring to feel worn in, shaping to my feet. 
+Sitting down on a little chair I made myself with scattered rocks, I checked my phone and noticed my parents had said "Good morning, good luck on your run, be careful!" then from the corner of my eye I caught the new shoes they had gifted me for this ultra marathon. They felt sturdy, even after many kilometers of pounding and leaping, and were starting to feel worn in, shaping to my feet. No wonder I felt like a mountain goat.
 
 
- and thanked the shade for cooling me off. Fixing my shoelaces I noticed that my new shoes had been holding up incredibly well. *caught that my parents gifted these to me for the run.*
+
+
 
 
 
