@@ -143,7 +143,8 @@ The fashion of count of monte cristo - the way he carried himself. Where does th
 
 count of monte cristo essay - patience 
 
-
+#### Running idea:
+One continuity thing since you're brainstorming, not drafting: this is the second time you've reached for a band from your teenage years to carry you, Pxndx on the drive up, Iron Maiden for the second wind. That might be worth being deliberate about, either as a real pattern, the boy you were shows up to carry the man up the mountain, or it's just what actually happened and doesn't need a bow on it. I'd let it sit as fact rather than force meaning onto it.
 # Blog
 Maybe write a piece about eggs benedict? 
 
