@@ -54,7 +54,12 @@ A part of me felt glad the trail was sprinkled with people. The night before my 
 
 Trekking through the climb, near the top, I took a mental note to text my girlfriend to let her know I was not the only one here. Then, thanks to some unseen force or perhaps the runner's high I was inundated with gratefulness. I remembered that throughout these 2 months my girlfriend was always there to support me during training. She even gladly paced me once in a bike when I had to run 16 kilometers. 
 
-I reached the cross on top of Mt. Lakeway, touched it, said thanks and crossed myself, just like I had been doing these past training sessions. It was time for a little rest and some energy waffles. I sat down on a little chair I made myself with scattered rocks and thanked the shade for cooling me off. Fixing my shoelaces I noticed that my new shoes had been holding up incredibly well. *mention that my parents gifted these to me for the run.*
+I reached the cross on top of Mt. Lakeway, touched it, said thanks and crossed myself, just like I had been doing these past training sessions. It was time for a little rest and some energy waffles. 
+
+Sitting down on a little chair I made myself with scattered rocks, I checked my phone and noticed my parents had said "Good morning, good luck on your run, be careful!" then from the corner of my eye I caught the new shoes they had gifted me for this run. They felt sturdy after many kilometers of pounding and leaping. They were staring to feel worn in, shaping to my feet. 
+
+
+ and thanked the shade for cooling me off. Fixing my shoelaces I noticed that my new shoes had been holding up incredibly well. *caught that my parents gifted these to me for the run.*
 
 
 
@@ -81,3 +86,5 @@ Despite all of these sacrifices, doing the hard things has its moments of respit
 add that life got in the way of fito, making him transfer into the 25k, 
 
 Iron Maiden's Revelation - revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
+
+the mountain proved it
