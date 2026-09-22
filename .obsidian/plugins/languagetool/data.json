@@ -13,7 +13,9 @@
     "ca": "ca-ES"
   },
   "dictionary": [
+    "Amantes",
     "Lakeway",
+    "Sunt",
     "crema"
   ],
   "syncDictionary": false,
@@ -22,7 +24,9 @@
   "enabledCategories": [],
   "disabledCategories": [],
   "enabledRules": [],
-  "disabledRules": [],
+  "disabledRules": [
+    "IN_THE_MOMENT"
+  ],
   "longCheckNotification": true,
   "injectProperties": true
 }

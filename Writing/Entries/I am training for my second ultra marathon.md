@@ -38,7 +38,7 @@ Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I woke 
 
 I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract in my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema every time. Trying my best at latte art, but only get so far as to drawing a kidney with tumors. Finally, I present my offering to my muse.  
 
-But that Saturday morning, it was just myself, drinking an americano. While I wait for the caffeine to kick in, I prepared my cooler with three gallons of water, a Redbull, candy, gels and energy waffles. I was going to spend at least 5 hours in the trail, I didn't mind the extra supplies. 
+But that Saturday morning, it was just myself, drinking an Americano. While I wait for the caffeine to kick in, I prepared my cooler with three gallons of water, a Red Bull, candy, gels and energy waffles. I was going to spend at least 5 hours in the trail, I didn't mind the extra supplies. 
 
 I loaded everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager.
 
@@ -58,14 +58,14 @@ I reached the cross on top of Mt. Lakeway, touched it, said thanks and crossed m
 
 Sitting down on a little chair I made myself with scattered rocks, I checked my phone and noticed my parents had said "Good morning, good luck on your run, be careful!" then from the corner of my eye I caught the new shoes they had gifted me for this ultra marathon. They felt sturdy, even after many kilometers of pounding and leaping, and were starting to feel worn in, shaping to my feet. No wonder I felt like a mountain goat.
 
-21 kilometers down, only 9 left. Finishing a loop I got back to my car to refuel and charge up. The legs that once felt like well oiled suspension now felt like a wagon wheel carrying a heavy load. I could use any help I could get, so I texted everybody that I was almost done, only 9 kilometers left. Their words 
+21 kilometers down, only 9 left. Finishing a loop I got back to my car to refuel and charge up. The legs that once felt like well oiled suspension now felt like a wagon wheel carrying a heavy load. The body had done its job, now my mind had to push through.
+
+I could use any help I could get, so I texted everybody that I was almost done, only 9 kilometers left. Their words of encouragement inspired me, then I gorged down a mouthful of candy and chugged a Red Bull for that kick of caffeine. Then, I pulled the ace up my sleeve.
+
+When I run, it is usually without music, sometimes I like to listen to a podcast or an audiobook, but these, in my opinion take from the experience. Running, from my point of view offers a perfect meditative experience where there's no other choice but to be in the moment. However, there are moments, where you need some nitroglycerin to ignite a second wind. 
 
 
-Grasping for any aid I could get, I texted everybody that I only had 9 kilometers left. I started to receive their cheers. 
-
-
-When I run, it is usually without music, sometimes I like to listen to a podcast or an audiobook, but these, in my opinion take from the experience. Running, from my point of view offers a perfect meditative experience where there's no other choice but to be in the moment.
-
+*iron maiden part here, revelation song*
 
 
 
