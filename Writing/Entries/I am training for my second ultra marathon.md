@@ -42,22 +42,20 @@ But that Saturday morning, it was just myself, drinking an americano. While I wa
 
 I loaded everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager.
 
-Playing the album Amantes Sunt Amantes, the nerves I felt were tamed by the heavy guitar riffs, slugger like drums and emotionally visceral lyrics. I arrived early in the morning, grabbed my phone and reported for duty by texting my girlfriend and family. I also checked to see if any of my friends had accepted the invite I sent last night for some self-inflicted torture, no one had responded yet.
+Playing the album Amantes Sunt Amantes, the nerves I felt were tamed by the heavy guitar riffs, slugger like drums and emotionally visceral lyrics. I arrived early in the morning, grabbed my phone and reported for duty by texting my girlfriend and family. Also, since suffering is best when in company, I also checked to see if any of my friends had accepted the invite I sent last night for some self-inflicted torture, no one had responded yet.
 
 My mind was ready to go, but my muscles still needed to wake up. Grabbing my resistance band I started to do abductor and glute exercises, two essential muscle groups when going up mountains. Then I performed a couple of sets of isometrics that supercharged the quads and calves.
 
-*might cut this:*
-Parking at a spot that allowed me to lap the trail, I could easily come back to my car to rest and refuel. Each lap was approximately 6 to 7 kilometers, which meant I to do around six laps. 
-
 15 kilometers in I had enough proof that my time sacrificed in honor of training was paying off. Going up the first ascent at a moderate speed, I noticed the absence of the burning sensation when breathing after a strenuous climb. Each passing kilometer made the hardening of my legs more evident. I had built true horsepower, my body wanted to go faster, but I knew this was just the beginning. 
 
-Going up Mt. Lakeway, about an hour and a half into this ordeal I started to hear the notification sounds from my phone, the outside world was waking up. Then, I passed an old lady, cross paths with another runner and saw a pack of firefighters. 
+Going up Mt. Lakeway, about an hour and a half into this ordeal I started to hear the notification sounds from my phone, the outside world was waking up. Then, I passed an old lady, crossed paths with another runner and saw a pack of firefighters. 
 
-A part of me felt glad the trail was sprinkled with people. The night before my girlfriend mentioned that she felt worried about me being alone up in the trail, all by myself. I assured her that there was nothing to worry about, mentioned that there's plenty of houses around and I was going to carry my phone for the entire run.
+A part of me felt glad the trail was sprinkled with people. The night before my girlfriend mentioned that she felt worried about me being alone up in the trail. I assured her that there was nothing to worry about and said that there are plenty of houses around, and I was going to carry my phone for the entire run.
 
-Trekking through the climb, near the top, I took a mental note to text my girlfriend to let her know I was not the only one here. Then, thanks to some unseen force or perhaps the runner's high I was inundated with gratefulness. I remembered that through out these 2 months my girlfriend was always there to support me during training. She even gladly paced me once in a bike when I had to run a 
+Trekking through the climb, near the top, I took a mental note to text my girlfriend to let her know I was not the only one here. Then, thanks to some unseen force or perhaps the runner's high I was inundated with gratefulness. I remembered that throughout these 2 months my girlfriend was always there to support me during training. She even gladly paced me once in a bike when I had to run 16 kilometers. 
 
-Her worry for me was her way of accompanying me through this run. I remembered in the weeks leading to this run I had to run 16 kilometers, which my girlfriend gladly paced me with a bike we rented. 
+I reached the cross on top of Mt. Lakeway, touched it, said thanks and crossed myself, just like I had been doing these past training sessions. It was time for a little rest and some energy waffles. I sat down on a little chair I made myself with scattered rocks and thanked the shade for cooling me off. Fixing my shoelaces I noticed that my new shoes had been holding up incredibly well. *mention that my parents gifted these to me for the run.*
+
 
 
 
