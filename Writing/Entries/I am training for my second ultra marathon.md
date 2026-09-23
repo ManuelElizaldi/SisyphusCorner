@@ -100,9 +100,14 @@ the mountain proved it
 
 
 #### zoomies scene
-One month into the training season my friend had to go on a trip to a wedding in Mexico. I had noticed that his training sessions had been lacking kilometer volume, and now he was about to miss an entire weekend. 
+One month into the training season, my friend had to go on a trip to a wedding in Mexico. I had noticed that his training sessions had been lacking kilometer volume, and now he was about to miss an entire weekend. 
 
-Checking in I asked him how his preparation was going and he said, not ideal. He told me that he hasn't been able to spend as much time as he wished on his running shoes, work was taking away valuable time from his training, I did notice a heaviness hanging over him. After some rambling small talk he asked if I could take care of Chica, his blue heeler life companion during the weekend. Having already been roommates in previous years, I was glad to spend a weekend with Chica and her cheerful quirks. He did warn me that Chica had been through surgery so she might not act her best. 
+Checking in I asked him how his preparation was going and he said, not ideal. He told me that he hasn't been able to spend as much time as he wished on his running shoes, work was taking away valuable time from his training, and also I noticed a heaviness orbiting around him. 
 
-That Saturday morning I was jolted awake by the scratching and crying and excited jumps from Chica and Peach, my girlfriend's dog. In my punch drunk stupor I opened my room's door to see Peach sparing with her Puffin bird toy and Chica, like a hooligan cheering her on. "What kind of madness has possessed these creatures" I thought to myself. I was under the impression that Chica was going to act in her 
+After some rambling small talk he asked if I could take care of Chica, his blue heeler life companion during the weekend. Having already been roommates in previous years, I was glad to spend a weekend with Chica and her cheerful quirks. He did warn me that Chica had been through surgery so she might not act her best, she might be slower than usual *slower? is that the right word? another word for sick?*. 
+
+That Saturday morning I was jolted awake by the scratching and crying and excited jumps from Chica and Peach, my girlfriend's dog. In my punch drunk stupor I opened my room's door to see Peach sparing with her Puffin bird toy and Chica, like a hooligan cheering her on. "What kind of madness has possessed these creatures" I thought to myself. I was under the impression that Chica was going to act in her elegant composed fashion and she was recovering from surgery. But now she was jumping around in excitement as Peach asked for her breakfast having won several rounds against that poor bird. 
+
+Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two *something* smile at us.
+
 
