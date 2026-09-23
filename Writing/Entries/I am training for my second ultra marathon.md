@@ -26,10 +26,6 @@ When people talk about doing hard things, they only witness the crowning moment.
 
 During the weeks before the race, a heat wave assaulted central Texas, which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus I am not able to wake up early for a morning run.
 
-#### Zoomies weekend here 
-
-
-
 Despite this obstacle, the objective was simple. Rack up the kilometers per week following the "run slow to run fast" philosophy. Running at a moderate pace diminishes the strain on the legs allowing me to generate running volume, resulting in training the aerobic engine. 
 
 But this training methodology has its drawbacks, since I was not speeding through the workout sessions, I end up spending too much time in my running shoes. A one-hour 10km session became a 15km two-hour session, eating up my body battery and my valuable time. 
@@ -100,3 +96,9 @@ add that life got in the way of fito, making him transfer into the 25k,
 Iron Maiden's Revelation - revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
 
 the mountain proved it
+
+
+#### zoomies scene
+One month into the training season my friend had to go on a trip to a wedding in Mexico. I had noticed that his training sessions had been lacking kilometer volume. Checking in I asked him how his preparation was going and he said, not ideal. He told me that he hasn't been able to spend as much time as he wished on his running shoes. After some small talk rambling he asked me to take care of Chica, his blue heeler life companion. 
+
+Having been roomates for a couple of years I already was familiar with Chica. 
