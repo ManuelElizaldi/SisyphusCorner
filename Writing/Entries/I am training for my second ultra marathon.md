@@ -111,3 +111,11 @@ That Saturday morning I was jolted awake by the scratching and crying and excite
 Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile at us.
 
 
+
+#### Second cigar scene 
+Beat two, later, closer to the four sacrifices or right before Mt. Lakeway. This is the second cigar session. Two things land here at once: he tells you her health has declined, and he tells you about the brutal commute and the missed training, "I need to train, I've only done a long run," which is where you have your own quiet oh crap doing the mileage math. This is also where the transfer to the 25K either happens or is foreshadowed, your call on the timing. This scene is heavier than the first cigars, same ritual, opposite weather.
+
+
+The smoke rose above me, making a shape of a mountain. "I have to confess something", 
+
+
