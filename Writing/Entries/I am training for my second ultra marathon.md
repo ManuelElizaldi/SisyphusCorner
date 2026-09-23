@@ -91,6 +91,7 @@ Despite all of these sacrifices, doing the hard things has its moments of respit
 
 
 ---
+# Notes
 add that life got in the way of fito, making him transfer into the 25k, 
 
 Iron Maiden's Revelation - revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
@@ -99,6 +100,9 @@ the mountain proved it
 
 
 #### zoomies scene
-One month into the training season my friend had to go on a trip to a wedding in Mexico. I had noticed that his training sessions had been lacking kilometer volume. Checking in I asked him how his preparation was going and he said, not ideal. He told me that he hasn't been able to spend as much time as he wished on his running shoes. After some small talk rambling he asked me to take care of Chica, his blue heeler life companion. 
+One month into the training season my friend had to go on a trip to a wedding in Mexico. I had noticed that his training sessions had been lacking kilometer volume, and now he was about to miss an entire weekend. 
 
-Having been roomates for a couple of years I already was familiar with Chica. 
+Checking in I asked him how his preparation was going and he said, not ideal. He told me that he hasn't been able to spend as much time as he wished on his running shoes, work was taking away valuable time from his training, I did notice a heaviness hanging over him. After some rambling small talk he asked if I could take care of Chica, his blue heeler life companion during the weekend. Having already been roommates in previous years, I was glad to spend a weekend with Chica and her cheerful quirks. He did warn me that Chica had been through surgery so she might not act her best. 
+
+That Saturday morning I was jolted awake by the scratching and crying and excited jumps from Chica and Peach, my girlfriend's dog. In my punch drunk stupor I opened my room's door to see Peach sparing with her Puffin bird toy and Chica, like a hooligan cheering her on. "What kind of madness has possessed these creatures" I thought to myself. I was under the impression that Chica was going to act in her 
+
