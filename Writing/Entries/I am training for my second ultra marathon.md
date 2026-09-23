@@ -24,7 +24,11 @@ I had little time to train and apparently, less foresight. Having already run an
 
 When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness the sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but has no idea of the thousands of times I stayed quiet in fear of not knowing how she would react.
 
-During the weeks before the race, a heat wave assaulted central Texas,  which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus I am not able to wake up early for a morning run.
+During the weeks before the race, a heat wave assaulted central Texas, which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus I am not able to wake up early for a morning run.
+
+#### Zoomies weekend here 
+
+
 
 Despite this obstacle, the objective was simple. Rack up the kilometers per week following the "run slow to run fast" philosophy. Running at a moderate pace diminishes the strain on the legs allowing me to generate running volume, resulting in training the aerobic engine. 
 
