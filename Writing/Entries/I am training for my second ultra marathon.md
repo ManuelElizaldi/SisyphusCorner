@@ -113,9 +113,11 @@ Although the apartment seemed like a madhouse thanks to the rush of zoomies, my 
 
 
 #### Second cigar scene 
-Beat two, later, closer to the four sacrifices or right before Mt. Lakeway. This is the second cigar session. Two things land here at once: he tells you her health has declined, and he tells you about the brutal commute and the missed training, "I need to train, I've only done a long run," which is where you have your own quiet oh crap doing the mileage math. This is also where the transfer to the 25K either happens or is foreshadowed, your call on the timing. This scene is heavier than the first cigars, same ritual, opposite weather.
+
+he tells you her health has declined, and he tells you about the brutal commute and the missed training, "I need to train, I've only done a long run," which is where you have your own quiet oh crap doing the mileage math. This is also where the transfer to the 25K either happens or is foreshadowed, your call on the timing. This scene is heavier than the first cigars, same ritual, opposite weather.
 
 
-The smoke rose above me, making a shape of a mountain. "I have to confess something", 
 
+Friday night, 21 runs, 1,749 ft of ascent and 106.5 kilometers into the training program, I met with my friends for our now ceremonial cigars. I exhaled the smoke, rising above me, it was easy to appreciate the light dancing through the little clouds, one of them made a shape of a mountain.
 
+Distracted by the fading of the , I was zapped back to our conversation when my friend said "I need to confess something." 
