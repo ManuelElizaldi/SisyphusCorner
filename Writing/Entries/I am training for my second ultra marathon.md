@@ -122,13 +122,15 @@ Friday night, 21 runs, 1,749 ft of ascent and 106.5 kilometers into the training
 
 Distracted by the smoke fading, I was quickly zapped back to our conversation when my friend said "I need to confess something." Those ominous words, "what would he need to confess?" I thought. "I had to transfer to the 25 kilometer race".
 
-At this moment, I wish I had the power to know what to say, whenever you don't know what to say. My friend quickly went into an explanation of why, as if I was his father about to reprimand him. He told me about how work had evaporated any time he had left for training. Having to deal with a mentally demanding project and a brutal one hour and a half commute, any time or motivation to train was evaporated. I could easily notice the conflicting emotions. He has always loved his job, but these new circumstances was making it hard for him to love.  
+At this moment, I wish I had the power to know what to say, whenever you don't know what to say. My friend quickly went into an explanation of why, as if I was his father and I was about to scold him.
 
-Coupled with that, he had a weird virus that had him bedridden for some days. Then, if that was not enough, his beloved life companion had moved on to a better life. After struggling for weeks, her health kept declining, and it was him who had to make the hard decision. 
+He told me about how his work was going. Having to deal with a mentally demanding project and a brutal one hour and a half commute each way, any time or motivation to train was evaporated. I could easily notice his internal emotional turmoil. *He has always loved his job, but these new circumstances were making it hard for him to love.  need to find anothe way of saying this*
+- there was an internal conflict within him. He has always loved his work, but now, the extreme 
+
+- having to deal with the pains of wanting to love someone, but the time is jsut not right. 
+
+- Having to deal with the desire to love something, but the externalities stopping you. 
 
 
-there was an internal conflict within him. He has always loved his work, but now, the extreme 
+Coupled with that, he was also sick with a weird virus that had him bedridden for some days. Having to rest and then recover meant less time on the running shoes. Then, if that was not enough, his beloved life companion had moved on to a better life. After struggling for weeks, her health kept declining, and it was him who had to make the hard decision. 
 
-having to deal with the pains of wanting to love someone, but the time is jsut not right. 
-
-Having to deal with the desire to love something, but the externalities stopping you. 
