@@ -12,19 +12,20 @@ The burning rolled tobacco unrolled a desire that was inside my friend, "we shou
 
 He ended up registering to the Sky Island Trail Race. A 50 kilometer (30 mile) race in the desert mountains of Fort Davis, in West Texas. He insisted I register, but at the time perhaps unconsciously or maybe consciously, I had postponed the registration.
 
-Any trace of writer's block was evaporated when it came to formulating excuses. I had avoided registering with reasons like "rugby season is coming up, I need to prepare for that". Or I would say "registering is expensive and I can't afford it at the moment". I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel.
+Any trace of writer's block was evaporated when it came to formulating excuses. I had avoided registering with reasons like "rugby season is coming up, I need to prepare for that". Or I would say "registering is expensive, and I can't afford it at the moment". I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel.
 
-Regardless of all this, the combination of my Japanese bottled liquid courage and the elegant football displayed by my national team had motivated me to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and paid the registration. 
+Regardless of all this, the combination of my Japanese bottled liquid courage and the elegant football displayed by my national team had propelled me to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and paid the registration. 
 
 I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó", and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessened and reality hit me like the recoil of a bolt action rifle. 
 
 He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What were you doing up at that time? Did you really sign up?" The wave had crashed, bringing me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
-I had little time to train and apparently, less foresight. Having already run an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 kilometer race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
+I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 kilometer race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
 
-When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness the sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but has no idea of the thousands of times I stayed quiet in fear of not knowing how she would react.
+*Is this necessary here? Perhaps cut?*
+*When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness the sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but has no idea of the thousands of times I stayed quiet in fear of not knowing how she would react.*
 
-During the weeks before the race, a heat wave assaulted central Texas, which I did not contemplate. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus I am not able to wake up early for a morning run.
+During the weeks before the race, a heat wave assaulted central Texas. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus, and I was not able to wake up for an early morning run.
 
 Despite this obstacle, the objective was simple. Rack up the kilometers per week following the "run slow to run fast" philosophy. Running at a moderate pace diminishes the strain on the legs allowing me to generate running volume, resulting in training the aerobic engine. 
 
@@ -113,6 +114,9 @@ Although the apartment seemed like a madhouse thanks to the rush of zoomies, my 
 
 
 #### Second cigar scene 
+
+
+**What changes is the order and the weight around it, not the confession itself. The dog isn't part of what he's confessing, you already knew about her, so she doesn't belong crammed into the same breath as "I need to confess something." She's the context the reader needs before that moment, quiet, already carried, not news. Then the confession lands on its own, small in scale, a 25K instead of a 50K, but large in his own mind because it's a broken promise to him. That gap is the actual material: you see an act of admirability, a guy who just lost his dog still lacing up for 25 kilometers of suffering, and he sees a failure to keep his word. You don't have to resolve that gap or tell the reader which view is correct. Just let both sit there, his shame and your admiration, unreconciled. That tension is more honest than either view alone, and it's very close to the tension in the Fear and Loathing themes you've already worked through, whether something looks different from inside it than it does from outside.**
 
 he tells you her health has declined, and he tells you about the brutal commute and the missed training, "I need to train, I've only done a long run," which is where you have your own quiet oh crap doing the mileage math. This is also where the transfer to the 25K either happens or is foreshadowed, your call on the timing. This scene is heavier than the first cigars, same ritual, opposite weather.
 
