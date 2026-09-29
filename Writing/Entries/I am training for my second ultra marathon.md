@@ -99,7 +99,15 @@ the mountain proved it
 
 Offering my friend some respite from this hard moment, he responded that space was the last thing he wanted, he invited me for our now ceremonial cigars. Arriving at the lounge, I hugged my friend and told him that Chica's spirit would always protect him. I usually don't bring up tough conversations, I wait to ask, allowing people to open up whenever they feel ready to do so, many times I have been in this position, many times have I wished to know the right combination of words to extirpate the grief from my loved ones.
 
-We settled in, light up our cigars and as I exhaled the smoke, in this heavy atmosphere it was easy to get lost in the light dancing through the little clouds, one made a shape of a mountain. Conversation rolled slowly, little by little 
+We settled in, light up our cigars and as I exhaled the smoke, in this heavy atmosphere it was easy to get lost in the light dancing through the little clouds, one made a shape of a mountain. Conversation rolled slowly, little by little blooming into an exchange of beautiful moments shared with Chica. I brought up how the divine dice rolled in my favor, blessing me with one last chance to say my farewells. 
 
-brought of the weekend I took care of Chica, I mentioned how the universe sent me a chance to say goodbye. 
 
+absurd blessing had arrived out of nowhere, giving me a chance to say my last goodbyes to Chica. 
+
+My friend 
+
+
+How lucky was I, when things start to crumble an absurd divine intervenI brought up the weekend I took care of her, in a 
+
+
+When everything ought to crumble, an absurd piece of luck arrives out of nowhere—not through careful planning, but because the cosmic dice rolled in your favor.
