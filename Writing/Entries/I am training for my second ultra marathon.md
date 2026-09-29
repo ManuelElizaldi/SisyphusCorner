@@ -113,14 +113,13 @@ the mountain proved it
 #### Second cigar scene 
 **What changes is the order and the weight around it, not the confession itself. The dog isn't part of what he's confessing, you already knew about her, so she doesn't belong crammed into the same breath as "I need to confess something." She's the context the reader needs before that moment, quiet, already carried, not news. Then the confession lands on its own, small in scale, a 25K instead of a 50K, but large in his own mind because it's a broken promise to him. That gap is the actual material: you see an act of admirability, a guy who just lost his dog still lacing up for 25 kilometers of suffering, and he sees a failure to keep his word. You don't have to resolve that gap or tell the reader which view is correct. Just let both sit there, his shame and your admiration, unreconciled. That tension is more honest than either view alone, and it's very close to the tension in the Fear and Loathing themes you've already worked through, whether something looks different from inside it than it does from outside.**
 
-he tells you her health has declined, and he tells you about the brutal commute and the missed training, "I need to train, I've only done a long run," which is where you have your own quiet oh crap doing the mileage math. This is also where the transfer to the 25K either happens or is foreshadowed, your call on the timing. This scene is heavier than the first cigars, same ritual, opposite weather.
+*he tells you her health has declined, and he tells you about the brutal commute and the missed training, "I need to train, I've only done a long run," which is where you have your own quiet oh crap doing the mileage math. This is also where the transfer to the 25K either happens or is foreshadowed, your call on the timing. This scene is heavier than the first cigars, same ritual, opposite weather.*
 
-
-
-Friday night, , I met with my friends for our now ceremonial cigars. I exhaled the smoke, it rose above me, it was easy to appreciate the light dancing through the little clouds, one of them made a shape of a mountain. 
 
 
 Chica had moved on. I received a text message from my friend asking for thoughts and prayers. I offered him space, but he said he needed his friends. We went out for our ceremonial cigars. It was hard for me navigate this, I wanted to be there for my friend and at that moment I wished I had the superpower to know what to say and magically extirpate his grief.
 
-I had hugged my friend and told him that Chica's spirit will always protect him. I usually don't bring up tough conversations, I wait to ask, allowing people to open up whenever they feel ready to do so. We settled in, light up our cigars, as I exhaled the smoke, in this heavy atmosphere it was easy to get lost in the light dancing through the little clouds, one made a shape of a mountain.
+I had hugged my friend and told him that Chica's spirit will always protect him. I usually don't bring up tough conversations, I wait to ask, allowing people to open up whenever they feel ready to do so. We settled in, light up our cigars and as I exhaled the smoke, in this heavy atmosphere it was easy to get lost in the light dancing through the little clouds, one made a shape of a mountain.
+
+I brought of the weekend I took care of Chica, I mentioned how the universe sent me a chance to say goodbye. 
 
