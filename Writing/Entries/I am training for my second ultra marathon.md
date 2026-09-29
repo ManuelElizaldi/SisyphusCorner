@@ -23,7 +23,7 @@ He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What we
 I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 kilometer race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
 
 *Is this necessary here? Perhaps cut?*
-*When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness the sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but has no idea of the thousands of times I stayed quiet in fear of not knowing how she would react.*
+When people talk about doing hard things, they only witness the crowning moment. My parents watched me graduate from college, but didn't witness the sleep deprived coffee fueled study sessions. Friends have cheered me on as I cross the finish line of a marathon, but most training sessions were done by myself. My girlfriend appreciates when I share my emotions, allowing myself to be vulnerable, but has no idea of the thousands of times I stayed quiet in fear of not knowing how she would react.
 
 During the weeks before the race, a heat wave assaulted central Texas. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus, and I was not able to wake up for an early morning run.
 
@@ -33,7 +33,11 @@ But this training methodology has its drawbacks, since I was not speeding throug
 
 Choosing to do the hard thing meant dealing with the tiredness of the massive volume of kilometers. The tiredness was most apparent during my work. Usually I am quick to come up with coding solutions to the problems I face, but during the preparation I became sluggish. Inspiration dried up from the kilometers ran in the heat.
 
-Since all of my energy was aimed at training, doing the hard thing meant less writing for Substack too. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake. 
+Since all of my energy was aimed at training, doing the hard thing meant less writing for Substack too. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake.
+
+
+
+
 
 Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I woke up early for my last long run of this training season. The program marked a 30km and 2500ft ascent workout. I chose the hard thing, so this early weekend morning meant sacrificing pretending to be a baristaa for my girlfriend. 
 
@@ -101,15 +105,15 @@ the mountain proved it
 
 
 #### zoomies scene
-One month into the training season, my friend had to go on a trip to a wedding in Mexico. I had noticed that his training sessions had been lacking kilometer volume, and now he was about to miss an entire weekend. 
+One month, 21 runs, 1,749 ft of ascent and 106.5 kilometers into the training program, my friend had to go on a trip to a wedding in Mexico. I had noticed that his training sessions had been lacking kilometer volume, and now he was about to miss an entire weekend. 
 
 Checking in I asked him how his preparation was going and he said, not ideal. He told me that he hasn't been able to spend as much time as he wished on his running shoes, work was taking away valuable time from his training, and also I noticed a heaviness orbiting around him. 
 
-After some rambling small talk he asked if I could take care of Chica, his blue heeler life companion during the weekend. Having already been roommates in previous years, I was glad to spend a weekend with Chica and her cheerful quirks. He warned me she'd been through surgery and might not be at her best.
+After some rambling small talk he asked if I could take care of Chica, his blue heeler life companion during the weekend. Having already been roommates in previous years, I was glad to spend a weekend again with Chica and her cheerful quirks. He warned me she'd been through surgery and might not be at her best.
 
-That Saturday morning I was jolted awake by the scratching and crying and excited jumps from Chica and Peach, my girlfriend's dog. In my punch drunk stupor I opened my room's door to see Peach sparring with her Puffin bird toy and Chica, like a hooligan cheering her on. "What kind of madness has possessed these creatures?" I thought to myself. I was under the impression that Chica was going to act in her elegant composed fashion, and she was recovering from surgery too. But now she was jumping around in excitement as Peach asked for her breakfast having won several rounds against that poor bird. 
+That Saturday morning I was jolted awake by the scratching and crying and excited jumps from Chica and Peach, my girlfriend's dog. In my punch groggy stupor I opened my room's door to see Peach sparring with her Puffin bird toy and Chica, like a hooligan cheering her on. "What kind of madness has possessed these creatures?" I thought to myself. I was under the impression that Chica was going to act in her elegant composed fashion, and she was recovering from surgery too. But now she was jumping around in excitement as Peach asked for her breakfast having won several rounds against that poor bird. 
 
-Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile at us.
+Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile back at us.
 
 
 
@@ -122,19 +126,8 @@ he tells you her health has declined, and he tells you about the brutal commute 
 
 
 
-Friday night, 21 runs, 1,749 ft of ascent and 106.5 kilometers into the training program, I met with my friends for our now ceremonial cigars. I exhaled the smoke, it rose above me, it was easy to appreciate the light dancing through the little clouds, one of them made a shape of a mountain. 
-
-Distracted by the smoke fading, I was quickly zapped back to our conversation when my friend said "I need to confess something." Those ominous words, "what would he need to confess?" I thought. "I had to transfer to the 25 kilometer race".
-
-At this moment, I wish I had the power to know what to say, whenever you don't know what to say. My friend quickly went into an explanation of why, as if I was his father and I was about to scold him.
-
-He told me about how his work was going. Having to deal with a mentally demanding project and a brutal one hour and a half commute each way, any time or motivation to train was evaporated. I could easily notice his internal emotional turmoil. *He has always loved his job, but these new circumstances were making it hard for him to love.  need to find anothe way of saying this*
-- there was an internal conflict within him. He has always loved his work, but now, the extreme 
-
-- having to deal with the pains of wanting to love someone, but the time is jsut not right. 
-
-- Having to deal with the desire to love something, but the externalities stopping you. 
+Friday night, , I met with my friends for our now ceremonial cigars. I exhaled the smoke, it rose above me, it was easy to appreciate the light dancing through the little clouds, one of them made a shape of a mountain. 
 
 
-Coupled with that, he was also sick with a weird virus that had him bedridden for some days. Having to rest and then recover meant less time on the running shoes. Then, if that was not enough, his beloved life companion had moved on to a better life. After struggling for weeks, her health kept declining, and it was him who had to make the hard decision. 
+Chica had moved on 
 
