@@ -94,14 +94,12 @@ the mountain proved it
 
 *he tells you her health has declined, and he tells you about the brutal commute and the missed training, "I need to train, I've only done a long run," which is where you have your own quiet oh crap doing the mileage math. This is also where the transfer to the 25K either happens or is foreshadowed, your call on the timing. This scene is heavier than the first cigars, same ritual, opposite weather.*
 
+*check these run facts based on when I went to the cigars:*
+26 runs, 1,900 ft of ascent, 140.5 kilometers and a couple of weeks later, Chica had moved on. After her surgery she put up a good fight, but things did not improve. I had received a text message from my friend asking for thoughts and prayers for her. Calling him to check how he was doing we reminisced about the beautiful life times shared with Chica. 
 
+Offering my friend some respite from this hard moment, he responded that space was the last thing he wanted, he invited me for our now ceremonial cigars. Arriving at the lounge, I hugged my friend and told him that Chica's spirit would always protect him. I usually don't bring up tough conversations, I wait to ask, allowing people to open up whenever they feel ready to do so, many times I have been in this position, many times have I wished to know the right combination of words to extirpate the grief from my loved ones.
 
-Chica had moved on. I received a text message from my friend asking for thoughts and prayers. I offered him space, but he said he needed his friends. We went out for our ceremonial cigars. It was hard for me navigate this, I wanted to comfort my friend, but at that moment I wished I had the superpower to know what to say and magically extirpate his grief.
-
-I had hugged my friend and told him that Chica's spirit will always protect him. I usually don't bring up tough conversations, I wait to ask, allowing people to open up whenever they feel ready to do so. We settled in, light up our cigars and as I exhaled the smoke, in this heavy atmosphere it was easy to get lost in the light dancing through the little clouds, one made a shape of a mountain.
-
-Remembering the crazy 
-
+We settled in, light up our cigars and as I exhaled the smoke, in this heavy atmosphere it was easy to get lost in the light dancing through the little clouds, one made a shape of a mountain. Conversation rolled slowly, little by little 
 
 brought of the weekend I took care of Chica, I mentioned how the universe sent me a chance to say goodbye. 
 
