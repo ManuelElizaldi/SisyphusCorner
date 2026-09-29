@@ -46,9 +46,9 @@ Choosing to do the hard thing meant dealing with the tiredness of the massive vo
 
 Since all of my energy was aimed at training, doing the hard thing meant less writing for Substack too. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake.
 
-Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I woke up early for my last long run of this training season. The program marked a 30km and 2500ft ascent workout. I chose the hard thing, so this early weekend morning meant sacrificing pretending to be a baristaa for my girlfriend. 
+Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I woke up early for my last long run of this training season. The program marked a 30km and 2500ft ascent workout. I chose the hard thing, so this early weekend morning meant sacrificing acting as a barista for my girlfriend.
 
-I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract in my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema every time. Trying my best at latte art, but only get so far as to drawing a kidney with tumors. Finally, I present my offering to my muse.  
+I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract in my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema every time. Using the silky steamed milk and my limited latte art skills I try to draw a flower but only manage to pour a kidney with tumors. Finally, I present my offering to my muse.  
 
 But that Saturday morning, it was just myself, drinking an Americano. While I wait for the caffeine to kick in, I prepared my cooler with three gallons of water, a Red Bull, candy, gels and energy waffles. I was going to spend at least 5 hours in the trail, I didn't mind the extra supplies. 
 
@@ -81,27 +81,6 @@ When I run, it is usually without music, sometimes I like to listen to a podcast
 
 
 
-
-
-
-
-
-
-
-
-
-
-Despite all of these sacrifices, doing the hard things has its moments of respite, were love is most heartfelt. 
-
-
-
-
-
-
-
-
-
-
 ---
 # Notes
 add that life got in the way of fito, making him transfer into the 25k, 
@@ -117,9 +96,12 @@ the mountain proved it
 
 
 
-Chica had moved on. I received a text message from my friend asking for thoughts and prayers. I offered him space, but he said he needed his friends. We went out for our ceremonial cigars. It was hard for me navigate this, I wanted to be there for my friend and at that moment I wished I had the superpower to know what to say and magically extirpate his grief.
+Chica had moved on. I received a text message from my friend asking for thoughts and prayers. I offered him space, but he said he needed his friends. We went out for our ceremonial cigars. It was hard for me navigate this, I wanted to comfort my friend, but at that moment I wished I had the superpower to know what to say and magically extirpate his grief.
 
 I had hugged my friend and told him that Chica's spirit will always protect him. I usually don't bring up tough conversations, I wait to ask, allowing people to open up whenever they feel ready to do so. We settled in, light up our cigars and as I exhaled the smoke, in this heavy atmosphere it was easy to get lost in the light dancing through the little clouds, one made a shape of a mountain.
 
-I brought of the weekend I took care of Chica, I mentioned how the universe sent me a chance to say goodbye. 
+Remembering the crazy 
+
+
+brought of the weekend I took care of Chica, I mentioned how the universe sent me a chance to say goodbye. 
 
