@@ -48,13 +48,13 @@ Since all of my energy was aimed at training, doing the hard thing meant less wr
 
 Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I woke up early for my last long run of this training season. The program marked a 30km and 2500ft ascent workout. I chose the hard thing, so this early weekend morning meant sacrificing acting as a barista for my girlfriend.
 
-I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract in my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema every time. Using the silky steamed milk and my limited latte art skills I try to draw a flower but only manage to pour a kidney with tumors. Finally, I present my offering to my muse.  
+I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract in my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema. Using the silky steamed milk and my limited latte art skills I try to draw a flower but only manage to pour a kidney with tumors. Finally, I present my offering to my muse.  
 
-But that Saturday morning, it was just myself, drinking an Americano. While I wait for the caffeine to kick in, I prepared my cooler with three gallons of water, a Red Bull, candy, gels and energy waffles. I was going to spend at least 5 hours in the trail, I didn't mind the extra supplies. 
+But that Saturday morning, it was just myself, drinking an Americano. While I waited for the caffeine to kick in, I prepared my cooler with three gallons of water, a Red Bull, candy, gels and energy waffles. I was going to spend at least 5 hours in the trail, I didn't mind being over prepared.
 
 I loaded everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager.
 
-Playing the album Amantes Sunt Amantes, the nerves I felt were tamed by the heavy guitar riffs, slugger like drums and emotionally visceral lyrics. I arrived early in the morning, grabbed my phone and reported for duty by texting my girlfriend and family. Also, since suffering is best when in company, I also checked to see if any of my friends had accepted the invite I sent last night for some self-inflicted torture, no one had responded yet.
+Playing the album Amantes Sunt Amantes, the nerves I felt were tamed by the heavy guitar riffs, slugger like drums and emotionally visceral lyrics. I arrived early in the morning, grabbed my phone and reported for duty by texting my girlfriend and family. Also, since suffering is best when in company, I also checked to see if any of my friends had accepted the invite I sent last night for some self-inflicted torture, no one had responded.
 
 My mind was ready to go, but my muscles still needed to wake up. Grabbing my resistance band I started to do abductor and glute exercises, two essential muscle groups when going up mountains. Then I performed a couple of sets of isometrics that supercharged the quads and calves.
 
@@ -90,31 +90,18 @@ Iron Maiden's Revelation - revelation: the hard thing is not the thing in itself
 the mountain proved it
 
 #### Second cigar scene 
-**What changes is the order and the weight around it, not the confession itself. The dog isn't part of what he's confessing, you already knew about her, so she doesn't belong crammed into the same breath as "I need to confess something." She's the context the reader needs before that moment, quiet, already carried, not news. Then the confession lands on its own, small in scale, a 25K instead of a 50K, but large in his own mind because it's a broken promise to him. That gap is the actual material: you see an act of admirability, a guy who just lost his dog still lacing up for 25 kilometers of suffering, and he sees a failure to keep his word. You don't have to resolve that gap or tell the reader which view is correct. Just let both sit there, his shame and your admiration, unreconciled. That tension is more honest than either view alone, and it's very close to the tension in the Fear and Loathing themes you've already worked through, whether something looks different from inside it than it does from outside.**
-
-*he tells you her health has declined, and he tells you about the brutal commute and the missed training, "I need to train, I've only done a long run," which is where you have your own quiet oh crap doing the mileage math. This is also where the transfer to the 25K either happens or is foreshadowed, your call on the timing. This scene is heavier than the first cigars, same ritual, opposite weather.*
-
-
-31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He told me that after the weekend we spend together, she had stopped eating, which prompted him to do some blood work and the results turned out *bad/bleek/didn't give too much hope/didn't promise anything good*. 
+31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He told me that after the weekend we spent together, she had stopped eating, which prompted him to do some blood work and the results turned out bad.
 
 During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go for our ceremonial cigars. 
 
-Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in agreement and then we settled in. We lit up our cigars and as I exhaled the smoke, in this heavy atmosphere, it was easy to get lost in the light dancing through the little clouds; one made a shape of a mountain. 
+Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in acknowledgment and then we settled in. We lit up our cigars and as I exhaled the smoke, in this heavy atmosphere, it was easy to get lost in the light dancing through the little clouds; one made a shape of a mountain. 
 
-Conversation rolled slowly, little by little blooming into an exchange of beautiful memories about Chica. We reminisced about the times we were roommates, when I first arrived in Austin. Every time we went out for BBQ, we brought a bone for Chica and for some weird reason, Chica always hid the half-eaten bone under my bed. 
+We reminisced about the times we were roommates, when I first arrived in Austin. Every time we went out for BBQ, we brought a bone for Chica and for some weird reason, Chica always hid the half-eaten bone under my bed. 
 
-I then brought up how grateful I felt because I managed to say my farewells that weekend I took care of her. My friend mentioned that it almost seems like she wanted to say goodbye to me and then made the observation about the way Chica used to stare at you. How she seemed so wise. "She has a way of staring at you, it makes you feel understood."
+I then brought up 
 
-
-I brought up how the divine dice rolled in my favor, blessing me with one last chance to say my farewells. 
-
-
-absurd blessing had arrived out of nowhere, giving me a chance to say my last goodbyes to Chica. 
-
-My friend 
+how 
 
 
-How lucky was I, when things start to crumble an absurd divine intervenI brought up the weekend I took care of her, in a 
 
-
-When everything ought to crumble, an absurd piece of luck arrives out of nowhere—not through careful planning, but because the cosmic dice rolled in your favor.
+how grateful I felt because I managed to say my farewells that weekend I took care of her. My friend mentioned that it almost seemed like she wanted to say goodbye to me, then made the observation "She had a way of staring at you, it made you feel understood."
