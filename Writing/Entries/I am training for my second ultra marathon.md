@@ -34,7 +34,7 @@ That Saturday morning I was jolted awake by the scratching and crying and excite
 
 Since Chica was recovering from surgery I didn't expect too much fuss. I thought she would behave in her usual elegant and composed fashion but here she was jumping around in excitement as Peach asked for her breakfast, needing to recover after several won rounds against that poor bird. 
 
-Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile back at us.
+Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile back at us. I messaged my friend to let him know about his little companion's behavior and said "wow I am so glad to hear that, thanks for taking care of h"
 
 During the weeks before the race, a heat wave had assaulted central Texas. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus, and I was not able to wake up for an early morning run.
 
@@ -95,7 +95,7 @@ the mountain proved it
 *he tells you her health has declined, and he tells you about the brutal commute and the missed training, "I need to train, I've only done a long run," which is where you have your own quiet oh crap doing the mileage math. This is also where the transfer to the 25K either happens or is foreshadowed, your call on the timing. This scene is heavier than the first cigars, same ritual, opposite weather.*
 
 *check these run facts based on when I went to the cigars:*
-26 runs, 1,900 ft of ascent, 140.5 kilometers and a couple of weeks later, Chica had moved on. After her surgery she put up a good fight, but things did not improve. I had received a text message from my friend asking for thoughts and prayers for her. Calling him to check how he was doing we reminisced about the beautiful life times shared with Chica. 
+26 runs, 1,900 ft of ascent, 140.5 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, because she was no longer with us. I called him and he told me that after the weekend she spend with me  
 
 Offering my friend some respite from this hard moment, he responded that space was the last thing he wanted, he invited me for our now ceremonial cigars. Arriving at the lounge, I hugged my friend and told him that Chica's spirit would always protect him. I usually don't bring up tough conversations, I wait to ask, allowing people to open up whenever they feel ready to do so, many times I have been in this position, many times have I wished to know the right combination of words to extirpate the grief from my loved ones.
 
