@@ -98,7 +98,10 @@ Arriving at the lounge, I hugged my friend and said "Chica's spirit will always 
 
 We reminisced about the years long gone when we were roommates, back when I first arrived in Austin. My friend and I enjoyed going out for BBQ, and we would always bring back bones for Chica. For some weird reason, after every munching session, being satisfied for the time, she would hide them under my bed.
 
-Then I remembered the weekend I took care of her. I had completely forgoten about her  going out for walks and mentioned how Chica had a certain swagger to her walk, rocking side to side 
+Then I remembered the weekend I took care of her. It had been a while since I took her on a walk, but that Saturday I was  I had completely forgotten about her elegant saunter, 
+
+
+. going out for walks and mentioned how Chica had a certain swagger to her walk, rocking side to side 
 
 Chica's swagger way of walking. 
 
