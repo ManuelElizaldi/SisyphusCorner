@@ -16,7 +16,7 @@ Any trace of writer's block was evaporated when it came to formulating excuses. 
 
 Regardless of all this, the combination of my Japanese bottled liquid courage and the elegant football displayed by my national team had propelled me to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and paid the registration. 
 
-I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó", and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessened and reality hit me like the recoil of a bolt action rifle. 
+I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó," and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessened and reality hit me like the recoil of a bolt action rifle. 
 
 He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What were you doing up at that time? Did you really sign up?" The wave had crashed, bringing me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
@@ -94,14 +94,16 @@ the mountain proved it
 
 *he tells you her health has declined, and he tells you about the brutal commute and the missed training, "I need to train, I've only done a long run," which is where you have your own quiet oh crap doing the mileage math. This is also where the transfer to the 25K either happens or is foreshadowed, your call on the timing. This scene is heavier than the first cigars, same ritual, opposite weather.*
 
-*check these run facts based on when I went to the cigars:*
-26 runs, 1,900 ft of ascent, 140.5 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, because she was no longer with us. I called him, to check how he was doing. He told me that after the weekend we spend together, she had stopped eating, which prompted him to do some blood work and the results turned out *bad/bleek/didn't give too much hope*. 
 
-During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends". So we decided to go for our ceremonial cigars. 
+31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He told me that after the weekend we spend together, she had stopped eating, which prompted him to do some blood work and the results turned out *bad/bleek/didn't give too much hope/didn't promise anything good*. 
 
-Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in agreement and then we settled in. We lit up our cigars and as I exhaled the smoke, in this heavy atmosphere it was easy to get lost in the light dancing through the little clouds, one made a shape of a mountain. 
+During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go for our ceremonial cigars. 
 
-Conversation rolled slowly, little by little blooming into an exchange of beautiful moments shared with Chica. 
+Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in agreement and then we settled in. We lit up our cigars and as I exhaled the smoke, in this heavy atmosphere, it was easy to get lost in the light dancing through the little clouds; one made a shape of a mountain. 
+
+Conversation rolled slowly, little by little blooming into an exchange of beautiful memories about Chica. We reminisced about the times we were roommates, when I first arrived in Austin. Every time we went out for BBQ, we brought a bone for Chica and for some weird reason, Chica always hid the half-eaten bone under my bed. 
+
+I then brought up how grateful I felt because I managed to say my farewells that weekend I took care of her. My friend mentioned that it almost seems like she wanted to say goodbye to me and then made the observation about the way Chica used to stare at you. How she seemed so wise. "She has a way of staring at you, it makes you feel understood."
 
 
 I brought up how the divine dice rolled in my favor, blessing me with one last chance to say my farewells. 
