@@ -99,9 +99,9 @@ the mountain proved it
 
 During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends". So we decided to go for our ceremonial cigars. 
 
-Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you" We settled in, lit up our cigars and as I exhaled the smoke, in this heavy atmosphere it was easy to get lost in the light dancing through the little clouds, one made a shape of a mountain. 
+Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in agreement and then we settled in. We lit up our cigars and as I exhaled the smoke, in this heavy atmosphere it was easy to get lost in the light dancing through the little clouds, one made a shape of a mountain. 
 
-Conversation rolled slowly, little by little blooming into an exchange of beautiful moments shared with Chica.
+Conversation rolled slowly, little by little blooming into an exchange of beautiful moments shared with Chica. 
 
 
 I brought up how the divine dice rolled in my favor, blessing me with one last chance to say my farewells. 
