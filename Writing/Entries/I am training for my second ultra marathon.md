@@ -96,7 +96,11 @@ During the call I told my friend to take his time and offered him space, to whic
 
 Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in acknowledgment and then we settled in. We lit up our cigars, I exhaled the smoke and my attention got lost in the light dancing through the little clouds; one made a shape of a mountain. 
 
-We reminisced about the years long gone when we were roommates, back when I first arrived in Austin. My friend and I enjoyed going to for BBQ, and we would always bring bones for Chica. Then for some weird reason, after every 
+We reminisced about the years long gone when we were roommates, back when I first arrived in Austin. My friend and I enjoyed going out for BBQ, and we would always bring back bones for Chica. For some weird reason, after every munching session, being satisfied for the time, she would hide them under my bed.
+
+Then I remembered the weekend I took care of her. I had completely forgoten about her  going out for walks and mentioned how Chica had a certain swagger to her walk, rocking side to side 
+
+Chica's swagger way of walking. 
 
 *Then I mentioned how providence had how grateful I felt because I managed to say my farewells that weekend I took care of her. My friend mentioned that it almost seemed like she wanted to say goodbye to me, then made the observation "She had a way of staring at you, it made you feel understood."*
 
