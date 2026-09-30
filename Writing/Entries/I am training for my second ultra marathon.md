@@ -70,7 +70,7 @@ I reached the cross on top of Mt. Lakeway, touched it, said thanks and crossed m
 
 Sitting down on a little chair I made myself with scattered rocks, I checked my phone and noticed my parents had said "Good morning, good luck on your run, be careful!" then from the corner of my eye I caught the new shoes they had gifted me for this ultra marathon. They felt sturdy, even after many kilometers of pounding and leaping, and were starting to feel worn in, shaping to my feet. No wonder I felt like a mountain goat.
 
-21 kilometers down, only 9 left. Finishing a loop I got back to my car to refuel and charge up. The legs that once felt like well oiled suspension now felt like a wagon wheel carrying a heavy load. The body had done its job, now my mind had to push through.
+21 kilometers down, only 9 left. Finishing a loop I got back to my car to refuel and charge up. The legs that once felt like well oiled suspensions now felt like a wagon wheel carrying a heavy load. The body had done its job, now my mind had to push through.
 
 I could use any help I could get, so I texted everybody that I was almost done, only 9 kilometers left. Their words of encouragement inspired me, then I gorged down a mouthful of candy and chugged a Red Bull for that kick of caffeine. Then, I pulled the ace up my sleeve.
 
@@ -90,11 +90,11 @@ Iron Maiden's Revelation - revelation: the hard thing is not the thing in itself
 the mountain proved it
 
 #### Second cigar scene 
-31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He told me that after the weekend we spent together, she had stopped eating, which prompted him to do some blood work and the results turned out bad.
+31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He expressed with a raspy voice that it was the hardest decision he had made in his life, then explained that after the weekend I took care of her, she stopped eating. Her health had started to decline. He did some blood work and everything turned out bad.
 
 During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go for our ceremonial cigars. 
 
-Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in acknowledgment and then we settled in. We lit up our cigars and as I exhaled the smoke, in this heavy atmosphere, it was easy to get lost in the light dancing through the little clouds; one made a shape of a mountain. 
+Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in acknowledgment and then we settled in. We lit up our cigars, as I exhaled the smoke, in this heavy atmosphere, it was easy to get lost in the light dancing through the little clouds; one made a shape of a mountain. 
 
 We reminisced about the times we were roommates, when I first arrived in Austin. Every time we went out for BBQ, we brought a bone for Chica and for some weird reason, Chica always hid the half-eaten bone under my bed. 
 
