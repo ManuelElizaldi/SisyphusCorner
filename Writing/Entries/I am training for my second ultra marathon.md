@@ -90,18 +90,26 @@ Iron Maiden's Revelation - revelation: the hard thing is not the thing in itself
 the mountain proved it
 
 #### Second cigar scene 
-31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He expressed with a raspy voice that it was the hardest decision he had made in his life, then explained that after the weekend I took care of her, she stopped eating. Her health had started to decline. He did some blood work and everything turned out bad.
+31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He explained that after the weekend I took care of her, she stopped eating. Her health had started to decline. He did some blood work and everything turned out bad.
 
-During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go for our ceremonial cigars. 
+During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go out for our ceremonial cigars. 
 
-Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in acknowledgment and then we settled in. We lit up our cigars, as I exhaled the smoke, in this heavy atmosphere, it was easy to get lost in the light dancing through the little clouds; one made a shape of a mountain. 
+Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in acknowledgment and then we settled in. We lit up our cigars, I exhaled the smoke and my attention got lost in the light dancing through the little clouds; one made a shape of a mountain. 
 
-We reminisced about the times we were roommates, when I first arrived in Austin. Every time we went out for BBQ, we brought a bone for Chica and for some weird reason, Chica always hid the half-eaten bone under my bed. 
+We reminisced about the years long gone when we were roommates, back when I first arrived in Austin. My friend and I enjoyed going to for BBQ, and we would always bring bones for Chica. Then for some weird reason, after every 
 
-I then brought up 
+*Then I mentioned how providence had how grateful I felt because I managed to say my farewells that weekend I took care of her. My friend mentioned that it almost seemed like she wanted to say goodbye to me, then made the observation "She had a way of staring at you, it made you feel understood."*
+
+Thinking about how strange life is 
+
+
+
+"It is strange how providence works, I can't believe I was able to say my farewells" 
+
+
+
+After our conversation about Chica, my rigid calculated way of talking started to loosen. 
 
 how 
 
 
-
-how grateful I felt because I managed to say my farewells that weekend I took care of her. My friend mentioned that it almost seemed like she wanted to say goodbye to me, then made the observation "She had a way of staring at you, it made you feel understood."
