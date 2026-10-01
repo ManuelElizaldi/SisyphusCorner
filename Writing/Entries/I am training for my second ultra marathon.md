@@ -4,7 +4,7 @@ A part of me had a crumble of regret from not watching this game at a sports bar
 
 Illuminated by the blues of the TV, I was left asking myself what just happened. After 90 minutes of art, the game finished, and I was left riding the adrenaline buzz.  I had just witnessed a small teenager baptized by the name of Gilberto, last name Mora who spread a feast of passes to forwards with tremendous grace. Fed by these play making passes, players such as Quiñones with his canon right foot had no mercy to the opposition's goalie. 
 
-What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire country's spirit, "¿Y si sí?", perhaps we were not so far from glory. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars.
+What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire country's spirit, "¿Y si sí?," perhaps we were not so far from glory. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars.
 
 Sitting at the cigar lounge, with tobacco in hand, smoke rising from us and nicotine rushing through us, we looked back at how we used to run Spartan Races yearly. A crucible of pain where months before we prepared our minds and bodies for the 10 kilometer trail run with obstacles scattered around the course.
 
@@ -12,7 +12,7 @@ The burning rolled tobacco unrolled a desire that was inside my friend, "we shou
 
 He ended up registering to the Sky Island Trail Race. A 50 kilometer (30 mile) race in the desert mountains of Fort Davis, in West Texas. He insisted I register, but at the time perhaps unconsciously or maybe consciously, I had postponed the registration.
 
-Any trace of writer's block was evaporated when it came to formulating excuses. I had avoided registering with reasons like "rugby season is coming up, I need to prepare for that". Or I would say "registering is expensive, and I can't afford it at the moment". I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel.
+Any trace of writer's block was evaporated when it came to formulating excuses. I had avoided registering with reasons like "rugby season is coming up, I need to prepare for that." Or I would say "registering is expensive, and I can't afford it at the moment." I also thought about my limited PTO at work, an ultra marathon in West Texas would take at least a day of travel.
 
 Regardless of all this, the combination of my Japanese bottled liquid courage and the elegant football displayed by my national team had propelled me to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and paid the registration. 
 
@@ -26,7 +26,7 @@ When people talk about doing hard things, they only witness the crowning moment.
 
 One month, 21 runs, 1,749 ft of ascent and 106.5 kilometers into the training program, my friend had to go on a trip to a wedding in Mexico. I had noticed that his training sessions had been lacking kilometer volume, and now he was about to miss an entire weekend. 
 
-Checking in I asked him how his preparation was going, and he said, "not ideal". He told me that he hasn't been able to spend as much time as he wished on his running shoes, work was taking away valuable time from his training, and also I noticed a heaviness orbiting around him. 
+Checking in I asked him how his preparation was going, and he said, "not ideal." He told me that he hasn't been able to spend as much time as he wished on his running shoes, work was taking away valuable time from his training, and also I noticed a heaviness orbiting around him. 
 
 After some rambling small talk he asked if I could take care of Chica, his blue heeler life companion during the weekend. Having already been roommates in previous years, I was glad to spend a weekend again with Chica and her cheerful quirks. He warned me she'd been through surgery and might not be at her best.
 
@@ -80,20 +80,22 @@ When I run, it is usually without music, sometimes I like to listen to a podcast
 
 
 #### Second cigar scene 
-31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He explained with a that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He did some blood work and everything turned out bad. 
+31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. She had passed away, my friend asked for thoughts and prayers. I called him to check how he was doing. He explained with a raw raspy voice that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He had to do some blood work, but everything turned out bad.
 
 During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go out for our ceremonial cigars. 
 
-Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in acknowledgment and then we settled in. We lit up our cigars; I exhaled the smoke and my attention got lost in the light dancing through the little clouds, one made a shape of a mountain. 
+Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you." Settling in we lit up our cigars; I exhaled the smoke and my attention got lost in the light dancing through the little clouds, one made a shape of a mountain. 
 
 We reminisced about the years long gone when we were roommates, back when I first arrived in Austin, and we enjoyed going out for BBQ. We would always bring back home bones for Chica. For some weird reason, after every munching session, being satisfied, she would hide them under my bed, only to retrieve them later in the day. 
 
-Then I remembered that Saturday we spent together. It had been a while since I took Chica out for a walk, and I had completely forgotten about how excited she got whenever you told her we were going outside. She would rush to the door as she looked back to make sure you were behind her and at the same time she would snap her mouth as if to hurry you. All the while she would do happy jumps while waiting for her leash. 
+Then I remembered that Saturday we spent together. It had been a while since I took Chica out for a walk, and I had completely forgotten about how excited she got whenever you told her we were going outside. She would rush to the door, looking back to make sure I was coming. At the same time she would snap her mouth as if to hurry me. All the while she would do happy jumps while waiting for her leash. Then once outside a fashion show would ensue where Chica performed her elegant saunter, swaying her hind legs from side to side.
 
-Then once outside a fashion show would ensue where Chica performed her elegant saunter, swaying her hind legs from side to side, showing the world her self-confidence.
+"I am glad I had a chance to say goodbye" I told my friend, "It almost seems like she wanted to say goodbye to you," he replied and added "Chica had a way of staring at you, it almost made you feel understood every time you talked to her." 
 
-"I am glad I had a chance to say goodbye" I told my friend, "It almost seems like she wanted to say goodbye to you," he replied. There was a loud silenced pause, the smoke moving through the air was almost audible. Retaking the conversation my friend observed "Chica had a way of staring at you, it almost made you feel understood every time you talked to her." 
+The pain my friend felt was tangible, but I could also notice in his face a degree of 
 
+
+could clearly hear the pain in my friend. "It was the hardest decision I have ever done in my life." he declared. 
 
 
 
