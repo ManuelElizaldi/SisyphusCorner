@@ -80,7 +80,7 @@ When I run, it is usually without music, sometimes I like to listen to a podcast
 
 
 #### Second cigar scene 
-31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He explained that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He did some blood work and everything turned out bad.
+31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He explained with a that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He did some blood work and everything turned out bad. 
 
 During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go out for our ceremonial cigars. 
 
