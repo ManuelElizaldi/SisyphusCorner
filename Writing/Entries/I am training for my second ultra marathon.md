@@ -6,7 +6,7 @@ Illuminated by the blues of the TV, I was left asking myself what just happened.
 
 What Mexico's national team had shown during that game was a playful bravado. A bravado that lifts an entire country's spirit, "¿Y si sí?," perhaps we were not so far from glory. Riding atop this high and beautiful wave I remembered a proposition made by one of my best friends over cigars.
 
-Sitting at the cigar lounge, with tobacco in hand, smoke rising from us and nicotine rushing through us, we looked back at how we used to run Spartan Races yearly. A crucible of pain where months before we prepared our minds and bodies for the 10 kilometer trail run with obstacles scattered around the course.
+Sitting at our usual spot in the cigar lounge, with tobacco in hand, smoke rising from us and nicotine rushing through us, we looked back at how we used to run Spartan Races yearly. A crucible of pain where months before we prepared our minds and bodies for the 10 kilometer trail run with obstacles scattered around the course.
 
 The burning rolled tobacco unrolled a desire that was inside my friend, "we should do a race again, just like those Spartan races. We need to do something hard this year." he said this, while staring at the horizon. Maybe talking to himself or perhaps testing the waters he then mentioned "An ultra marathon would be a good challenge." 
 
@@ -34,7 +34,7 @@ That Saturday morning I was jolted awake by the scratching and crying and excite
 
 Since Chica was recovering from surgery I didn't expect too much fuss. I thought she would behave in her usual elegant and composed fashion but here she was jumping around in excitement as Peach asked for her breakfast, needing to recover after several won rounds against that poor bird. 
 
-Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile back at us. I messaged my friend to let him know about his little companion's behavior, and he wrote back "wow I am so glad to hear that, I appreciate you taking care of her."
+Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile back at us. I messaged my friend to let him know about his little companion's behavior, and he wrote back, "Wow I am so glad to hear that, I appreciate you taking care of her."
 
 During the weeks before the race, a heat wave had assaulted central Texas. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus, and I was not able to wake up for an early morning run.
 
