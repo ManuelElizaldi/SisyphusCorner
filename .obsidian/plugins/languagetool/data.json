@@ -28,7 +28,8 @@
   "disabledCategories": [],
   "enabledRules": [],
   "disabledRules": [
-    "IN_THE_MOMENT"
+    "IN_THE_MOMENT",
+    "MILE_HYPHEN"
   ],
   "longCheckNotification": true,
   "injectProperties": true

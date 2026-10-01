@@ -80,21 +80,23 @@ When I run, it is usually without music, sometimes I like to listen to a podcast
 
 
 #### Second cigar scene 
-31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. She had passed away, my friend asked for thoughts and prayers. I called him to check how he was doing. He explained with a raw raspy voice that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He had to do some blood work, but everything turned out bad.
+31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. She had passed away. My friend asked for thoughts and prayers. I called him to check how he was doing. He explained with a raw raspy voice that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He had to do some blood work, but everything turned out bad.
 
 During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go out for our ceremonial cigars. 
 
-Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you." Settling in we lit up our cigars; I exhaled the smoke and my attention got lost in the light dancing through the little clouds, one made a shape of a mountain. 
+Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you." Settling in, we lit up our cigars; I exhaled the smoke and my attention got lost in the light dancing through the little clouds, one made a shape of a mountain. 
 
 We reminisced about the years long gone when we were roommates, back when I first arrived in Austin, and we enjoyed going out for BBQ. We would always bring back home bones for Chica. For some weird reason, after every munching session, she would hide them under my bed, only to retrieve them later in the day. 
 
-Then I remembered the Saturday I spent with Chica. It had been a while since I took her out for a walk, and I had completely forgotten about how excited she got whenever you told her we were going outside. She would rush to the door, looking back to make sure I was coming. At the same time she would snap her mouth as if to hurry me. All the while she would do happy jumps while waiting for her leash. Then once outside a fashion show would ensue, where Chica performed her elegant saunter, swaying her hind legs from side to side.
+Then I remembered the Saturday I spent with Chica. It had been a while since I took her out for a walk, and I had completely forgotten about how excited she got whenever I told her we were going outside. She would rush to the door, looking back to make sure I was coming. At the same time she would snap her mouth as if to hurry me. All the while she would do happy jumps while waiting for her leash. Then once outside a fashion show would ensue, where Chica performed her elegant saunter, swaying her hind legs from side to side. 
 
-"I am glad I had a chance to say goodbye," I told my friend, "It almost seems like she wanted to say goodbye to you," he replied "Chica had a way of staring at you, it almost made you feel understood every time you talked to her."
+"I am glad I had a chance to say goodbye," I told my friend.
+
+"It almost seems like she wanted to say goodbye to you," he replied. "Chica had a way of staring at you, it almost made you feel understood every time you talked to her."
 
 Looking at the horizon, my friend said, "Making the call to put her down was the hardest decision I have ever made. Sometimes I wonder if there was anything else I could've done. But that is what men have to do, make the tough calls."
 
-There was a loud silenced pause, the smoke rising was almost audible. I wished for wisdom. My friend leaned in, puffed his cigar and said "I need to confess something, I transferred to the 25 kilometer race," in a sudden instinctive reaction I blurted out "I perfectly understand." 
+There was a loud silenced pause, the smoke rising was almost audible. I wished for wisdom. My friend leaned in and said "I need to confess something." He puffed his cigar. "I transferred to the 25 kilometer race." I blurted out, "I perfectly understand." 
 
 
 # Notes
