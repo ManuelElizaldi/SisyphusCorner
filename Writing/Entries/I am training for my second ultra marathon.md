@@ -34,7 +34,7 @@ That Saturday morning I was jolted awake by the scratching and crying and excite
 
 Since Chica was recovering from surgery I didn't expect too much fuss. I thought she would behave in her usual elegant and composed fashion but here she was jumping around in excitement as Peach asked for her breakfast, needing to recover after several won rounds against that poor bird. 
 
-Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile back at us. I messaged my friend to let him know about his little companion's behavior and said "wow I am so glad to hear that, I appreciate you taking care of her."
+Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile back at us. I messaged my friend to let him know about his little companion's behavior, and he wrote back "wow I am so glad to hear that, I appreciate you taking care of her."
 
 During the weeks before the race, a heat wave had assaulted central Texas. This meant that some of my training runs had to be done at +100°F because your humble servant rarely wins a fight against Morpheus, and I was not able to wake up for an early morning run.
 
@@ -46,7 +46,7 @@ Choosing to do the hard thing meant dealing with the tiredness of the massive vo
 
 Since all of my energy was aimed at training, doing the hard thing meant less writing for Substack too. Even though my heart craved the pen and paper, all it could reach for was the sofa and a protein shake.
 
-31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. She had passed away. My friend asked for thoughts and prayers. I called him to check how he was doing, he explained with a raw raspy voice that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He did some blood work, but everything turned out bad.
+31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. She had passed away. My friend asked for thoughts and prayers. I called him to check how he was doing. He explained with a raw raspy voice that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He did some blood work, but everything turned out bad.
 
 During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go out for our ceremonial cigars. 
 
@@ -70,7 +70,7 @@ But that Saturday morning, it was just myself, drinking an Americano. While I wa
 
 I loaded everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager.
 
-Playing the album Amantes Sunt Amantes, the nerves I felt were tamed by the heavy guitar riffs, slugger like drums and emotionally visceral lyrics. I arrived early in the morning, grabbed my phone and reported for duty by texting my girlfriend and family. Also, since suffering is best when in company, I also checked to see if any of my friends had accepted the invite I sent last night for some self-inflicted torture, no one had responded.
+Playing the album Amantes Sunt Amantes, the nerves I felt were tamed by the heavy guitar riffs, slugger like drums and emotionally visceral lyrics. I arrived early in the morning, grabbed my phone and reported for duty by texting my girlfriend and family. Also, since suffering is best when in company, I also checked to see if any of my friends had accepted the invite I sent last night for some self-inflicted torture. No one had responded.
 
 My mind was ready to go, but my muscles still needed to wake up. Grabbing my resistance band I started to do abductor and glute exercises, two essential muscle groups when going up mountains. Then I performed a couple of sets of isometrics that supercharged the quads and calves.
 
