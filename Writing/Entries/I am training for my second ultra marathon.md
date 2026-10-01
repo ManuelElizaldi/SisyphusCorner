@@ -90,9 +90,7 @@ We reminisced about the years long gone when we were roommates, back when I firs
 
 Then I remembered the Saturday I spent with Chica. It had been a while since I took her out for a walk, and I had completely forgotten about how excited she got whenever I told her we were going outside. She would rush to the door, looking back to make sure I was coming. At the same time she would snap her mouth as if to hurry me. All the while she would do happy jumps while waiting for her leash. Then once outside a fashion show would ensue, where Chica performed her elegant saunter, swaying her hind legs from side to side. 
 
-"I am glad I had a chance to say goodbye," I told my friend.
-
-"It almost seems like she wanted to say goodbye to you," he replied. "Chica had a way of staring at you, it almost made you feel understood every time you talked to her."
+"I am glad I had a chance to say goodbye," I told my friend. "It almost seems like she wanted to say goodbye to you," he replied. "Chica had a way of staring at you, it almost made you feel understood every time you talked to her."
 
 Looking at the horizon, my friend said, "Making the call to put her down was the hardest decision I have ever made. Sometimes I wonder if there was anything else I could've done. But that is what men have to do, make the tough calls."
 
