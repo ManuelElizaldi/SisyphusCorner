@@ -77,52 +77,29 @@ I could use any help I could get, so I texted everybody that I was almost done, 
 When I run, it is usually without music, sometimes I like to listen to a podcast or an audiobook, but these, in my opinion take from the experience. Running, from my point of view offers a perfect meditative experience where there's no other choice but to be in the moment. However, there are moments, where you need some nitroglycerin to ignite a second wind. 
 
 
-*iron maiden part here, revelation song*
 
-
-
----
-# Notes
-add that life got in the way of fito, making him transfer into the 25k, 
-
-Iron Maiden's Revelation - revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
-
-the mountain proved it
 
 #### Second cigar scene 
 31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He explained that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He did some blood work and everything turned out bad.
 
 During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go out for our ceremonial cigars. 
 
-Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in acknowledgment and then we settled in. We lit up our cigars, I exhaled the smoke and my attention got lost in the light dancing through the little clouds; one made a shape of a mountain. 
+Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in acknowledgment and then we settled in. We lit up our cigars; I exhaled the smoke and my attention got lost in the light dancing through the little clouds, one made a shape of a mountain. 
 
-We reminisced about the years long gone when we were roommates, back when I first arrived in Austin, and we enjoyed going out for BBQ. We would always bring back home bones for Chica. For some weird reason, after every munching session, being satisfied, she would hide them under my bed. 
+We reminisced about the years long gone when we were roommates, back when I first arrived in Austin, and we enjoyed going out for BBQ. We would always bring back home bones for Chica. For some weird reason, after every munching session, being satisfied, she would hide them under my bed, only to retrieve them later in the day. 
 
-Then I remembered that Saturday, it had been a while since I took Chica out for a walk, 
+Then I remembered that Saturday we spent together. It had been a while since I took Chica out for a walk, and I had completely forgotten about how excited she got whenever you told her we were going outside. She would rush to the door as she looked back to make sure you were behind her and at the same time she would snap her mouth as if to hurry you. All the while she would do happy jumps while waiting for her leash. 
 
-Excited she got whenever you told her we were going outside, she rushed to the door, and the same time she would look back while snapping her mouth, making sure you were actually taking her outside. And performing happy jumps all at the same time. Then once outside a fashion show would ensue where Chica performed her elegant saunter, swaying her hind legs from side to side, showing the world her self-confidence.
+Then once outside a fashion show would ensue where Chica performed her elegant saunter, swaying her hind legs from side to side, showing the world her self-confidence.
 
-"I am glad I had a chance to say goodbye" I told my friend, "It almost seems like she wanted to say goodbye to you," he replied. There was a loud silenced pause.  
-
-I was  I had completely forgotten about her elegant saunter, 
-
-
-. going out for walks and mentioned how Chica had a certain swagger to her walk, rocking side to side 
-
-Chica's swagger way of walking. 
-
-*Then I mentioned how providence had how grateful I felt because I managed to say my farewells that weekend I took care of her. My friend mentioned that it almost seemed like she wanted to say goodbye to me, then made the observation "She had a way of staring at you, it made you feel understood."*
-
-Thinking about how strange life is 
+"I am glad I had a chance to say goodbye" I told my friend, "It almost seems like she wanted to say goodbye to you," he replied. There was a loud silenced pause, the smoke moving through the air was almost audible. Retaking the conversation my friend observed "Chica had a way of staring at you, it almost made you feel understood every time you talked to her." 
 
 
 
-"It is strange how providence works, I can't believe I was able to say my farewells" 
 
+# Notes
+add that life got in the way of fito, making him transfer into the 25k, 
 
+Iron Maiden's Revelation - revelation: the hard thing is not the thing in itself, but the process one must walk to obtain it.
 
-After our conversation about Chica, my rigid calculated way of talking started to loosen. 
-
-how 
-
-
+the mountain proved it
