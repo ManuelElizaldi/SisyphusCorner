@@ -92,11 +92,9 @@ Then I remembered that Saturday we spent together. It had been a while since I t
 
 "I am glad I had a chance to say goodbye" I told my friend, "It almost seems like she wanted to say goodbye to you," he replied and added "Chica had a way of staring at you, it almost made you feel understood every time you talked to her." 
 
-The pain my friend felt was tangible, but I could also notice in his face a degree of 
+The pain my friend felt was tangible, but I could also notice in his face a degree of acceptance, 
 
-
-could clearly hear the pain in my friend. "It was the hardest decision I have ever done in my life." he declared. 
-
+There was a loud silence pause, the smoke rising was almost audible. 
 
 
 # Notes
