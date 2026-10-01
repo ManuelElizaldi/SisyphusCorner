@@ -90,19 +90,19 @@ Iron Maiden's Revelation - revelation: the hard thing is not the thing in itself
 the mountain proved it
 
 #### Second cigar scene 
-31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He explained that after the weekend I took care of her, she stopped eating. Her health had started to decline. He did some blood work and everything turned out bad.
+31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. He asked me to pray for her, she was no longer with us. I called him, to check how he was doing. He explained that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He did some blood work and everything turned out bad.
 
 During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go out for our ceremonial cigars. 
 
 Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you". He nodded in acknowledgment and then we settled in. We lit up our cigars, I exhaled the smoke and my attention got lost in the light dancing through the little clouds; one made a shape of a mountain. 
 
-We reminisced about the years long gone when we were roommates, back when I first arrived in Austin. My friend and I enjoyed going out for BBQ, and we would always bring back bones for Chica. For some weird reason, after every munching session, being satisfied for the time, she would hide them under my bed.
+We reminisced about the years long gone when we were roommates, back when I first arrived in Austin, and we enjoyed going out for BBQ. We would always bring back home bones for Chica. For some weird reason, after every munching session, being satisfied, she would hide them under my bed. 
 
-Then I remembered the weekend I took care of her. 
+Then I remembered that Saturday, it had been a while since I took Chica out for a walk, 
 
-It had been a ahile since I took Chica for walks. That Saturday I was reminded how how excited she got whenever you told her we were going outside, she rushed to the door and at the same time she would look back to make sure you were going, and at the same time jumping in excitment. Then each outsing she performed her elegant saunter, swaying her hind legs from side to side, as if each walk was a fashion show. 
+Excited she got whenever you told her we were going outside, she rushed to the door, and the same time she would look back while snapping her mouth, making sure you were actually taking her outside. And performing happy jumps all at the same time. Then once outside a fashion show would ensue where Chica performed her elegant saunter, swaying her hind legs from side to side, showing the world her self-confidence.
 
-"I am glad I had a chance to say goodbye" I told my friend, "It almost seems like she wanted to say good bye to you," he replied.  
+"I am glad I had a chance to say goodbye" I told my friend, "It almost seems like she wanted to say goodbye to you," he replied. There was a loud silenced pause.  
 
 I was  I had completely forgotten about her elegant saunter, 
 
