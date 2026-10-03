@@ -32,7 +32,7 @@ After some rambling small talk he asked if I could take care of Chica, his blue 
 
 That Saturday morning I was jolted awake by the scratching, crying and excited jumps from Chica and Peach, my girlfriend's dog. In my punch drunk stupor I opened my room's door to see Peach sparring with her Puffin bird toy and Chica, like a hooligan cheering her on. "What kind of madness has possessed these creatures?" I had thought to myself. 
 
-Since Chica was recovering from surgery I didn't expect too much fuss. I thought she would behave in her usual elegant and composed fashion but here she was jumping around in excitement as Peach asked for her breakfast, needing to recover after several rounds won against that poor bird. 
+Since Chica was recovering from surgery I didn't expect too much fuss. I thought she would behave in her usual elegant and composed fashion but here she was jumping around in excitement as Peach asked for her breakfast, needing to recover after several rounds wono against that poor bird. 
 
 Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile back at us. I messaged my friend to let him know about his little companion's behavior, and he wrote back, "Wow I am so glad to hear that, I appreciate you taking care of her."
 
