@@ -35,8 +35,7 @@
               "title": "Bookshelf Backend - Build It By Hand"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,8 +201,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "8946fd5ac154f82a",
+  "active": "baa9d3248a1f0cf3",
   "lastOpenFiles": [
+    "Programming/RaspberryPi/Webpage/Bookshelf Backend - Build It By Hand.md",
     "Writing/Entries/I am training for my second ultra marathon.md",
     "Programming/Cloud Computing/AWS - HIPAA Labs/Lab 1 Notes.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
@@ -241,7 +241,6 @@
     "Resources/Pasted image 20260703145230.png",
     "Writing/Entries/Fear and Loathing in Las Vegas.md",
     "Programming/DDIA Book/Notes - DDIA.md",
-    "Programming/DDIA Book/Glossary - DDIA.md",
     "Resources/Pasted image 20260702121216.png",
     "Programming/Cloud Computing/AWS - HIPAA Labs",
     "Programming/DDIA Book",

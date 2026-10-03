@@ -1,4 +1,4 @@
-The calendar marks June 30th, the World Cup euphoria is running hot. Mexico just won against Ecuador in a 2-0 match were the Mexican team displayed the best football I have ever seen from my country. National optimism was soaring, everyone I talked to felt like they were invincible. 
+ 0 runs, 0 kilometers and 0 ft of ascent. The calendar marks June 30th, the World Cup euphoria is running hot. Mexico just won against Ecuador in a 2-0 match were the Mexican team displayed the best football I have ever seen from my country. National optimism was soaring, everyone I talked to felt like they were invincible. 
 
 A part of me had a crumble of regret from not watching this game at a sports bar or at a friend's house. My heart demanded me to share this ecstasy. But destiny wanted me here, at my sofa, sipping my Asahi beer howling at the TV for more goals. I needed this, my country needed this, we needed this victory. Suddenly it seemed like all of Mexico's issues were on pause, because we were watching history erupt.
 
@@ -16,9 +16,9 @@ Any trace of writer's block was evaporated when it came to formulating excuses. 
 
 Regardless of all this, the combination of my Japanese bottled liquid courage and the elegant football displayed by my national team had propelled me to do a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and paid the registration. 
 
-I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó," and went to bed. The next day, a bit hung over from the exhilarating game and the Japanese beers, the euphoria had lessened and reality hit me like the recoil of a bolt action rifle. 
+I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó," and went to bed. The next day, a bit hung over from the Japanese beers and the exhilarating game, the euphoria had lessened and reality hit me like the recoil of a bolt action rifle. 
 
-He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What were you doing up at that time? Did you really sign up?" The wave had crashed, bringing me back to the now. Had I really signed up for the race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
+He had noticed the time of the screenshot I sent, 1:00 AM. He responded "What were you doing up at that time? Did you really register?" The wave had crashed, bringing me back to the now. Had I really signed up for that race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
 I had little time to train and apparently, less foresight. Having already ran an ultra marathon back in 2023, I knew the effort required, but two and a half months of training for a 50 kilometer race is not ideal. I would've liked more time to prepare the legs and most importantly my mind for this hellish test.
 
@@ -30,9 +30,9 @@ Checking in I asked him how his preparation was going, and he said, "not ideal."
 
 After some rambling small talk he asked if I could take care of Chica, his blue heeler life companion during the weekend. Having already been roommates in previous years, I was glad to spend a weekend again with Chica and her cheerful quirks. He warned me she'd been through surgery and might not be at her best.
 
-That Saturday morning I was jolted awake by the scratching and crying and excited jumps from Chica and Peach, my girlfriend's dog. In my punch drunk stupor I opened my room's door to see Peach sparring with her Puffin bird toy and Chica, like a hooligan cheering her on. "What kind of madness has possessed these creatures?" I had thought to myself. 
+That Saturday morning I was jolted awake by the scratching, crying and excited jumps from Chica and Peach, my girlfriend's dog. In my punch drunk stupor I opened my room's door to see Peach sparring with her Puffin bird toy and Chica, like a hooligan cheering her on. "What kind of madness has possessed these creatures?" I had thought to myself. 
 
-Since Chica was recovering from surgery I didn't expect too much fuss. I thought she would behave in her usual elegant and composed fashion but here she was jumping around in excitement as Peach asked for her breakfast, needing to recover after several won rounds against that poor bird. 
+Since Chica was recovering from surgery I didn't expect too much fuss. I thought she would behave in her usual elegant and composed fashion but here she was jumping around in excitement as Peach asked for her breakfast, needing to recover after several rounds won against that poor bird. 
 
 Although the apartment seemed like a madhouse thanks to the rush of zoomies, my girlfriend and I shared a warm happiness feeling at watching these two dogs smile back at us. I messaged my friend to let him know about his little companion's behavior, and he wrote back, "Wow I am so glad to hear that, I appreciate you taking care of her."
 
