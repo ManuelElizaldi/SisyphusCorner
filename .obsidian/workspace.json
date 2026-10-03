@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5,
-    "collapsed": true
+    "width": 472.5
   },
   "right": {
     "id": "443984180475832a",
@@ -272,8 +271,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "baa9d3248a1f0cf3",
+  "active": "dbd88b3155220a35",
   "lastOpenFiles": [
+    "Programming/RaspberryPi/Webpage",
     "Writing/Writing Ideas.md",
     "Programming/Home Lab/A Status Bot, a Dead Cron Job, and the Log Line That Explained Everything.md",
     "Programming/Home Lab/Blog 1 Setting up a Home Lab.md",
