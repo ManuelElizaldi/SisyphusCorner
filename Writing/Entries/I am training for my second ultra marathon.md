@@ -66,7 +66,7 @@ Saturday morning, 45 runs, 12,000 ft of ascent and 310 kilometers later, I woke 
 
 I enjoy preparing a brown sugar latte for her. For this I turn on my espresso machine, wait for its mechanical innards to heat up with a rumble. Then I Choose a coffee bean roast depending on my mood and melt some brown sugar with honey and a touch of vanilla extract in my microwave. While that goes on I steam whole milk and do my espresso puck preparation. I have my machine programmed for a 1:2 standard ratio, which delights me with perfect coffee crema. Using the silky steamed milk and my limited latte art skills I try to draw a flower but only manage to pour a kidney with tumors. Finally, I present my offering to my muse.  
 
-But that Saturday morning, it was just myself, drinking an Americano. While I waited for the caffeine to kick in, I prepared my cooler with three gallons of water, a Red Bull, candy, gels and energy waffles. I was going to spend at least 5 hours in the trail, I didn't mind being over prepared.
+But that Saturday morning, it was just myself, drinking an Americano. While I waited for the caffeine to kick in, I prepared my cooler with three gallons of water, a Red Bull, candy, gels and energy waffles. I was going to spend at least 5 hours in the trail, so I didn't mind being over prepared.
 
 I loaded everything into the trunk of my car and made my way to Mt.Lakeway, a hilly trail route 45 minutes away from my apartment. While driving I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager.
 
