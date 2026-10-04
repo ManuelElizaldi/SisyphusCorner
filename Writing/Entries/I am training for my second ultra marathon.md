@@ -80,17 +80,19 @@ Going up Mt. Lakeway, about an hour and a half into this ordeal I started to hea
 
 A part of me felt glad the trail was sprinkled with people. The night before my girlfriend mentioned that she felt worried about me being alone up in the trail. I assured her that there was nothing to worry about and said that there are plenty of houses around, and I was going to carry my phone for the entire run.
 
-Trekking through the climb, near the top, I took a mental note to text my girlfriend to let her know I was not the only one here. Then, thanks to some unseen force or perhaps the runner's high I was inundated with gratefulness. I remembered that throughout these 2 months my girlfriend was always there to support me during training. She even gladly paced me once riding a bike when I had to run 16 kilometers. 
+Trekking through the climb, near the top, I took a mental note to text my girlfriend to let her know I was not the only one here. Then, thanks to some unseen force or perhaps the runner's high I was inundated with gratefulness. I realized that throughout these 2 months my girlfriend was always there to support me during training, pushing me through each sacrifice. She even gladly paced me once riding a bike when I had to run 16 kilometers. 
 
 I reached the cross on top of Mt. Lakeway, touched it, said thanks and crossed myself, just like I had been doing these past training sessions. It was time for a little rest and some energy waffles. 
 
-Sitting down on a little chair I made myself with scattered rocks, I checked my phone and noticed my parents had said "Good morning, good luck on your run, be careful!" then from the corner of my eye I caught the new shoes they had gifted me for this ultra marathon. They felt sturdy, even after many kilometers of pounding and leaping, and were starting to feel worn in, shaping to my feet. No wonder I felt like a mountain goat.
+Sitting down on a little chair I made myself with scattered rocks, I checked my phone and noticed my parents had said "Good morning, good luck on your run, be careful!" then from the corner of my eye I caught the new shoes they had gifted me for this ultra marathon. They felt sturdy, after many kilometers of pounding and leaping, they were starting to feel worn in, shaping to my feet. No wonder I felt like a mountain goat.
 
 21 kilometers down, only 9 left. Finishing a loop I got back to my car to refuel and charge up. The legs that once felt like well oiled suspensions now felt like a wagon wheel carrying a heavy load. The body had done its job, now my mind had to push through.
 
-I could use any help I could get, so I texted everybody that I was almost done, only 9 kilometers left. Their words of encouragement inspired me, then I gorged down a mouthful of candy and chugged a Red Bull for that kick of caffeine. Then, I pulled the ace up my sleeve.
+I could use any help I could get, so I texted everybody that I was almost done, only 9 kilometers left. The words of encouragement from my family and girlfriend inspired me and my friend's surprise at the distance I ran gave me confidence. I gorged down a mouthful of candy and chugged a Red Bull for that second kick of caffeine.
 
-When I run, it is usually without music, sometimes I like to listen to a podcast or an audiobook, but these, in my opinion take from the experience. Running, from my point of view offers a perfect meditative experience where there's no other choice but to be in the moment. However, there are moments, where you need some nitroglycerin to ignite a second wind. 
+When I run, it is usually without music, sometimes I like to listen to a podcast or an audiobook taking advantage of the long runs, but these, in my opinion take from the experience. Running, from my point of view offers a perfect meditative experience where there's no other choice but to be in the moment. 
+
+However, there are moments, where you need some nitroglycerin to ignite a second wind. I grabbed my Bluetooth headset, browsed my library and decided on the album Piece of Mind by Iron Maiden. Their melodic guitar riffs, fast BPM drumming and epic lyrics was precisly what I needed to convicnce my spirit to finish this 
 
 
 
