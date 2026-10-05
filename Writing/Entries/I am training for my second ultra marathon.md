@@ -96,7 +96,9 @@ However, there are moments, where I need some nitroglycerin to ignite a second w
 
 The heavy impact of the drums, acting like fifer and field drummer signaled me to continue the battle. Then came the melodic guitar riffs by Dave Murray and Adrian Smith, which carried my legs. 2 kilometers down, 7 more to go and the song 'Revelations' kicked in. 
 
-I felt a cool breeze blowing through me. And I'm not sure if there was an actual breeze, because it was quite hot. I could hear my feet thumping the ground, following the beat of the drums in my ears, the dirt and rocks slashed behind with every stride. The fatigue disappeared, my watch showed a pace of 5:30 minutes per kilometer.
+I felt a cool breeze blowing through me. And I'm not sure if there was an actual breeze, because it was quite hot. I could hear my feet thumping the ground, following the beat of the drums in my ears, the dirt and rocks splashed behind with every stride. The fatigue disappeared, my running pace lowered to 5:30 minutes per kilometer from a 7:00, heart rate steady at 155 BPM. 
+
+
 
 
 
