@@ -2,9 +2,9 @@ _Phase 1 of building a three-node home lab: a Raspberry Pi, two retired gaming l
 
 ---
 
-It's almost 11pm and the Pi-hole admin panel has returned 403 Forbidden for the fourth time. Frustration is real at this point. I've installed a web server, fixed a missing PHP package, hand-written a config file, debugged a duplicate config key, and restarted the service more times than I want to admit. Every guide says Pi-hole runs on lighttpd. lighttpd is running, but the page will not load.
+It's almost 11pm and the Pi-hole admin panel has returned 403 Forbidden for the fourth time. My frustration was real at this point. I've installed a web server, fixed a missing PHP package, hand-written a config file, debugged a duplicate config key and restarted the service many times. Every guide I read said Pi-hole runs on lighttpd. Running the command to check if lighttpd is running returns green lights, but the page still doesn't load. 
 
-Then I run one command recommended to me by Claude:
+Then I run one command recommended by Claude:
 
 ```
 sudo ss -tlnp | grep pihole 
