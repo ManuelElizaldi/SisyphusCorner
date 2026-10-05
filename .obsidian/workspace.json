@@ -36,6 +36,34 @@
             }
           },
           {
+            "id": "0202b044db4d4943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Home Lab 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home Lab 1"
+            }
+          },
+          {
+            "id": "2db856412068e3fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Home Lab/A Status Bot, a Dead Cron Job, and the Log Line That Explained Everything.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Status Bot, a Dead Cron Job, and the Log Line That Explained Everything"
+            }
+          },
+          {
             "id": "518a55eb9920ba3f",
             "type": "leaf",
             "state": {
@@ -49,7 +77,8 @@
               "title": "I am playing the Bitcoin lottery with only a nerd miner and my raspberrypi"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,12 +244,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "baa9d3248a1f0cf3",
+  "active": "2db856412068e3fe",
   "lastOpenFiles": [
+    "Programming/Home Lab 1.md",
+    "Writing/Technical/Done/Bash Obsidian Backup Automation.md",
+    "Programming/Home Lab.md",
+    "Writing/Entries/I am training for my second ultra marathon.md",
     "Writing/Technical/Done/I am playing the Bitcoin lottery with only a nerd miner and my raspberrypi.md",
     "Writing/Technical/Done/F50 Physical AI Summit.md",
-    "Writing/Technical/Done/Bash Obsidian Backup Automation.md",
-    "Writing/Entries/I am training for my second ultra marathon.md",
     "Programming/RaspberryPi/Webpage/Bookshelf Backend - Build It By Hand.md",
     "Programming/RaspberryPi/Webpage/Home Lab Monitor - How the Website Shows My Pi Status.md",
     "Programming/Cloud Computing/AWS - HIPAA Labs/Lab 1 Notes.md",
@@ -247,8 +278,6 @@
     "Programming/Home Lab/Article 1 - Phase 1 & 2.md",
     "Pasted image 20260807180445.png",
     "Writing/Entries/Done/I Recorded My First YouTube Video.md",
-    "Writing/Entries/Done/Stay Wild Moon Child - Morning in Nuevo Laredo, Mexico.md",
-    "Writing/Entries/Martyr! - Notes Book Analysis.md",
     "Resources/Pasted image 20260703143647.png",
     "Resources/Screenshot_20260703-143329~2.jpg",
     "Resources/Pasted image 20260703144914.png",
