@@ -2,6 +2,8 @@ _Phase 1 of building a three-node home lab: a Raspberry Pi, two retired gaming l
 
 ---
 
+# Introduction
+
 It's almost 11pm and the Pi-hole admin panel has returned 403 Forbidden for the fourth time. My frustration was real at this point. I've installed a web server, fixed a missing PHP package, hand-written a config file, debugged a duplicate config key and restarted the service many times. Every guide I read said Pi-hole runs on lighttpd. Running the command to check if lighttpd is running returns green lights, but the page still doesn't load. 
 
 Then I run one command recommended by Claude:
@@ -15,11 +17,12 @@ LISTEN  0  32   0.0.0.0:53    users:(("pihole-FTL"))
 LISTEN  0  200  0.0.0.0:443   users:(("pihole-FTL")) 
 ```
 
-Pi-hole v6 doesn't use lighttpd. It ships its own web server now, built directly into pihole-FTL, and it had been listening on port 443 the entire time. The battle I spent two hours fighting did not exist.
+There, in the output, I had the answer I was looking for these past hours. Pi-hole v6 doesn't use lighttpd, it ships its own web server now, built directly into pihole-FTL, and it had been listening on port 443 the entire time.
 
 ### What I'm Building
+I had recently watched [Mischa Van Den Burg's](https://www.youtube.com/@mischavandenburg) video on why you should build a home lab and was inspired. I remembered I had some old gaming laptops that I didnd't use anymore and immediatley got to work. 
 
-The lab is three nodes. A Raspberry Pi 5 as the always-on control node, and two Acer Nitro 5 gaming laptops I no longer game on, waiting to become Proxmox hypervisors. The end state is a small production environment in my apartment: Kubernetes across both laptops, a CI/CD pipeline, database replication, and the Pi watching all of it with Prometheus and Grafana.
+The lab will have three nodes. A Raspberry Pi 5 as the brains of this operation, acting as a control node, and two Acer Nitro 5 gaming laptops () I no longer game on, which have  waiting to become Proxmox hypervisors. The end state is a small production environment in my apartment: Kubernetes across both laptops, a CI/CD pipeline, database replication, and the Pi watching all of it with Prometheus and Grafana.
 
 The point isn't the hardware. I work in healthcare data (Python, SQL, Snowflake pipelines) and I'm moving toward cloud and infrastructure work. I passed the AWS Solutions Architect Associate exam in June. A certification proves you can reason about architecture on paper. A home lab proves you can stand one up, break it, and fix it. This series documents that second part, including the mistakes.
 
