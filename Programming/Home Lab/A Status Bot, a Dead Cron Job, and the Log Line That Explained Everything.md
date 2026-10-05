@@ -36,7 +36,11 @@ Phase 1 was supposed to be simple: give the Pi a permanent address, make it the 
 
 ### The Foundation Work
 
-Before anything can run, a server needs an identity that doesn't change. My Pi had two: WiFi and ethernet, each with its own address. Both handed out by the router's DHCP and both subject to change on any reboot. You can't build a lab on addresses that move.
+Before anything can run, a server needs an identity that doesn't change. This is like owning a plot of land, where you decide what to build. 
+
+Based on modern network protocols, my Pi had two: WiFi and ethernet, each with its own address and both could change on reboot. These were handed out by the router's DHCP (Dynamic Host Configuration Protocol). 
+
+You can't build anything substantial if your plot of land keeps changing. 
 
 One command showed me the whole picture:
 
@@ -44,11 +48,11 @@ One command showed me the whole picture:
 ip route 
 ```
 
-The output revealed the ethernet interface at 192.168.0.65, the WiFi at .66, and the metric values Linux uses to prefer wired over wireless. We locked the ethernet address in as static, set the router as gateway, and pointed DNS at Google temporarily. The Pi was about to become a DNS server itself, and a DNS server that depends on itself before it's stable is a chicken-and-egg problem.
+After running the command, the output showed the ethernet address at 192.168.0.65 and the WiFi at 192.168.0.66. So taking this into consideration I locked the ethernet address in as a static IP, set the router as gateway, and pointed DNS at Google temporarily.
 
-Then Pi-hole, so every machine in the lab gets a real hostname. node-a.lab instead of a memorized IP. This is the same concept as Route 53 private zones or CoreDNS in Kubernetes, scaled down to an apartment.
+Then came [Pi-hole](https://docs.pi-hole.net/). This software allowed me to create a phone book for my home lab. Instead of remembering each machine's IP, I could just name them. This is the same concept as Route 53 private zones or CoreDNS in Kubernetes, scaled down to my small setup.
 
-That's where the trouble started.
+That's where I hit my first obstacle. 
 
 ### The Wrong Battle
 
