@@ -1,4 +1,4 @@
-0 runs, 0 ft of ascent and 0 kilometers. The calendar marks June 30th. The World Cup euphoria is running hot. Mexico just won against Ecuador in a 2-0 match where the Mexican team displayed the best football I have ever seen from my country. National optimism was soaring, everyone I talked to felt like they were invincible. 
+0 runs, 0 ft of ascent and 0 kilometers. The calendar marks June 30th. The World Cup euphoria is running hot. Mexico just won against Ecuador in a 2-0 match where the Mexican team displayed the best football I have ever seen from my country. National optimism was soaring and everyone I talked to felt like they were invincible. 
 
 A part of me had a crumb of regret from not watching this game at a sports bar or at a friend's house. My heart demanded I share this ecstasy. But destiny wanted me here, on my sofa, sipping my Asahi beer howling at the TV for more goals. I needed this, my country needed this, we needed this victory. Suddenly it seemed like all of Mexico's issues were on pause, because we were watching history erupt.
 
@@ -8,7 +8,7 @@ What Mexico's national team had shown during that game was a playful bravado. A 
 
 Sitting at our usual spot in the cigar lounge, with tobacco in hand, smoke rising from us and nicotine rushing through us, we looked back at how we used to run Spartan Races yearly. A crucible of pain where months before we prepared our minds and bodies for the 10 kilometer trail run with obstacles scattered around the course.
 
-The burning rolled tobacco unrolled a desire that was inside my friend, "we should do a race again, just like those Spartan races. We need to do something hard this year," he said this, while staring at the horizon. Maybe talking to himself or perhaps testing the waters he then mentioned, "An ultra marathon would be a good challenge." 
+The burning rolled tobacco unrolled a desire that was inside my friend, "we should do a race again, just like those Spartan races. We need to do something hard this year," he said, while staring at the horizon. Maybe talking to himself or perhaps testing the waters he then mentioned, "An ultra marathon would be a good challenge." 
 
 He ended up registering for the Sky Island Trail Race. A 50 kilometer (30 mile) race in the desert mountains of Fort Davis, in West Texas. He insisted I register, but at the time perhaps unconsciously or maybe consciously, I had postponed the registration.
 
@@ -16,7 +16,7 @@ Any trace of writer's block evaporated when it came to formulating excuses. I ha
 
 Regardless of all this, the combination of my Japanese bottled liquid courage and the elegant football displayed by my national team had propelled me to take a leap of faith. I grabbed my laptop, looked up the race my friend invited me to and paid the registration. 
 
-I took a screenshot of my receipt and sent it to my friend via text message saying "Así no más quedó," and went to bed. The next day, a bit hung over from the Japanese beers and the exhilarating game, the euphoria had lessened and reality hit me like the recoil of a bolt action rifle. 
+I took a screenshot of my receipt and sent it to my friend via text message saying, "Así no más quedó," and went to bed. The next day, a bit hung over from the Japanese beers and the exhilarating game, the euphoria had lessened and reality hit me like the recoil of a bolt action rifle. 
 
 He had noticed the time of the screenshot I sent, 1:00 AM. He responded, "What were you doing up at that time? Did you really register?" The wave had crashed, bringing me back to the now. Had I really signed up for that race? What sort of insane atavistic patriotic excitement had possessed me to do such a twisted thing?  
 
@@ -48,9 +48,9 @@ Since all of my energy was aimed at training, doing the hard thing meant less wr
 
 31 runs, 5,779 ft of ascent, 190.1 kilometers and a couple of weeks later, I received a text message from my friend about Chica. She had passed away. My friend asked for thoughts and prayers. I called him to check how he was doing. He explained with a raw raspy voice that after the weekend I took care of her, she had stopped eating. Her health had started to decline. He did some blood work, but everything turned out bad.
 
-During the call I told my friend to take his time and offered him space, to which he replied "Space is the last thing I need, right now I need to see my friends." So we decided to go out for our ceremonial cigars. 
+During the call I told my friend to take his time and offered him space, to which he replied, "Space is the last thing I need, right now I need to see my friends." So we decided to go out for our ceremonial cigars. 
 
-Arriving at the lounge, I hugged my friend and said "Chica's spirit will always be by your side, taking care of you." Settling in, we lit up our cigars; I exhaled the smoke and my attention got lost in the light dancing through the little clouds. One made a shape of a mountain. 
+Arriving at the lounge, I hugged my friend and said, "Chica's spirit will always be by your side, taking care of you." Settling in, we lit up our cigars; I exhaled the smoke and my attention got lost in the light dancing through the little clouds. One made a shape of a mountain. 
 
 We reminisced about the years long gone when we were roommates, back when I first arrived in Austin, and we enjoyed going out for BBQ. We would always bring back home bones for Chica. For some weird reason, after every munching session, she would hide them under my bed, only to retrieve them later in the day. 
 
@@ -70,25 +70,25 @@ But that Saturday morning, it was just myself, drinking an Americano. While I wa
 
 I loaded everything into the trunk of my car and made my way to Mt. Lakeway, a hilly trail route 45 minutes away from my apartment. While driving, I was listening to Pxndx, a Mexican pop punk band I used to listen to when I was a teenager.
 
-Playing the album Amantes Sunt Amentes, my nerves were tamed by the heavy guitar riffs, slugger-like drums and emotionally visceral lyrics. I arrived early in the morning, grabbed my phone and reported for duty by texting my girlfriend and family. Since suffering is best when in company, I also checked to see if any of my friends had accepted the invite I sent last night for some self-inflicted torture. No one had responded.
+With the album Amantes Sunt Amentes, my nerves were tamed by the slugger-like drums and emotionally visceral lyrics. I arrived early in the morning, grabbed my phone and reported for duty by texting my girlfriend and family. Since suffering is best when in company, I also checked to see if any of my friends had accepted the invite I sent last night for some self-inflicted torture. No one had responded.
 
 My mind was ready to go, but my muscles still needed to wake up. Grabbing my resistance band I started to do abductor and glute exercises, two essential muscle groups when going up mountains. Then I performed a couple of sets of isometrics that supercharged the quads and calves.
 
-15 kilometers in I had enough proof that my time sacrificed in honor of training was paying off. Going up the first ascent at a moderate speed, I noticed the absence of the burning sensation when breathing after a strenuous climb. Each passing kilometer made the hardening of my legs more evident. I had built true horsepower, my body wanted to go faster, but I knew this was just the beginning. 
+15 kilometers in I had enough proof that my time sacrificed in honor of training was paying off. Going up the first ascent at a moderate speed, I noticed the absence of the burning sensation when breathing after a strenuous climb. Each passing kilometer made the hardening of my legs more evident. I had built true horsepower. My body wanted to go faster, but I knew this was just the beginning. 
 
 Going up Mt. Lakeway, about an hour and a half into this ordeal I started to hear the notification sounds from my phone. The outside world was waking up. Then, I passed an old lady, crossed paths with another runner and saw a pack of firefighters. 
 
 A part of me felt glad the trail was sprinkled with people. The night before my girlfriend mentioned that she felt worried about me being alone up on the trail. I assured her that there was nothing to worry about and said that there were plenty of houses around, and I was going to carry my phone for the entire run.
 
-Trekking through the climb, near the top, I took a mental note to text my girlfriend to let her know I was not the only one here. Then, some unseen force made me realiz that throughout these 2 months my girlfriend was always there to support me during training, pushing me through each sacrifice. She even gladly paced me once riding a bike when I had to run 16 kilometers. 
+Trekking through the climb, near the top, I took a mental note to text my girlfriend to let her know I was not the only one here. Then, some unseen force made me realize that throughout these two months my girlfriend had always been there to support me during training, pushing me through each sacrifice. She even gladly paced me once riding a bike when I had to run 16 kilometers. 
 
 I reached the cross on top of Mt. Lakeway, touched it, said thanks and crossed myself, just like I had been doing these past training sessions. It was time for a little rest and some energy waffles. 
 
-Sitting down on a little chair I made myself with scattered rocks, I checked my phone and noticed my parents had said "Good morning, good luck on your run, be careful!" then from the corner of my eye I caught the new shoes they had gifted me for this ultra marathon. They felt sturdy, after many kilometers of pounding and leaping, they were starting to feel worn in, shaping to my feet. No wonder I felt like a mountain goat.
+Sitting down on a little chair I made myself with scattered rocks, I checked my phone and noticed my parents had said "Good morning, good luck on your run, be careful!" Then from the corner of my eye I caught the new shoes they had gifted me for this ultra marathon. They felt sturdy; after many kilometers of pounding and leaping, they were starting to feel worn in shaping to my feet. No wonder I felt like a mountain goat.
 
-21 kilometers down, only 9 left. I finished a lap and got back to my car to refuel and charge up. The legs that once felt like well-oiled suspensions now felt like a wagon wheel carrying a heavy load. The body had done its job, now my mind had to push through.
+21 kilometers down, only 9 left. I got back to my car to refuel and charge up. The legs that once felt like well-oiled suspensions now felt like a wagon wheel carrying a heavy load. The body had done its job. Now my mind had to push through.
 
-I could use any help I could get, so I texted everybody that I was almost done. The words of encouragement from my family, friends and girlfriend inspired. I gorged down a mouthful of candy and chugged a Red Bull for that second kick of caffeine.
+I could use any help I could get, so I texted everybody that I was almost done. My girlfriend texted me, "Remembered we agreed to chill at your apartment and watch movies after!" I gorged down a mouthful of candy and chugged a Red Bull for that second kick of caffeine.
 
 When I run, it is usually without music, sometimes I like to listen to a podcast or an audiobook taking advantage of the long runs, but these, take from the experience. Running, offers me a perfect meditative experience where there's no other choice but to be in the now. 
 
@@ -100,4 +100,4 @@ I felt a cool breeze blowing through me. And I'm not sure if there was an actual
 
 Weeks earlier at my desk, I was working on a data pipeline. When I received a call from my dad, I picked up and asked, "¿Qué onda pá? Everything all right?" I knew he needed something because his calls are rare during work hours. No hello, no What's up? Just: "How much was your ultra marathon registration fee? I want to pay for it." I didn't know what to respond. He doubled down saying, "You know I am very proud of everything you have done."
 
-3 kilometers left and the ascent continued. Power hiking the steeper parts, running where the terrain allowed. A mirage materialized in front of me. I could clearly see a finish line close by and my family and girlfriend on the other side of it, screaming my name and cheering "Vamos!" as I hauled myself across the line. I noticed my feet were burning, and the vision vanished. I looked at my watch. My heart rate was at 173 BPM.
+3 kilometers left and the ascent continued. Power hiking the steeper parts, running where the terrain allowed. A mirage materialized in front of me. I could clearly see a finish line close by and my family and girlfriend on the other side of it, screaming my name and cheering "Vamos!" as I hauled myself across the line. My feet were burning, and the vision vanished. I looked at my watch. My heart rate was at 173 BPM.
