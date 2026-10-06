@@ -77,15 +77,21 @@ Two lessons came out of that night:
 ### The Payoff
 The rest of Phase 1 moved quickly now with a Pi Hole that was actually reachable, (port 443, self-signed certificate, browser warning and all).
 
-First in the to-do list: node_exporter: a small agent that reads CPU, memory, disk, and network stats from the Pi and exposes them on port 9100. It runs as its own locked-down system user with /bin/false for a shell, an account that exists purely to own a process and can never be logged into. Least privilege, the same principle from every AWS course, finally implemented with my own hands.
+First in the to-do list, node_exporter. A small agent that reads CPU, memory, disk, and network stats from the Pi and exposes them on port 9100. 
 
-Installing these tools by hand also forced me to learn something I had skipped for eight years: the Linux directory structure. Binaries live in /usr/local/bin. Configuration lives in /etc. Data that grows lives in /var/lib, and logs live in /var/log. This is basic knowledge, and my lack of experience here made the gaps shine crystal clear. But the layout is a map. Now when something breaks, it is easier to know which folders to look in.
+Applying the Least Privilege Principle I learn for the AWS Solutions Architect exam, I created a locked-down system user with /bin/false for a shell. This user can't run shell commands, and it can't be logged into. The user's sole purpose is to own the node_exporter service. 
 
-![Article content](https://media.licdn.com/dms/image/v2/D5612AQHDpOlz0naOAg/article-inline_image-shrink_1500_2232/B56Z8plX86LAAQ-/0/1783109091556?e=1792627200&v=beta&t=NtTburUGoAtZ5XCfa1L9dUIJBBcdo8MIE6Sr3vp4X0M)
+Installing these tools by hand also forced me to learn something I had never encountered in my career: the Linux directory structure. Now with a Raspberry Pi and a Desktop rocking Zorin Os, learning this was mandatory.
 
-Linux directory structure
+Binaries live in /usr/local/bin and configuration lives in /etc. Data that grows lives in /var/lib, and logs live in /var/log. 
 
-Prometheus went in next, scraping those metrics every 15 seconds and storing them in a time-series database, specialized for metrics. Then Grafana on top, turning the database into dashboards, similar to how AWS has QuickSight. This is the work flow now:
+![[Pasted image 20261005195449.png]]
+
+
+This is basic knowledge, and my lack of experience made the gaps shine crystal clear. But the layout is a map. Now when something breaks, it is easier to know which folders to explore. 
+
+
+Next in the to-do list: Prometheus. scraping those metrics every 15 seconds and storing them in a time-series database, specialized for metrics. Then Grafana on top, turning the database into dashboards, similar to how AWS has QuickSight. This is the work flow now:
 
 ```
 node_exporter = a weather station measuring temperature
