@@ -1,3 +1,5 @@
+![[Pasted image 20261005214922.png]]
+
 Saturday at my apartment, me and my girlfriend enjoy the nothingness together. She asks me to help her with her new hobby, a food blog where she records all of our culinary excursions. A simple and entertaining way to journal our dates and share it with the world. I don't mind being the investor in this project, for I get in return delicious food and the pleasure of her company. 
 
 She knows I am a writer (or at least try to be) and asks for my advice for her blog. Our flows clash sometimes, whenever I suggest an addition to her punchy one liners, she says "Nah I don't want to write all that on here"  then I quizzically retort "Why are you not capitalizing proper nouns?" to which she explains "That's not my style." 

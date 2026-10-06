@@ -1,3 +1,4 @@
+![[Pasted image 20261005214658.png]]
 ### "I went out without a plan and the city _gave_ me a day"
 
 It was not a hard week, it was just a work week. Finished a project that didn't end up being finished, as it usually goes with projects. Revisions based on new requests. Code changes to accommodate for new information, dependency updates or bug fixes caused by a slip in my QA. 

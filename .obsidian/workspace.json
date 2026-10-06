@@ -36,90 +36,6 @@
             }
           },
           {
-            "id": "4be915ca5384ab7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/Sandbag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sandbag"
-            }
-          },
-          {
-            "id": "c14b2c852b86a090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/Stay Wild Moon Child - Morning in Nuevo Laredo, Mexico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stay Wild Moon Child - Morning in Nuevo Laredo, Mexico"
-            }
-          },
-          {
-            "id": "f0f8f4f434f684bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/The Lunch Beer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Lunch Beer"
-            }
-          },
-          {
-            "id": "96afec109bf32282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/Hats I Love - Gifted Hats pt.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hats I Love - Gifted Hats pt.1"
-            }
-          },
-          {
-            "id": "508890e4235882e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/Hats I love pt. 2  It Is Easy to Love The Mountains, It Takes Soul to Love the Texas Brush Country - El Venadito Ranch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hats I love pt. 2  It Is Easy to Love The Mountains, It Takes Soul to Love the Texas Brush Country - El Venadito Ranch"
-            }
-          },
-          {
-            "id": "b9990747ee0801d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/Hats I love pt. 3 - Sister Mountains, Sister Hats.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hats I love pt. 3 - Sister Mountains, Sister Hats"
-            }
-          },
-          {
             "id": "7e428e584798e841",
             "type": "leaf",
             "state": {
@@ -134,77 +50,21 @@
             }
           },
           {
-            "id": "bb58619622db3b87",
+            "id": "30b24b63a933b05c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Entries/Done/Running as Rebellious Meditation against brain rot.md",
+                "file": "Programming/Home Lab/Done/Home Lab Blog 1 Setting up the first node, monitoring tools, notification bot and learning linux basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Running as Rebellious Meditation against brain rot"
-            }
-          },
-          {
-            "id": "fe2e8a6a523bbefa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/Little presents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Little presents"
-            }
-          },
-          {
-            "id": "19561023b1ab3a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/A Day In Austin, Texas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Day In Austin, Texas"
-            }
-          },
-          {
-            "id": "53898eb04e0b0d08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/I had an espresso.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I had an espresso"
-            }
-          },
-          {
-            "id": "b13d850a418990b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Done/I Recorded My First YouTube Video.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I Recorded My First YouTube Video"
+              "title": "Home Lab Blog 1 Setting up the first node, monitoring tools, notification bot and learning linux basics"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -369,44 +229,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "fe2e8a6a523bbefa",
+  "active": "dbd88b3155220a35",
   "lastOpenFiles": [
-    "Pasted image 20261005214414.png",
-    "Writing/Entries/Done/Running as Rebellious Meditation against brain rot.md",
     "Programming/Home Lab/A Health Check That Reports Nothing Looks Exactly Like a Healthy Drive.md",
-    "Writing/Entries/Done/Hats I love pt. 3 - Sister Mountains, Sister Hats.md",
-    "Pasted image 20261005214330.png",
-    "Writing/Entries/Done/Hats I love pt. 2  It Is Easy to Love The Mountains, It Takes Soul to Love the Texas Brush Country - El Venadito Ranch.md",
-    "Pasted image 20261005214259.png",
-    "Writing/Entries/Done/Hats I Love - Gifted Hats pt.1.md",
-    "Writing/Entries/Done/The Lunch Beer.md",
-    "Pasted image 20261005214229.png",
-    "Pasted image 20261005214148.png",
-    "Writing/Entries/Done/Stay Wild Moon Child - Morning in Nuevo Laredo, Mexico.md",
-    "Writing/Entries/Done/Sandbag.md",
-    "Pasted image 20261005213849.png",
-    "Programming/Formatting & Mounting Storage Volumes on Linux.md",
-    "Writing/Entries/I am training for my second ultra marathon.md",
     "Writing/Entries/Done/I Recorded My First YouTube Video.md",
-    "Programming/Home Lab/Article 1 - Phase 1 & 2.md",
     "Writing/Entries/Done/I had an espresso.md",
     "Writing/Entries/Done/A Day In Austin, Texas.md",
     "Writing/Entries/Done/Little presents.md",
+    "Writing/Entries/Done/Running as Rebellious Meditation against brain rot.md",
+    "Writing/Entries/Done/Hats I love pt. 3 - Sister Mountains, Sister Hats.md",
+    "Writing/Entries/Done/Hats I love pt. 2  It Is Easy to Love The Mountains, It Takes Soul to Love the Texas Brush Country - El Venadito Ranch.md",
+    "Writing/Entries/Done/Hats I Love - Gifted Hats pt.1.md",
+    "Writing/Entries/Done/The Lunch Beer.md",
+    "Writing/Entries/Done/Stay Wild Moon Child - Morning in Nuevo Laredo, Mexico.md",
+    "Writing/Entries/Done/Sandbag.md",
+    "Programming/Formatting & Mounting Storage Volumes on Linux.md",
+    "Writing/Entries/I am training for my second ultra marathon.md",
+    "Pasted image 20261005214922.png",
+    "Pasted image 20261005214737.png",
+    "Pasted image 20261005214658.png",
+    "Pasted image 20261005214540.png",
+    "Pasted image 20261005214414.png",
+    "Pasted image 20261005214330.png",
+    "Pasted image 20261005214259.png",
+    "Pasted image 20261005214229.png",
+    "Pasted image 20261005214148.png",
+    "Pasted image 20261005213849.png",
+    "Programming/Home Lab/Article 1 - Phase 1 & 2.md",
     "Writing/Entries/Done/Internal Inevitable Adjustment.md",
     "Writing/Technical/Done/Bash Obsidian Backup Automation.md",
-    "Programming/Home Lab/Home Lab Blog 1 Setting up the first node, monitoring tools, notification bot and learning linux basics.md",
-    "raspberrypi.jpeg",
-    "Screenshot_20261005-204913.png",
+    "Programming/Home Lab/Done/Home Lab Blog 1 Setting up the first node, monitoring tools, notification bot and learning linux basics.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
-    "Screenshot_20261005-203911.png",
     "Programming/Useful Terminology.md",
     "Programming/StatsD.md",
     "Programming/Thread.md",
     "Programming/Elasticsearch.md",
     "Programming/TO DO!.md",
     "Programming/Decorator.md",
-    "Pasted image 20261005200529.png",
-    "Pasted image 20261005195449.png",
     "Programming/RaspberryPi/Webpage",
     "Programming/Home Lab/Done",
     "Programming/Garmin",

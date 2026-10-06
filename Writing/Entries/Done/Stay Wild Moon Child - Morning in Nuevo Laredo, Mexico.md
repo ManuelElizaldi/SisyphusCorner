@@ -1,3 +1,5 @@
+![[Pasted image 20261005214540.png]]
+
 I arrived yesterday, from only an hour of sleep stacked on top of jet lag, there's still a hazy tiredness covering me. I intentionally asked for an additional PTO at my job to rest and in case a flight got delayed and ended up stuck somewhere in the transient journey back home. 
 
 Fortunately, everything ran smoothly, even though we had 3 connecting flights, miraculously none got delayed. With the assurance that we made it back home safe, with all of our luggage I was able to lay down in my childhood bed and rest.

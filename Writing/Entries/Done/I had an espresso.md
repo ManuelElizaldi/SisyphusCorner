@@ -1,3 +1,5 @@
+![[Pasted image 20261005214737.png]]
+
 I am trying out a writing challenge. I woke up for work, got my morning programs running and now I made myself an espresso. The goal of this challenge is to write a mini essay while I drink my espresso, small edits, no frills, rapid fire writing. 
 
 What inspired this little quest, was The Sopranos, after I don't know how many years from its release I finally decided to watch this mafioso masterpiece. I clearly remember when my dad was watching this back in the day. I can't say precisely how old I was, but I remember he had to travel for work to some other place I can't recall. 
