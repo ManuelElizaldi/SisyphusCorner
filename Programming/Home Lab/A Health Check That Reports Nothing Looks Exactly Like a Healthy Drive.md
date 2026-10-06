@@ -7,7 +7,7 @@ Disk Usage: 1%
 
 Nothing after the colon. The script had run, curl had fired, Telegram had delivered. Every part of the system worked. The only thing missing was the answer to the question the whole thing existed to ask
 
-![Article content](https://media.licdn.com/dms/image/v2/D5612AQHWKqDL7zhRpA/article-inline_image-shrink_1500_2232/B56Z_N3ShhK8AQ-/0/1785865251525?e=1792627200&v=beta&t=XkW_uxVBU7PgZJBUfSF3L7mwH4Sw511CFXKMBC3ol3M)
+
 
 Screen shot of my bot with the empty message
 

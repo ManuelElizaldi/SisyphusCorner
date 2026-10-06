@@ -1,8 +1,8 @@
 _Phase 1 of building a three-node home lab: a Raspberry Pi, two retired gaming laptops, and the gap between knowing how to code and knowing how infrastructure works._
 
 ---
+![[raspberrypi.jpeg]]
 # Introduction
-
 It's almost 11pm and the Pi-hole admin panel has returned 403 Forbidden for the fourth time. My frustration was real at this point. I've installed a web server, fixed a missing PHP package, handwritten a config file, debugged a duplicate config key and restarted the service and my Raspberry Pi many times. 
 
 Every guide I read said Pi-hole runs on lighttpd. Running the command to check if lighttpd is running returned green lights, but the page still didn't load. 
@@ -55,7 +55,7 @@ That's where I hit my first obstacle.
 
 ### The Wrong Battle
 
-Hitting http://100.118.68.64/admin/, the Pi-Hole Admin page, in my browser didn't show anything. The panel wouldn't load. My first discovery was honest work: Apache was overtaking port 80, serving my half-finished WordPress portfolio site I started building months ago.
+Hitting `https://<pi-address>/admin/`, the Pi-Hole Admin page, in my browser didn't show anything. The panel wouldn't load. My first discovery was honest work: Apache was overtaking port 80, serving my half-finished WordPress portfolio site I started building months ago.
 
 I decided to stop Apache for now, and made a note to move it to another port later. 
 
@@ -79,21 +79,21 @@ The rest of Phase 1 moved quickly now with a Pi Hole that was actually reachable
 
 First in the to-do list, node_exporter. A small agent that reads CPU, memory, disk, and network stats from the Pi and exposes them on port 9100. 
 
-Applying the Least Privilege Principle I learn for the AWS Solutions Architect exam, I created a locked-down system user with /bin/false for a shell. This user can't run shell commands, and it can't be logged into. The user's sole purpose is to own the node_exporter service. 
+Applying the Least Privilege Principle I learned for the AWS Solutions Architect exam, I created a locked-down system user with /bin/false for a shell. This user can't run shell commands, and it can't be logged into. The user's sole purpose is to own the node_exporter service. 
 
 Installing these tools by hand also forced me to learn something I had never encountered in my career: the Linux directory structure. Now with a Raspberry Pi and a Desktop rocking Zorin Os, learning this was mandatory.
 
 Binaries live in /usr/local/bin and configuration lives in /etc. Data that grows lives in /var/lib, and logs live in /var/log. 
 
 ![[Pasted image 20261005195449.png]]
-*Linux directory map*
+*Linux directory map (Source: [GeeksforGeeks](https://www.geeksforgeeks.org/linux-unix/linux-file-hierarchy-structure/))*
 
 This is basic knowledge, and my lack of experience made the gaps shine crystal clear. But the layout is a map. Now when something breaks, it is easier to know which folders to explore. 
 
 
 Next in the to-do list: Prometheus and Grafana. Prometheus scrapes the metrics collected by node_exporter every 15 seconds and stores them in a time series database, specialized for this purpose. 
 
-Grafana sits on top of this process, turning the database into a usable dashboard. Very similar to how AWS has QuickSights.
+Grafana sits on top of this process, turning the database into a usable dashboard. Very similar to how AWS has QuickSight.
 
 ```
 node_exporter = a weather station measuring temperature
