@@ -56,9 +56,11 @@ That's where I hit my first obstacle.
 
 ### The Wrong Battle
 
-The admin panel wouldn't load. My first discovery was honest work: Apache was squatting on port 80, serving a half-finished WordPress site I'd built months ago. Fine. I stopped Apache and made a note to move it to another port later.
+Hitting http://100.118.68.64/admin/, the Pi-Hole Admin page, in my browser didn't show anything. The panel wouldn't load. My first discovery was honest work: Apache was squatting on port 80, serving my half-finished WordPress portfolio site I started building months ago.
 
-Still nothing. And here's where I made the real mistake: I assumed. Every tutorial, every forum thread, every guide said Pi-hole serves its admin panel through lighttpd. So I installed lighttpd. When it crashed, I installed php-cgi. When it complained about a missing config file, I wrote one by hand. When that file had a duplicate key, I found it and removed it. Each fix was small and satisfying and completely irrelevant.
+I decided to stop Apache for now, and made a note to move it to another port later. 
+
+I retried setting up the Pi-Hole, but still I got nothing. And here's where I made the real mistake: I assumed. Every tutorial, every forum thread, every guide said Pi-hole serves its admin panel through lighttpd. So I installed lighttpd. When it crashed, I installed php-cgi. When it complained about a missing config file, I wrote one by hand. When that file had a duplicate key, I found it and removed it. Each fix was small and satisfying and completely irrelevant.
 
 I've been working with code for eight years. But sockets, ports, systemd services, firewall rules: this is a different world, and in this world I'm a beginner. The embarrassing part isn't that I didn't know Pi-hole v6 had changed its architecture. The embarrassing part is that the answer was in Pi-hole's official documentation the whole time, and I never checked. I followed guides written for v5 and trusted a single source of truth instead of reading the primary one.
 
