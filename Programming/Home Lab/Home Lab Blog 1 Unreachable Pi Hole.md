@@ -114,11 +114,14 @@ To test it, I purposefully killed node_exporter and waited. Two minutes later I 
 It felt exciting to have assembled a small bot that texts me when something is wrong, this is like having a personal digital assistant watching over the lab. By far, receiving the text that my systems are back online has been the most rewarding moment of this process. 
 
 ![[Screenshot_20261005-203911.png]]
-Monitoring Bot sending me messages
+*Monitoring Bot sending me success messages*
 
-After this programming session, now I have a small $80 computer sitting on my desk that can text me when something breaks. At work, I've experienced the opposite. A Windows Task Scheduler job fails silently overnight, and the first sign of trouble is an email about someone complaining about a missing report and a morning spent reading scripts line by line, guessing. The difference between those two mornings is exactly what this lab is for.
+After this programming session, now I have a small $80 computer sitting on my desk that can text me when something breaks. At work, I've experienced the opposite. A Windows Task Scheduler job fails silently overnight, and the first sign of trouble is an email from someone complaining about a missing report and a morning spent reading scripts and logs, line by line, trying to figure out the bug. The difference between those two mornings is exactly what this lab is for.
 
-Grafana also caught something I wasn't aware of: My raspberrypi's SD card was at 57% and climbing. The culprit was systemd's journal, 2.9GB of logs growing uncapped since the day the Pi was flashed, because I never set a cap. One config line and one vacuum command later, the disk dropped to 46% and can never silently fill again. The monitoring paid for itself, even before Phase 1 was even finished.
+### This project was already paying dividends
+Exploring Grafana I caught something that I wasn't aware of: My raspberrypi's SD card was at 57% and climbing. The culprit was the systemd's journal, 2.9GB of logs growing uncapped since the day the Pi was flashed, because your humble servant never set a cap.
+
+One config line and one vacuum command later, the disk dropped to 46% and can never silently fill again. The monitoring paid for itself, even before Phase 1 was even finished.
 
 Discovering this made me realize how much I still don't know about the DevOps and monitoring world. Another challenge in this experiment isn't technical at all: imposter syndrome. I set high expectations for myself, and something as simple as noticing my disk was almost full is enough to humble me and remind me there's still much to learn.
 
