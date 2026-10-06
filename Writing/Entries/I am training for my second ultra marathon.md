@@ -98,6 +98,8 @@ The heavy impact of the drums, acting like fifer and field drummer signaled me t
 
 I felt a cool breeze blowing through me. And I'm not sure if there was an actual breeze, because it was quite hot. I could hear my feet thumping the ground, following the beat of the drums in my ears, the dirt and rocks splashed behind with every stride. The fatigue disappeared, my running pace lowered to 5:30 minutes per kilometer from a 7:00, heart rate steady at 155 BPM. 
 
+My decision put me here, 
+
 
 
 
