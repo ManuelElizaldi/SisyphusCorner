@@ -1,7 +1,6 @@
 _Phase 1 of building a three-node home lab: a Raspberry Pi, two retired gaming laptops, and the gap between knowing how to code and knowing how infrastructure works._
 
 ---
-
 # Introduction
 
 It's almost 11pm and the Pi-hole admin panel has returned 403 Forbidden for the fourth time. My frustration was real at this point. I've installed a web server, fixed a missing PHP package, handwritten a config file, debugged a duplicate config key and restarted the service and my Raspberry Pi many times. 
@@ -36,7 +35,7 @@ Phase 1 was supposed to be simple: give the Pi a permanent address, make it the 
 
 ### The Foundation Work
 
-Before anything can run, a server needs an identity that doesn't change. This is like owning a plot of land, where you decide what to build. 
+Before building anything, a server needs an identity that doesn't change. This is like owning a plot of land, where you decide what and where to build. 
 
 Based on modern network protocols, my Pi had two: WiFi and ethernet, each with its own address and both could change on reboot. These were handed out by the router's DHCP (Dynamic Host Configuration Protocol). 
 
@@ -56,7 +55,7 @@ That's where I hit my first obstacle.
 
 ### The Wrong Battle
 
-Hitting http://100.118.68.64/admin/, the Pi-Hole Admin page, in my browser didn't show anything. The panel wouldn't load. My first discovery was honest work: Apache was squatting on port 80, serving my half-finished WordPress portfolio site I started building months ago.
+Hitting http://100.118.68.64/admin/, the Pi-Hole Admin page, in my browser didn't show anything. The panel wouldn't load. My first discovery was honest work: Apache was overtaking port 80, serving my half-finished WordPress portfolio site I started building months ago.
 
 I decided to stop Apache for now, and made a note to move it to another port later. 
 
@@ -64,21 +63,21 @@ I retried setting up the Pi-Hole, but still I got nothing. And here's my worst m
 
 So I sudo apt installed lighttpd. When it crashed, I asked Claude and it recommended installing php-cgi. When it complained about a missing config file, I wrote one by hand. Then that file had a duplicate key, I found it and removed it. Each fix was small and satisfying. It felt like progress, but all was completely irrelevant.
 
-I've been working with code for eight years. But sockets, ports, systemd services, firewall, DNS rules: this is a different world, and in this world I'm a beginner. The embarrassing part isn't that I didn't know Pi-hole v6 had changed its architecture. The embarrassing part is that the answer was in Pi-hole's official documentation the whole time, and I never checked. I followed guides written for v5 and trusted a single source of truth instead of reading the primary one.
+I've been working with code for eight years, mostly related to Data Engineering. But sockets, ports, systemd services, firewall rules, DNS, all of this is new to me. I am a beginner, with little to no hands-on experience. 
 
-Two hours. One ss command to end it.
+It is embarrassing that the answer was in Pi-hole's official documentation the whole time, and I never checked. I followed guides written for v5 and trusted every single source instead of reading the primary one.
 
-Two lessons came out of that night, and I've written them on an index card:
+Two hours. One ss command to finish the battle.
 
-**Check the version before assuming how software works.** Pi-hole v5 and v6 are architecturally different programs that share a name. Every error I debugged was real, but it was real for software I didn't need.
+Two lessons came out of that night:
 
-**Diversify your sources.** Guides, forums, AI: all of them synthesized the v5 world confidently. The official docs would have ended this in five minutes. Secondary sources are fast. Primary sources are true.
+**Check software versions** Pi Hole v5 and v6 are vastly different pieces of software. Every error I debugged was real, but it was real for software I was not using.
 
+**Diversify your sources.** Guides, forums, AI: all of them gave me great information about Pi Hole v5, but this was not what I needed. The official documentation would have saved me 2 hours of my life.
 ### The Payoff
+The rest of Phase 1 moved quickly now with a Pi Hole that was actually reachable, (port 443, self-signed certificate, browser warning and all).
 
-Once Pi-hole was actually reachable (port 443, self-signed certificate, browser warning and all), the rest of Phase 1 moved fast.
-
-node_exporter went in first: a small agent that reads CPU, memory, disk, and network stats from the Pi and exposes them on port 9100. It runs as its own locked-down system user with /bin/false for a shell, an account that exists purely to own a process and can never be logged into. Least privilege, the same principle from every AWS course, finally implemented with my own hands.
+First in the to-do list: node_exporter: a small agent that reads CPU, memory, disk, and network stats from the Pi and exposes them on port 9100. It runs as its own locked-down system user with /bin/false for a shell, an account that exists purely to own a process and can never be logged into. Least privilege, the same principle from every AWS course, finally implemented with my own hands.
 
 Installing these tools by hand also forced me to learn something I had skipped for eight years: the Linux directory structure. Binaries live in /usr/local/bin. Configuration lives in /etc. Data that grows lives in /var/lib, and logs live in /var/log. This is basic knowledge, and my lack of experience here made the gaps shine crystal clear. But the layout is a map. Now when something breaks, it is easier to know which folders to look in.
 
