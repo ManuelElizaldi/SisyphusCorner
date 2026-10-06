@@ -1,4 +1,6 @@
 **Raspberry** pi 
+# Unix Philosophy
+This follows the Unix philosophy: you choose a tool that does one thing and does it well, then compose small tools together instead of reaching for one giant program that does everything poorly. Any piece of this stack can be swapped without touching the others. And this is why this stack runs half the internet's monitoring.
 # Terms & Commands
 DHCP Dynamic Host Configuration Protocol -> Your router acting as a hotel receptionist. Each device that is connected gets a room (IP address). Default setting is that each device has a dynamic IP, one day you have `.65` and the next `.75`.  For home labbing that is an issue
 - Why DHCP? For convenience, managing IPs is a lot of work, having a system that automatically sets IPs make it easy. If this system wasn't present you would have to add a new ip for each new device. You can think of DHCP as a parking lot. You might get the same spot each time you connect, but if a device was offline for some time some other device could've taken its place. 

@@ -104,17 +104,15 @@ Grafana       = the app showing you the graphs
 ![[Pasted image 20261005200529.png]]
 Grafana monitoring my central node: The Raspberry Pi
 
+The last piece in the to-do list for phase 1 was Uptime Kuma, set up with Telegram notifications. For this I created a small bot and wrote a small bash script that runs at 8:00
 
-Grafana monitoring my Raspberrypi
+The set up was easy, I created a Bot inside Telegram, then a small bash script runs 
 
-This follows the Unix philosophy: you choose a tool that does one thing and does it well, then compose small tools together instead of reaching for one giant program that does everything poorly. Any piece of this stack can be swapped without touching the others. And this is why this stack runs half the internet's monitoring.
-
-The last piece was Uptime Kuma with Telegram notifications wired in. To test it, I killed node_exporter and waited. Two minutes later my phone buzzed: service down. Started it again: service recovered.
+ To test it, I killed node_exporter and waited. Two minutes later my phone buzzed: service down. Started it again: service recovered.
 
 It felt exciting to have assembled a small bot that texts me when something is wrong, like having a personal digital assistant watching over the lab. By far, receiving the text that my systems are back online has been the most rewarding moment of this build.
 
-![Article content](https://media.licdn.com/dms/image/v2/D5612AQG51NFTjOrZfQ/article-inline_image-shrink_1500_2232/B56Z8pl9H7IoAQ-/0/1783109243924?e=1792627200&v=beta&t=bigT-9Iie-xZd7f01KYTNZpXbnGzt-Lb3M0eSWLhFCE)
-
+![[Screenshot_20261005-203911.png]]
 Monitoring Bot sending me messages
 
 Sitting on my desk is a $80 computer that now texts me when something breaks. At work, I've lived the opposite. A Windows Task Scheduler job fails silently overnight, and the first sign of trouble is a missing report and a morning spent reading scripts line by line, guessing. The difference between those two mornings is exactly what this lab is for.
