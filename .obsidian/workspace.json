@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Entries/I am training for my second ultra marathon.md",
+                "file": "Writing/Entries/Done/I am training for my second ultra marathon.md",
                 "mode": "source",
                 "source": false
               },
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5,
-    "collapsed": true
+    "width": 472.5
   },
   "right": {
     "id": "443984180475832a",
@@ -229,13 +228,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "baa9d3248a1f0cf3",
+  "active": "dbd88b3155220a35",
   "lastOpenFiles": [
+    "PXL_20261006_224341896.jpg",
+    "Pasted image 20261006180234.png",
     "Writing/Entries/Stoner.md",
     "Writing/Entries/Graveyard",
     "Programming/Formatting & Mounting Storage Volumes on Linux.md",
     "Writing/Entries/Martyr! - Notes Book Analysis.md",
-    "Writing/Entries/I am training for my second ultra marathon.md",
+    "Writing/Entries/Done/I am training for my second ultra marathon.md",
     "Programming/Home Lab/A Health Check That Reports Nothing Looks Exactly Like a Healthy Drive.md",
     "Programming/Home Lab/Done/Home Lab Blog 1 Setting up the first node, monitoring tools, notification bot and learning linux basics.md",
     "Writing/Entries/Done/I Recorded My First YouTube Video.md",
@@ -258,7 +259,6 @@
     "Pasted image 20261005214259.png",
     "Pasted image 20261005214229.png",
     "Pasted image 20261005214148.png",
-    "Pasted image 20261005213849.png",
     "Programming/Home Lab/Article 1 - Phase 1 & 2.md",
     "Writing/Entries/Done/Internal Inevitable Adjustment.md",
     "Writing/Technical/Done/Bash Obsidian Backup Automation.md",
@@ -267,7 +267,6 @@
     "Programming/StatsD.md",
     "Programming/Thread.md",
     "Programming/Elasticsearch.md",
-    "Programming/TO DO!.md",
     "Programming/RaspberryPi/Webpage",
     "Programming/Home Lab/Done",
     "Programming/Garmin",
