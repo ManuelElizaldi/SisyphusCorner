@@ -48,9 +48,9 @@ One command showed me the whole picture:
 ip route 
 ```
 
-After running the command, the output showed the ethernet address at 192.168.0.65 and the WiFi at 192.168.0.66. So taking this into consideration I locked the ethernet address in as a static IP, set the router as gateway, and pointed DNS at Google temporarily.
+After running the command, the output showed the ethernet address at 192.168.0.65 and the WiFi at 192.168.0.66. So taking this into consideration, I locked the ethernet address in as a static IP, set the router as gateway, and pointed DNS at Google temporarily.
 
-Then came [Pi-hole](https://docs.pi-hole.net/). This software allowed me to create a phone book for my home lab. Instead of remembering each machine's IP, I could just name them. This is the same concept as Route 53 private zones or CoreDNS in Kubernetes, scaled down to my small setup.
+Then came [Pi-hole](https://docs.pi-hole.net/). This software allowed me to create a phone book for my home lab. Instead of remembering each machine's IP, I could just name them. This is the same concept as AWS Route 53 private zones.
 
 That's where I hit my first obstacle. 
 
