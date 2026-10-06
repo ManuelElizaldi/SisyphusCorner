@@ -91,7 +91,9 @@ Binaries live in /usr/local/bin and configuration lives in /etc. Data that grows
 This is basic knowledge, and my lack of experience made the gaps shine crystal clear. But the layout is a map. Now when something breaks, it is easier to know which folders to explore. 
 
 
-Next in the to-do list: Prometheus. scraping those metrics every 15 seconds and storing them in a time-series database, specialized for metrics. Then Grafana on top, turning the database into dashboards, similar to how AWS has QuickSight. This is the work flow now:
+Next in the to-do list: Prometheus and Grafana. Prometheus scrapes the metrics collected by node_exporter every 15 seconds and stores them in a time series database, specialized for this purpose. 
+
+Grafana sits on top of this process, turning the database into a usable dashboard. Very similar to how AWS has QuickSights.
 
 ```
 node_exporter = a weather station measuring temperature
@@ -99,9 +101,9 @@ Prometheus    = the record of those readings over time
 Grafana       = the app showing you the graphs 
 ```
 
-  
+![[Pasted image 20261005200529.png]]
+Grafana monitoring my central node: The Raspberry Pi
 
-![Article content](https://media.licdn.com/dms/image/v2/D5612AQESjNPwJFDTUw/article-inline_image-shrink_1500_2232/B56Z8plyQsHIAI-/0/1783109199216?e=1792627200&v=beta&t=bbZJXjKkeTMwjwJesZzwrk55xYKpFLukhGsJGyqflA8)
 
 Grafana monitoring my Raspberrypi
 
