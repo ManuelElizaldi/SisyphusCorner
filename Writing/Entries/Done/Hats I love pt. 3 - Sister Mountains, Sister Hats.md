@@ -1,4 +1,4 @@
-# Sister Mountains, Sister Hats
+![[Pasted image 20261005214330.png]]
 Another pair of gifted hats from my girlfriend, from the sister mountains of Snowbird and Alta in Utah in the Little Cottonwood Canyon. Both of them have a sportier look and have the resort's logos in the middle. The Snowbird hat's panels are made of fleece. This makes the hat a hybrid between a beanie and a cap, ideal for winter hikes. The Alta hat is my go to for running, weightlifting, bouldering or any other activity. The polyester makes it lightweight and breathable.
 
 I've had the blessing of going skiing with friends and family, but I went to the sister mountains with my girlfriend. Our skiing trip starts at the grocery store were I feel like a kid at a candy shop buying calorie dense foods. Beans, bacon, eggs and biscuits. We eat these since we live in Texas and can't ski that often, so we make the most out of each day. We ensure our gas tank is full to skiing from opening hours until the last lift down.

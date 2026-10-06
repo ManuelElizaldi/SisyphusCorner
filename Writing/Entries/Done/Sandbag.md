@@ -1,3 +1,5 @@
+![[Pasted image 20261005213849.png]]
+
 The clock marks 17:00. I am done with work, brain a bit fried from building data pipelines, the vibrations of stress receding throughout my body. I might be mentally tired, but the muscles are ready to hustle.
 
 I have a portable gym sitting at the back of my car, some friends have pointed out to me how messy my trunk looks, but the two 36.11 pound chimp face shaped kettle bells, jumping rope, resistance bands and 100 pound sandbag provide consistency. No workout left unskipped when I can easily workout from my car. This is enough equipment for me to get in a solid full body workout, plus this is not too much stuff so setting it up at parks is fairly easy. I can also travel to visit my family out of town without missing a workout. 
@@ -34,8 +36,7 @@ I wrap the arm that's doing the lifting around the sandbag, getting a good hold.
 
 Once I am done, I look at my smartwatch, heart rate around 170. The aerobic-anaerobic frontier has been crossed. I then look at my hands, they are red, blood palpitating under the skin, inside the tiny muscles. The burning sensation does not let me forget I work with a keyboard for a living. 
 
-
-
+--- 
 
 Even though the years have pass, the Scottish rocks still rest in place, waiting for a brave soul to accept their challenge, interrupting their slumber. You can find a map of these stones [here](https://liftingstones.org/articles/scottish_stone_locations).
 

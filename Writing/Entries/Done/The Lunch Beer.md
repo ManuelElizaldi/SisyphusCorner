@@ -1,3 +1,4 @@
+![[Pasted image 20261005214229.png]]
 The day is Wednesday, June 10th, 2026. I wake up having barely slept from excited anxiousness. It was a sort of a happy anxiety. A feeling of knowing something will happen and I wanted it to happen. I started my day by logging into work. Running my reports and then patiently waited for 11:00 am. 
 
 My cloud engineer/solutions architect certification exam was scheduled at 12:00 pm. 8 months, 243 days, around 500 hours of diligent studying. Each rep was a *no* to any tempting distractions. Day after day of studying an hour to two hours a day. Everything aimed at a promise for better work. I am not sure what metric I am using for 'better', but definitely something more fulfilling, more challenging. 

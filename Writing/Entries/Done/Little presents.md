@@ -1,3 +1,5 @@
+![[Pasted image 20261005214414.png]]
+
 My dirty laundry has been staring me down with a challenging gaze. Next to this pile of defiant procrastination my duffel bag awaits to be unpacked. Ever since I got back from the lush lands of Iceland there has been a sort of blue heaviness hanging over me preventing me from completing my chores.
 
 It is a familiar feeling, one that often visits me after every family trip. Cementing its presence every time I remember the inside jokes my brothers and I carelessly repeated throughout our vacation or those long conversations between the entire family where we discussed everything and nothing. Where I am from, we say that to remember is to live the moment twice, but right now remembering only exposes the inexorable passage of time, moments that are long gone. 

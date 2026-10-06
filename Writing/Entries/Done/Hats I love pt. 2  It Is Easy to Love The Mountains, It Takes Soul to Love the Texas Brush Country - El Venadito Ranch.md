@@ -1,4 +1,4 @@
-# It Is Easy to Love The Mountains, It Takes Soul to Love the Texas Brush Country - El Venadito Ranch
+![[Pasted image 20261005214259.png]]
 
 Every trip to the ranch starts before sunrise, where in the darkness of the early morning, excitement alone is enough to wake you up. Still, there's an obligatory stop at a convenience store to buy some cheap coffee. 
 

@@ -1,4 +1,4 @@
-
+![[Pasted image 20261005214148.png]]
 # Boston Bruins "We Want Blood"
 This was a gift from my girlfriend, a Boston's Bruins hat that she bought when she went to Boston to present her research study on risk fall prevention. This is your classic baseball hat design with the team's logo on the center. Since it is black and minimalist I can pair it with most outfits. 
 
