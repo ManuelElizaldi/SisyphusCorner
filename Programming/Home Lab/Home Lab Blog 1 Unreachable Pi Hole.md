@@ -86,7 +86,7 @@ Installing these tools by hand also forced me to learn something I had never enc
 Binaries live in /usr/local/bin and configuration lives in /etc. Data that grows lives in /var/lib, and logs live in /var/log. 
 
 ![[Pasted image 20261005195449.png]]
-
+*Linux directory map*
 
 This is basic knowledge, and my lack of experience made the gaps shine crystal clear. But the layout is a map. Now when something breaks, it is easier to know which folders to explore. 
 
@@ -102,20 +102,21 @@ Grafana       = the app showing you the graphs
 ```
 
 ![[Pasted image 20261005200529.png]]
-Grafana monitoring my central node: The Raspberry Pi
+*Grafana monitoring my central node: The Raspberry Pi*
 
-The last piece in the to-do list for phase 1 was Uptime Kuma, set up with Telegram notifications. For this I created a small bot and wrote a small bash script that runs at 8:00
+The last piece in the to-do list for phase 1 was Uptime Kuma paired with Telegram notifications. For this I created a small bot and wrote a small bash script that runs at 8:00 AM and 8:00 PM. It checks the http status code for each service, then notifies me if it got a 200 (success) or if any service broke. 
 
-The set up was easy, I created a Bot inside Telegram, then a small bash script runs 
+To test it, I purposefully killed node_exporter and waited. Two minutes later I received a notification, my phone showed: service down. Started it again and got a 200 Success code.
 
- To test it, I killed node_exporter and waited. Two minutes later my phone buzzed: service down. Started it again: service recovered.
+![[Screenshot_20261005-204913.png]]
+*Killing node_exporter then turning it on*
 
-It felt exciting to have assembled a small bot that texts me when something is wrong, like having a personal digital assistant watching over the lab. By far, receiving the text that my systems are back online has been the most rewarding moment of this build.
+It felt exciting to have assembled a small bot that texts me when something is wrong, this is like having a personal digital assistant watching over the lab. By far, receiving the text that my systems are back online has been the most rewarding moment of this process. 
 
 ![[Screenshot_20261005-203911.png]]
 Monitoring Bot sending me messages
 
-Sitting on my desk is a $80 computer that now texts me when something breaks. At work, I've lived the opposite. A Windows Task Scheduler job fails silently overnight, and the first sign of trouble is a missing report and a morning spent reading scripts line by line, guessing. The difference between those two mornings is exactly what this lab is for.
+After this programming session, now I have a small $80 computer sitting on my desk that can text me when something breaks. At work, I've experienced the opposite. A Windows Task Scheduler job fails silently overnight, and the first sign of trouble is an email about someone complaining about a missing report and a morning spent reading scripts line by line, guessing. The difference between those two mornings is exactly what this lab is for.
 
 Grafana also caught something I wasn't aware of: My raspberrypi's SD card was at 57% and climbing. The culprit was systemd's journal, 2.9GB of logs growing uncapped since the day the Pi was flashed, because I never set a cap. One config line and one vacuum command later, the disk dropped to 46% and can never silently fill again. The monitoring paid for itself, even before Phase 1 was even finished.
 
