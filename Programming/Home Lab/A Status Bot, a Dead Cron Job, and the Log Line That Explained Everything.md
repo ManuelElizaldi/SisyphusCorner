@@ -60,9 +60,11 @@ Hitting http://100.118.68.64/admin/, the Pi-Hole Admin page, in my browser didn'
 
 I decided to stop Apache for now, and made a note to move it to another port later. 
 
-I retried setting up the Pi-Hole, but still I got nothing. And here's where I made the real mistake: I assumed. Every tutorial, every forum thread, every guide said Pi-hole serves its admin panel through lighttpd. So I installed lighttpd. When it crashed, I installed php-cgi. When it complained about a missing config file, I wrote one by hand. When that file had a duplicate key, I found it and removed it. Each fix was small and satisfying and completely irrelevant.
+I retried setting up the Pi-Hole, but still I got nothing. And here's my worst mistake: I assumed. Every tutorial, every forum thread, every guide said Pi-hole serves its admin panel through lighttpd. 
 
-I've been working with code for eight years. But sockets, ports, systemd services, firewall rules: this is a different world, and in this world I'm a beginner. The embarrassing part isn't that I didn't know Pi-hole v6 had changed its architecture. The embarrassing part is that the answer was in Pi-hole's official documentation the whole time, and I never checked. I followed guides written for v5 and trusted a single source of truth instead of reading the primary one.
+So I sudo apt installed lighttpd. When it crashed, I asked Claude and it recommended installing php-cgi. When it complained about a missing config file, I wrote one by hand. Then that file had a duplicate key, I found it and removed it. Each fix was small and satisfying. It felt like progress, but all was completely irrelevant.
+
+I've been working with code for eight years. But sockets, ports, systemd services, firewall, DNS rules: this is a different world, and in this world I'm a beginner. The embarrassing part isn't that I didn't know Pi-hole v6 had changed its architecture. The embarrassing part is that the answer was in Pi-hole's official documentation the whole time, and I never checked. I followed guides written for v5 and trusted a single source of truth instead of reading the primary one.
 
 Two hours. One ss command to end it.
 
