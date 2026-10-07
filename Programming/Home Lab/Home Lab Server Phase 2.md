@@ -38,3 +38,5 @@ The dd command indicated bs=4M, so chucks of 4 mb.
 Using a website like [BalenaEtcher](https://etcher.balena.io/) could have saved me this step. Which is what I did when I first installed Zorin Os, but now, I am learning Linux and I have to get comfortable reaching for the terminal, plus this taught me a small lesson on Buffers and `pgrep`. 
 
 
+
+192.168.0.20:8006 -> to set up proxmox 
