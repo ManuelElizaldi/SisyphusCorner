@@ -11,3 +11,5 @@ Flashing the iso -> `sha256sum ~/Downloads/proxmox-ve_9.2-1.iso`
 sha256sum creates a hash, think of it like a finger print of the contents of the file. Proxmox generates one as well. You use these to compare if you downloaded the right version. 
 - checksums are also used by apt when installing software in Linux 
 
+Now it was time to flash the iso, and for this I used a brand new USB bought specially for this purpose since I am running dd. Commonly known as disk destroy. 
+- This command copies raw bytes from a source to a destination, with no file-level interpretation.
