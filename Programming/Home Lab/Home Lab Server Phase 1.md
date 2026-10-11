@@ -438,8 +438,6 @@ Grafana       = the app showing you the graphs
 ```
 
 
-
-
 ## Checking Pi Architecture
 
 command: `uname -m` = aarch64 = means 64-bit ARM

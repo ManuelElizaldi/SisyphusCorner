@@ -73,6 +73,7 @@ Now that we have this setup, first thing in the to-do list is to create a config
 
 For this set up we need to make a folder inside the systemd folder. I named it `logind.conf.d`
 - Naming convention for this folder -> why the dots? -> `.d` is Linux convention for a folder of config fragments
+- systemd reads files from `/etc/systemd/*conf.d/` after the main file has been read and overwrites it. 
 
 Then inside this new `logind.conf.d` folder we create a config file: `lid.conf`
 
@@ -90,4 +91,17 @@ a new system command I learned to write this lid config file: `systemd-analyze`.
 `systemd-analyze cat-config systemd/logind.conf | grep -i lid`
 - Was used to check confirm the settings I wrote in the lid.config at boot. 
 
-This might deteriorate the battery on this old gaming laptop. Might need to create a script that tracks battery help using node_exporter, or something like that. This is a project for my future self. For now, the laptop works wiht its lid close. 
+This might deteriorate the battery on this old gaming laptop. Might need to create a script that tracks battery help using node_exporter, or something like that. This is a project for my future self. For now, the laptop works with its lid close. 
+
+# Adding note a to prometheus
+Remembering, Prometheus scapes metrics, in time series. Then we can use something called PromQL to visualize the data. 
+
+I have already done this for my Raspberry Pi, so the process was similar, but first we have to confirm the computers architecture. 
+
+`uname` Gives us system information. The flag -m will give us the machine hardware name:
+`x86_64`
+
+This is for my Raspberry Pi:
+`aarch64`
+
+
