@@ -111,3 +111,31 @@ Check the sha256sum, which matches, extract the files, and before installing I a
 Also, at this point, I ran `whoami` command to make note of the user I was logged in. I was logged in as root. Which means I don't need to type sudo before any command. It also means I have to be extra careful, I have removed the learning wheels from my bike. If I want something I shouldn't, I could do serious damage to the system. 
 
 Now I create the user: 
+```
+root@node-a:~# useradd -rs /bin/false node_exporter
+root@node-a:~# id node_exporter 
+uid=999(node_exporter) gid=990(node_exporter) groups=990(node_exporter)
+```
+
+### Writing the node_exporter service file
+Inside -> `/etc/systemd/system/node_exporter.service`
+
+Some services only start after the network is ready. Other you wnat to start before the network. 
+
+Service file:
+```
+root@node-a:/etc/systemd/system# cat node_exporter.service 
+[Unit]
+Description=Promethus Node Exporter
+After=network.target #does not start until network is ready
+
+[Service]
+User=node_exporter #runs as this user, not as root
+ExecStart=/usr/local/bin/node_exporter # Commands to run
+Restart=on-failure # if it crashes, restart the node_exporter service
+
+[Install]
+WantedBy=multi-user.target # Starts automatically at normal boot 
+```
+
+Also, I moved the executable we extracted from the github repo into the bin (execut)

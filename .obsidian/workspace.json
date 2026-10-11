@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,10 +244,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "42ccf67124c666a9",
+  "active": "51675b572e5ab5e5",
   "lastOpenFiles": [
-    "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
+    "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Pasted image 20261011140824.png",
     "Pasted image 20261011140623.png",
     "PXL_20261007_205704300.jpg",
