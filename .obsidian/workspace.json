@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5
+    "width": 472.5,
+    "collapsed": true
   },
   "right": {
     "id": "443984180475832a",
@@ -245,6 +246,12 @@
   },
   "active": "51675b572e5ab5e5",
   "lastOpenFiles": [
+    "Pasted image 20261011140824.png",
+    "Pasted image 20261011140623.png",
+    "PXL_20261007_205704300.jpg",
+    "PXL_20261007_205201890.jpg",
+    "PXL_20261007_205051525.jpg",
+    "PXL_20261007_204724021.jpg",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Programming/Home Lab/A Health Check That Reports Nothing Looks Exactly Like a Healthy Drive.md",
@@ -270,18 +277,12 @@
     "Pasted image 20261005214922.png",
     "Pasted image 20261005214737.png",
     "Pasted image 20261005214658.png",
-    "Pasted image 20261005214540.png",
-    "Pasted image 20261005214414.png",
-    "Pasted image 20261005214330.png",
-    "Pasted image 20261005214259.png",
-    "Pasted image 20261005214229.png",
     "Programming/Home Lab/Article 1 - Phase 1 & 2.md",
     "Writing/Entries/Done/Internal Inevitable Adjustment.md",
     "Writing/Technical/Done/Bash Obsidian Backup Automation.md",
     "Programming/Useful Terminology.md",
     "Programming/StatsD.md",
     "Programming/Thread.md",
-    "Programming/Elasticsearch.md",
     "Programming/RaspberryPi/Webpage",
     "Programming/Home Lab/Done",
     "Programming/Garmin",

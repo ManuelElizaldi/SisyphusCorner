@@ -37,6 +37,51 @@ The dd command indicated bs=4M, so chucks of 4 mb.
 
 Using a website like [BalenaEtcher](https://etcher.balena.io/) could have saved me this step. Which is what I did when I first installed Zorin Os, but now, I am learning Linux and I have to get comfortable reaching for the terminal, plus this taught me a small lesson on Buffers and `pgrep`. 
 
+After flashing, we enter the bios boot up window.
 
 
-192.168.0.20:8006 -> to set up proxmox 
+
+
+![[PXL_20261007_204724021.jpg]]
+
+![[PXL_20261007_205051525.jpg]]
+
+
+
+After the bios winow, we choose to set up, boot up shows Proxmox:
+![[PXL_20261007_205201890.jpg]]
+
+
+
+Configuring network setting, gateway = router. IP address = the address of this computer
+
+DNS server = Pihole
+![[PXL_20261007_205704300.jpg]]
+
+
+192.168.0.20:8006 -> to set up proxmox, enter here then you have the web ui to set up proxmox 
+- I disabled these repos, since I don't have a subscription:
+![[Pasted image 20261011140623.png]]
+
+For now, I sshed into the computer via terminal, but this could also be done through the web UI
+
+nslookup command, it looks up an IP inside the DNS server 
+
+![[Pasted image 20261011140824.png]]
+
+Now that we have this setup, first thing in the to-do list is to create a config setting that allows me to close the laptop lid, and prevent the computer from going to sleep. If it goes to sleep, the server is disconnected. This is mostly due to the aesthethics of my desk. I plan on 3D printing a base for my laptops. Cable managment ! 
+
+For this set up we need to make a folder inside the systemd folder. I named it `logind.conf.d`
+
+Then isnide this new `logind.conf.d` folder we create a config file: `lid.conf`
+
+These are the contents:
+```
+[Login]
+HandleLidSwitch=ignore
+HandleLidSwitchExternalPower=ignore
+HandleLidSwitchDocked=ignore
+```
+
+
+a new system command I learned doing this 
