@@ -571,7 +571,7 @@ WantedBy=multi-user.target
 ### Reloading systemd & enabling the node_exporter service
 After we wrote the service file for node_exporter, we need to restart.
 
-manu@manupi:~ $ sudo systemctl enable --now node_exporter
+`manu@manupi:~ $ sudo systemctl enable --now node_exporter`
 Created symlink /etc/systemd/system/multi-user.target.wants/node_exporter.service → /etc/systemd/system/node_exporter.service
 
 ## Opening port 9100 in UFW

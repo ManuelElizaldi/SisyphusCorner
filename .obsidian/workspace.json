@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,10 +244,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "42ccf67124c666a9",
+  "active": "51675b572e5ab5e5",
   "lastOpenFiles": [
-    "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
+    "Programming/Home Lab/Home Lab Server Phase 2.md",
+    "Pasted image 20261011164036.png",
+    "Pasted image 20261011164020.png",
     "Pasted image 20261011140824.png",
     "Pasted image 20261011140623.png",
     "PXL_20261007_205704300.jpg",
@@ -274,8 +276,6 @@
     "Writing/Entries/Done/The Lunch Beer.md",
     "Writing/Entries/Done/Stay Wild Moon Child - Morning in Nuevo Laredo, Mexico.md",
     "Writing/Entries/Done/Sandbag.md",
-    "Pasted image 20261005214922.png",
-    "Pasted image 20261005214737.png",
     "Programming/Home Lab/Article 1 - Phase 1 & 2.md",
     "Writing/Entries/Done/Internal Inevitable Adjustment.md",
     "Writing/Technical/Done/Bash Obsidian Backup Automation.md",

@@ -70,6 +70,7 @@ nslookup command, it looks up an IP inside the DNS server
 ![[Pasted image 20261011140824.png]]
 
 Now that we have this setup, first thing in the to-do list is to create a config setting that allows me to close the laptop lid, and prevent the computer from going to sleep. If it goes to sleep, the server is disconnected. This is mostly due to the aesthethics of my desk. I plan on 3D printing a base for my laptops. Cable managment ! 
+- also to prevent overheating 
 
 For this set up we need to make a folder inside the systemd folder. I named it `logind.conf.d`
 - Naming convention for this folder -> why the dots? -> `.d` is Linux convention for a folder of config fragments
@@ -154,4 +155,20 @@ node_exporter, version 1.8.2 (branch: HEAD, revision: f1e0e8360aa60b6cb5e5cc1560
 After writing the config file for node_exporter and moving the executable to /usr/local/bin, we then confirm the settings:
 
 `systemd-analyze verify /etc/systemd/system/node_exporter.service`
+
+```
+root@node-a:~# systemctl enable --now node_exporter
+Created symlink '/etc/systemd/system/multi-user.target.wants/node_exporter.service' → '/etc/systemd/system/node_exporter.service'.
+```
+
+
+If we check port 9100, we can see that metrics are being exposed there. Doing this through the web browser:
+![[Pasted image 20261011164020.png]]
+
+![[Pasted image 20261011164036.png]]
+
+## Connecting this to the Raspberry Pi
+During phase 1, I wrote a Prometheus config file. As I type these words I have to say how grateful I am of the notes I took. If you are learning or following along this, please I implore you to take diligent notes. Cosnider it a tip for your future self. 
+
+But any ways, I wrote a prometheus config files. Inside it, there's a section for targets. Here, we need to specify our new target to be scraped, node_a.
 
