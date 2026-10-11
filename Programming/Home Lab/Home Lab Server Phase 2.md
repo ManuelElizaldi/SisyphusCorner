@@ -172,3 +172,37 @@ During phase 1, I wrote a Prometheus config file. As I type these words I have t
 
 But any ways, I wrote a prometheus config files. Inside it, there's a section for targets. Here, we need to specify our new target to be scraped, node_a.
 
+Our new config file now looks like this:
+
+```
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: "pi"
+    static_configs:
+      - targets: ["localhost:9100","192.168.0.20:9100"]
+```
+
+But then I realized I was grouping both the Pi and node_a into one job. *Search what would happen here* so I had to restructure my yaml file into:
+
+```yaml
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: "pi"
+    static_configs:
+      - targets: ["localhost:9100"] 
+
+  - job_name: "node-a"
+    static_configs:
+      - targets: ["192.168.0.20:9100"]
+
+```
+
+Now each machine has its own section
+
+
