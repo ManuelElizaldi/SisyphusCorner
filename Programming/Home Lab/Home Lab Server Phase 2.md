@@ -94,7 +94,7 @@ a new system command I learned to write this lid config file: `systemd-analyze`.
 
 This might deteriorate the battery on this old gaming laptop. Might need to create a script that tracks battery help using node_exporter, or something like that. This is a project for my future self. For now, the laptop works with its lid close. 
 
-# Adding node_a to Prometheus
+# Adding node-a to Prometheus
 Remembering, Prometheus scapes metrics, in time series. Then we can use something called PromQL to visualize the data. 
 
 I have already done this for my Raspberry Pi, so the process was similar, but first we have to confirm the computers' architecture. 
@@ -170,7 +170,7 @@ If we check port 9100, we can see that metrics are being exposed there. Doing th
 ## Connecting this to the Raspberry Pi
 During phase 1, I wrote a Prometheus config file. As I type these words I have to say how grateful I am of the notes I took. If you are learning or following along this, please I implore you to take diligent notes. Cosnider it a tip for your future self. 
 
-But any ways, I wrote a prometheus config files. Inside it, there's a section for targets. Here, we need to specify our new target to be scraped, node_a.
+But any ways, I wrote a prometheus config files. Inside it, there's a section for targets. Here, we need to specify our new target to be scraped, node-a.
 
 Our new config file now looks like this:
 
@@ -184,7 +184,7 @@ scrape_configs:
     static_configs:
       - targets: ["localhost:9100","192.168.0.20:9100"]
 ```
-Running the command: promtool check config /etc/prometheus/prometheus.yml made me realize I was grouping both the Pi and node_a into one job. *Search what would happen here* so I had to restructure my yaml file into:
+Running the command: promtool check config /etc/prometheus/prometheus.yml made me realize I was grouping both the Pi and node-a into one job. *Search what would happen here* so I had to restructure my yaml file into:
 
 ```yaml
 global:
@@ -210,9 +210,14 @@ Checking /etc/prometheus/prometheus.yml
 ```
 
 
-`http://192.168.0.65:9090/targets` Shows our newly added node_a:
+`http://192.168.0.65:9090/targets` Shows our newly added node-a:
 
 ![[Pasted image 20261011171150.png]]
 
-Grafana also shows th
+Grafana also shows the data for node-a:
 ![[Pasted image 20261011171448.png]]
+
+
+### Monitoring is now up in the to-do list 
+We need to add node-a to our monitoring services, this includes Uptime Kuma and our bash script were we track if our services are up and then get notified in telegram 
+
