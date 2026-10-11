@@ -138,4 +138,5 @@ Restart=on-failure # if it crashes, restart the node_exporter service
 WantedBy=multi-user.target # Starts automatically at normal boot 
 ```
 
-Also, I moved the executable we extracted from the github repo into the bin (execut)
+Also, I moved the executable we extracted from the github repo into the bin (executbales) folder. 
+
