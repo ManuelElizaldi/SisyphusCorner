@@ -184,8 +184,7 @@ scrape_configs:
     static_configs:
       - targets: ["localhost:9100","192.168.0.20:9100"]
 ```
-
-But then I realized I was grouping both the Pi and node_a into one job. *Search what would happen here* so I had to restructure my yaml file into:
+Running the command: promtool check config /etc/prometheus/prometheus.yml made me realize I was grouping both the Pi and node_a into one job. *Search what would happen here* so I had to restructure my yaml file into:
 
 ```yaml
 global:
@@ -205,4 +204,15 @@ scrape_configs:
 
 Now each machine has its own section
 
+```
+promtool check config /etc/prometheus/prometheus.yml
+Checking /etc/prometheus/prometheus.yml
+```
 
+
+`http://192.168.0.65:9090/targets` Shows our newly added node_a:
+
+![[Pasted image 20261011171150.png]]
+
+Grafana also shows th
+![[Pasted image 20261011171448.png]]

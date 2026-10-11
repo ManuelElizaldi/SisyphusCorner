@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,10 +244,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "42ccf67124c666a9",
+  "active": "51675b572e5ab5e5",
   "lastOpenFiles": [
-    "Programming/Home Lab/Home Lab Server Phase 2.md",
+    "Pasted image 20261011171448.png",
+    "Pasted image 20261011171150.png",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
+    "Programming/Home Lab/Home Lab Server Phase 2.md",
+    "Programming/Home Lab/A Health Check That Reports Nothing Looks Exactly Like a Healthy Drive.md",
     "Pasted image 20261011164036.png",
     "Pasted image 20261011164020.png",
     "Pasted image 20261011140824.png",
@@ -256,11 +259,9 @@
     "PXL_20261007_205201890.jpg",
     "PXL_20261007_205051525.jpg",
     "PXL_20261007_204724021.jpg",
-    "Programming/Home Lab/A Health Check That Reports Nothing Looks Exactly Like a Healthy Drive.md",
     "Writing/Entries/Stoner.md",
     "Writing/Entries/Done/I am training for my second ultra marathon.md",
     "PXL_20261006_224341896.jpg",
-    "Pasted image 20261006180234.png",
     "Writing/Entries/Graveyard",
     "Programming/Formatting & Mounting Storage Volumes on Linux.md",
     "Writing/Entries/Martyr! - Notes Book Analysis.md",
