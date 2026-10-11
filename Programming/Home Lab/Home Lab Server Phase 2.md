@@ -72,8 +72,9 @@ nslookup command, it looks up an IP inside the DNS server
 Now that we have this setup, first thing in the to-do list is to create a config setting that allows me to close the laptop lid, and prevent the computer from going to sleep. If it goes to sleep, the server is disconnected. This is mostly due to the aesthethics of my desk. I plan on 3D printing a base for my laptops. Cable managment ! 
 
 For this set up we need to make a folder inside the systemd folder. I named it `logind.conf.d`
+- Naming convention for this folder -> why the dots? -> `.d` is Linux convention for a folder of config fragments
 
-Then isnide this new `logind.conf.d` folder we create a config file: `lid.conf`
+Then inside this new `logind.conf.d` folder we create a config file: `lid.conf`
 
 These are the contents:
 ```
@@ -84,4 +85,9 @@ HandleLidSwitchDocked=ignore
 ```
 
 
-a new system command I learned doing this 
+a new system command I learned to write this lid config file: `systemd-analyze`. At this point, following the set-up tutorial has made the --help command my best friend. I have learned to run this before I run the command to understand what I am about to do. 
+
+`systemd-analyze cat-config systemd/logind.conf | grep -i lid`
+- Was used to check confirm the settings I wrote in the lid.config at boot. 
+
+This might deteriorate the battery on this old gaming laptop. Might need to create a script that tracks battery help using node_exporter, or something like that. This is a project for my future self. For now, the laptop works wiht its lid close. 
