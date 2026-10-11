@@ -93,10 +93,10 @@ a new system command I learned to write this lid config file: `systemd-analyze`.
 
 This might deteriorate the battery on this old gaming laptop. Might need to create a script that tracks battery help using node_exporter, or something like that. This is a project for my future self. For now, the laptop works with its lid close. 
 
-# Adding note a to prometheus
+# Adding node_a to Prometheus
 Remembering, Prometheus scapes metrics, in time series. Then we can use something called PromQL to visualize the data. 
 
-I have already done this for my Raspberry Pi, so the process was similar, but first we have to confirm the computers architecture. 
+I have already done this for my Raspberry Pi, so the process was similar, but first we have to confirm the computers' architecture. 
 
 `uname` Gives us system information. The flag -m will give us the machine hardware name:
 `x86_64`
@@ -104,4 +104,10 @@ I have already done this for my Raspberry Pi, so the process was similar, but fi
 This is for my Raspberry Pi:
 `aarch64`
 
+So we download -> `wget https://github.com/prometheus/node_exporter/releases/download/v1.8.2/node_exporter-1.8.2.linux-amd64.tar.gz`, same version as the Raspberry Pi. 
 
+Check the sha256sum, which matches, extract the files, and before installing I am going to create the isolated/least privilege user who will own this service. 
+
+Also, at this point, I ran `whoami` command to make note of the user I was logged in. I was logged in as root. Which means I don't need to type sudo before any command. It also means I have to be extra careful, I have removed the learning wheels from my bike. If I want something I shouldn't, I could do serious damage to the system. 
+
+Now I create the user: 
