@@ -138,5 +138,20 @@ Restart=on-failure # if it crashes, restart the node_exporter service
 WantedBy=multi-user.target # Starts automatically at normal boot 
 ```
 
-Also, I moved the executable we extracted from the github repo into the bin (executbales) folder. 
+Also, I moved the executable we extracted from the github repo into the bin (executbales) folder and checked the versionto make sure everything went well:
+
+```
+root@node-a:~/node_exporter-1.8.2.linux-amd64# /usr/local/bin/node_exporter --version
+node_exporter, version 1.8.2 (branch: HEAD, revision: f1e0e8360aa60b6cb5e5cc1560bed348fc2c1895)
+  build user:       root@03d440803209
+  build date:       20240714-11:53:45
+  go version:       go1.22.5
+  platform:         linux/amd64
+  tags:             unknown
+
+```
+
+After writing the config file for node_exporter and moving the executable to /usr/local/bin, we then confirm the settings:
+
+`systemd-analyze verify /etc/systemd/system/node_exporter.service`
 
