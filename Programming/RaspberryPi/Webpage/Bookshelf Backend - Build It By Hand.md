@@ -1,5 +1,7 @@
 # Bookshelf Backend: Build It By Hand
 
+Good read API 
+
 **Date:** October 3, 2026
 **Goal:** a `book` command on my Raspberry Pi that logs what I'm reading, and a data file the website can turn into a Goodreads-style Bookshelf page.
 **Language:** Python 3 (standard library only, nothing to install) + SQLite + the Open Library API
