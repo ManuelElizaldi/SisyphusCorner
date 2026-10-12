@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5,
-    "collapsed": true
+    "width": 472.5
   },
   "right": {
     "id": "443984180475832a",
@@ -258,12 +257,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "f8ca98f8a60f7bae",
+  "active": "7e428e584798e841",
   "lastOpenFiles": [
-    "Programming/RaspberryPi/Webpage/Bookshelf Backend - Build It By Hand.md",
-    "Programming/RaspberryPi/My Digital Bookshelf Project.md",
-    "Programming/RaspberryPi/Webpage/Home Lab Monitor - How the Website Shows My Pi Status.md",
+    "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
+    "Programming/RaspberryPi/My Digital Bookshelf Project.md",
+    "Programming/RaspberryPi/Webpage/Bookshelf Backend - Build It By Hand.md",
+    "Programming/RaspberryPi/Webpage/Home Lab Monitor - How the Website Shows My Pi Status.md",
     "Resources/Pasted image 20261005195449.png",
     "Resources/Screenshot_20261005-204913.png",
     "Resources/Screenshot_20261005-203911.png",
@@ -272,7 +272,6 @@
     "Resources/PXL_20261007_205704300.jpg",
     "Resources/Pasted image 20261011171448.png",
     "Resources/Pasted image 20260807180445.png",
-    "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Resources/Pasted image 20261011171150.png",
     "Programming/Home Lab/A Health Check That Reports Nothing Looks Exactly Like a Healthy Drive.md",
     "Resources/Pasted image 20261011164036.png",
