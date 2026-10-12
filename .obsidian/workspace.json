@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "ce21cb0b62ec4d66",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260807180445.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260807180445"
+            }
+          },
+          {
             "id": "42ccf67124c666a9",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5,
-    "collapsed": true
+    "width": 472.5
   },
   "right": {
     "id": "443984180475832a",
@@ -244,10 +255,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "51675b572e5ab5e5",
+  "active": "ce21cb0b62ec4d66",
   "lastOpenFiles": [
-    "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/Home Lab/Home Lab Server Phase 2.md",
+    "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Pasted image 20261011171448.png",
     "Pasted image 20261011171150.png",
     "Programming/Home Lab/A Health Check That Reports Nothing Looks Exactly Like a Healthy Drive.md",
