@@ -221,3 +221,39 @@ Grafana also shows the data for node-a:
 ### Monitoring is now up in the to-do list 
 We need to add node-a to our monitoring services, this includes Uptime Kuma and our bash script were we track if our services are up and then get notified in telegram 
 
+Adding the node-a to my bash script:
+
+```
+#!/bin/bash
+source /home/manu/scripts/telegram.env
+
+declare -A SERVICES=(
+  ["Pi-hole"]="https://192.168.0.65/admin"
+  ["Prometheus"]="http://192.168.0.65:9090/-/healthy"
+  ["Grafana"]="http://192.168.0.65:3000/api/health"
+  ["node_exporter"]="http://192.168.0.65:9100/metrics"
+  ["node-a"]="http://192.168.0.20:8006/"
+)
+
+MESSAGE="Daily lab status:"$'\n'
+
+for name in "${!SERVICES[@]}"; do
+  code=$(curl -skL -o /dev/null -w "%{http_code}" --max-time 10 "${SERVICES[$name]}")
+  if [ "$code" = "200" ]; then
+    MESSAGE+="OK   ${name} (${code})"$'\n'
+  else
+    MESSAGE+="FAIL ${name} (${code})"$'\n'
+  fi
+done
+
+curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \
+  -d chat_id="${TELEGRAM_CHAT_ID}" \
+  -d text="${MESSAGE}" > /dev/null
+
+```
+
+Then I ran the bash script from my terminal to ensure the changes worked. 
+
+![[Screenshot_20261012-155513~2.jpg]]
+
+Then adding this to Uptime Kuma was just a matter of adding a New Monitor pointing to the new IP we registered. Smooth sailing. 
