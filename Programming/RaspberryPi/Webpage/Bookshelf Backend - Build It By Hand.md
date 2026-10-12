@@ -36,12 +36,12 @@ flowchart LR
 
 Why these pieces:
 
-| Piece | Why |
-|---|---|
-| **SQLite** (`books.db`) | A real SQL database stored in one file. No server to run, built into Python. I already know SQL from work, so I can query my reading history like any table. |
-| **Open Library API** | Free book database (run by the Internet Archive). I type a title, it gives me author, year, page count and a cover. No account or API key. |
-| **`books.json`** | WordPress's PHP on my Pi can't read SQLite (no driver installed), but every language reads JSON. Exporting a JSON file after each change keeps the website simple and read-only. |
-| **Covers on disk** | Downloaded once into the website's public uploads folder, so the page loads fast and doesn't depend on Open Library being up. |
+| Piece                   | Why                                                                                                                                                                              |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SQLite** (`books.db`) | A real SQL database stored in one file. No server to run, built into Python. I already know SQL from work, so I can query my reading history like any table.                     |
+| **Open Library API**    | Free book database (run by the Internet Archive). I type a title, it gives me author, year, page count and a cover. No account or API key.                                       |
+| **`books.json`**        | WordPress's PHP on my Pi can't read SQLite (no driver installed), but every language reads JSON. Exporting a JSON file after each change keeps the website simple and read-only. |
+| **Covers on disk**      | Downloaded once into the website's public uploads folder, so the page loads fast and doesn't depend on Open Library being up.                                                    |
 
 The project is split into **5 small files**, each with one job:
 

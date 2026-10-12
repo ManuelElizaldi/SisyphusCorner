@@ -1,0 +1,1 @@
+When I talk with fellow developers or people dedicated to the craft, one 
