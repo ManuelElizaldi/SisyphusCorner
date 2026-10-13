@@ -5,6 +5,9 @@ Before I had this ritual in place, I watched YouTube instead, frying my dopamine
 
 I was reading Stoner by John Williams. I had 2 chapters left and my plan was to read one that night, then in the morning, finish the book. I finished the second to last chapter, placed the coffee bag label I was using as a book mark inside and closed the book. 
 
+Trying to succumb to sleep, I thought about how we never notice when we fall asleep. It just happens, and then you wake up the next day, hours reduced to instants. Then I thought about 
+
+
 With my eyes closed, trying to fall asleep, Stoner was calling my name. There was a deep desire inside of me to know h
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
