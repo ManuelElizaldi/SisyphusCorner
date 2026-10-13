@@ -1,14 +1,14 @@
-It was around 11:00 pm, sleep was already taking a hold of me. It may be that I am becoming old or just simply that I am a creature of habit, but I have this ritual where I have to read for a couple of minutes before going to bed. This works as a signal to my brain to shut off operations for the day, the only task is to relax and surrender to Morpheus. 
+It was around 11:00 pm, sleep was slowly tightening its grip on me. It may be that I am becoming old, or I just simply I'm becoming a creature of habit, but I have this ritual where I have to read for a couple of minutes before going to bed. This signals my brain to shut off operations for the day, the only task is to relax and surrender to Morpheus. 
+
+Before I had this ritual in place, I watched YouTube, frying my dopamine receptors until I was anesthetized.
+
+My time with Stoner by John Williams was coming to a close. I had 2 chapters left. My plan was to read one that night, and leave the last for tomorrow morning. I finished the second to last chapter, placed the coffee bag label I was using as a bookmark inside and closed the book. 
+
+The brain didn't receive the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then I thought about William Stoner, why did I felt so melancholic about him?
 
 
-Before I had this ritual in place, I watched YouTube instead, frying my dopamine receptors until I was anesthetized.
 
-I was reading Stoner by John Williams. I had 2 chapters left and my plan was to read one that night, then in the morning, finish the book. I finished the second to last chapter, placed the coffee bag label I was using as a book mark inside and closed the book. 
-
-Trying to succumb to sleep, I thought about how we never notice when we fall asleep. It just happens, and then you wake up the next day, hours reduced to instants. Then I thought about 
-
-
-With my eyes closed, trying to fall asleep, Stoner was calling my name. There was a deep desire inside of me to know h
+John Williams prose offered an intimate experience where 
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
@@ -20,7 +20,7 @@ Perhaps it was love at first sight,
 #### Not be as passive as he was , although I admire his resilience 
 - was he using books to escape? work to distract himself? 
 
-#### Regardless of his hardships, he still had a decent life
+#### Regardless of his hardships, he still had a decent life, ordinary, but good 
 
 #### The death of an institution, utilitarian school, what do you stand for, Sloane 
 
