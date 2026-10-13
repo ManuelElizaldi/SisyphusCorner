@@ -63,7 +63,8 @@
               "title": "My Digital Bookshelf Project"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,15 +230,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "bcd4c9c0012a16ac",
+  "active": "42ccf67124c666a9",
   "lastOpenFiles": [
     "Programming/Home Lab/Home Lab Server Phase 2.md",
+    "Writing/Entries/Stoner.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/RaspberryPi/My Digital Bookshelf Project.md",
     "Programming/Home Lab/Article 1 - Draft and Notes.md",
     "Pasted image 20261013111528.png",
     "Screenshot_20261012-155513~2.jpg",
-    "Writing/Entries/Stoner.md",
     "Programming/Formatting & Mounting Storage Volumes on Linux.md",
     "Programming/Home Lab/A Health Check That Reports Nothing Looks Exactly Like a Healthy Drive.md",
     "Programming/RaspberryPi/Webpage/Bookshelf Backend - Build It By Hand.md",
