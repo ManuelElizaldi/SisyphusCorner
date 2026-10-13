@@ -254,6 +254,16 @@ curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \
 
 Then I ran the bash script from my terminal to ensure the changes worked. 
 
-![[Screenshot_20261012-155513~2.jpg]]
-
 Then adding this to Uptime Kuma was just a matter of adding a New Monitor pointing to the new IP we registered. Smooth sailing. 
+
+# Node-B
+No plan survives real life. I was planning on setting up Node-B, same as I did for Node-A. But when I plugged in the charger, and tried to turn on the laptop, I had no power.
+
+Using my limited computer technician skills I tried to diagnose the issue to no avail. I tried unplugging the battery and relying on the charger's power. Then I tried to reset the RAM. I also removed the CMOS battery, screen and hard drive. Nothing worked. So I am going to pause this part of the build for now. 
+
+Looking online and asking the Home Lab discord server, my best bet would be a Mini PC. Hopefully I can find something cheap on Facebook Marketplace. 
+
+![[Pasted image 20261013111528.png]]
+
+
+### DNS server stuff
