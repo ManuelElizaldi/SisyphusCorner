@@ -266,4 +266,7 @@ Looking online and asking the Home Lab discord server, my best bet would be a Mi
 ![[Pasted image 20261013111528.png]]
 
 
-### DNS server stuff
+### Pi’s own DNS points at itself
+One setting, and it makes the Pi’s name lookups use your lab records
+
+We want to 
