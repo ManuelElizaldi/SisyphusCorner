@@ -17,6 +17,8 @@ John Williams prose in these 300 pages offers an intimate experience where you s
 #### Although passive against his wife and Lomax, he kept going, doing his work, even when it was not fulfilling
 
 #### Regardless of his hardships, he still had a decent life, ordinary, but good 
+- He lived through the great depression, world war I and II, when the country was crumbling, he still had a decent life. 
+- Ordinary can be good. 
 
 #### The death of an institution, utilitarian school, what do you stand for, Sloane 
 - Learning for the pleasure of learning. Not because it gives you reputation, acceptance, superiority, etc. Pursue knowledge because there's pleasure there
