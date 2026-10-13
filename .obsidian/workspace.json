@@ -63,8 +63,7 @@
               "title": "My Digital Bookshelf Project"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,12 +229,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "51675b572e5ab5e5",
+  "active": "bcd4c9c0012a16ac",
   "lastOpenFiles": [
+    "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/RaspberryPi/My Digital Bookshelf Project.md",
     "Programming/Home Lab/Article 1 - Draft and Notes.md",
-    "Programming/Home Lab/Home Lab Server Phase 2.md",
     "Pasted image 20261013111528.png",
     "Screenshot_20261012-155513~2.jpg",
     "Writing/Entries/Stoner.md",
