@@ -4,29 +4,26 @@ Before I had this ritual in place, I watched YouTube, frying my dopamine recepto
 
 My time with Stoner by John Williams was coming to a close. I had 2 chapters left. My plan was to read one that night, and leave the last for tomorrow morning. I finished the second to last chapter, placed the coffee bag label I was using as a bookmark inside and closed the book. 
 
-The brain didn't receive the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then I thought about William Stoner, why did I felt so melancholic about him?
+The brain didn't receive the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then I thought about William Stoner, why did I felt so melancholic about him? I didn't have the question, but I knew I had to continue reading. 
 
+I finished the book, I knew how it would end. The beginning of the book tells you how the life of Stoner ends. But still it felt like I was saying goodbye to a lifelong friend, not knowing when it would be the next time I was going to see him. 
 
-
-John Williams prose offered an intimate experience where 
+John Williams prose in these 300 pages offers an intimate experience where you see the life of Wi
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
+- Even though he couldn't explain it, in the scene where Sloane was reciting Shakespeare, Stoner felt his whole spirit shake. 
+- I don't think I have experienced something like that and I envy him (in a good way)
 
-I have found 
-
-
-Perhaps it was love at first sight,
-
-#### Not be as passive as he was , although I admire his resilience 
-- was he using books to escape? work to distract himself? 
+#### Although passive against his wife and Lomax, he kept going, doing his work, even when it was not fulfilling
 
 #### Regardless of his hardships, he still had a decent life, ordinary, but good 
 
 #### The death of an institution, utilitarian school, what do you stand for, Sloane 
+- Learning for the pleasure of learning. Not because it gives you reputation, acceptance, superiority, etc. Pursue knowledge because there's pleasure there
 
 #### Choosing your path even though there's uncertainty 
 
-John William's prose was as simple as Stoner's life, ordinarily extraordinary 
+John William's prose was as simple as Stoner's life, ordinarily extraordinary. It offers an intimate experience where 
 
 
 # Notes
