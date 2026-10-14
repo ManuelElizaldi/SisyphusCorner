@@ -1,42 +1,59 @@
-It was getting late and sleep was slowly tightening its grip on me. It may be that I am becoming old, or I just simply I'm becoming a creature of habit, but I have this ritual where I have to read for a couple of minutes before going to bed. This signals my brain to shut off operations for the day, the only task is to relax and surrender to Morpheus. 
+It was getting late and sleep was slowly tightening its grip on me. It may be that I am becoming old, or simply that I'm becoming a creature of habit, but I have this ritual where I have to read for a couple of minutes before going to bed. This signals my brain to shut off operations for the day, the only task is to relax and surrender to Morpheus. 
 
 Before I had this ritual in place, I watched YouTube, frying my dopamine receptors until I was anesthetized.
 
 My time with Stoner by John Williams was coming to a close. I had 2 chapters left. My plan was to read one that night, and leave the last for tomorrow morning. I finished the second to last chapter, placed the coffee bag label I was using as a bookmark inside and closed the book. 
 
-The brain didn't receive the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then I thought about William Stoner, why did I felt so melancholic about him? I didn't have the question, but I knew I had to continue reading. 
+The brain omitted the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then I thought about William Stoner, his presence kept nagging at me. Why did I felt so melancholic about him? I didn't have the question, but I knew I had to continue reading. 
 
-I finished the book, I knew how it would end. The beginning of the book tells you how the life of Stoner ends. But still it felt like I was saying goodbye to a lifelong friend, not knowing when it would be the next time I was going to see him. 
+I finished the book, I knew how it would end. The beginning of the book tells you how the life of Stoner ends. But still it felt like I was saying goodbye to a lifelong friend, not knowing when it would be the next time I was going to see him.
+
+This was the clear result of John William's simple, yet ex
 
 John Williams prose in these 300 pages offers an intimate experience where you see Stoner's life. 
 
-
-
+evocative 
+**becoming, a condition that was invented and modified moment by moment**
+**and day by day, by the will and the intelligence and the heart.**
+**The hours that he once had spent in his office gazing out of the window**
+**upon a landscape that shimmered and emptied before his blank regard, he**
+**now spent with Katherine. Every morning, early, he went to his office and**
+**sat restlessly for ten or fifteen minutes; then, unable to achieve repose, he**
+**wandered out of Jesse Hall and across campus to the library, where he**
+**browsed in the stacks for ten or fifteen minutes more. And at last, as if it**
+**were a game he played with himself, he delivered himself from his self-**
+**imposed suspense, slipped out a side door of the library, and made his w**
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
-Stoner did not find his passion, it found him. I looked at my life, and all I saw was an eternal search. Reading Stoner's life I saw a man that lived for literature, he did all of his work for his students. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
+Stoner did not find his passion, it found him. I looked at my life, and all I saw was an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the wellbeing of his students. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
 
-When World War I breaks out and Stoner's peers were ready to answer the call to arms. But Stoner was not sure about enlisting. He pays Sloane a visit to make up his mind and maybe due to his years of experience or seeing some part of him in Stoner, Sloane observed without hesitation:
+When World War I breaks out, Stoner's friends were ready to answer the call to arms. But William was not sure about enlisting. He pays Sloane - his mentor. a visit to make up his mind and maybe due to his years of experience or seeing some part of him in Stoner, Sloane observed without hesitation:
 
 ```
 “It’s love, Mr. Stoner,” Sloane said cheerfully. “You are in love. It’s as
 simple as that.”
 ```
 
-When I first join my current company, many reports ran manually, taking valuable hours from my coworkers and exposing the process to potential errors. Taking advantage of the skills I had acquired I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I have seen the impact and felt the satisfaction, but was I in love? Hard to say at this moment.
+When I first join my current company, many reports ran manually, taking valuable hours from my coworkers and exposing the process to potential errors. Taking advantage of the skills I had acquired I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I have seen the impact and felt the satisfaction, but was I in love? 
+
+As the automated morning reports run, my only job is to monitor, so time is offered to me, which I use to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space in between these moments I flirt with the idea "What if?"
+
+Day dreaming I imagine myself as a writer, 
+It is the decisions we take in life that take us to the point we are at. 
+. I'm well aware of my priorities, and my job is what gives me sustenance, but still this make me flirt with the idea of "What if? What if I was a writer?"
+
+
+ 
 
 I look at my career and every project, every lesson learned was aimed at answering the "What's next?".
 
-My work sometimes offer
+My work sometimes offers wait, where a process runs and I only need to monitor its progress. In these moments, 
 
 I've always found fun to play the idea of "What if?" Alternative lives I could have lived if one decision was different. Even now, e
 
 I would enjoy living as a writer, if the circumstances were different I would've enjoyed to study engineering chemistry. Maybe even learn graphics programming. 
 
 
-I went in, and automated what I could. I freed up hours of tedious work for my team, which they were thankful for. Then as a result, we were able to get more patients into the clinic, offering a better service. But still, the search lingered...
-
-As the automated morning reports run, I am offered time, in ocasions I monitor them, other times I am offered small pauses of wait that I can use for more personal projects. I sometimes grab my most recent book and immerse myself in the pages, but other times I continue writing these essays. I am well aware of my priorities, and my job is what gives me sustenance, but still this make me flirt with the idea of "What if? What if I was a writer?"
 
 
 
@@ -54,6 +71,7 @@ As the automated morning reports run, I am offered time, in ocasions I monitor t
 
 John William's prose was as simple as Stoner's life, ordinarily extraordinary. It offers an intimate experience where 
 
+Surviving a year long job search
 #### Don't be passive, don't use books to escape when life is attacking you 
 # Notes
 My objective with this piece is to write a bit about Stoner, some initial thoughts and attempt at answering the question "What did this book do to me?"
