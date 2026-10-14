@@ -8,50 +8,28 @@ The brain omitted the signal, it was hard to succumb to sleep. I thought about h
 
 I finished the book, I knew how it would end. The beginning of the book tells you how the life of Stoner ends. But still it felt like I was saying goodbye to a lifelong friend, not knowing when it would be the next time I was going to see him.
 
-This was the clear result of John William's simple, yet ex
+This was the clear result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer to a literature doctorate creates an emotional attachment to the character. Through this shock of emotions a mirror was 
 
-John Williams prose in these 300 pages offers an intimate experience where you see Stoner's life. 
 
-evocative 
-**becoming, a condition that was invented and modified moment by moment**
-**and day by day, by the will and the intelligence and the heart.**
-**The hours that he once had spent in his office gazing out of the window**
-**upon a landscape that shimmered and emptied before his blank regard, he**
-**now spent with Katherine. Every morning, early, he went to his office and**
-**sat restlessly for ten or fifteen minutes; then, unable to achieve repose, he**
-**wandered out of Jesse Hall and across campus to the library, where he**
-**browsed in the stacks for ten or fifteen minutes more. And at last, as if it**
-**were a game he played with himself, he delivered himself from his self-**
-**imposed suspense, slipped out a side door of the library, and made his w**
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
 Stoner did not find his passion, it found him. I looked at my life, and all I saw was an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the wellbeing of his students. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
 
-When World War I breaks out, Stoner's friends were ready to answer the call to arms. But William was not sure about enlisting. He pays Sloane - his mentor. a visit to make up his mind and maybe due to his years of experience or seeing some part of him in Stoner, Sloane observed without hesitation:
+When World War I breaks out, Stoner's friends were ready to answer the call to arms. But William was not sure about enlisting. He pays Sloane visit - his mentor - to make up his mind. Perhaps, due to his years of experience or seeing some part of him in Stoner, Sloane observed without hesitation:
 
 ```
 “It’s love, Mr. Stoner,” Sloane said cheerfully. “You are in love. It’s as
 simple as that.”
 ```
 
-When I first join my current company, many reports ran manually, taking valuable hours from my coworkers and exposing the process to potential errors. Taking advantage of the skills I had acquired I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I have seen the impact and felt the satisfaction, but was I in love? 
+One decision had set flight to Stoner's life.
 
-As the automated morning reports run, my only job is to monitor, so time is offered to me, which I use to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space in between these moments I flirt with the idea "What if?"
+When I first join my current company, many reports ran manually, taking valuable hours from my coworkers day and exposing the process to potential errors. Taking advantage of the skills I had acquired, I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I had seen the impact and felt a level of satisfaction, but was I in love? 
 
-Day dreaming I imagine myself as a writer, 
-It is the decisions we take in life that take us to the point we are at. 
-. I'm well aware of my priorities, and my job is what gives me sustenance, but still this make me flirt with the idea of "What if? What if I was a writer?"
+As the automated morning reports run, my only job is to monitor, so time is offered to me, which I use to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space between these moments I flirt with the idea "What if?"
 
+Looking out the window I Daydream about a different life, this unleashes a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour, make me imagine myself as a writer. Sometimes I imagine myself as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with these ideas. 
 
- 
-
-I look at my career and every project, every lesson learned was aimed at answering the "What's next?".
-
-My work sometimes offers wait, where a process runs and I only need to monitor its progress. In these moments, 
-
-I've always found fun to play the idea of "What if?" Alternative lives I could have lived if one decision was different. Even now, e
-
-I would enjoy living as a writer, if the circumstances were different I would've enjoyed to study engineering chemistry. Maybe even learn graphics programming. 
 
 
 
