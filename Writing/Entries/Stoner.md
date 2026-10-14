@@ -8,7 +8,7 @@ The brain omitted the signal, it was hard to succumb to sleep. I thought about h
 
 I finished the book, I knew how it would end. The beginning of the book tells you how the life of Stoner ends. But still it felt like I was saying goodbye to a lifelong friend, not knowing when it would be the next time I was going to see him.
 
-This was the clear result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer to a literature doctorate creates an emotional attachment to the character. Through this shock of emotions a mirror was 
+This was clearly result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer to a literature doctorate creates an emotional attachment to the character. Through this shock of emotions a mirror emerged which allowed me to see my life through the lens of William Stoner. 
 
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
@@ -29,7 +29,6 @@ When I first join my current company, many reports ran manually, taking valuable
 As the automated morning reports run, my only job is to monitor, so time is offered to me, which I use to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space between these moments I flirt with the idea "What if?"
 
 Looking out the window I Daydream about a different life, this unleashes a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour, make me imagine myself as a writer. Sometimes I imagine myself as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with these ideas. 
-
 
 
 
