@@ -14,19 +14,20 @@ John Williams prose in these 300 pages offers an intimate experience where you s
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
-Stoner did not find his passion, it found him. I looked at my life, and all I saw was an eternal search. Reading Stoner's life I saw a man that lived for literature, he did all of his work for his students. It is never mentioned in the book, but I doubt that he ever thought about doing something else. 
+Stoner did not find his passion, it found him. I looked at my life, and all I saw was an eternal search. Reading Stoner's life I saw a man that lived for literature, he did all of his work for his students. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
 
-When World War I breaks out and Stoner's peers were ready to answer the call to arms for the country. But Stoner was not sure about enlisting. He pays Sloane a visit to make up his mind. and maybe due to his years of experience or seeing some part of him in Stoner he observed without hesitation:
+When World War I breaks out and Stoner's peers were ready to answer the call to arms. But Stoner was not sure about enlisting. He pays Sloane a visit to make up his mind and maybe due to his years of experience or seeing some part of him in Stoner, Sloane observed without hesitation:
 
 ```
 “It’s love, Mr. Stoner,” Sloane said cheerfully. “You are in love. It’s as
 simple as that.”
 ```
 
-When I first join my current company, many reports ran manually, taking valuable hours from my coworkers and exposing the process to potential errors. Taking advantage of the skills I have acquired I went in there and automated most of them. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I have seen the impact, but still there's no love there. Only a checklist of things I need to complete. 
+When I first join my current company, many reports ran manually, taking valuable hours from my coworkers and exposing the process to potential errors. Taking advantage of the skills I had acquired I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I have seen the impact and felt the satisfaction, but was I in love? Hard to say at this moment.
 
+I look at my career and every project, every lesson learned was aimed at answering the "What's next?".
 
-I look at my career and every project, every lesson learned was aimed at answering the "What's next?" 
+My work sometimes offer
 
 I've always found fun to play the idea of "What if?" Alternative lives I could have lived if one decision was different. Even now, e
 
