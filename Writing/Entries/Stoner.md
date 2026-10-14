@@ -1,4 +1,4 @@
-It was getting late and  sleep was slowly tightening its grip on me. It may be that I am becoming old, or I just simply I'm becoming a creature of habit, but I have this ritual where I have to read for a couple of minutes before going to bed. This signals my brain to shut off operations for the day, the only task is to relax and surrender to Morpheus. 
+It was getting late and sleep was slowly tightening its grip on me. It may be that I am becoming old, or I just simply I'm becoming a creature of habit, but I have this ritual where I have to read for a couple of minutes before going to bed. This signals my brain to shut off operations for the day, the only task is to relax and surrender to Morpheus. 
 
 Before I had this ritual in place, I watched YouTube, frying my dopamine receptors until I was anesthetized.
 
@@ -10,7 +10,16 @@ I finished the book, I knew how it would end. The beginning of the book tells yo
 
 John Williams prose in these 300 pages offers an intimate experience where you see Stoner's life. 
 
+
+
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
+
+Stoner did not find his passion, it found him. I look at my life, 
+
+
+During the book you read plenty of passages where 
+
+
 - Even though he couldn't explain it, in the scene where Sloane was reciting Shakespeare, Stoner felt his whole spirit shake. 
 - I don't think I have experienced something like that and I envy him (in a good way)
 
