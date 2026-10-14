@@ -14,20 +14,21 @@ John Williams prose in these 300 pages offers an intimate experience where you s
 - Even though he couldn't explain it, in the scene where Sloane was reciting Shakespeare, Stoner felt his whole spirit shake. 
 - I don't think I have experienced something like that and I envy him (in a good way)
 
-#### Although passive against his wife and Lomax, he kept going, doing his work, even when it was not fulfilling
+
 
 #### Regardless of his hardships, he still had a decent life, ordinary, but good 
+- I sometimes struggle with routine, working from home it is hard to see the world advance through my window. But perhaps this life is not too bad. 
 - He lived through the great depression, world war I and II, when the country was crumbling, he still had a decent life. 
 - Ordinary can be good. 
 
-#### The death of an institution, utilitarian school, what do you stand for, Sloane 
+#### A light was shown in my shadow self. I realized that sometimes I would learn for ego, chasing what deep knowledge gave me, using it as a means to an end instead of the end itself.
 - Learning for the pleasure of learning. Not because it gives you reputation, acceptance, superiority, etc. Pursue knowledge because there's pleasure there
 
-#### Choosing your path even though there's uncertainty 
+#### I have constantly struggled with uncertainty. Even now, after preparing for an exam to get certified as a cloud infrastructure engineer, I feel uncertain. Choosing your path even though there's uncertainty 
 
 John William's prose was as simple as Stoner's life, ordinarily extraordinary. It offers an intimate experience where 
 
-
+#### Being passive, about people who are stomping you
 # Notes
 My objective with this piece is to write a bit about Stoner, some initial thoughts and attempt at answering the question "What did this book do to me?"
 
