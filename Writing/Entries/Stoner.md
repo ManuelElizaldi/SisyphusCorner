@@ -14,18 +14,11 @@ John Williams prose in these 300 pages offers an intimate experience where you s
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
-Stoner did not find his passion, it found him. I looked at my life, and all I saw was an eternal search. I am not going to state that I am not happy or that I haven't encountered gratification from my work. But reading Stoner's life I saw a man that lived for literature, he did all of his work for his students. It is never mentioned in the book, but I doubt that he ever thought about doing something else. 
+Stoner did not find his passion, it found him. I looked at my life, and all I saw was an eternal search. Reading Stoner's life I saw a man that lived for literature, he did all of his work for his students. It is never mentioned in the book, but I doubt that he ever thought about doing something else. 
 
-When World War I breaks out and Stoner's peers were ready to answer the call to arms for the country. But Stoner is not sure about enlisting. He pays Sloane a visit and maybe due to his years of experience or seeing some part of him in Stoner he observed without hesitation:
+When World War I breaks out and Stoner's peers were ready to answer the call to arms for the country. But Stoner was not sure about enlisting. He pays Sloane a visit to make up his mind. and maybe due to his years of experience or seeing some part of him in Stoner he observed without hesitation:
 
 ```
-“But don’t you know, Mr. Stoner?” Sloane asked. “Don’t you understand
-about yourself yet? You’re going to be a teacher.”
-Suddenly Sloane seemed very distant, and the walls of the office receded.
-Stoner felt himself suspended in the wide air, and he heard his voice ask,
-“Are you sure?”
-“I’m sure,” Sloane said softly.
-“How can you tell? How can you be sure?”
 “It’s love, Mr. Stoner,” Sloane said cheerfully. “You are in love. It’s as
 simple as that.”
 ```
@@ -36,6 +29,10 @@ I've always found fun to play the idea of "What if?" Alternative lives I could h
 
 I would enjoy living as a writer, if the circumstances were different I would've enjoyed to study engineering chemistry. Maybe even learn graphics programming. 
 
+
+I am not going to deny I haven't encountered gratification from my job. When I first joined my company, many reports were ran manually. Taking hours of manual labor from my co workers. I saw this and my experienced allowed me to see the potential risk for errors. Also, I knew my teammates had other projects that needed tending to so the hours wasted running these manual reports where valuable. I went in, and automated what I could. I freed up hours of tedious work for my team, which they were thankful for. Then as a result, we were able to get more patients into the clinic, offering a better service. But still, the search lingered...
+
+As the automated morning reports run, I am offered time, in ocasions I monitor them, other times I am offered small pauses of wait that I can use for more personal projects. I sometimes grab my most recent book and immerse myself in the pages, but other times I continue writing these essays. I am well aware of my priorities, and my job is what gives me sustenance, but still this make me flirt with the idea of "What if? What if I was a writer?"
 
 
 
