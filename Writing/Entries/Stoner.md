@@ -14,10 +14,24 @@ John Williams prose in these 300 pages offers an intimate experience where you s
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
-Stoner did not find his passion, it found him. I look at my life, 
+Stoner did not find his passion, it found him. I looked at my life, and all I see is an eternal search. I am not going to state that I am not happy, that I haven't encountered gratification from my work. But reading Stoner's life I saw a man that lived for literature, he did all of his work for his students. It is never mentioned in the book, but I doubt that he ever thought about doing something else. 
 
+When World War I breaks out and Stoner's peers 
+When he talks to Sloane about if he was going to go to war, Stoner knew he didn't have a soldier's soul. Sloane. Maybe due to his years of experience or seeing some part of him in Stoner called out, without hesitation.
 
-During the book you read plenty of passages where 
+```
+“But don’t you know, Mr. Stoner?” Sloane asked. “Don’t you understand
+about yourself yet? You’re going to be a teacher.”
+Suddenly Sloane seemed very distant, and the walls of the office receded.
+Stoner felt himself suspended in the wide air, and he heard his voice ask,
+“Are you sure?”
+“I’m sure,” Sloane said softly.
+“How can you tell? How can you be sure?”
+“It’s love, Mr. Stoner,” Sloane said cheerfully. “You are in love. It’s as
+simple as that.”
+```
+
+I look at my career and every project, every lesson learned was aimed at the answering : "This will help me in the future, for a new opportunity." Always trying to answer the "What's next?"
 
 
 - Even though he couldn't explain it, in the scene where Sloane was reciting Shakespeare, Stoner felt his whole spirit shake. 
@@ -46,3 +60,5 @@ I have to begin at the prose of this book. I was mesmerized by how simple but el
 One example of this prose is when he describes what love is for our character Stoner. We follow Stoner throughout his attempt at love, like icraus flying too close to the sun / but never quite reaching it in his own household  he discovered love and then experiences the disappointment of not having his love is not mutual. Then Williams lays down one of the best descriptions of what is love. 
 
 Love for knowledge - I, like Stoner, truly enjoy the pleasure of reading, learning new things. But sometimes I can't don't allow myself to relax in this pleasure, perhaps by my own volition or due to the inevitable bigger forces of the system I always need to attach an utilitarian motivation to the knowledge and projects I am building 
+
+[^1]: 
