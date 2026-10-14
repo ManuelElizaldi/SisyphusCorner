@@ -23,14 +23,17 @@ When World War I breaks out and Stoner's peers were ready to answer the call to 
 simple as that.”
 ```
 
-I look at my career and every project, every lesson learned was aimed at answering the "What's next?"
+When I first join my current company, many reports ran manually, taking valuable hours from my coworkers and exposing the process to potential errors. Taking advantage of the skills I have acquired I went in there and automated most of them. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I have seen the impact, but still there's no love there. Only a checklist of things I need to complete. 
+
+
+I look at my career and every project, every lesson learned was aimed at answering the "What's next?" 
 
 I've always found fun to play the idea of "What if?" Alternative lives I could have lived if one decision was different. Even now, e
 
 I would enjoy living as a writer, if the circumstances were different I would've enjoyed to study engineering chemistry. Maybe even learn graphics programming. 
 
 
-I am not going to deny I haven't encountered gratification from my job. When I first joined my company, many reports were ran manually. Taking hours of manual labor from my co workers. I saw this and my experienced allowed me to see the potential risk for errors. Also, I knew my teammates had other projects that needed tending to so the hours wasted running these manual reports where valuable. I went in, and automated what I could. I freed up hours of tedious work for my team, which they were thankful for. Then as a result, we were able to get more patients into the clinic, offering a better service. But still, the search lingered...
+I went in, and automated what I could. I freed up hours of tedious work for my team, which they were thankful for. Then as a result, we were able to get more patients into the clinic, offering a better service. But still, the search lingered...
 
 As the automated morning reports run, I am offered time, in ocasions I monitor them, other times I am offered small pauses of wait that I can use for more personal projects. I sometimes grab my most recent book and immerse myself in the pages, but other times I continue writing these essays. I am well aware of my priorities, and my job is what gives me sustenance, but still this make me flirt with the idea of "What if? What if I was a writer?"
 
