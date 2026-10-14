@@ -8,7 +8,7 @@ The brain didn't receive the signal, it was hard to succumb to sleep. I thought 
 
 I finished the book, I knew how it would end. The beginning of the book tells you how the life of Stoner ends. But still it felt like I was saying goodbye to a lifelong friend, not knowing when it would be the next time I was going to see him. 
 
-John Williams prose in these 300 pages offers an intimate experience where you see the life of Wi
+John Williams prose in these 300 pages offers an intimate experience where you see Stoner's life. 
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 - Even though he couldn't explain it, in the scene where Sloane was reciting Shakespeare, Stoner felt his whole spirit shake. 
@@ -28,7 +28,7 @@ John Williams prose in these 300 pages offers an intimate experience where you s
 
 John William's prose was as simple as Stoner's life, ordinarily extraordinary. It offers an intimate experience where 
 
-#### Being passive, about people who are stomping you
+#### Don't be passive, don't use books to escape when life is attacking you 
 # Notes
 My objective with this piece is to write a bit about Stoner, some initial thoughts and attempt at answering the question "What did this book do to me?"
 
