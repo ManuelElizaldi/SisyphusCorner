@@ -1,4 +1,4 @@
-It was around 11:00 pm, sleep was slowly tightening its grip on me. It may be that I am becoming old, or I just simply I'm becoming a creature of habit, but I have this ritual where I have to read for a couple of minutes before going to bed. This signals my brain to shut off operations for the day, the only task is to relax and surrender to Morpheus. 
+It was getting late and  sleep was slowly tightening its grip on me. It may be that I am becoming old, or I just simply I'm becoming a creature of habit, but I have this ritual where I have to read for a couple of minutes before going to bed. This signals my brain to shut off operations for the day, the only task is to relax and surrender to Morpheus. 
 
 Before I had this ritual in place, I watched YouTube, frying my dopamine receptors until I was anesthetized.
 
