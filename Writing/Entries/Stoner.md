@@ -16,8 +16,7 @@ John Williams prose in these 300 pages offers an intimate experience where you s
 
 Stoner did not find his passion, it found him. I looked at my life, and all I see is an eternal search. I am not going to state that I am not happy, that I haven't encountered gratification from my work. But reading Stoner's life I saw a man that lived for literature, he did all of his work for his students. It is never mentioned in the book, but I doubt that he ever thought about doing something else. 
 
-When World War I breaks out and Stoner's peers 
-When he talks to Sloane about if he was going to go to war, Stoner knew he didn't have a soldier's soul. Sloane. Maybe due to his years of experience or seeing some part of him in Stoner called out, without hesitation.
+When World War I breaks out and Stoner's peers, "jump to defend" the county. But Stoner is not sure about enlisting. He pays Sloane a visit and maybe due to his years of experience or seeing some part of him in Stoner called out, without hesitation.
 
 ```
 “But don’t you know, Mr. Stoner?” Sloane asked. “Don’t you understand
@@ -33,9 +32,10 @@ simple as that.”
 
 I look at my career and every project, every lesson learned was aimed at the answering : "This will help me in the future, for a new opportunity." Always trying to answer the "What's next?"
 
+I would enjoy living as a writer, if the circumstances were different I would've enjoyed to study engineering chemistry. Maybe even learn graphics programming. 
 
-- Even though he couldn't explain it, in the scene where Sloane was reciting Shakespeare, Stoner felt his whole spirit shake. 
-- I don't think I have experienced something like that and I envy him (in a good way)
+
+
 
 
 
