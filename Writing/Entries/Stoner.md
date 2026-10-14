@@ -14,9 +14,9 @@ John Williams prose in these 300 pages offers an intimate experience where you s
 
 #### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
 
-Stoner did not find his passion, it found him. I looked at my life, and all I see is an eternal search. I am not going to state that I am not happy, that I haven't encountered gratification from my work. But reading Stoner's life I saw a man that lived for literature, he did all of his work for his students. It is never mentioned in the book, but I doubt that he ever thought about doing something else. 
+Stoner did not find his passion, it found him. I looked at my life, and all I saw was an eternal search. I am not going to state that I am not happy or that I haven't encountered gratification from my work. But reading Stoner's life I saw a man that lived for literature, he did all of his work for his students. It is never mentioned in the book, but I doubt that he ever thought about doing something else. 
 
-When World War I breaks out and Stoner's peers, "jump to defend" the county. But Stoner is not sure about enlisting. He pays Sloane a visit and maybe due to his years of experience or seeing some part of him in Stoner called out, without hesitation.
+When World War I breaks out and Stoner's peers were ready to answer the call to arms for the country. But Stoner is not sure about enlisting. He pays Sloane a visit and maybe due to his years of experience or seeing some part of him in Stoner he observed without hesitation:
 
 ```
 “But don’t you know, Mr. Stoner?” Sloane asked. “Don’t you understand
@@ -30,7 +30,9 @@ Stoner felt himself suspended in the wide air, and he heard his voice ask,
 simple as that.”
 ```
 
-I look at my career and every project, every lesson learned was aimed at the answering : "This will help me in the future, for a new opportunity." Always trying to answer the "What's next?"
+I look at my career and every project, every lesson learned was aimed at answering the "What's next?"
+
+I've always found fun to play the idea of "What if?" Alternative lives I could have lived if one decision was different. Even now, e
 
 I would enjoy living as a writer, if the circumstances were different I would've enjoyed to study engineering chemistry. Maybe even learn graphics programming. 
 
@@ -38,7 +40,7 @@ I would enjoy living as a writer, if the circumstances were different I would've
 
 
 
-
+*the point above could be connected to the point below*
 #### Regardless of his hardships, he still had a decent life, ordinary, but good 
 - I sometimes struggle with routine, working from home it is hard to see the world advance through my window. But perhaps this life is not too bad. 
 - He lived through the great depression, world war I and II, when the country was crumbling, he still had a decent life. 
