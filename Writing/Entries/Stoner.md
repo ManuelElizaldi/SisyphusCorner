@@ -31,7 +31,10 @@ Looking out the window I Daydream about a different life unleashing a foray of a
 
 The idea of love for my work is not foreign to me. Back in 2023, I was laid off from my company. I spent many hours improving my skills, filling any possible gap in the resume. In this process I read plenty of coding blogs where people recommended to build projects that are related to your interests or helpful towards your goals. 
 
-With plenty of time to spare after the tiresome process of applying to jobs, most of the day for myself. Most of my time was filled with coding and running. 
+*Still need to mention the races*
+With plenty of time to spare after the tiresome process of applying to jobs, most of the day for myself. Most of my time was filled with coding and running. It was natural that the grand source of creativity inspired me to create a personal coaching tool. Money was limited so I couldn't hire a coach, but I could write the code for one. 
+
+I created several versions of this program, each day was a carbon copy of the previous, wake up early, go for a run, apply to jobs, then code. 
 
 
 
