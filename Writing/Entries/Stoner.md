@@ -30,7 +30,7 @@ As the automated morning reports run, my only job is to monitor, so time is offe
 
 Looking out the window I Daydream about a different life, this unleashes a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour, make me imagine myself as a writer. Sometimes I imagine myself as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with these ideas. 
 
-
+The 
 
 
 
