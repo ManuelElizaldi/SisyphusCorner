@@ -10,8 +10,7 @@ I finished the book, I knew how it would end. The beginning of the book tells yo
 
 This was clearly result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer to a literature doctorate creates an emotional attachment to the character. Through this shock of emotions a mirror emerged which allowed me to see my life through the lens of William Stoner. 
 
-
-#### I envy Stoner for he found his passion, found solace in work, he was able to work for 12 hours straight. 
+## I envy Stoner, for his passion found him
 
 Stoner did not find his passion, it found him. I looked at my life, and all I saw was an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the wellbeing of his students. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
 
@@ -28,10 +27,11 @@ When I first join my current company, many reports ran manually, taking valuable
 
 As the automated morning reports run, my only job is to monitor, so time is offered to me, which I use to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space between these moments I flirt with the idea "What if?"
 
-Looking out the window I Daydream about a different life, this unleashes a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour, make me imagine myself as a writer. Sometimes I imagine myself as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with these ideas. 
+Looking out the window I Daydream about a different life unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These make me imagine myself as a writer, or sometimes I imagine myself as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with these ideas. 
 
-The 
+The idea of love for my work is not foreign to me. Back in 2023, I was laid off from my company. I spent many hours improving my skills, filling any possible gap in the resume. In this process I read plenty of coding blogs where people recommended to build projects that are related to your interests or helpful towards your goals. 
 
+With plenty of time to spare after the tiresome process of applying to jobs, most of the day for myself. Most of my time was filled with coding and running. 
 
 
 
