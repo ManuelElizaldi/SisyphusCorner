@@ -40,10 +40,10 @@ Using a website like [BalenaEtcher](https://etcher.balena.io/) could have saved 
 After flashing, we enter the bios boot up window.
 
 
-
-
 ![[PXL_20261007_204724021.jpg]]
 
+
+Enabling AMD-IOMMU and AMD-SVM
 ![[PXL_20261007_205051525.jpg]]
 
 
@@ -63,18 +63,18 @@ DNS server = Pihole
 - I disabled these repos, since I don't have a subscription:
 ![[Pasted image 20261011140623.png]]
 
-For now, I sshed into the computer via terminal, but this could also be done through the web UI
+For now, I sshed into the computer via terminal, but this could also be done through the web UI Terminal
 
 nslookup command, it looks up an IP inside the DNS server 
 
 ![[Pasted image 20261011140824.png]]
 
-Now that we have this setup, first thing in the to-do list is to create a config setting that allows me to close the laptop lid, and prevent the computer from going to sleep. If it goes to sleep, the server is disconnected. This is mostly due to the aesthethics of my desk. I plan on 3D printing a base for my laptops. Cable managment ! 
+Now that we have this setup, first thing in the to-do list is to create a config setting that allows me to close the laptop lid, and prevent the computer from going to sleep. If it goes to sleep, the server is disconnected. This is mostly due to my aesthetics preferences. I plan on 3D printing a base for my laptops, I can also prevent overheating with the design I have in mind. Cable management here I come! 
 - also to prevent overheating 
 
 For this set up we need to make a folder inside the systemd folder. I named it `logind.conf.d`
 - Naming convention for this folder -> why the dots? -> `.d` is Linux convention for a folder of config fragments
-- systemd reads files from `/etc/systemd/*conf.d/` after the main file has been read and overwrites it. 
+- systemd reads files from `/etc/systemd/*conf.d/` after the main boot file has been read and overwrites it. 
 
 Then inside this new `logind.conf.d` folder we create a config file: `lid.conf`
 
@@ -95,7 +95,7 @@ a new system command I learned to write this lid config file: `systemd-analyze`.
 This might deteriorate the battery on this old gaming laptop. Might need to create a script that tracks battery help using node_exporter, or something like that. This is a project for my future self. For now, the laptop works with its lid close. 
 
 # Adding node-a to Prometheus
-Remembering, Prometheus scapes metrics, in time series. Then we can use something called PromQL to visualize the data. 
+Remembering, Prometheus scrapes metrics, in time series. Then we can use something called PromQL to query the data then visualize it. 
 
 I have already done this for my Raspberry Pi, so the process was similar, but first we have to confirm the computers' architecture. 
 

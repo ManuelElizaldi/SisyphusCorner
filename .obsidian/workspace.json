@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Home Lab/Home Lab Server Phase 2.md",
+                "file": "Programming/Home Lab/Home Lab Server Phase 2 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Lab Server Phase 2"
+              "title": "Home Lab Server Phase 2 Notes"
             }
           },
           {
@@ -250,7 +250,7 @@
     "Writing/Entries/Sending letters.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
     "Programming/RaspberryPi/My Digital Bookshelf Project.md",
-    "Programming/Home Lab/Home Lab Server Phase 2.md",
+    "Programming/Home Lab/Home Lab Server Phase 2 Notes.md",
     "Screenshot_20261012-155513~2.jpg",
     "Programming/Formatting & Mounting Storage Volumes on Linux.md",
     "Programming/Home Lab/A Health Check That Reports Nothing Looks Exactly Like a Healthy Drive.md",
