@@ -273,6 +273,13 @@ One setting, and it makes the Pi’s name lookups use your lab records
 
 I learned that every network interface has its own DNS server. Wifi has one it references, then ethernet has another. 
 
-There's something called a resolver as well. This can fetch public services like goolge, GitHub, etc. 
+There's something called a resolver as well. This can fetch public services like Goolge, GitHub, etc. 
 
-Cleaning up the DNS 
+When I did the nslookup of node-a it showed the new laptop, that was because we were using the Wifi DNS lookup, so it worked by luck. 
+
+Every interface has its own settings for DNS lists which come from your router and DHCP
+
+`nmcli device show` Gives us the internet interfaces 
+
+My pi was defaulting to Wifi because ethernet could not resolve the node-a lookup. So we turned off wifi, I have my py connected via ethernet and that's what I want it to use. 
+
