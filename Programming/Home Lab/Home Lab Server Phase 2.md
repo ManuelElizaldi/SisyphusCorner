@@ -1,5 +1,5 @@
 # Installing Proxmox
-Platform for running virtual machines and containers. First we need to flash my laptops, for that I downloaded the ISO from the Proxmox website. Similar to how I first downladed and installed my flavor of Linux: Zorin OS.
+Platform for running virtual machines and containers. First we need to flash my laptops, for that I downloaded the ISO from the Proxmox website. Similar to how I first downloaded and installed my flavor of Linux: Zorin OS.
 
 We download the ISO to a clean USB drive. 
 
