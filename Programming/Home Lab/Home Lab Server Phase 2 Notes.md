@@ -109,7 +109,7 @@ So we download -> `wget https://github.com/prometheus/node_exporter/releases/dow
 
 Check the sha256sum, which matches, extract the files, and before installing I am going to create the isolated/least privilege user who will own this service. 
 
-Also, at this point, I ran `whoami` command to make note of the user I was logged in. I was logged in as root. Which means I don't need to type sudo before any command. It also means I have to be extra careful, I have removed the learning wheels from my bike. If I want something I shouldn't, I could do serious damage to the system. 
+Also, at this point, I ran `whoami` command to make note of the user I was logged in. I was logged in as root. Which means I don't need to type sudo before any command. It also means I have to be extra careful, I have removed the learning wheels from my bike. If I am not careful I could do serious damage to the system. 
 
 Now I create the user: 
 ```
@@ -121,7 +121,7 @@ uid=999(node_exporter) gid=990(node_exporter) groups=990(node_exporter)
 ### Writing the node_exporter service file
 Inside -> `/etc/systemd/system/node_exporter.service`
 
-Some services only start after the network is ready. Other you wnat to start before the network. 
+Some services only start after the network is ready. Other you want to start before the network. 
 
 Service file:
 ```
@@ -139,7 +139,7 @@ Restart=on-failure # if it crashes, restart the node_exporter service
 WantedBy=multi-user.target # Starts automatically at normal boot 
 ```
 
-Also, I moved the executable we extracted from the github repo into the bin (executbales) folder and checked the versionto make sure everything went well:
+Also, I moved the executable we extracted from the GitHub repo into the bin (executables) folder and checked the version to make sure everything went well:
 
 ```
 root@node-a:~/node_exporter-1.8.2.linux-amd64# /usr/local/bin/node_exporter --version
@@ -161,6 +161,7 @@ root@node-a:~# systemctl enable --now node_exporter
 Created symlink '/etc/systemd/system/multi-user.target.wants/node_exporter.service' → '/etc/systemd/system/node_exporter.service'.
 ```
 
+At this point, everything has been smooth sailing. 
 
 If we check port 9100, we can see that metrics are being exposed there. Doing this through the web browser:
 ![[Pasted image 20261011164020.png]]
@@ -168,9 +169,9 @@ If we check port 9100, we can see that metrics are being exposed there. Doing th
 ![[Pasted image 20261011164036.png]]
 
 ## Connecting this to the Raspberry Pi
-During phase 1, I wrote a Prometheus config file. As I type these words I have to say how grateful I am of the notes I took. If you are learning or following along this, please I implore you to take diligent notes. Cosnider it a tip for your future self. 
+During phase 1, I wrote a Prometheus config file. As I type these words I have to say how grateful I am of the notes I took. If you are learning or following along this, please I implore you to take diligent notes. Consider it a favor for your future self. 
 
-But any ways, I wrote a prometheus config files. Inside it, there's a section for targets. Here, we need to specify our new target to be scraped, node-a.
+But continuing along, I wrote a Prometheus config files. Inside it, there's a section for targets. Here, we need to specify our new target to be scraped, node-a.
 
 Our new config file now looks like this:
 
@@ -184,7 +185,8 @@ scrape_configs:
     static_configs:
       - targets: ["localhost:9100","192.168.0.20:9100"]
 ```
-Running the command: promtool check config /etc/prometheus/prometheus.yml made me realize I was grouping both the Pi and node-a into one job. *Search what would happen here* so I had to restructure my yaml file into:
+
+Running the command: promtool check config /etc/prometheus/prometheus.yml made me realize I was grouping both the Pi and node-a into one job. So I had to restructure my yaml file into:
 
 ```yaml
 global:
@@ -269,4 +271,8 @@ Looking online and asking the Home Lab discord server, my best bet would be a Mi
 ### Pi’s own DNS points at itself
 One setting, and it makes the Pi’s name lookups use your lab records
 
-We want to 
+I learned that every network interface has its own DNS server. Wifi has one it references, then ethernet has another. 
+
+There's something called a resolver as well. This can fetch public services like goolge, GitHub, etc. 
+
+Cleaning up the DNS 
