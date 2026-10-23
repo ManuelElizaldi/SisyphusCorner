@@ -29,19 +29,22 @@ As the automated morning reports run, my only job is to monitor, so time is offe
 
 Looking out the window I Daydream about a different life unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These make me imagine myself as a writer, or sometimes I imagine myself as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with these ideas. 
 
-The idea of love for my work is not foreign to me. Back in 2023, I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were offered to work on myself. Each day seemed a copy the previous one. 
+The idea of love for my work is not foreign to me. Back in 2023, I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were to work on myself. 
 
-I woke up early, went for a run then came home, applied to jobs and worked on a personal programming project. Since money was short and my desire to become a good runner high, I needed a coach but couldn't afford one. The all mighty source of creativity gave me the insight into programming my own coding coach. 
+I woke up early, went for a run then came home, applied to jobs and worked on a personal programming project. 
 
-I built the tool from the ground up, each decision unlocked 
+One day running the all mighty source of creativity illuminated me. Since money was short and my desire to become a good runner high, I decided to program my own digital coach. 
 
-I remember these days with great joy, my programming gave me the opportunity to learn skills. Then I acompanied my project with coding blogs, which ended up helping me land my current role. 
+For this project I had to take every decision. Each step unlocked new skills, in turn I gained inspiration for other features. Each day seemed a copy the previous one, and I was in love with my craft.
 
-I spent many hours improving my skills, filling any possible gap in the resume. In this process I read plenty of coding blogs where people recommended to build projects that are related to your interests or helpful towards your goals. 
+One time when my parents came to visit that year, we were having beers after dinner I clearly remember the worried faces of my parents. They tried to act calm and collected
 
-was natural that the grand source of creativity inspired me to create a personal coaching tool. Money was limited so I couldn't hire a coach, but I could write the code for one. 
 
-I created several versions of this program, each day was a carbon copy of the previous, wake up early, go for a run, apply to jobs, then code. 
+remember telling my parents that if I had known I was going to be laid off I would still go into this field because it has given me so much. 
+
+Then I felt the need to write about the process of building this project and share it with the world. Incredibly enough, this added another dimension of joy to the process. One of my blogs ended up in the hands of the recruiter that gave me my current job. 
+
+
 
 
 
