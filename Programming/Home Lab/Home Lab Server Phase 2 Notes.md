@@ -291,3 +291,6 @@ I had to create a new key from my laptop to the proxmox server, I had already cr
 
 Seeing the parallels between what I studied for my exam and what I am currently doing is helping a lot 
 
+I generated a key for my node-a for my laptop and desktop
+then moved it to authorized keys 
+
