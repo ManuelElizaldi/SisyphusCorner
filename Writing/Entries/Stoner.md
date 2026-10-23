@@ -29,13 +29,17 @@ As the automated morning reports run, my only job is to monitor, so time is offe
 
 Looking out the window I Daydream about a different life unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These make me imagine myself as a writer, or sometimes I imagine myself as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with these ideas. 
 
-The idea of love for my work is not foreign to me. Back in 2023, I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were offered to inv projects were offered to me now. My life started to look like 
+The idea of love for my work is not foreign to me. Back in 2023, I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were offered to work on myself. Each day seemed a copy the previous one. 
 
+I woke up early, went for a run then came home, applied to jobs and worked on a personal programming project. Since money was short and my desire to become a good runner high, I needed a coach but couldn't afford one. The all mighty source of creativity gave me the insight into programming my own coding coach. 
+
+I built the tool from the ground up, each decision unlocked 
+
+I remember these days with great joy, my programming gave me the opportunity to learn skills. Then I acompanied my project with coding blogs, which ended up helping me land my current role. 
 
 I spent many hours improving my skills, filling any possible gap in the resume. In this process I read plenty of coding blogs where people recommended to build projects that are related to your interests or helpful towards your goals. 
 
-*Still need to mention the races*
-With plenty of time to spare after the tiresome process of applying to jobs, most of the day for myself. Most of my time was filled with coding and running. It was natural that the grand source of creativity inspired me to create a personal coaching tool. Money was limited so I couldn't hire a coach, but I could write the code for one. 
+was natural that the grand source of creativity inspired me to create a personal coaching tool. Money was limited so I couldn't hire a coach, but I could write the code for one. 
 
 I created several versions of this program, each day was a carbon copy of the previous, wake up early, go for a run, apply to jobs, then code. 
 
