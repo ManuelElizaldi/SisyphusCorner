@@ -286,3 +286,8 @@ My pi was defaulting to Wifi because ethernet could not resolve the node-a looku
 # VM image
 Every time I launch a VM it is going to use the VM image as a template. Similar to an AMI in AWS. In launches with all the user data that you place on it. 
 
+# SSH key 
+I had to create a new key from my laptop to the proxmox server, I had already created ssh keys before and I saw this as similar to when you create a .pem file in an EC2 
+
+Seeing the parallels between what I studied for my exam and what I am currently doing is helping a lot 
+
