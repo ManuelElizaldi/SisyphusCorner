@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +216,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "51675b572e5ab5e5",
+  "active": "7d02ac87ccdf31e3",
   "lastOpenFiles": [
+    "Programming/Home Lab/Home Lab Server Phase 2 Notes.md",
     "Programming/RaspberryPi/My Digital Bookshelf Project.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
-    "Programming/Home Lab/Home Lab Server Phase 2 Notes.md",
     "Writing/Entries/Stoner.md",
     "Writing/Entries/Sending letters.md",
     "Screenshot_20261012-155513~2.jpg",
