@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "c1d575221121e86e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          },
+          {
             "id": "42ccf67124c666a9",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,7 +256,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "51675b572e5ab5e5",
+  "active": "c1d575221121e86e",
   "lastOpenFiles": [
     "Writing/Entries/Stoner.md",
     "Writing/Entries/Sending letters.md",
