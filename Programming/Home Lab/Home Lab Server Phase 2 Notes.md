@@ -283,3 +283,5 @@ Every interface has its own settings for DNS lists which come from your router a
 
 My pi was defaulting to Wifi because ethernet could not resolve the node-a lookup. So we turned off wifi, I have my py connected via ethernet and that's what I want it to use. 
 
+# VM image
+Every time I launch a VM it is going to use the VM image as a template. Similar to an AMI in 
