@@ -25,11 +25,14 @@ One decision had set flight to Stoner's life.
 
 When I first join my current company, many reports ran manually, taking valuable hours from my coworkers day and exposing the process to potential errors. Taking advantage of the skills I had acquired, I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I had seen the impact and felt a level of satisfaction, but was I in love? 
 
-As the automated morning reports run, my only job is to monitor, so time is offered to me, which I use to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space between these moments I flirt with the idea "What if?"
+As the automated morning reports run, my only job is to monitor, so time is offered to me, I take advantage of this gift and use it to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space between these moments I flirt with the idea "What if?"
 
 Looking out the window I Daydream about a different life unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These make me imagine myself as a writer, or sometimes I imagine myself as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with these ideas. 
 
-The idea of love for my work is not foreign to me. Back in 2023, I was laid off from my company. I spent many hours improving my skills, filling any possible gap in the resume. In this process I read plenty of coding blogs where people recommended to build projects that are related to your interests or helpful towards your goals. 
+The idea of love for my work is not foreign to me. Back in 2023, I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were offered to inv projects were offered to me now. My life started to look like 
+
+
+I spent many hours improving my skills, filling any possible gap in the resume. In this process I read plenty of coding blogs where people recommended to build projects that are related to your interests or helpful towards your goals. 
 
 *Still need to mention the races*
 With plenty of time to spare after the tiresome process of applying to jobs, most of the day for myself. Most of my time was filled with coding and running. It was natural that the grand source of creativity inspired me to create a personal coaching tool. Money was limited so I couldn't hire a coach, but I could write the code for one. 
