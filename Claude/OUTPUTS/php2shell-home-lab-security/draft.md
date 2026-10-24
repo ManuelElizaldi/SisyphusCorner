@@ -83,7 +83,7 @@ So going in to check the checksums for these programs, I found out that four of 
 
 Taking a closer looker I noticed that the mismatches were a license file, a couple of icons (png files), an extra readme. Tampering doesn't usually look like a changed SVG. After updating, all eleven plugins verified clean. The mismatch was age, not an intruder, what a way to scare myself. 
 
-Next up, the update, where the real story was hiding.
+Next up, the updates, where the real story was hiding.
 
 ### The Patches That Never Came
 
@@ -95,7 +95,9 @@ Nine plugins were behind too (those dreaded plugins!). WordPress installs minor 
 wp cron event list
 ```
 
-Every scheduled event read "now". Not "in 5 minutes". Now. Version checks, plugin update checks, all overdue. WP-Cron, WordPress's scheduler, wasn't running anything.
+wp-cli labels any job whose scheduled time has already passed as "now". A healthy list counts down: 11 minutes, an hour.
+
+Every scheduled event read "now". Not "in 5 minutes". Now. Version checks, plugin update checks, Everything was overdue. I was more vulnerable than what I expected. WordPress's scheduler, WP-Cron, wasn't running anything. Why? 
 
 `wp cron test` had the answer:
 
@@ -103,7 +105,9 @@ Every scheduled event read "now". Not "in 5 minutes". Now. Version checks, plugi
 Error: WP-Cron spawn failed ... sslv3 alert handshake failure
 ```
 
-The chain took a while to untangle. WP-Cron doesn't run on a real clock. When someone visits the site, WordPress fires an HTTP request at itself, at https://manuel-elizaldi.com/wp-cron.php, to start its jobs in the background, and for that self-call it turns off certificate checking. My Pi didn't have PHP's curl extension, so WordPress fell back to a plainer socket connection. With verification off, that fallback also stops sending SNI, the part of the TLS handshake where the client says which website it wants. Cloudflare serves an enormous number of sites from the same IP addresses. A handshake that doesn't name a site gets rejected.
+The chain took a while to untangle and if I am honest, without Claude helping me out on this one, I estimate my troubleshooting time would have taken me more time than it did. 
+
+From my research I found out that WP-Cron doesn't run on a real clock. When I receive a vis visits the site, WordPress fires an HTTP request at itself, at https://manuel-elizaldi.com/wp-cron.php, to start its jobs in the background, and for that self-call it turns off certificate checking. My Pi didn't have PHP's curl extension, so WordPress fell back to a plainer socket connection. With verification off, that fallback also stops sending SNI, the part of the TLS handshake where the client says which website it wants. Cloudflare serves an enormous number of sites from the same IP addresses. A handshake that doesn't name a site gets rejected.
 
 So every page view sent a request out to Cloudflare and back, every one got turned away, and nothing complained. Security updates included.
 
