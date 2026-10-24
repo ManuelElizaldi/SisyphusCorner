@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude/OUTPUTS/php2shell-home-lab-security/draft.md",
+                "file": "Claude/OUTPUTS/php2shell-home-lab-security/Home Lab Blog 2 A PHP Bug, a bot scanning my website and an update that never came.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "Home Lab Blog 2 A PHP Bug, a bot scanning my website and an update that never came"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,8 +256,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "49e3f1f1d6d82f48",
+  "active": "6d7363f4e5492449",
   "lastOpenFiles": [
+    "Pasted image 20261024180352.png",
     "Claude/ABOUT_ME/writing-style.md",
     "Writing/Entries/Stoner.md",
     "Programming/Home Lab/Home Lab Server Phase 2 Notes.md",
@@ -294,7 +295,6 @@
     "Writing/Entries/Done/The Lunch Beer.md",
     "Writing/Entries/Done/Stay Wild Moon Child - Morning in Nuevo Laredo, Mexico.md",
     "Writing/Entries/Done/Sandbag.md",
-    "Writing/Entries/Done/Internal Inevitable Adjustment.md",
     "Programming/RaspberryPi/Webpage",
     "Programming/Home Lab/Done",
     "Programming/Garmin",

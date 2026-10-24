@@ -1,5 +1,7 @@
 October 24, 2026
 
+![[Pasted image 20261024180352.png]]
+
 _Browsing YouTube I discovered a critical PHP bug that affected my own home server. Fixing the bug was the easy part, the challenge was finding out why my website had quietly stopped patching itself._
 
 ---
