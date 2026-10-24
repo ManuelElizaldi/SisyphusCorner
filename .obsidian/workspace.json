@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "49e3f1f1d6d82f48",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
+          },
+          {
             "id": "51675b572e5ab5e5",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,7 +256,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d7363f4e5492449",
+  "active": "49e3f1f1d6d82f48",
   "lastOpenFiles": [
     "Claude/ABOUT_ME/writing-style.md",
     "Writing/Entries/Stoner.md",
