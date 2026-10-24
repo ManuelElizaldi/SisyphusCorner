@@ -6,19 +6,22 @@ _Browsing YouTube I discovered a critical PHP bug affected my own home server. F
 
 Friday, 4:46 in the afternoon. With the work week over and the weather in Austin, Texas finally improving I was ready for the weekend. So I decided to relax and opened YouTube. Browsing for something to watch I was bombarded by the algorithm with many alarming videos about the most recent AI cybersecurity extravaganza. I watched one titled [PHP situation is insane](https://www.youtube.com/watch?v=QRABrn606LE) by one of my favorite coding influencers [Low Level](https://www.youtube.com/watch?v=QRABrn606LE). 
 
-Being a beginner Home Laber/DevOps enthusiast who recently set up a website using PHP I panicked. I had visions of all my personal information being leaked. So I had to act quickly.  
+Being a beginner Homelabber/DevOps enthusiast who recently set up a website using PHP I panicked. I had visions of all my personal information being leaked. So I had to act quickly.  
+
+Prompted by Claude, I checked my Apache access log and I read Someone sent a POST request to the front page of [manuel-elizaldi.com](https://manuel-elizaldi.com/), my Word Press website. 
+
+Seconds later, the same visitor starts asking for a file called phpinfo.php. In /wp-admin/. In /staging/, in /beta/, /qa/, /webmail/, /htdocs/, this visitor was checking every nook and cranny on my digital workshop.
+
+About twenty doors knocked in under five seconds, every one answered with a 404 (praise the Lord), but I still felt exposed.
+
+This is a weird way to meet a stranger, for sure. 
 
 
-and I was read Someone sends a POST request to the front page of [manuel-elizaldi.com](https://manuel-elizaldi.com/), my Word Press website. Seconds later, the same visitor starts asking for a file called phpinfo.php. In /wp-admin/. In /staging/, in /beta/, /qa/, /webmail/, /htdocs/, this visitor was checking every nook and cranny on my digital workshop.
+That week, a pair of PHP vulnerabilities nicknamed PHP2Shell (CVE-2026-109618 and CVE-2026-109619) went public with a 9.2 severity score. Both lets an attacker run their own code on a server. According to some news I read the necessary patches shipped on October 21, and reports said exploitation started even before the patches did. 
 
-About twenty doors knocked in under five seconds, every one answered with a 404 (praise the Lord.) He checked every room in my workshop, I basically felt exposed. 
+My current set up is this: The website runs on WordPress, WordPress runs on PHP, and PHP runs on my Raspberry Pi 5 behind a Cloudflare Tunnel. What feels like protection, in reality isn't, at least for this new crafty PHP2Shell assault. The tunnel hands every request straight to Apache. It is a hallway, not a wall.
 
-This is a weird way to meet a stranger, for sure. Prompted by Claude, I checked my Apache access log a few hours after it happened.
-
-
-That week, a pair of PHP vulnerabilities nicknamed PHP2Shell (CVE-2026-109618 and CVE-2026-109619) went public with a 9.2 severity score. Both let an attacker run their own code on a server. Patches shipped on October 21, and reports said exploitation started before the patches did. My website runs on WordPress, WordPress runs on PHP, and PHP runs on a Raspberry Pi 5 sitting on my desk behind a Cloudflare Tunnel. A tunnel feels like protection. It isn't. The tunnel hands every request straight to Apache. It is a hallway, not a wall.
-
-A disclaimer before going further: my site is not an enterprise or production system. It's a personal blog with one admin account, no customer data, no payment forms and no on-call rotation. This is a home lab story. Companies running real infrastructure have patch management, security teams and change windows for this kind of week. I have a Pi and a Friday afternoon.
+A disclaimer before going further: my site is not an enterprise or production system. It's a personal digital workshop with one admin account, no customer data, no payment forms and no on-call rotation. This is a home lab story. Companies running real infrastructure have patch management, security teams and change windows for this kind of week. I have a Pi and a Friday afternoon.
 
 ### Installed Is Not Running
 
