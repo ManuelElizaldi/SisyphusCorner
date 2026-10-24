@@ -10,20 +10,20 @@ Being a beginner Homelabber/DevOps enthusiast who recently set up a website usin
 
 Prompted by Claude, I checked my Apache access log and I read Someone sent a POST request to the front page of [manuel-elizaldi.com](https://manuel-elizaldi.com/), my Word Press website. 
 
-Seconds later that same visitor started asking for a file called phpinfo.php inside /wp-admin/. In /staging/, in /beta/, /qa/, /webmail/, /htdocs/, this visitor was checking every nook and cranny on my digital workshop.
+Seconds later that same visitor started asking for a file called phpinfo.php inside /wp-admin/, in /staging/, in /beta/, /qa/, /webmail/, /htdocs/, this visitor was checking every nook and cranny on my digital workshop.
 
 About twenty doors knocked in under five seconds, every one answered with a 404 (praise the Lord), but I still felt exposed.
 
 This is a weird way to meet a stranger, for sure. 
 
 
-That week, a pair of PHP vulnerabilities nicknamed PHP2Shell (CVE-2026-109618 and CVE-2026-109619) went public with a 9.2 severity score. Both lets an attacker run their own code on a server. According to some news I read the necessary patches shipped on October 21, and reports said exploitation started even before the patches did. 
+Last week, a pair of PHP vulnerabilities nicknamed PHP2Shell (CVE-2026-109618 and CVE-2026-109619) went public with a 9.2 severity score. Both lets an attacker run their own code on a server. According to some news I read the necessary patches shipped on October 21, and reports said exploitations started even before the patches did. 
 
-My current set up is this: The website runs on WordPress, WordPress runs on PHP, and PHP runs on my Raspberry Pi 5 behind a Cloudflare Tunnel. What feels like protection, in reality isn't, at least for this new crafty PHP2Shell assault. The tunnel hands every request straight to Apache. It is a hallway, not a wall.
+My current set up is this: The website runs on WordPress, WordPress runs on PHP, and PHP runs on my Raspberry Pi 5 behind a Cloudflare Tunnel. What feels like protection, in reality isn't, at least for this new crafty PHP2Shell assault. The tunnel hands every request straight to Apache. So the tunnel acts like a hallway, not a wall.
 
-A disclaimer before going further: my site is not an enterprise or production system. It's a personal digital workshop with one admin account, no customer data, no payment forms and no on-call rotation. Also, I am not a security expert and I have barely entered into this field. This is a home lab story. Companies running real infrastructure have patch management, security teams and change windows for this kind of week. I have a Pi and a Friday afternoon.
+Before I continue with this blog post, I need to give a disclaimer: my site is not an enterprise or production system. It's a personal digital workshop with one admin account, no customer data, no payment forms and no on-call rotation. Also, I am not a security expert and I have barely entered into this field. This is a home lab story. Companies running real infrastructure have patch management, security teams and change windows for this kind of week. I have a Pi, my own volition and a Friday afternoon.
 
-### Installed Is Not Running
+### Patches Were Installed But Not Running
 
 First security item on the to-do list: Check the PHP version I was running?
 
@@ -32,31 +32,31 @@ php -v
 PHP 8.2.33 (cli)
 ```
 
-The verdict? I was vulnerable, as expected. What I didn't expect came from asking the web server instead of the terminal. I dropped a one-line PHP file into the site, loaded it through Apache, and deleted it:
+The verdict? I was vulnerable, as expected. What I didn't expect came from asking the web server instead of my Raspberry Pi terminal. `php -v` asks my terminal what it uses. But the website was using a different copy, loaded inside Apache, and the only way to ask that one is through a web request.
+
+So I dropped a one-line PHP file into my website, loaded it through Apache, and then deleted it immediately:
 
 ```
 <?php echo PHP_VERSION;
 ```
 
-`php -v` asks the PHP my terminal uses. The website uses a different copy, loaded inside Apache, and the only way to ask that one is through a web request.
-
 8.2.32.
 
-The terminal and the website were running two different PHP versions. apt had installed 8.2.33 back in August and Apache had been up since August 18. It loads PHP into memory once, at startup. It never noticed the files on disk had changed. A patch sat on the drive for two months, unused, like the spinach you buy at the grocery store, promising yourself you would eat it this time. 
+Sudo apt had installed 8.2.33 back in August and Apache had been up since August 18. It loads PHP into memory once when it starts up. Apache had never noticed the updated files. A patch sat on the drive for two months, unused, like the spinach you buy at the grocery store, promising yourself you would eat it this time around. 
 
-The fix is one line, and the restart at the end matters as much as the upgrade:
+Second item on the security to-do list: Fixing this absurd discrepancy and further occurrences of this. 
 
 ```
 sudo apt update && sudo apt upgrade -y && sudo systemctl restart apache2
 ```
 
-My first attempt failed because I ran it from inside the Claude Code prompt, where sudo has no terminal to ask for my password. Real terminal, real password, second try.
+After the command ran I then asked the website again and got a glorious 8.2.35.
 
-Then I asked the website again: 8.2.35. Debian's changelog for the package names both CVEs. MariaDB, OpenSSL, the kernel and cloudflared came along for the ride, and a reboot later the Pi was on the new kernel.
+Other packages that were updated were: MariaDB, OpenSSL, the kernel and cloudflared came along for the ride, and a reboot later the Pi was on the new kernel.
 
 ### Checking for Footprints
 
-Patching closes the door. It doesn't tell me whether someone already walked through it. Exploitation was reported before disclosure, so I went looking for footprints, with Claude Code running the checks next to me. I'm a beginner at this, and a second pair of eyes that knows every wp-cli flag by heart makes a difference.
+Patching closed the door, but it didn't tell me if someone was already dancing and snooping around my files. Exploitation was reported before disclosure, so I went looking for footprints using the power of Claude Code running next to me. I'm a beginner at this, and a second pair of eyes that knows every wp-cli flag by heart makes a difference. Also, this was a critical/sensitive event. 
 
 WordPress publishes checksums for its core files, and wp-cli compares them:
 
@@ -65,7 +65,15 @@ wp core verify-checksums
 Success: WordPress installation verifies against checksums.
 ```
 
-No PHP files hiding in the uploads folder, the classic place to drop a web shell. No files in the web root changed since October 17. One user account, mine. Nothing running as the web server user that shouldn't be.
+Now, the third check in my security to-do list: Check if there are any changes to my files or new malicious files. 
+
+No PHP files hiding in the upload folder, the common place to drop a malicious file. 
+
+No files in the web root had changed since October 17. 
+
+Only one user account: mine. 
+
+Finally, nothing running as the web server user that shouldn't be.
 
 Then the plugins. Four of them failed their checksum check, and my stomach dropped. The mismatches were a license file, a couple of icons, an extra readme. Tampering doesn't usually look like a changed SVG. After updating, all eleven plugins verified clean. The mismatch was age, not an intruder.
 
