@@ -56,7 +56,7 @@ Other packages that were updated were: MariaDB, OpenSSL, the kernel and cloudfla
 
 ### Checking for Footprints
 
-Patching closed the door, but it didn't tell me if someone was already dancing and snooping around my files. Exploitation was reported before disclosure, so I went looking for footprints using the power of Claude Code running next to me. I'm a beginner at this, and a second pair of eyes that knows every wp-cli flag by heart makes a difference. Also, this was a critical/sensitive event. 
+Patching closed the door, but it didn't tell me if someone was already dancing and snooping in my files. Exploitation was reported before disclosure, so I went looking for footprints using the power of Claude Code running next to me. I'm a beginner at this, and a second pair of eyes that knows every wp-cli flag by heart makes a huge difference. Also, this was a critical/sensitive situation. 
 
 WordPress publishes checksums for its core files, and wp-cli compares them:
 
@@ -67,21 +67,29 @@ Success: WordPress installation verifies against checksums.
 
 Now, the third check in my security to-do list: Check if there are any changes to my files or new malicious files. 
 
-No PHP files hiding in the upload folder, the common place to drop a malicious file. 
+- No PHP files hiding in the upload folder, the common place to drop a malicious file. 
 
-No files in the web root had changed since October 17. 
+- No files in the web root had changed since October 17. 
 
-Only one user account: mine. 
+- Only one user account: mine. 
 
-Finally, nothing running as the web server user that shouldn't be.
+- Finally, nothing running as the web server user that shouldn't be.
 
-Then the plugins. Four of them failed their checksum check, and my stomach dropped. The mismatches were a license file, a couple of icons, an extra readme. Tampering doesn't usually look like a changed SVG. After updating, all eleven plugins verified clean. The mismatch was age, not an intruder.
+Fourth item to check: WordPress plugins. I had read online before the PHP2Shell problem that Word Press plugins had always been prone to attacks since they are created by other users.
 
-That update is where the real story was hiding.
+I have always been a bit nervous about using them, but my limited coding experience in this area leaves me no choice but to trust the creators. 
+
+So going in to check the checksums for these programs, I found out that four of them failed. My intuition was right, I knew it, I shouldn't have trusted the plugins. My stomach dropped. Again I saw visions of hackers in possession of my social security number and stealing my identity. 
+
+Taking a closer looker I noticed that the mismatches were a license file, a couple of icons (png files), an extra readme. Tampering doesn't usually look like a changed SVG. After updating, all eleven plugins verified clean. The mismatch was age, not an intruder, what a way to scare myself. 
+
+Next up, the update, where the real story was hiding.
 
 ### The Patches That Never Came
 
-WordPress was on 6.8.3. The latest release in that branch was 6.8.11, eight security releases ahead of me. Nine plugins were behind too. WordPress installs minor security releases automatically; that was the whole reason I never worried about it. So why hadn't it?
+WordPress was on 6.8.3. eight releases ahead of me. The latest release in that branch was 6.8.11. 
+
+Nine plugins were behind too (those dreaded plugins!). WordPress installs minor security releases automatically, but that was the whole reason I never worried about it. So why hadn't it?
 
 ```
 wp cron event list
