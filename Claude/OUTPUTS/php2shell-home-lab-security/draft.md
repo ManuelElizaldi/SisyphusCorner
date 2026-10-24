@@ -1,6 +1,6 @@
 October 24, 2026
 
-_Browsing YouTube I discovered a critical PHP bug affected my own home server. Fixing the bug was the easy part. The hard part was finding out my website had quietly stopped patching itself._
+_Browsing YouTube I discovered a critical PHP bug that affected my own home server. Fixing the bug was the easy part, the challenge was finding out why my website had quietly stopped patching itself._
 
 ---
 
@@ -10,7 +10,7 @@ Being a beginner Homelabber/DevOps enthusiast who recently set up a website usin
 
 Prompted by Claude, I checked my Apache access log and I read Someone sent a POST request to the front page of [manuel-elizaldi.com](https://manuel-elizaldi.com/), my Word Press website. 
 
-Seconds later, the same visitor starts asking for a file called phpinfo.php. In /wp-admin/. In /staging/, in /beta/, /qa/, /webmail/, /htdocs/, this visitor was checking every nook and cranny on my digital workshop.
+Seconds later that same visitor started asking for a file called phpinfo.php inside /wp-admin/. In /staging/, in /beta/, /qa/, /webmail/, /htdocs/, this visitor was checking every nook and cranny on my digital workshop.
 
 About twenty doors knocked in under five seconds, every one answered with a 404 (praise the Lord), but I still felt exposed.
 
@@ -21,26 +21,28 @@ That week, a pair of PHP vulnerabilities nicknamed PHP2Shell (CVE-2026-109618 an
 
 My current set up is this: The website runs on WordPress, WordPress runs on PHP, and PHP runs on my Raspberry Pi 5 behind a Cloudflare Tunnel. What feels like protection, in reality isn't, at least for this new crafty PHP2Shell assault. The tunnel hands every request straight to Apache. It is a hallway, not a wall.
 
-A disclaimer before going further: my site is not an enterprise or production system. It's a personal digital workshop with one admin account, no customer data, no payment forms and no on-call rotation. This is a home lab story. Companies running real infrastructure have patch management, security teams and change windows for this kind of week. I have a Pi and a Friday afternoon.
+A disclaimer before going further: my site is not an enterprise or production system. It's a personal digital workshop with one admin account, no customer data, no payment forms and no on-call rotation. Also, I am not a security expert and I have barely entered into this field. This is a home lab story. Companies running real infrastructure have patch management, security teams and change windows for this kind of week. I have a Pi and a Friday afternoon.
 
 ### Installed Is Not Running
 
-First question: which PHP am I running?
+First security item on the to-do list: Check the PHP version I was running?
 
 ```
 php -v
 PHP 8.2.33 (cli)
 ```
 
-The fixed version for the 8.2 branch is 8.2.35, so I was vulnerable, as expected. What I didn't expect came from asking the web server instead of the terminal. I dropped a one-line PHP file into the site, loaded it through Apache, and deleted it:
+The verdict? I was vulnerable, as expected. What I didn't expect came from asking the web server instead of the terminal. I dropped a one-line PHP file into the site, loaded it through Apache, and deleted it:
 
 ```
 <?php echo PHP_VERSION;
 ```
 
+`php -v` asks the PHP my terminal uses. The website uses a different copy, loaded inside Apache, and the only way to ask that one is through a web request.
+
 8.2.32.
 
-The terminal and the website were running two different PHPs. apt had installed 8.2.33 back in August, but Apache had been up since August 18, and it loads PHP into memory once, at startup. It never noticed the files on disk had changed. A patch sat on the drive for two months, unused, like a gym membership.
+The terminal and the website were running two different PHP versions. apt had installed 8.2.33 back in August and Apache had been up since August 18. It loads PHP into memory once, at startup. It never noticed the files on disk had changed. A patch sat on the drive for two months, unused, like the spinach you buy at the grocery store, promising yourself you would eat it this time. 
 
 The fix is one line, and the restart at the end matters as much as the upgrade:
 
