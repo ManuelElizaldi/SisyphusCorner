@@ -1,14 +1,22 @@
 October 24, 2026
 
-_A critical PHP bug sent me digging through my own server logs. The bug was the easy part. The hard part was finding out my website had quietly stopped patching itself._
+_Browsing YouTube I discovered a critical PHP bug affected my own home server. Fixing the bug was the easy part. The hard part was finding out my website had quietly stopped patching itself._
 
 ---
 
-Friday, 2:46 in the afternoon. Someone sends a POST request to the front page of manuel-elizaldi.com. Seconds later, the same visitor starts asking for a file called phpinfo.php. In /wp-admin/. In /staging/. In /beta/, /qa/, /webmail/, /htdocs/. About twenty doors knocked in under five seconds, every one answered with a 404.
+Friday, 4:46 in the afternoon. With the work week over and the weather in Austin, Texas finally improving I was ready for the weekend. So I decided to relax and opened YouTube. Browsing for something to watch I was bombarded by the algorithm with many alarming videos about the most recent AI cybersecurity extravaganza. I watched one titled [PHP situation is insane](https://www.youtube.com/watch?v=QRABrn606LE) by one of my favorite coding influencers [Low Level](https://www.youtube.com/watch?v=QRABrn606LE). 
 
-I found this in my Apache access log a few hours after it happened, which is a strange way to meet a stranger.
+Being a beginner Home Laber/DevOps enthusiast who recently set up a website using PHP I panicked. I had visions of all my personal information being leaked. So I had to act quickly.  
 
-I was in the log because of a headline. That week, a pair of PHP vulnerabilities nicknamed PHP2Shell (CVE-2026-109618 and CVE-2026-109619) went public with a 9.2 severity score. Both let an attacker run their own code on a server. Patches shipped on October 21, and reports said exploitation started before the patches did. My website runs on WordPress, WordPress runs on PHP, and PHP runs on a Raspberry Pi 5 sitting on my desk behind a Cloudflare Tunnel. A tunnel feels like protection. It isn't. The tunnel hands every request straight to Apache. It is a hallway, not a wall.
+
+and I was read Someone sends a POST request to the front page of [manuel-elizaldi.com](https://manuel-elizaldi.com/), my Word Press website. Seconds later, the same visitor starts asking for a file called phpinfo.php. In /wp-admin/. In /staging/, in /beta/, /qa/, /webmail/, /htdocs/, this visitor was checking every nook and cranny on my digital workshop.
+
+About twenty doors knocked in under five seconds, every one answered with a 404 (praise the Lord.) He checked every room in my workshop, I basically felt exposed. 
+
+This is a weird way to meet a stranger, for sure. Prompted by Claude, I checked my Apache access log a few hours after it happened.
+
+
+That week, a pair of PHP vulnerabilities nicknamed PHP2Shell (CVE-2026-109618 and CVE-2026-109619) went public with a 9.2 severity score. Both let an attacker run their own code on a server. Patches shipped on October 21, and reports said exploitation started before the patches did. My website runs on WordPress, WordPress runs on PHP, and PHP runs on a Raspberry Pi 5 sitting on my desk behind a Cloudflare Tunnel. A tunnel feels like protection. It isn't. The tunnel hands every request straight to Apache. It is a hallway, not a wall.
 
 A disclaimer before going further: my site is not an enterprise or production system. It's a personal blog with one admin account, no customer data, no payment forms and no on-call rotation. This is a home lab story. Companies running real infrastructure have patch management, security teams and change windows for this kind of week. I have a Pi and a Friday afternoon.
 
