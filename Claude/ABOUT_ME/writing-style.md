@@ -65,6 +65,18 @@ Scene first, or a specific moment — never abstract setup. Drop the reader some
 - The spiritual dimension appears — not as decoration but as lived experience
 - References literature mid-scene without stopping to explain it
 
+### Technical / home lab posts (from Home Lab Blog 2, Oct 2026)
+- Opens with how I found out — the human trigger (a Friday, Austin weather, a YouTube video from a creator I follow) — before the technical scene
+- Panic → check → relief arc: I name the fear out loud ("visions of hackers with my social security number"), then deflate it with the evidence and a joke at my own expense ("what a way to scare myself")
+- Everyday, self-implicating metaphors over abstract ones (a patch sitting unused "like the spinach you buy at the grocery store")
+- Faith shows up in a short aside, not a paragraph ("every one answered with a 404 (praise the Lord)")
+- My site is my "digital workshop"
+- A numbered to-do list is the spine of the story ("First security item on the to-do list… Second item…")
+- Beginner honesty up front: say my level, give the disclaimer early (home lab, not enterprise), own mistakes plainly
+- Credit openly: the tools (Claude Code) and people (creators, sources) that helped, with links
+- Cross-link my own earlier posts and my day job (Windows Task Scheduler at work, Home Lab Blog 1) — the lab keeps teaching the same lesson
+- Bold run-in labels for a list of fixes ("**The login page.** ->"); short bullet lists are fine for audit findings, prose everywhere else
+
 ## What "AI slop" looks like to me
 Generic framing with no specific angle. Could have been written about anyone in any field. Smooth but empty. No texture. Sounds like it's trying to be helpful rather than actually being useful. Explanation after every image. Abstract conclusions. "This reminds us that..."
 
