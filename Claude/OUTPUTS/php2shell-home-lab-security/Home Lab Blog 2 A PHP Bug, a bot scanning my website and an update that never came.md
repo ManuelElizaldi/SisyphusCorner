@@ -142,7 +142,7 @@ I added a Cloudflare WAF (Web App Firewall) custom rule that puts a Managed Chal
 
 **The tunnel.** -> The Pi also runs Grafana, Uptime Kuma and Prometheus to monitor my Home Lab, which you can read more about [here](https://manuel-elizaldi.com/home-lab-blog-1-setting-up-the-first-node-monitoring-tools-notification-bot-and-learning-linux-basics/). 
 
-The tunnel is configured in Cloudflare's dashboard, not on my Pi, so the only way to know what's public is to look in. Two routes: manuel-elizaldi.com and www.manuel-elizadi.com Everything else stays on my home network.
+The tunnel is configured in Cloudflare's dashboard, not on my Pi, so the only way to know what's public is to look in. Two routes: manuel-elizaldi.com and www.manuel-elizaldi.com Everything else stays on my home network.
 
 **An old password.** Early in this build I committed wp-config.php to git, database password included (I know, beginner mistake, I promise). I untracked the file later, but git remembers everything, **everything**. I rotated the database password and confirmed the new one matches no version in the history. A leaked secret that has been rotated is just a harmless string.
 
