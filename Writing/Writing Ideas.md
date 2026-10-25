@@ -1,6 +1,10 @@
 [[Ideas]] [[Writing]]
 This is a section to write down any ideas I have for writing. 
 write a note about where mile comes from
+
+# Connecting the dots
+Red Rising, Darrow pretended to be a gold, started to act like one. Kurt Vonnegut Mother Night says -> “We are what we pretend to be, so we must be careful about what we pretend to be.”
+
 # Elden Ring Article
 What I learned about myself from finishing elden ring 
 - I like to do hard things
