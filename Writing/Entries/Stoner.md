@@ -1,3 +1,4 @@
+[[Literature]] [[Book Review]]
 It was getting late and sleep was slowly tightening its grip on me. It may be that I am becoming old or simply that I'm becoming a creature of habit. I have this ritual where I have to read for a couple of minutes before going to bed. This signals my brain to shut off operations for the day, the only task is to relax and surrender to Morpheus. 
 
 Before I had this ritual in place, I watched YouTube, frying my dopamine receptors until I was anesthetized.
@@ -6,13 +7,20 @@ My time with Stoner by John Williams was coming to a close. I had 2 chapters lef
 
 The brain omitted the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then a third idea, I thought about William Stoner, his presence kept nagging at me. Why did I felt so melancholic about him? I didn't have the answer, but I knew I had to continue reading. 
 
-I finished the book, I knew how it would end. The beginning of the book tells you how the life of Stoner ends. But still it felt like I was saying goodbye to a lifelong friend, not knowing when it would be the next time I was going to see him.
+I finished the book that night, I knew how it would end. The beginning of the book tells you how the life of Stoner ends. But still it felt like I was saying goodbye to a lifelong friend, not knowing when it would be the next time I was going to see him.
 
 This was clearly result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer to a literature doctorate creates an emotional attachment to the character. Through this shock of emotions a mirror emerged which allowed me to see my life through the lens of William Stoner. 
 
+I came to several conclusions which I plan to share here.
+
 # I envy Stoner, for his passion found him.
 
-Stoner did not find his passion, it found him. I looked at my life, and all I saw what seemed like an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the wellbeing of his students. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
+Stoner did not find his passion, it found him. I looked at my life, and all I saw what seemed like an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the wellbeing of his students and the furthering of his studies. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
+
+Stoner entered college to study Agriculture with the aim to help his father with the family farm. Due to the curriculum, he had to take a perfunctory class in English.
+
+Sloane, his teacher then and mentor after, was reading a passage by Shakespeare 
+
 
 When World War I breaks out, Stoner's friends were ready to answer the call to arms. But William was not sure about enlisting. He pays Sloane a visit - his mentor - to make up his mind. Perhaps, due to his years of experience or maybe seeing some part of him in Stoner, Sloane observed without hesitation:
 
