@@ -15,9 +15,11 @@ I came to several conclusions which I plan to share here.
 
 # I envy Stoner, for his passion found him.
 
-Stoner did not find his passion, it found him. I looked at my life, and all I saw what seemed like an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the wellbeing of his students and the furthering of his studies. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
+Stoner did not find his passion, it found him. I looked back at my life, and all I saw what seemed like an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the wellbeing of his students and the furthering of his studies. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
 
 Stoner entered college to study Agriculture with the aim to help his father with the family farm. Due to the curriculum, he had to take a perfunctory class in English.
+
+William struggled during the first weeks of the class, not getting satisfactory grades in his exams. He read and reread the books assigned to hinm for this class. His understanding didn't get him words are just words on paper. There is no use for them, he even thought. 
 
 Sloane, his teacher then and mentor after, was reading a passage by Shakespeare 
 
@@ -53,7 +55,7 @@ To this, my father asked "So, you truly love what you do?"
 
 "I love it, it has blessed me with so much," said I. 
 
-The days past, with little to no change. I felt the need to write about the process of building this project and share it with the world. Incredibly, this added another dimension of joy to the process. Writing about what I was building unlocked another dimension of joy, which then helped me land my current role.
+The days passed, with little to no change. I felt the need to write about my approach to building this project and share it with the world. Incredibly, this added another dimension of joy to the process. Writing about what I was building unlocked another dimension of joy, which then helped me land my current role.
 
 Even though I was not inside Stoner's lecture hall, he has bestowed upon me a mirror that 
 
