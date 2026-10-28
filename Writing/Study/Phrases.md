@@ -49,5 +49,12 @@ I went over and opened the door, thinking she would have the curtain pulled. She
 #### heat that removes all dreams
 Then came noon, and morning withered like a lost dream. The sweat was torture and the rest of the day was littered with the dead remains of all those things that might have happened, but couldn't stand the heat. When the sun got hot enough it burned away all the illusions and I saw the place as it was -- cheap, sullen, and garish -- nothing good was going to happen here.
 
+
+# Sylvia Plath - The Bell Jar
+I could feel the winter shaking my bones and banging my teeth together 
+
+
 # Random
 Fitness for the sake of function not vanity
+
+
