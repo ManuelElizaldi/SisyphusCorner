@@ -40,11 +40,11 @@ This pattern is called **producer / consumer**: the collector *produces* data on
 
 It would seem simpler to have the web page run `ping` or read the temperature the moment someone loads it. I deliberately didn't, for three reasons:
 
-| Reason | What could go wrong otherwise |
-|---|---|
+| Reason       | What could go wrong otherwise                                                                                                                                                                                    |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Security** | A public web page that runs system commands is a classic attack target. If anyone can trigger `ping <something>`, a bug could let them run *other* commands on my server. Here, visitors can only *read a file*. |
-| **Speed** | Pinging an offline laptop waits for a timeout (1 second each). Every visitor would wait. Reading a JSON file takes microseconds. |
-| **Load** | 100 visitors = 100 sets of commands. With the collector, it's always exactly one run per minute, no matter how many people visit. |
+| **Speed**    | Pinging an offline laptop waits for a timeout (1 second each). Every visitor would wait. Reading a JSON file takes microseconds.                                                                                 |
+| **Load**     | 100 visitors = 100 sets of commands. With the collector, it's always exactly one run per minute, no matter how many people visit.                                                                                |
 
 > **Rule of thumb:** keep slow or privileged work in a background job, and let the website only *read* the result.
 
