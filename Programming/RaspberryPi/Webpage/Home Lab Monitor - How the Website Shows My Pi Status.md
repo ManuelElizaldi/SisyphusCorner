@@ -403,12 +403,12 @@ So I'll build it in that order: first make the laptop *pingable* and watch the l
 
 My Pi already runs the monitoring stack from Home Lab Phase 1, so I'm repeating something I've done before:
 
-| Service | Port | What it is |
-|---|---|---|
+| Service               | Port | What it is                                                                                             |
+| --------------------- | ---- | ------------------------------------------------------------------------------------------------------ |
 | `node_exporter` 1.8.2 | 9100 | Installed by hand: binary in `/usr/local/bin/`, its own `node_exporter` system user, a systemd service |
-| `prometheus` | 9090 | Scrapes the Pi's node_exporter every 15s (job name `pi`) |
-| `grafana-server` | 3000 | Dashboards on top of Prometheus |
-| Uptime Kuma (Docker) | 3001 | Uptime checks |
+| `prometheus`          | 9090 | Scrapes the Pi's node_exporter every 15s (job name `pi`)                                               |
+| `grafana-server`      | 3000 | Dashboards on top of Prometheus                                                                        |
+| Uptime Kuma (Docker)  | 3001 | Uptime checks                                                                                          |
 
 See my own setup with `systemctl cat node_exporter` and `cat /etc/prometheus/prometheus.yml`.
 
