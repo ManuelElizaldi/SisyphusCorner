@@ -54,6 +54,31 @@ Then came noon, and morning withered like a lost dream. The sweat was torture an
 I could feel the winter shaking my bones and banging my teeth together 
 
 
+
+# Charles Portis - True Grit
+Enough is as good as a feast
+
+There is nothing free in this world except the grace of God. You cannot earn that or deserve it
+
+
+
+
+
+I had hated these ponies for the part they played in my father's death but
+now I realized the notion was fanciful, that it was wrong to charge blame to
+these pretty beasts who knew neither good nor evil but only innocence. I
+say that of these ponies. I have known some horses and a good many more
+pigs who I believe harbored evil intent in their hearts. I will go further and
+say all cats are wicked, though often useful. Who has not seen Satan in their
+sly faces? Some preachers will say, well, that is superstitious "claptrap." My
+answer is this: Preacher, go to your Bible and read Luke 8: 26-33.
+**Don't blame an animal who doesn't understand good from evil**
+
+
+
+
+
+
 # Random
 Fitness for the sake of function not vanity
 
