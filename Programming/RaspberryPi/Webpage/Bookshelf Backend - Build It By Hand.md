@@ -5,7 +5,7 @@ Good read API
 **Date:** October 3, 2026
 **Goal:** a `book` command on my Raspberry Pi that logs what I'm reading, and a data file the website can turn into a Goodreads-style Bookshelf page.
 **Language:** Python 3 (standard library only, nothing to install) + SQLite + the Open Library API
-**Time:** one or two evenings, in 8 phases. Each phase ends with a ✅ checkpoint you can test.
+**Time:** one or two evenings, in 9 phases. Each phase ends with a ✅ checkpoint you can test.
 
 When I'm done, I'll be able to type:
 
@@ -54,6 +54,7 @@ The project is split into **5 small files**, each with one job:
 | `openlibrary.py` | Talking to the Open Library API |
 | `export.py` | Writing `books.json` for the website |
 | `book.py` | The command itself: parses what I type and calls the others |
+| `goodreads.py` | One-time import of my Goodreads history (Phase 9) |
 
 This is called **separation of concerns**: if Open Library changes their API, I only touch `openlibrary.py`; if I move folders, I only touch `config.py`.
 
@@ -580,6 +581,370 @@ After editing by hand, regenerate the website file: `book list` doesn't export, 
 
 ---
 
+## Phase 9: Import My Goodreads History
+
+**Goal:** bring every book I've ever logged on Goodreads into `books.db` with one command:
+
+```bash
+book import-goodreads goodreads_library_export.csv
+```
+
+### 9.1 First lesson: the Goodreads API is gone
+
+I assumed Goodreads had an API I could call. It used to, but **Goodreads stopped handing out developer keys in December 2020** and has been retiring the API since (it's owned by Amazon, which had no interest in keeping it open). Old keys that sat unused were switched off, and since 2022 even working keys get back very little book data. The developer terms also said you weren't allowed to store Goodreads data anyway.
+
+What's left, and what I'll use instead:
+
+| Option | Status | Verdict |
+|---|---|---|
+| Developer API (`goodreads.com/api`) | Retired: no new keys | ❌ Can't use |
+| Per-shelf RSS feed (`/review/list_rss/<user id>?shelf=read`) | Unofficial and undocumented. It only works if my profile is public, and when I probed it from the Pi it returned 404 | ⚠️ Unreliable |
+| **Library export (CSV)** | Official and documented, in my account settings | ✅ Use this |
+
+**What this teaches me:**
+- **An API is a promise the company can break.** If my data lives only on someone else's platform, their business decisions decide whether I can get it back. That's the real reason this project keeps `books.db` on my own Pi. It's called **data portability** (or "own your data").
+- **The boring option is often the right one.** A one-time CSV download is less exciting than an API, but it's official, complete, and nobody can revoke it.
+- **Look before you build.** Ten minutes checking whether a tool still exists beats an evening coding against a dead one.
+
+### 9.2 Download the export
+
+1. On goodreads.com (a computer browser works better than the app): **My Books** → left sidebar **Tools** → **Import and export** (or go straight to `https://www.goodreads.com/review/import`).
+2. Click **Export Library**. It can take a few minutes for a big library. Refresh the page until a link appears.
+3. Download **`goodreads_library_export.csv`**.
+4. Copy it to the Pi, into the project folder. From the computer it downloaded to:
+   ```bash
+   scp ~/Downloads/goodreads_library_export.csv manu@manupi:/mnt/ssd/webpage/bookshelf/
+   ```
+   (`scp` = "secure copy", the same as `cp` but over SSH. The format is `user@machine:/path`.)
+
+The CSV has my reviews and **private notes**, so keep it out of git, the same way as `books.json`:
+
+```bash
+printf 'bookshelf/*.csv\n' >> /mnt/ssd/webpage/.gitignore
+```
+
+✅ **Checkpoint:** `cd /mnt/ssd/webpage/bookshelf && git status` does not list the CSV.
+
+### 9.3 Look at the data by hand first
+
+Same rule as with Open Library in Phase 4: look before I code.
+
+```bash
+head -c 1500 goodreads_library_export.csv
+```
+
+Then a friendlier view of the first book, with one column per line:
+
+```bash
+python3 -c "
+import csv
+row = next(csv.DictReader(open('goodreads_library_export.csv', encoding='utf-8')))
+for k, v in row.items(): print(f'{k:28} {v!r}')
+"
+```
+
+I get roughly:
+
+```
+Book Id                      '166997'
+Title                        'Stoner'
+Author                       'John Williams'
+ISBN                         '="1590171993"'
+ISBN13                       '="9781590171998"'
+My Rating                    '5'
+Number of Pages              '278'
+Original Publication Year    '1965'
+Date Read                    '2026/09/01'
+Date Added                   '2026/08/10'
+Exclusive Shelf              'read'
+My Review                    'Quiet and<br/>devastating.'
+Private Notes                '...'
+...
+```
+
+Things I learn from looking (each one turns into a line of code):
+
+| Quirk | Why it's like that | What my code does |
+|---|---|---|
+| ISBN is `="1590171993"` | An **Excel trick**: without it, Excel reads ISBNs as numbers and drops leading zeros (`0316769487` becomes `316769487`) | Strip the `="` and `"` |
+| ISBN can be empty (`=""`) | Kindle editions and old books often don't have one | Fall back to searching by title + author |
+| `My Rating` is `0` | Goodreads uses 0 to mean "not rated" | Store `NULL`. My `CHECK (rating BETWEEN 1 AND 5)` would **reject** 0, so the safety net from Phase 3 catches this if I forget |
+| Dates are `2026/09/01` | Goodreads' own format | Swap `/` for `-` to get ISO dates like the rest of my DB |
+| Titles like `Harry Potter and the Sorcerer's Stone (Harry Potter, #1)` | The series name is pasted into the title | Remove it before searching Open Library (it confuses search), but keep the full title for display |
+| `Exclusive Shelf` | The one shelf a book is on: `read`, `currently-reading`, `to-read`, or a custom one | Map it to my `read` / `reading` / `want`; skip custom shelves |
+| Reviews contain `<br/>` | They're stored as HTML | Turn them into real line breaks |
+| `Private Notes` | Notes only I can see | **Don't import them.** Everything in `books.db` ends up in `books.json` and then on the public website |
+
+There's **no start date** in the export, so imported books have no `started`. That's fine, since that column was always optional.
+
+### 9.4 Upgrade the database: a migration
+
+To re-run the import safely (when I export again next year, for example), every book has to remember **which Goodreads book it came from**. Otherwise the same book would be added twice. That's a new column, `goodreads_id`.
+
+Here's the catch: `CREATE TABLE IF NOT EXISTS` in my `SCHEMA` **does nothing if the table already exists**, so adding the column there wouldn't change a `books.db` I've already created. Changing the structure of a database that already holds data is called a **migration**.
+
+In `db.py`, add one line to `connect()` and a new `migrate()` function underneath it:
+
+```python
+def connect():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row    # rows behave like dicts: row["title"]
+    conn.executescript(SCHEMA)        # creates the table the first time, no-op after
+    migrate(conn)
+    return conn
+
+
+def migrate(conn):
+    """Bring an older books.db up to date. Safe to run every time."""
+    columns = [r["name"] for r in conn.execute("PRAGMA table_info(books)")]
+    if "goodreads_id" not in columns:
+        conn.execute("ALTER TABLE books ADD COLUMN goodreads_id INTEGER")
+    conn.execute("CREATE UNIQUE INDEX IF NOT EXISTS books_goodreads_id ON books (goodreads_id)")
+```
+
+What's going on:
+- **`PRAGMA table_info(books)`** is SQLite's way of describing a table: one row per column. I use it to ask "does this column exist yet?" (Try it in `sqlite3 books.db`: `PRAGMA table_info(books);`.)
+- **`ALTER TABLE ... ADD COLUMN`** adds the column to existing rows, filled with `NULL`.
+- **Why the uniqueness is a separate index:** SQLite doesn't allow `ADD COLUMN ... UNIQUE`. A **unique index** gives the same guarantee (no two rows with the same `goodreads_id`) and can be added at any time. `NULL`s don't count as duplicates, so books I add with `book add` (no Goodreads id) are fine.
+- **Idempotent:** running `migrate()` on every connect is safe. The second time, the column already exists and `IF NOT EXISTS` skips the index, so nothing happens. Big projects use migration tools (Alembic, Django migrations) that number each change, but the idea is the same: **check what version the database is at, and apply only what's missing.**
+
+✅ **Checkpoint:**
+```bash
+python3 -c "import db; c = db.connect(); print([r['name'] for r in c.execute('PRAGMA table_info(books)')][-1])"
+```
+prints `goodreads_id`. Run it twice: no error the second time.
+
+### 9.5 The importer (`goodreads.py`)
+
+Create `goodreads.py`:
+
+```python
+"""Import my Goodreads library export (CSV) into books.db."""
+import csv
+import re
+import time
+
+import openlibrary
+from config import COVERS_DIR
+
+# Goodreads "Exclusive Shelf" -> my status. Custom shelves (e.g. did-not-finish) are skipped.
+SHELVES = {"read": "read", "currently-reading": "reading", "to-read": "want"}
+
+
+def _isbn(value):
+    """Goodreads writes ISBNs as ="9780590353427" so Excel keeps leading zeros."""
+    return value.strip('="') or None
+
+
+def _int(value):
+    return int(value) if value.strip().isdigit() else None
+
+
+def _date(value):
+    return value.replace("/", "-") or None        # 2024/03/15 -> 2024-03-15
+
+
+def read_csv(path):
+    """Yield one dict per book, already translated into my own field names."""
+    with open(path, newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            status = SHELVES.get(row["Exclusive Shelf"])
+            if status is None:
+                print(f'  skip: "{row["Title"]}" is on shelf "{row["Exclusive Shelf"]}"')
+                continue
+            yield {
+                "goodreads_id": int(row["Book Id"]),
+                "title": row["Title"],
+                "author": row["Author"] or None,
+                "isbns": [i for i in (_isbn(row["ISBN13"]), _isbn(row["ISBN"])) if i],
+                "pages": _int(row["Number of Pages"]),
+                "year": _int(row["Original Publication Year"]) or _int(row["Year Published"]),
+                "status": status,
+                "rating": _int(row["My Rating"]) or None,   # 0 means "not rated"
+                "finished": _date(row["Date Read"]),
+                "added": _date(row["Date Added"]),
+                "review": row["My Review"].replace("<br/>", "\n") or None,
+            }
+
+
+def match(book):
+    """Find the book on Open Library: by ISBN first (exact), then title + author (best guess)."""
+    title = re.sub(r"\s*\([^)]*#[\d.]+\)$", "", book["title"])   # drop "(Harry Potter, #1)"
+    queries = [f"isbn:{i}" for i in book["isbns"]] + [f"{title} {book['author'] or ''}"]
+    for q in queries:
+        results = openlibrary.search(q, limit=1)
+        time.sleep(1)                          # be polite: about one request per second
+        if results:
+            return results[0]
+    return None
+
+
+def import_csv(conn, path, dry_run=False):
+    counts = {"new": 0, "updated": 0}
+    for b in read_csv(path):
+        if dry_run:
+            print(f'  {b["status"]:8} {b["title"]} | {b["author"]} | {b["finished"] or "-"} | {b["rating"] or "-"}★')
+            continue
+
+        row = conn.execute("SELECT id FROM books WHERE goodreads_id = ?", (b["goodreads_id"],)).fetchone()
+        if row is None:
+            ol = match(b)
+            if ol:
+                # Already on my shelves from `book add`? Then claim that row instead of duplicating it.
+                row = conn.execute("SELECT id FROM books WHERE ol_key = ?", (ol["ol_key"],)).fetchone()
+            if row is None:
+                cover_file = None
+                if ol and ol["cover_id"]:
+                    cover_file = ol["ol_key"].split("/")[-1] + ".jpg"
+                    openlibrary.download_cover(ol["cover_id"], COVERS_DIR / cover_file)
+                conn.execute(
+                    """INSERT INTO books (goodreads_id, ol_key, title, author, year, pages, cover_file,
+                                          status, added)
+                       VALUES (?, ?, ?, ?, ?, ?, ?, ?, COALESCE(?, date('now', 'localtime')))""",
+                    (b["goodreads_id"], ol and ol["ol_key"], b["title"], b["author"],
+                     b["year"] or (ol and ol["year"]), b["pages"] or (ol and ol["pages"]),
+                     cover_file, b["status"], b["added"]),
+                )
+                row = conn.execute("SELECT id FROM books WHERE goodreads_id = ?", (b["goodreads_id"],)).fetchone()
+                counts["new"] += 1
+                print(f'  new:     {b["title"]}' + ("" if ol else "  (not found on Open Library, no cover)"))
+            else:
+                counts["updated"] += 1
+                print(f'  updated: {b["title"]}')
+        else:
+            counts["updated"] += 1
+            print(f'  updated: {b["title"]}')
+
+        # Goodreads is the source of truth for shelf, rating, date and review.
+        conn.execute(
+            """UPDATE books SET goodreads_id = ?, status = ?, rating = ?, finished = ?,
+                                review = COALESCE(?, review),
+                                current_page = CASE WHEN ? = 'read' THEN pages ELSE current_page END
+               WHERE id = ?""",
+            (b["goodreads_id"], b["status"], b["rating"], b["finished"], b["review"],
+             b["status"], row["id"]),
+        )
+        conn.commit()                          # save each book, so a crash halfway loses nothing
+    if not dry_run:
+        print(f'Done: {counts["new"]} new, {counts["updated"]} updated.')
+```
+
+What's going on:
+- **`csv.DictReader`** reads the header row and gives me each line as a dict (`row["Title"]`). Don't split on commas by hand: titles like `"Sapiens: A Brief History of Humankind"` or reviews with commas are wrapped in quotes, and the `csv` module handles that. `newline=""` is what the Python docs require for CSV files, so line breaks inside quoted reviews stay intact.
+- **`read_csv()` is a generator** (`yield` instead of `return`): it hands over one book at a time instead of loading the whole library into memory first. It's also the **translation layer**, just like `search()` in `openlibrary.py`. Goodreads' column names stop here, and the rest of the code only sees my field names.
+- **`match()` tries the most reliable lookup first.** An ISBN identifies one exact edition, so `isbn:9781590171998` almost never gets the wrong book. Title + author is a guess, so it's the fallback. Open Library's normal search understands `isbn:` queries, which means I reuse my existing `search()` instead of writing new API code.
+- **`time.sleep(1)` is rate limiting.** With 300 books I'd fire hundreds of requests in seconds. Open Library is a free service run by a non-profit, and hammering it is how you get your IP blocked. One request per second makes a 300-book import take about 5–10 minutes, which is fine for something I run once.
+- **Three cases for every book**, in order:
+  1. Already imported before (`goodreads_id` matches): skip Open Library entirely and just update it. That's why **re-runs are fast**.
+  2. Already on my shelves from `book add` (same `ol_key`): **claim that row** by stamping the `goodreads_id` on it instead of creating a duplicate.
+  3. Brand new: download the cover and insert it.
+- **`ol and ol["ol_key"]`**: if `ol` is `None` (not found), the expression is `None`. If not, it's the key. A short way to say "the key, if there is one".
+- **"Goodreads wins"** for shelf, rating, date read and review: the final `UPDATE` overwrites them. `COALESCE(?, review)` keeps my local review if the Goodreads one is empty. (If I later switch to logging only with `book`, I shouldn't re-import an *old* CSV, or it would undo my newer changes.)
+- **`conn.commit()` after every book.** Normally `with conn:` saves everything at the end, all or nothing. For a long import that depends on the network, I'd rather keep progress: if the Wi-Fi drops at book 250, the first 249 are saved, and running the command again resumes almost instantly because of case 1. Being **idempotent** and **resumable** together is what makes a long job safe to run.
+
+### 9.6 Wire it into `book.py`
+
+Three small edits:
+
+1. With the other imports at the top:
+   ```python
+   import db
+   import goodreads
+   ```
+2. In `main()`, under `sub.add_parser("list", ...)`:
+   ```python
+       g = sub.add_parser("import-goodreads", help="import my Goodreads library export (CSV)")
+       g.add_argument("csv_file")
+       g.add_argument("--dry-run", action="store_true", help="only show what would be imported")
+   ```
+3. In the `if/elif` chain, after the `list` branch:
+   ```python
+           elif args.command == "import-goodreads":
+               goodreads.import_csv(conn, args.csv_file, args.dry_run)
+               if args.dry_run:
+                   return
+   ```
+
+`action="store_true"` makes `--dry-run` a **flag**: it takes no value, and `args.dry_run` is `True` if I typed it and `False` if I didn't. The dry run returns before `export()`, since nothing changed.
+
+✅ **Checkpoint:** `book --help` lists `import-goodreads`.
+
+### 9.7 Run it
+
+**Back up first.** It's one file, so the backup is one command:
+
+```bash
+cd /mnt/ssd/webpage/bookshelf
+cp books.db books.db.before-goodreads
+```
+
+**Dry run.** Check the mapping without touching anything:
+
+```bash
+book import-goodreads goodreads_library_export.csv --dry-run
+```
+
+```
+  read     Stoner | John Williams | 2026-09-01 | 5★
+  reading  Harry Potter and the Sorcerer's Stone (Harry Potter, #1) | J.K. Rowling | - | -★
+  want     Blindsight | Peter Watts | - | -★
+  skip: "Some Book I Quit" is on shelf "did-not-finish"
+```
+
+Shelves, dates and stars should look right. Any custom shelf I care about gets added to `SHELVES` (for example `"did-not-finish": "read"`, or skip it).
+
+**Real run.** Grab a coffee if the library is big:
+
+```bash
+book import-goodreads goodreads_library_export.csv
+```
+
+```
+  updated: Stoner
+  new:     Harry Potter and the Sorcerer's Stone (Harry Potter, #1)
+  new:     Blindsight
+  skip: "Some Book I Quit" is on shelf "did-not-finish"
+Done: 2 new, 1 updated.
+```
+
+(`Stoner` says *updated* because I'd already added it with `book add` in Phase 7: case 2, claimed instead of duplicated.)
+
+**Run it again** to prove it's idempotent:
+
+```bash
+book import-goodreads goodreads_library_export.csv
+```
+
+Everything says `updated`, `0 new`, and it finishes in a second (no Open Library calls).
+
+✅ **Checkpoint:**
+```bash
+book list
+sqlite3 books.db "SELECT COUNT(*), COUNT(goodreads_id), COUNT(cover_file) FROM books;"
+grep -c "some word from a private note" books.json     # 0: private notes never reach the export
+```
+The first number should match the books on my three Goodreads shelves.
+
+### 9.8 Clean up what Open Library didn't find
+
+Books printed with `(not found on Open Library, no cover)` are still imported, just without `ol_key` or a cover. Find them:
+
+```sql
+SELECT id, title, author FROM books WHERE ol_key IS NULL;
+```
+
+Usually it's a translated title or an obscure edition. The fix: search Open Library in the browser, then set the key by hand. For example, if the work page is `openlibrary.org/works/OL12345W`:
+
+```sql
+UPDATE books SET ol_key = '/works/OL12345W' WHERE id = 42;
+```
+
+(Downloading the missing cover is a good small extension: a `book cover <title>` command that calls `openlibrary.search()` and `download_cover()` for one book.)
+
+If anything went badly wrong, I can roll back to my backup: `cp books.db.before-goodreads books.db`.
+
+---
+
 ## Next: Connecting It to the Website
 
 The backend is done when `books.json` and the covers exist. The website side works exactly like the Home Lab monitor:
@@ -601,7 +966,7 @@ Ordered from easiest to hardest:
 3. **`book remove "Stoner"`**: delete a book (ask "Are you sure? [y/N]" first with `input()`).
 4. **Yearly goal**: store `GOAL = 20` in `config.py` and include `"goal"` and `"read_this_year"` in the export.
 5. **Half stars**: change `rating` to `REAL` with `CHECK (rating BETWEEN 0.5 AND 5)`. Existing tables need a migration: create the new table, copy rows over, swap them.
-6. **Goodreads import**: Goodreads exports a CSV (`Title`, `Author`, `My Rating`, `Date Read`, `Exclusive Shelf`...). Read it with Python's `csv.DictReader` and insert rows, mapping `Exclusive Shelf` values `read` / `currently-reading` / `to-read` to my statuses.
+6. **Goodreads import**: done, it's Phase 9. Follow-up idea: `book cover "title"` to fetch a cover for books the import couldn't match.
 7. **Log from my phone**: a note `Reading Log.md` in Obsidian (`- [ ] Blindsight` = reading, `- [x] Stoner ★5` = read) that a cron job parses every 15 minutes and feeds into the database.
 
 ---
@@ -616,6 +981,10 @@ Ordered from easiest to hardest:
 | `sqlite3.IntegrityError: CHECK constraint failed` | Tried to store a value the table forbids | That's the safety net working; fix the value |
 | `Permission denied` running `./book.py` | Not executable | `chmod +x book.py` |
 | `book: command not found` | Symlink missing or `~/.local/bin` not on PATH | `ls -l ~/.local/bin/book`; `echo $PATH` |
+| `KeyError: 'Exclusive Shelf'` (or another column) during import | Not the Goodreads export, or Goodreads renamed a column | `head -1` the CSV and compare the names with `read_csv()` |
+| `UnicodeDecodeError` during import | The CSV was opened and re-saved in Excel, which changed the encoding | Download a fresh export and don't open it in Excel |
+| Import stopped with `URLError` halfway | Network blip or Open Library hiccup | Just run it again: finished books are saved and skipped |
+| Same book twice after import | It was added with `book add` as a different edition/work than Open Library's ISBN match | Delete one: `DELETE FROM books WHERE id = ...;` |
 | Cover not showing on the site | Book had no cover in Open Library (`cover_file` empty) | Normal; the page should show a placeholder |
 
 ---
@@ -634,3 +1003,10 @@ Ordered from easiest to hardest:
 - **Symlink**: a file-system shortcut (`ln -s target linkname`)
 - **Atomic write**: write a temp file, then rename it, so readers never see a partial file
 - **Separation of concerns**: each file/module has one job
+- **CSV**: comma-separated values, a plain-text table; read it with Python's `csv` module, never by splitting on commas
+- **Migration**: changing the structure of a database that already holds data (`ALTER TABLE`)
+- **Unique index**: an index that also forbids duplicate values; can be added to an existing table
+- **Idempotent**: running it twice has the same result as running it once
+- **Rate limiting**: deliberately slowing requests so you don't overload someone else's server
+- **Generator**: a function that `yield`s values one at a time instead of returning a whole list
+- **Data portability**: being able to take your data out of a service in a usable format
