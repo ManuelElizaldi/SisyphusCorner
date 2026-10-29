@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcd4c9c0012a16ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Sending letters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sending letters"
-            }
-          },
-          {
             "id": "7d02ac87ccdf31e3",
             "type": "leaf",
             "state": {
@@ -36,49 +22,21 @@
             }
           },
           {
-            "id": "68b85b001bce0b28",
+            "id": "bcd4c9c0012a16ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/RaspberryPi/Webpage/Home Lab Monitor - How the Website Shows My Pi Status.md",
+                "file": "Writing/Entries/Sending letters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Lab Monitor - How the Website Shows My Pi Status"
-            }
-          },
-          {
-            "id": "74ec01ffcf7c190a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Study/Phrases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phrases"
-            }
-          },
-          {
-            "id": "75fffeccb6170937",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Entries/Connecting the Dots.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Connecting the Dots"
+              "title": "Sending letters"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,12 +202,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "74ec01ffcf7c190a",
+  "active": "bcd4c9c0012a16ac",
   "lastOpenFiles": [
-    "Pasted image 20261028110233.png",
-    "Programming/RaspberryPi/Webpage/Home Lab Monitor - How the Website Shows My Pi Status.md",
     "Writing/Entries/Stoner.md",
+    "Writing/Entries/Sending letters.md",
+    "Programming/RaspberryPi/Webpage/Home Lab Monitor - How the Website Shows My Pi Status.md",
     "Writing/Entries/Connecting the Dots.md",
+    "Writing/Study/Phrases.md",
+    "Pasted image 20261028110233.png",
     "Prayer of Serenity.md",
     "USA Analysis.md",
     "Van Gogh's Supporters in Arles, France.md",
@@ -264,7 +224,6 @@
     "Programming/Home Lab/Home Lab Server Phase 2 Notes.md",
     "Programming/RaspberryPi/My Digital Bookshelf Project.md",
     "Programming/Home Lab/Home Lab Server Phase 1.md",
-    "Writing/Entries/Sending letters.md",
     "Resources/Screenshot_20261012-155513~2.jpg",
     "Programming/Formatting & Mounting Storage Volumes on Linux.md",
     "Programming/Home Lab/A Health Check That Reports Nothing Looks Exactly Like a Healthy Drive.md",
@@ -277,7 +236,6 @@
     "Resources/raspberrypi.jpeg",
     "Resources/PXL_20261007_205704300.jpg",
     "Resources/Pasted image 20261011171448.png",
-    "Resources/Pasted image 20260807180445.png",
     "Writing/Entries/Done/I am training for my second ultra marathon.md",
     "Writing/Entries/Graveyard",
     "Writing/Entries/Martyr! - Notes Book Analysis.md",
