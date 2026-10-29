@@ -1,5 +1,5 @@
 [[Literature]] [[Book Review]]
-It was getting late and sleep was slowly tightening its grip on me. It may be that I am becoming old or simply that I'm becoming a creature of habit. I have this ritual where I have to read for a couple of minutes before going to bed. This signals my brain to shut off operations for the day, the only task is to relax and surrender to Morpheus. 
+It was getting late and sleep was slowly tightening its grip on me. It may be that I am becoming old or simply that I'm becoming a creature of habit. I have this ritual where I have to read for a couple of minutes before going to bed. Doing so signals my brain to shut off operations for the day, during this time my only task is to relax and surrender to Morpheus. 
 
 Before I had this ritual in place, I watched YouTube, frying my dopamine receptors until I was anesthetized.
 
