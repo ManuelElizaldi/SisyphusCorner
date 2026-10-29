@@ -35,8 +35,7 @@
               "title": "Sending letters"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,10 +201,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "bcd4c9c0012a16ac",
+  "active": "7d02ac87ccdf31e3",
   "lastOpenFiles": [
-    "Writing/Entries/Stoner.md",
     "Writing/Entries/Sending letters.md",
+    "Writing/Entries/Stoner.md",
     "Programming/RaspberryPi/Webpage/Home Lab Monitor - How the Website Shows My Pi Status.md",
     "Writing/Entries/Connecting the Dots.md",
     "Writing/Study/Phrases.md",
