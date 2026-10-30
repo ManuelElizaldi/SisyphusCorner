@@ -72,30 +72,32 @@ Worked on a personal programming projects for my portfolio.
 Then came my more physical indulgence, working out with weights or running. Since time was no 
 One day running the all mighty source of creativity illuminated me. Since money was short and my desire to become a good runner high, I decided to program my own digital coach. For this project I had to take every decision. Each step unlocked new skills, each new skill inspired new features for my project.
 
-One weekend, during that time my parents came to visit to check on how I was doing. We were having beers after dinner and I clearly remember the worried faces of my parents. They tried to act calm and collected, my dad filled each pocket of silence with by bombarding me with questions "you like where you live? Did you enjoy your dinner? Are you eating well? Do you need anything from us? Why don't you move back to Laredo?" 
+One weekend, during that time, my parents came to visit to check how I was doing. We were having beers after dinner and I clearly remember the worried faces of my parents. They tried to act calm and collected, my dad filled each pocket of silence bombarding me with questions "you like where you live? Did you enjoy your dinner? Are you eating well? Do you need anything from us? Why don't you move back to Laredo?" 
 
-Sharing the blood that flows through us, makes us emotionally connected. *something here* 
+Sharing the blood that flows through us, makes us emotionally connected, allowing us to sense when something's wrong. 
 
-There was a tension in my chest, tightening further with each trivial question. I furrowed my brow from the heavy air around the dining table. My body was tingling by sensing their worry, so trying to tame the tense atmosphere I shared a conclusion I reached when building my digital coach project "These past months, I found out that I would still go into this field of work even if I had known that I was going to be laid off."
+There was a tension in my chest, tightening further with each trivial question. I furrowed my brow from the heavy air around the dining table. My body was tingling by sensing their worry, so trying to tame the tense atmosphere I shared a conclusion I reached when building my digital coach project "These past months, I found out that I would still go into this field of work, even if I knew that I was going to be laid off."
 
 To this, my father asked "So, you truly love what you do?" 
 
 "I love it, it has blessed me with so much," said I. 
 
-The days passed and with them a new beginning. I felt a tug to write about my experience building this project and share it with the world. 
-Every new feature was documented. 
+The days passed and with them a new beginning came. After using this project to train for an ultra marathon I felt a tug to write about my experience building this tool. 
 
-I felt like a scientist taking notes about how I had used a certain piece of code to complete my 
+Being the creator meant I needed to fully understand each moving piece, so like a mad scientist I kept obsessive logs of the process. Then I took the time to turn them into something readable people could enjoy.
 
-I wanted to inspire people that was in my same situation
+I shared them on my social media. I can't say there was an ulterior motive pushing me to do so, but I did want to inspire people who were stuck in the same turbulent situation I was in.
 
-This added another dimension of joy to the process where I documented each step. I posted several coding blogs and one lead me to landing my current job.
+After some time of posting these coding blogs, one headhunter reached out to me and offered me my current job.
 
-Now I look at the flame of passion I have for my career and notice how it has deemed. During some time I demanded the answer from the work. With each project I tried to extract whatever tool or knowledge I believed would help me to land a new opportunity. Everything had to have a reason for being, not letting myself be the one being. It was me and my stubbornness of searching for the 'what's next'. 
+Now I look at the flame of passion I have for my career and notice how it has dimmed. During some time I demanded the answer from the work. With each project I tried to extract whatever tool or knowledge I believed would help me to land a new opportunity. Everything had to have a reason for being, my stubbornness of searching for the 'what's next'. 
 
-I clearly remember one time I was tasked with being the sole owner of a process to increase patient visits. I designed the architecture of this project, I wrote each line of code, asked co-workers for the intricacies I didn't understand about the healthcare system and after several months of diligent work I created a report that accomplished its goals, it increased patient clinic scheduling. My takeaway? "This will look great in my resume."
+I clearly remember one time I was tasked with being the sole owner of a process to increase patient visits. I designed the architecture of this project, I wrote each line of code, asked co-workers for the intricacies I didn't understand about the healthcare system and after several months of diligent work I created a program that accomplished its goal, it increased patient clinic scheduling. My takeaway? "This will look great in my resume."
 
-After some flattering comments by my manager and coworkers I rushed to LinkedIn to share the evidence of my worth. "I am thrilled to share accomplished driving impactful outcomes..." I posted that and with slight disgust I remember asking myself "Who am I even talking to? Who am I proving myself to?"
+After the congratulating and flattering comments by my manager I rushed to LinkedIn to share the evidence of my worth. "I am thrilled to share accomplished driving impactful outcomes..." I posted that and with slight disgust I remember asking myself "Who am I even talking to? Who am I proving myself to?"
+
+
+
 
 I was carrying insecurity, I rushed to prove my worth. I clearly see now that being laid off scarred me. I once felt invisible, like I was untouchable I had control over everything. One thinks he is invincible until the bad news comes and your grand self-image is shattered. 
 
