@@ -19,9 +19,9 @@ Stoner did not find his passion, it found him. I looked back at my life, and all
 
 Stoner entered college to study Agriculture with the aim to help his father with the family farm. Due to the curriculum, he had to take a perfunctory class in English.
 
-William struggled during the first weeks of this class, not getting satisfactory grades in his exams. He read and reread the books assigned to him, but didn't go further than thinking words were just words on paper. He found no use for them. 
+William struggled during the first weeks of this class, not getting satisfactory grades in his exams. He read and reread the books assigned to him, but didn't get further than thinking words were just words on paper. He found no use for them. 
 
-During one lecture, Sloane, his teacher then and mentor after, was reading a passage by Shakespeare and proceeds to ask his class what it meant.
+During one lecture, Sloane, his teacher then, and mentor after, was reading a passage by Shakespeare and proceeds to ask his class what it meant.
 
 ```
 “What does the sonnet mean?” he asked abruptly, and paused, his eyes
@@ -32,7 +32,7 @@ Shakespeare speaks to you across three hundred years, Mr. Stoner; do you
 hear him?”
 ```
 
-When Sloane asked Stoner directly, something inside of him was shaken, he became aware of his existence, he felt his cloths touching his skin, his breath coming and going from his body, he noticed how the light shone on and bounced off his classmates. Bewitched by the sonnet, he struggled to provide an answer but from that day on, literature started to nourish his life. 
+When Sloane asked Stoner directly, something inside of him was shaken, he became aware of his existence. He felt his cloths touching his skin, his breath coming and going from his body, he noticed how the light shone and bounced off his classmates. Bewitched by the sonnet, he struggled to provide an answer, but from that day on, literature started to nourish his life. 
 
 ```
 He became conscious of himself in a way that he had not done before.
@@ -42,7 +42,7 @@ that protruded inches out of his coat sleeves; and he wondered if he
 appeared as ludicrous to others as he did to himself.
 ```
 
-A couple of years later after graduating from his English Literature undergraduate program, World War I breaks out. Stoner's friends were ready to answer the call to arms. But William was not sure about enlisting. He pays Sloane a visit, to reach clarity. Perhaps, due to his years of experience or maybe seeing some part of him in Stoner, Sloane observed without hesitation:
+A couple of years later after graduating from his English Literature undergraduate program, World War I breaks out. Stoner's friends were ready to answer the call to arms. But William not so much. Not sure if to enlist, he pays Sloane a visit, hoping to reach clarity. Perhaps, due to his years of experience or maybe seeing some part of him in Stoner, Sloane observed without hesitation:
 
 ```
 “It’s love, Mr. Stoner,” Sloane said cheerfully. “You are in love. It’s as
@@ -51,17 +51,17 @@ simple as that.”
 
 Sloane pushed him to become a teacher and this single decision had set flight to Stoner's life.
 
-When I first join my current company, many reports ran manually, taking valuable hours from my coworkers day and exposing the process to potential errors. Taking advantage of my programming skills I had acquired, I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to better treatment for our patients hospitals. I had created a positive change and seen the impact. I don't deny feeling satisfaction, but was I in love? 
+When I first join my current company, many reports ran manually, taking valuable hours from my coworkers day and exposing the process to potential errors. Taking advantage of my programming skills I had gained, I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. 
 
-As the automated morning reports run, my only job is to monitor, so time ticks **fix this**
+This then overtime led to better treatment for patients in our hospitals. I had created a positive change and seen the impact. I don't deny feeling satisfaction, but was I in love? 
 
- I take advantage of this gift and use it to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space in between these moments I flirt with the idea "What if?"
+As the automated morning reports run, my only job is to monitor, so time ticks and offers me free time. I take advantage of this gift and use it to work on personal projects. Sometimes I grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space between these moments I flirt with the idea "What if?"
 
-Looking out the window I daydream about a different life, unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These ideas make me imagine myself as a writer, or sometimes as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with the idea of doing something else. 
+Looking out the window I daydream about a different life, unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These ideas make me imagine myself as a writer, or sometimes as a painter, living by the arts. Maybe I could become a musician, remembering how I used to play the drums. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with the idea of doing something else. 
 
-The idea of love for my work is not foreign to me, I had a glimpse of this surreal feeling back in 2023. During that year I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were aimed at working on myself.
+The idea of love of my work is not foreign to me, I had a glimpse of this surreal feeling back in 2023. During that year I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were aimed at working on myself.
 
-That year each day seemed a copy the previous one. Time moved on, and it ingrained me deeper and deeper into the routine. I woke up early, when the sun first starts to melt through the windows. I made my way to the kitchen, turned on the espresso machine, and it said 'good morning' to be by rattling its insides while it heats up. Then I grabbed a bag of coffee and refilled the bean hopper while the smell of the beans rush through my nostrils.
+That year each day seemed a copy the previous one. Time passed, and it ingrained me deeper and deeper into the routine. I woke up early, when the sun first starts to melt through the windows. I made my way to the kitchen, turned on the espresso machine, and it said 'good morning' to be by rattling its insides while it heat up. Then I grabbed a bag of coffee and refilled the hopper while the smell of the beans rush through my nostrils.
 
 After the black smokey hot indulgence of my coffee I would head to my computer, apply to jobs as if that was my job. Each application merging into one, hundreds of job descriptions dulled out into a mass of text inside my head 
 
