@@ -93,8 +93,7 @@ Although the love has dimmed at this moment in my career, reading Stoner has pro
 
 
 
-
-
+**was I carrying insecurity ? doubt? was I scarred? was I being a utilitarian student, similar like the ones Stoner criticized? **
 
 
 Even though I was not inside Sloane's lecture hall and I didn't get asked what a Sonnet meant to me, reading Stoner's lecture hall, he has bestowed upon me a mirror that 
