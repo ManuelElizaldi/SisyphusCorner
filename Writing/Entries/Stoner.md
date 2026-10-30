@@ -5,9 +5,9 @@ Before I had this ritual in place, I watched YouTube, frying my dopamine recepto
 
 My time with Stoner by John Williams was coming to a close. I had 2 chapters left. My plan was to read one that night, and leave the last for tomorrow morning. I finished the second to last chapter, placed the coffee bag label I was using as a bookmark inside and closed the book. 
 
-The brain omitted the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then a third idea, I thought about William Stoner, his presence kept nagging at me. Why did I felt so melancholic about him? I didn't have the answer, but I knew I had to continue reading. 
+The brain omitted the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then a third idea, I thought about William Stoner, his presence kept nagging at me. Why did I felt so melancholic about him? Staring at the roof of my room I didn't have the answer, but I knew I had to continue reading. 
 
-I finished the book that night, I knew how it would end. The beginning of the book tells you how the life of Stoner ends. But still it felt like I was saying goodbye to a lifelong friend, not knowing when it would be the next time I was going to see him.
+I finished the book that night, I knew how it would end. The first chapter of the book tells you how the life of Stoner ends. But I felt a tightness in my chest, similar to how it feels like to say goodbye to a lifelong friend you haven't seen in a while, not knowing when I will see him again.
 
 This was clearly result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer to a literature doctorate creates an emotional attachment to the character. Through this shock of emotions a mirror emerged which allowed me to see my life through the lens of William Stoner. 
 
@@ -15,13 +15,25 @@ I came to several conclusions which I plan to share here.
 
 # I envy Stoner, for his passion found him.
 
-Stoner did not find his passion, it found him. I looked back at my life, and all I saw what seemed like an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the wellbeing of his students and the furthering of his studies. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
+Stoner did not find his passion, it found him. I looked back at my life, and all I saw what seemed like an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the well-being of his students and the furthering of his studies. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
 
 Stoner entered college to study Agriculture with the aim to help his father with the family farm. Due to the curriculum, he had to take a perfunctory class in English.
 
-William struggled during the first weeks of the class, not getting satisfactory grades in his exams. He read and reread the books assigned to hinm for this class. His understanding didn't get him words are just words on paper. There is no use for them, he even thought. 
+William struggled during the first weeks of the class, not getting satisfactory grades in his exams. He read and reread the books assigned to him not going farther than thinking words are just words on paper, finding no use for them. 
 
-Sloane, his teacher then and mentor after, was reading a passage by Shakespeare 
+During one lecture, Sloane, his teacher then and mentor after, was reading a passage by Shakespeare and proceeds to ask his class what it meant.
+
+```
+“What does the sonnet mean?” he asked abruptly, and paused, his eyes
+searching the room with a grim and almost pleased hopelessness.
+
+Sloane’s eyes came back to William Stoner, and he said dryly, “Mr.
+Shakespeare speaks to you across three hundred years, Mr. Stoner; do you
+hear him?”
+```
+
+
+
 
 
 When World War I breaks out, Stoner's friends were ready to answer the call to arms. But William was not sure about enlisting. He pays Sloane a visit - his mentor - to make up his mind. Perhaps, due to his years of experience or maybe seeing some part of him in Stoner, Sloane observed without hesitation:
@@ -88,3 +100,8 @@ One example of this prose is when he describes what love is for our character St
 Love for knowledge - I, like Stoner, truly enjoy the pleasure of reading, learning new things. But sometimes I can't don't allow myself to relax in this pleasure, perhaps by my own volition or due to the inevitable bigger forces of the system I always need to attach an utilitarian motivation to the knowledge and projects I am building 
 
 [^1]: 
+
+
+Your version isn’t baseless as a response. Stoner’s whole life fits the first half: literature nourishes him and also takes his life, slowly, in classrooms and offices. And the idea that time running out intensifies love is a direct echo of the passage you started this conversation with, where the awareness of how much he hasn’t read shatters his serenity. That’s probably the real link between your essay’s “running out of time” thread and this sonnet.
+- Mortality sharpens love 
+- life feeds the flame and burns it down at once 
