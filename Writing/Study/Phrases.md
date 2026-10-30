@@ -82,10 +82,21 @@ Pepper box pistol or ladies companion:
 ![[Pasted image 20261028110233.png]]
 
 
+# Stoner - John Williams
+### Hacerte pendejo:
+And at last, as if it were a game he played with himself, he delivered himself from his self-imposed suspense, slipped out a side door of the library, and made his way to the house where Katherine lived.
 
+### Not being sure about the future but still committing
+He saw the future in the institution to which he had committed himself and which he so imperfectly understood; he conceived himself changing in that future, but he saw the future itself as the instrument of change rather than its object.
 
+### Finding his book after a while
+It hardly mattered to him that the book was forgotten and that it served no use; and the question of its worth at any time seemed almost trivial. He did not have the illusion that he would find himself there, in that fading print; and yet, he knew, a small part of him that he could not deny was there, and would be there.
+He opened the book; and as he did so it became not his own. He let his
+fingers riffle through the pages and felt a tingling, as if those pages were alive. The tingling came through his fingers and coursed through his flesh and bone; he was minutely aware of it, and he waited until it contained him, until the old excitement that was like terror fixed him where he lay. The sunlight, passing his window, shone upon the page, and he could not see what was written there.
 
-
+### What is love
+In his extreme youth Stoner had thought of love as an absolute state of
+being to which, if one were lucky, one might find access; in his maturity he had decided it was the heaven of a false religion, toward which one ought to gaze with an amused disbelief, a gently familiar contempt, and an embarrassed nostalgia. Now in his middle age he began to know that it was neither a state of grace nor an illusion; he saw it as a human act of becoming, a condition that was invented and modified moment by moment and day by day, by the will and the intelligence and the heart.
 
 
 

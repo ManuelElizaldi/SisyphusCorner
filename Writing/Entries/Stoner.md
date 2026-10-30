@@ -143,46 +143,29 @@ Your version isn’t baseless as a response. Stoner’s whole life fits the firs
 
 
 ### Possible usable passages
-He
-knew that never, after these few years, would teaching be quite the same;
-and he committed himself to a happy state of exhaustion which he hoped
-might never end
+He knew that never, after these few years, would teaching be quite the same; and he committed himself to a happy state of exhaustion which he hoped might never end
 
 Rarely during these years was he removed from this dedication to the
 moment of his work.
 
-
-He saw the future in the institution
-to which he had committed himself and which he so imperfectly
-understood; he conceived himself changing in that future, but he saw the
-future itself as the instrument of change rather than its object.
-
+### Not being sure about the future but still committing
+He saw the future in the institution to which he had committed himself and which he so imperfectly understood; he conceived himself changing in that future, but he saw the future itself as the instrument of change rather than its object.
 
 In the summer of 1937 he felt a renewal of the old passion for study and
-learning; and with the curious and disembodied vigor of the scholar that is
-the condition of neither youth nor age, he returned to the only life that had
-not betrayed him. He discovered that he had not gone far from that life even
-in his despair.
+learning; and with the curious and disembodied vigor of the scholar that is the condition of neither youth nor age, he returned to the only life that had not betrayed him. He discovered that he had not gone far from that life even in his despair.
 
 
 As he worked on the room, and as it began slowly to take a shape, he
 realized that for many years, unknown to himself, he had had an image
 locked somewhere within him like a shamed secret, an image that was
-ostensibly of a place but which was actually of himself. So it was himself
-that he was attempting to define as he worked on his study. As he sanded
-the old boards for his bookcases, and saw the surface roughnesses
-disappear, the gray weathering flake away to the essential wood and finally
-to a rich purity of grain and texture—as he repaired his furniture and
-arranged it in the room, it was himself that he was slowly shaping, it was
-himself that he was putting into a kind of order, it was himself that he was
-making possible.
+ostensibly of a place but which was actually of himself. So it was himself that he was attempting to define as he worked on his study. As he sanded the old boards for his bookcases, and saw the surface roughnesses disappear, the gray weathering flake away to the essential wood and finally to a rich purity of grain and texture—as he repaired his furniture and arranged it in the room, it was himself that he was slowly shaping, it was himself that he was putting into a kind of order, it was himself that he was making possible.
 
 Thus, despite the regularly recurring pressures of debt and need, the next
 few years were happy, and he lived much as he had dreamed that he might
 live when he was a young student in graduate school and when he had first
 married
 
-
+### Immersed in his work
 Within a few moments he was immersed in his work. The evening
 before, he had caught up with the routine of his classwork; papers had been
 graded and lectures prepared for the whole week that was to follow. He sawthe evening before him, and several evenings more, in which he would be
@@ -205,3 +188,36 @@ now and then found himself so lost in his subject that he became forgetful
 of his inadequacy, of himself, and even of the students before him. Now and
 then he became so caught by his enthusiasm that he stuttered, gesticulated,
 and ignored the lecture notes that usually guided his talks.
+
+
+### Finding his book after a while:
+It hardly mattered to him that the book was forgotten and that it served no use; and the question of its worth at any time seemed almost trivial. He did not have the illusion that he would find himself there, in that fading print; and yet, he knew, a small part of him that he could not deny was there, and would be there.
+He opened the book; and as he did so it became not his own. He let his
+fingers riffle through the pages and felt a tingling, as if those pages were alive. The tingling came through his fingers and coursed through his flesh and bone; he was minutely aware of it, and he waited until it contained him, until the old excitement that was like terror fixed him where he lay. The sunlight, passing his window, shone upon the page, and he could not see what was written there.
+
+
+### Finding happiness in his work:
+The years immediately following the end of the Second World War were the
+best years of his teaching; and they were in some ways the happiest years of
+his life. Veterans of that war descended upon the campus and transformed it,
+bringing to it a quality of life it had not had before, an intensity and
+turbulence that amounted to a transformation. He worked harder than he
+had ever worked; the students, strange in their maturity, were intensely
+serious and contemptuous of triviality. Innocent of fashion or custom, they
+came to their studies as Stoner had dreamed that a student might—as ifthose studies were life itself and not specific means to specific ends. He
+knew that never, after these few years, would teaching be quite the same;
+and he committed himself to a happy state of exhaustion which he hoped
+might never end. He seldom thought of the past or the future, or of the
+disappointments and joys of either; he concentrated all the energies of
+which he was capable upon the moment of his work and hoped that he was
+at last defined by what he did.
+
+### What is love
+In his extreme youth Stoner had thought of love as an absolute state of
+being to which, if one were lucky, one might find access; in his maturity he
+had decided it was the heaven of a false religion, toward which one ought to
+gaze with an amused disbelief, a gently familiar contempt, and an
+embarrassed nostalgia. Now in his middle age he began to know that it was
+neither a state of grace nor an illusion; he saw it as a human act of
+becoming, a condition that was invented and modified moment by moment
+and day by day, by the will and the intelligence and the heart.
