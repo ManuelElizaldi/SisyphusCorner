@@ -75,9 +75,15 @@ To this, my father asked "So, you truly love what you do?"
 
 "I love it, it has blessed me with so much," said I. 
 
-The days passed, with little to no change. I felt a tug to write about my approach on building this project and share it with the world. Incredibly, this added another dimension of joy to the process. One of the coding articles I wrote helped me land my current job.
+The days passed and with them a new beginning. I felt a tug to write about my experience building this project and share it with the world. This added another dimension of joy to the process where I documented each step. I posted several coding blogs and one lead me to landing my current job.
 
-Perhaps I was not in Sloane's lecture hall when he asked what Shakespeare's sonnets meant, but after reading about Stoner's life the love that has dimmed for my career has slowly started to glow ane
+Now, I must recognize that my love for my career has dimmed for a moment, but that was my own doing. I asked too much of my work. I rushed through each project, extracting the knowledge I thought would best serve me for a new opportunity. Everything needed a reason of being, not letting myself be and enjoy the present moment. 
+
+
+
+Perhaps I was not in Sloane's lecture hall when he asked what Shakespeare's sonnets meant, but after reading about Stoner's life the love that has dimmed for my career has slowly started to glow anew. 
+
+I have realized that I was asking too much of my work. I was using it as a means to an end.
 
 
 
