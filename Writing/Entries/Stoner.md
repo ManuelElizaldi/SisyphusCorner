@@ -19,7 +19,7 @@ Stoner did not find his passion, it found him. I looked back at my life, and all
 
 Stoner entered college to study Agriculture with the aim to help his father with the family farm. Due to the curriculum, he had to take a perfunctory class in English.
 
-William struggled during the first weeks of the class, not getting satisfactory grades in his exams. He read and reread the books assigned to him, but not going farther than thinking words are just words on paper, finding no use for them. 
+William struggled during the first weeks of this class, not getting satisfactory grades in his exams. He read and reread the books assigned to him, but not going further than thinking words were just words on paper, finding no use for them. 
 
 During one lecture, Sloane, his teacher then and mentor after, was reading a passage by Shakespeare and proceeds to ask his class what it meant.
 
@@ -32,7 +32,7 @@ Shakespeare speaks to you across three hundred years, Mr. Stoner; do you
 hear him?”
 ```
 
-When Sloane asked Stoner directly, something inside of him was shaken, he became aware of his existence, he felt his cloths touching his skin, his breath coming and going from his body, he noticed how the light shone on and bounced off his classmates. Besides this awareness he struggled to provide an answer but from that day on, literature started to nourish his life. 
+When Sloane asked Stoner directly, something inside of him was shaken, he became aware of his existence, he felt his cloths touching his skin, his breath coming and going from his body, he noticed how the light shone on and bounced off his classmates. Bewitched by the sonnet, he struggled to provide an answer but from that day on, literature started to nourish his life. 
 
 ```
 He became conscious of himself in a way that he had not done before.
@@ -42,29 +42,34 @@ that protruded inches out of his coat sleeves; and he wondered if he
 appeared as ludicrous to others as he did to himself.
 ```
 
-A couple of years later after graduating from his English Literature undergraduate program, World War I breaks out. Stoner's friends were ready to answer the call to arms. But William was not sure about enlisting. He pays Sloane a visit - his mentor - to make up his mind. Perhaps, due to his years of experience or maybe seeing some part of him in Stoner, Sloane observed without hesitation:
+A couple of years later after graduating from his English Literature undergraduate program, World War I breaks out. Stoner's friends were ready to answer the call to arms. But William was not sure about enlisting. He pays Sloane a visit, to reach clarity. Perhaps, due to his years of experience or maybe seeing some part of him in Stoner, Sloane observed without hesitation:
 
 ```
 “It’s love, Mr. Stoner,” Sloane said cheerfully. “You are in love. It’s as
 simple as that.”
 ```
 
-One decision had set flight to Stoner's life.
+Sloane pushed him to become a teacher and this single decision had set flight to Stoner's life.
 
-When I first join my current company, many reports ran manually, taking valuable hours from my coworkers day and exposing the process to potential errors. Taking advantage of the skills I had acquired, I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I had seen the impact and felt a level of satisfaction, but was I in love? 
+When I first join my current company, many reports ran manually, taking valuable hours from my coworkers day and exposing the process to potential errors. Taking advantage of my programming skills I had acquired, I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I had created a positive change and seen the impact. I don't deny feeling satisfaction, but was I in love? 
 
-As the automated morning reports run, my only job is to monitor, so time is offered to me, I take advantage of this gift and use it to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space in between these moments I flirt with the idea "What if?"
+As the automated morning reports run, my only job is to monitor, so time ticks **fix this**
+
+ I take advantage of this gift and use it to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space in between these moments I flirt with the idea "What if?"
 
 Looking out the window I daydream about a different life, unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These ideas make me imagine myself as a writer, or sometimes as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with the idea of doing something else. 
 
 The idea of love for my work is not foreign to me, I had a glimpse of this surreal feeling back in 2023. During that year I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were aimed at working on myself.
 
-That year each day seemed a copy the previous one. Time moved on and it ingrained me deeper and deeper into the routine. I woke up early, when the sun first starts to melt through the windows. I made my way to the kitchen, turned on the espresso machine, and it said 'good morning' to be by rattling its insides while it heats up. Then I grabbed a bag of coffee and refilled the bean hopper while the smell of the beans rush through my nostrils.
+That year each day seemed a copy the previous one. Time moved on, and it ingrained me deeper and deeper into the routine. I woke up early, when the sun first starts to melt through the windows. I made my way to the kitchen, turned on the espresso machine, and it said 'good morning' to be by rattling its insides while it heats up. Then I grabbed a bag of coffee and refilled the bean hopper while the smell of the beans rush through my nostrils.
 
-After the black smokey hot indulenc
+After the black smokey hot indulgence of my coffee I would head to my computer, apply to jobs as if that was my job. Each application merging into one, hundreds of job descriptions dulled out into a mass of text inside my head 
 
-turned on my espresso machine and while I waited for it to heat up I would pop open its  went for a run then came home, applied to jobs and worked on a personal programming projects for my portfolio. 
+When I found myself in a place where I could take a break partook in a more physical indulgence: lifting weights and running.  
 
+worked on a personal programming projects for my portfolio. 
+
+Then came my more physical indulgence, working out with weights or running. Since time was no 
 One day running the all mighty source of creativity illuminated me. Since money was short and my desire to become a good runner high, I decided to program my own digital coach. For this project I had to take every decision. Each step unlocked new skills, each new skill inspired new features for my project.
 
 One weekend, during that time my parents came to visit to check on how I was doing. We were having beers after dinner and I clearly remember the worried faces of my parents. They tried to act calm and collected, my dad filled each pocket of silence with by bombarding me with questions "you like where you live? Did you enjoy your dinner? Are you eating well? Do you need anything from us? Why don't you move back to Laredo?" 
@@ -78,6 +83,14 @@ To this, my father asked "So, you truly love what you do?"
 "I love it, it has blessed me with so much," said I. 
 
 The days passed and with them a new beginning. I felt a tug to write about my experience building this project and share it with the world. This added another dimension of joy to the process where I documented each step. I posted several coding blogs and one lead me to landing my current job.
+
+Now I look at the flame of passion I have for my career and notice how it has deemed. During some time I demanded the answer from the work. With each project I tried to extract whatever tool or knowledge I believed would help me to land a new opportunity. Everything had to have a reason for being, not letting myself be the one being. 
+
+I clearly remember one time I was tasked with being the sole owner of a process to increase patient visits. I designed the architecture of this project, I 
+
+I rushed to prove my worth 
+
+
 
 Now, I must recognize that my love for my career has dimmed for a moment, but that was my own doing. I asked too much of my work. I rushed through each project, extracting the knowledge I thought would best serve me for a new opportunity, acting from a perspective of scarcity. 
 
@@ -110,6 +123,8 @@ John William's prose was as simple as Stoner's life, ordinarily extraordinary. I
 
 Surviving a year long job search
 #### Don't be passive, don't use books to escape when life is attacking you 
+
+the good hurry, if not now, then when? take it easy but take it. 
 # Notes
 My objective with this piece is to write a bit about Stoner, some initial thoughts and attempt at answering the question "What did this book do to me?"
 
