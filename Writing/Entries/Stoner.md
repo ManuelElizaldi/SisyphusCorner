@@ -51,7 +51,7 @@ simple as that.”
 
 Sloane pushed him to become a teacher and this single decision had set flight to Stoner's life.
 
-When I first join my current company, many reports ran manually, taking valuable hours from my coworkers day and exposing the process to potential errors. Taking advantage of my programming skills I had acquired, I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I had created a positive change and seen the impact. I don't deny feeling satisfaction, but was I in love? 
+When I first join my current company, many reports ran manually, taking valuable hours from my coworkers day and exposing the process to potential errors. Taking advantage of my programming skills I had acquired, I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to better treatment for our patients hospitals. I had created a positive change and seen the impact. I don't deny feeling satisfaction, but was I in love? 
 
 As the automated morning reports run, my only job is to monitor, so time ticks **fix this**
 
@@ -67,7 +67,7 @@ After the black smokey hot indulgence of my coffee I would head to my computer, 
 
 When I found myself in a place where I could take a break partook in a more physical indulgence: lifting weights and running.  
 
-worked on a personal programming projects for my portfolio. 
+Worked on a personal programming projects for my portfolio. 
 
 Then came my more physical indulgence, working out with weights or running. Since time was no 
 One day running the all mighty source of creativity illuminated me. Since money was short and my desire to become a good runner high, I decided to program my own digital coach. For this project I had to take every decision. Each step unlocked new skills, each new skill inspired new features for my project.
@@ -84,25 +84,17 @@ To this, my father asked "So, you truly love what you do?"
 
 The days passed and with them a new beginning. I felt a tug to write about my experience building this project and share it with the world. This added another dimension of joy to the process where I documented each step. I posted several coding blogs and one lead me to landing my current job.
 
-Now I look at the flame of passion I have for my career and notice how it has deemed. During some time I demanded the answer from the work. With each project I tried to extract whatever tool or knowledge I believed would help me to land a new opportunity. Everything had to have a reason for being, not letting myself be the one being. 
+Now I look at the flame of passion I have for my career and notice how it has deemed. During some time I demanded the answer from the work. With each project I tried to extract whatever tool or knowledge I believed would help me to land a new opportunity. Everything had to have a reason for being, not letting myself be the one being. It was me and my stubbornness of searching for the 'what's next'. 
 
-I clearly remember one time I was tasked with being the sole owner of a process to increase patient visits. I designed the architecture of this project, I wrote each line of code, asked co-workers for the intricacies I didn't understand about the healthcare system and after several months of diligent work I created a report that accomplished its goals. My take away? "This will look great in my resume."
+I clearly remember one time I was tasked with being the sole owner of a process to increase patient visits. I designed the architecture of this project, I wrote each line of code, asked co-workers for the intricacies I didn't understand about the healthcare system and after several months of diligent work I created a report that accomplished its goals, it increased clinic patient scheduling. My takeaway? "This will look great in my resume."
 
-
-
-
-
-Now, I must recognize that my love for my career has dimmed for a moment, but that was my own doing. I asked too much of my work. I rushed through each project, extracting the knowledge I thought would best serve me for a new opportunity, acting from a perspective of scarcity. 
+I was carrying insecurity, I rushed to prove my worth. I clearly see now that being laid off scarred me. I once felt invisible, like I was untouchable I had control over everything. One thinks he is invincible until the bad news comes and your grand self-image is shattered. 
 
 
 
 
 
 
-**was I carrying insecurity ? doubt? was I scarred? was I being a utilitarian student, similar like the ones Stoner criticized? **
-
-
-Even though I was not inside Sloane's lecture hall and I didn't get asked what a Sonnet meant to me, reading Stoner's lecture hall, he has bestowed upon me a mirror that 
 
 
 
@@ -158,7 +150,7 @@ learning; and with the curious and disembodied vigor of the scholar that is the 
 As he worked on the room, and as it began slowly to take a shape, he
 realized that for many years, unknown to himself, he had had an image
 locked somewhere within him like a shamed secret, an image that was
-ostensibly of a place but which was actually of himself. So it was himself that he was attempting to define as he worked on his study. As he sanded the old boards for his bookcases, and saw the surface roughnesses disappear, the gray weathering flake away to the essential wood and finally to a rich purity of grain and texture—as he repaired his furniture and arranged it in the room, it was himself that he was slowly shaping, it was himself that he was putting into a kind of order, it was himself that he was making possible.
+ostensibly of a place but which was actually of himself. So it was himself that he was attempting to define as he worked on his study. As he sanded the old boards for his bookcases, and saw the surface roughness disappear, the gray weathering flake away to the essential wood and finally to a rich purity of grain and texture—as he repaired his furniture and arranged it in the room, it was himself that he was slowly shaping, it was himself that he was putting into a kind of order, it was himself that he was making possible.
 
 Thus, despite the regularly recurring pressures of debt and need, the next
 few years were happy, and he lived much as he had dreamed that he might
@@ -198,19 +190,7 @@ fingers riffle through the pages and felt a tingling, as if those pages were ali
 
 ### Finding happiness in his work:
 The years immediately following the end of the Second World War were the
-best years of his teaching; and they were in some ways the happiest years of
-his life. Veterans of that war descended upon the campus and transformed it,
-bringing to it a quality of life it had not had before, an intensity and
-turbulence that amounted to a transformation. He worked harder than he
-had ever worked; the students, strange in their maturity, were intensely
-serious and contemptuous of triviality. Innocent of fashion or custom, they
-came to their studies as Stoner had dreamed that a student might—as ifthose studies were life itself and not specific means to specific ends. He
-knew that never, after these few years, would teaching be quite the same;
-and he committed himself to a happy state of exhaustion which he hoped
-might never end. He seldom thought of the past or the future, or of the
-disappointments and joys of either; he concentrated all the energies of
-which he was capable upon the moment of his work and hoped that he was
-at last defined by what he did.
+best years of his teaching; and they were in some ways the happiest years of his life. Veterans of that war descended upon the campus and transformed it, bringing to it a quality of life it had not had before, an intensity and turbulence that amounted to a transformation. He worked harder than he had ever worked; the students, strange in their maturity, were intensely serious and contemptuous of triviality. Innocent of fashion or custom, they came to their studies as Stoner had dreamed that a student might—as if those studies were life itself and not specific means to specific ends. He knew that never, after these few years, would teaching be quite the same; and he committed himself to a happy state of exhaustion which he hoped might never end. He seldom thought of the past or the future, or of the disappointments and joys of either; he concentrated all the energies of which he was capable upon the moment of his work and hoped that he was at last defined by what he did.
 
 ### What is love
 In his extreme youth Stoner had thought of love as an absolute state of
