@@ -59,23 +59,34 @@ Looking out the window I daydream about a different life, unleashing a foray of 
 
 The idea of love for my work is not foreign to me. Back in 2023, I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were aimed at working on myself.
 
-I woke up early, went for a run then came home, applied to jobs and worked on a personal programming projects. 
+I woke up early, went for a run then came home, applied to jobs and worked on a personal programming projects for my portfolio. 
 
 One day running the all mighty source of creativity illuminated me. Since money was short and my desire to become a good runner high, I decided to program my own digital coach. For this project I had to take every decision. Each step unlocked new skills, each new skill inspired new features for my project.
 
 Each day seemed a copy the previous one, as time moved on I ingrained myself more in the crevasse of routine, and inevitably I fell in love with my craft.
 
-One time when my parents came to visit that year, we were having beers after dinner. I clearly remember the worried faces of my parents. They tried to act calm and collected, but sharing the blood that flows through us, also makes us share an emotional connection between each other. There is an unsaid understanding about how we are feeling. 
+One weekend, during that time my parents came to visit to check on how I was doing. We were having beers after dinner and I clearly remember the worried faces of my parents. They tried to act calm and collected, my dad filled each pocket of silence with by bombarding me with questions "you like where you live? Did you enjoy your dinner? Are you eating well? Do you need anything from us? Why don't you move back to Laredo?" 
 
-I felt the tension in my chest, furrowed my brow from the heavy air around the dining table. My body was tingling by sensing their worry, so trying to tame the tense atmosphere I shared a conclusion I reached when building my project "These past months, I found out that I would still go into this field of work even if I had known that I was going to be laid off."
+Sharing the blood that flows through us, makes us emotionally connected. *something here* 
+
+There was a tension in my chest, tightening further with each trivial question. I furrowed my brow from the heavy air around the dining table. My body was tingling by sensing their worry, so trying to tame the tense atmosphere I shared a conclusion I reached when building my digital coach project "These past months, I found out that I would still go into this field of work even if I had known that I was going to be laid off."
 
 To this, my father asked "So, you truly love what you do?" 
 
 "I love it, it has blessed me with so much," said I. 
 
-The days passed, with little to no change. I felt the need to write about my approach to building this project and share it with the world. Incredibly, this added another dimension of joy to the process. Writing about what I was building unlocked another dimension of joy, which then helped me land my current role.
+The days passed, with little to no change. I felt a tug to write about my approach on building this project and share it with the world. Incredibly, this added another dimension of joy to the process. One of the coding articles I wrote helped me land my current job.
 
-Even though I was not inside Stoner's lecture hall, he has bestowed upon me a mirror that 
+Maybe I was not in Sloane's lecture hall when he asked what a Sonnet meant, but I read Stoner's life.
+
+
+
+
+
+
+
+
+Even though I was not inside Sloane's lecture hall and I didn't get asked what a Sonnet meant to me, reading Stoner's lecture hall, he has bestowed upon me a mirror that 
 
 
 
