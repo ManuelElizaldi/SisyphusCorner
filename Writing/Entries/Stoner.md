@@ -77,7 +77,12 @@ To this, my father asked "So, you truly love what you do?"
 
 The days passed, with little to no change. I felt a tug to write about my approach on building this project and share it with the world. Incredibly, this added another dimension of joy to the process. One of the coding articles I wrote helped me land my current job.
 
-Maybe I was not in Sloane's lecture hall when he asked what a Sonnet meant, but I read Stoner's life.
+Perhaps I was not in Sloane's lecture hall when he asked what Shakespeare's sonnets meant, but after reading about Stoner's life the love that has dimmed for my career has slowly started to glow ane
+
+
+
+
+Although the love has dimmed at this moment in my career, reading Stoner has provided me solace.
 
 
 
@@ -122,3 +127,26 @@ Love for knowledge - I, like Stoner, truly enjoy the pleasure of reading, learni
 Your version isn’t baseless as a response. Stoner’s whole life fits the first half: literature nourishes him and also takes his life, slowly, in classrooms and offices. And the idea that time running out intensifies love is a direct echo of the passage you started this conversation with, where the awareness of how much he hasn’t read shatters his serenity. That’s probably the real link between your essay’s “running out of time” thread and this sonnet.
 - Mortality sharpens love 
 - life feeds the flame and burns it down at once 
+
+
+### Possible usable passages
+He
+knew that never, after these few years, would teaching be quite the same;
+and he committed himself to a happy state of exhaustion which he hoped
+might never end
+
+Rarely during these years was he removed from this dedication to the
+moment of his work.
+
+
+He saw the future in the institution
+to which he had committed himself and which he so imperfectly
+understood; he conceived himself changing in that future, but he saw the
+future itself as the instrument of change rather than its object.
+
+
+In the summer of 1937 he felt a renewal of the old passion for study and
+learning; and with the curious and disembodied vigor of the scholar that is
+the condition of neither youth nor age, he returned to the only life that had
+not betrayed him. He discovered that he had not gone far from that life even
+in his despair.
