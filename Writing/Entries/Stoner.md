@@ -86,9 +86,9 @@ The days passed and with them a new beginning. I felt a tug to write about my ex
 
 Now I look at the flame of passion I have for my career and notice how it has deemed. During some time I demanded the answer from the work. With each project I tried to extract whatever tool or knowledge I believed would help me to land a new opportunity. Everything had to have a reason for being, not letting myself be the one being. 
 
-I clearly remember one time I was tasked with being the sole owner of a process to increase patient visits. I designed the architecture of this project, I 
+I clearly remember one time I was tasked with being the sole owner of a process to increase patient visits. I designed the architecture of this project, I wrote each line of code, asked co-workers for the intricacies I didn't understand about the healthcare system and after several months of diligent work I created a report that accomplished its goals. My take away? "This will look great in my resume."
 
-I rushed to prove my worth 
+
 
 
 
@@ -163,3 +163,45 @@ learning; and with the curious and disembodied vigor of the scholar that is
 the condition of neither youth nor age, he returned to the only life that had
 not betrayed him. He discovered that he had not gone far from that life even
 in his despair.
+
+
+As he worked on the room, and as it began slowly to take a shape, he
+realized that for many years, unknown to himself, he had had an image
+locked somewhere within him like a shamed secret, an image that was
+ostensibly of a place but which was actually of himself. So it was himself
+that he was attempting to define as he worked on his study. As he sanded
+the old boards for his bookcases, and saw the surface roughnesses
+disappear, the gray weathering flake away to the essential wood and finally
+to a rich purity of grain and texture—as he repaired his furniture and
+arranged it in the room, it was himself that he was slowly shaping, it was
+himself that he was putting into a kind of order, it was himself that he was
+making possible.
+
+Thus, despite the regularly recurring pressures of debt and need, the next
+few years were happy, and he lived much as he had dreamed that he might
+live when he was a young student in graduate school and when he had first
+married
+
+
+Within a few moments he was immersed in his work. The evening
+before, he had caught up with the routine of his classwork; papers had been
+graded and lectures prepared for the whole week that was to follow. He sawthe evening before him, and several evenings more, in which he would be
+free to work on his book. What he wanted to do in this new book was not
+yet precisely clear to him; in general, he wished to extend himself beyond
+his first study, in both time and scope. He wanted to work in the period of
+the English Renaissance and to extend his study of classical and medieval
+Latin influences into that area. He was in the stage of planning his study,
+and it was that stage which gave him the most pleasure—the selection
+among alternative approaches, the rejection of certain strategies, the
+mysteries and uncertainties that lay in unexplored possibilities, the
+consequences of choice ....The possibilities he could see so exhilarated him
+that he could not keep still. He got up from his desk, paced a little, and in a
+kind of frustrated joy spoke to his daughter, who looked up from her book
+and answered him.
+
+
+But during the weeks that Edith was in St. Louis, when he lectured, he
+now and then found himself so lost in his subject that he became forgetful
+of his inadequacy, of himself, and even of the students before him. Now and
+then he became so caught by his enthusiasm that he stuttered, gesticulated,
+and ignored the lecture notes that usually guided his talks.
