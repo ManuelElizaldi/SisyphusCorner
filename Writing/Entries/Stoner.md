@@ -88,6 +88,8 @@ Now I look at the flame of passion I have for my career and notice how it has de
 
 I clearly remember one time I was tasked with being the sole owner of a process to increase patient visits. I designed the architecture of this project, I wrote each line of code, asked co-workers for the intricacies I didn't understand about the healthcare system and after several months of diligent work I created a report that accomplished its goals, it increased clinic patient scheduling. My takeaway? "This will look great in my resume."
 
+Jumping 
+
 I was carrying insecurity, I rushed to prove my worth. I clearly see now that being laid off scarred me. I once felt invisible, like I was untouchable I had control over everything. One thinks he is invincible until the bad news comes and your grand self-image is shattered. 
 
 
