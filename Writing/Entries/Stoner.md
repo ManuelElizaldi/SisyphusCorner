@@ -19,7 +19,7 @@ Stoner did not find his passion, it found him. I looked back at my life, and all
 
 Stoner entered college to study Agriculture with the aim to help his father with the family farm. Due to the curriculum, he had to take a perfunctory class in English.
 
-William struggled during the first weeks of the class, not getting satisfactory grades in his exams. He read and reread the books assigned to him not going farther than thinking words are just words on paper, finding no use for them. 
+William struggled during the first weeks of the class, not getting satisfactory grades in his exams. He read and reread the books assigned to him, but not going farther than thinking words are just words on paper, finding no use for them. 
 
 During one lecture, Sloane, his teacher then and mentor after, was reading a passage by Shakespeare and proceeds to ask his class what it meant.
 
@@ -32,11 +32,17 @@ Shakespeare speaks to you across three hundred years, Mr. Stoner; do you
 hear him?”
 ```
 
+When Sloane asked Stoner directly, something inside of him was shaken, he became aware of his existence, he felt his cloths touching his skin, his breath coming and going from his body, he noticed how the light shone on and bounced off his classmates. Besides this awareness he struggled to provide an answer but from that day on, literature started to nourish his life. 
 
+```
+He became conscious of himself in a way that he had not done before.
+Sometimes he looked at himself in a mirror, at the long face with its thatch
+of dry brown hair, and touched his sharp cheekbones; he saw the thin wrists
+that protruded inches out of his coat sleeves; and he wondered if he
+appeared as ludicrous to others as he did to himself.
+```
 
-
-
-When World War I breaks out, Stoner's friends were ready to answer the call to arms. But William was not sure about enlisting. He pays Sloane a visit - his mentor - to make up his mind. Perhaps, due to his years of experience or maybe seeing some part of him in Stoner, Sloane observed without hesitation:
+A couple of years later after graduating from his English Literature undergraduate program, World War I breaks out. Stoner's friends were ready to answer the call to arms. But William was not sure about enlisting. He pays Sloane a visit - his mentor - to make up his mind. Perhaps, due to his years of experience or maybe seeing some part of him in Stoner, Sloane observed without hesitation:
 
 ```
 “It’s love, Mr. Stoner,” Sloane said cheerfully. “You are in love. It’s as
@@ -47,9 +53,9 @@ One decision had set flight to Stoner's life.
 
 When I first join my current company, many reports ran manually, taking valuable hours from my coworkers day and exposing the process to potential errors. Taking advantage of the skills I had acquired, I got surgical and automated everything I could. My teammates stopped wasting hours of their time in tedious tasks and could focus on more valuable projects. This then overtime led to more patients being scheduled at our clinics. I had seen the impact and felt a level of satisfaction, but was I in love? 
 
-As the automated morning reports run, my only job is to monitor, so time is offered to me, I take advantage of this gift and use it to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space between these moments I flirt with the idea "What if?"
+As the automated morning reports run, my only job is to monitor, so time is offered to me, I take advantage of this gift and use it to work on personal projects. I sometimes grab my current read and immerse myself in the pages, other times I continue writing these essays but in the space in between these moments I flirt with the idea "What if?"
 
-Looking out the window I Daydream about a different life unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These ideas make me imagine myself as a writer, or sometimes as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with the idea of doing something else. 
+Looking out the window I daydream about a different life, unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These ideas make me imagine myself as a writer, or sometimes as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with the idea of doing something else. 
 
 The idea of love for my work is not foreign to me. Back in 2023, I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were aimed at working on myself.
 
