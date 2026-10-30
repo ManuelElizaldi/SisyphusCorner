@@ -5,9 +5,9 @@ Before I had this ritual in place, I watched YouTube, frying my dopamine recepto
 
 My time with Stoner by John Williams was coming to a close. I had 2 chapters left. My plan was to read one that night, and leave the last for tomorrow morning. I finished the second to last chapter, placed the coffee bag label I was using as a bookmark inside and closed the book. 
 
-The brain omitted the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then a third idea, I thought about William Stoner, his presence kept nagging at me. Why did I felt so melancholic about him? Staring at the roof of my room I didn't have the answer, but I knew I had to continue reading. 
+The brain ignored the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then a third idea, I thought about William Stoner, his presence kept nagging at me. Why did I felt so melancholic about him? Staring at the roof of my room I didn't have the answer, but I knew I had to continue reading. 
 
-I finished the book that night, I knew how it would end. The first chapter of the book tells you how the life of Stoner ends. But I felt a tightness in my chest, similar to how it feels like to say goodbye to a lifelong friend you haven't seen in a while, not knowing when I will see him again.
+I resumed my reading and finished the book. I knew how it would end. The first chapter of the book tells you how the life of Stoner ends. But still I felt a tightness in my chest, similar to how it feels like to say goodbye to a lifelong friend you haven't seen in a while, not knowing when I will see him again.
 
 This was clearly result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer to a literature doctorate creates an emotional attachment to the character. Through this shock of emotions a mirror emerged which allowed me to see my life through the lens of William Stoner. 
 
@@ -77,18 +77,9 @@ To this, my father asked "So, you truly love what you do?"
 
 The days passed and with them a new beginning. I felt a tug to write about my experience building this project and share it with the world. This added another dimension of joy to the process where I documented each step. I posted several coding blogs and one lead me to landing my current job.
 
-Now, I must recognize that my love for my career has dimmed for a moment, but that was my own doing. I asked too much of my work. I rushed through each project, extracting the knowledge I thought would best serve me for a new opportunity. Everything needed a reason of being, not letting myself be and enjoy the present moment. 
+Now, I must recognize that my love for my career has dimmed for a moment, but that was my own doing. I asked too much of my work. I rushed through each project, extracting the knowledge I thought would best serve me for a new opportunity, acting from a perspective of scarcity. 
 
 
-
-Perhaps I was not in Sloane's lecture hall when he asked what Shakespeare's sonnets meant, but after reading about Stoner's life the love that has dimmed for my career has slowly started to glow anew. 
-
-I have realized that I was asking too much of my work. I was using it as a means to an end.
-
-
-
-
-Although the love has dimmed at this moment in my career, reading Stoner has provided me solace.
 
 
 
