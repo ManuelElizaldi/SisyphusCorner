@@ -7,19 +7,19 @@ My time with Stoner by John Williams was coming to a close. I had 2 chapters lef
 
 The brain ignored the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then a third idea, I thought about William Stoner, his presence kept nagging at me. Why did I felt so melancholic about him? Staring at the roof of my room I didn't have the answer, but I knew I had to continue reading. 
 
-I resumed my reading and finished the book. I knew how it would end. The first chapter of the book tells you how the life of Stoner ends. But still I felt a tightness in my chest, similar to how it feels like to say goodbye to a lifelong friend you haven't seen in a while, not knowing when I will see him again. *maybe could improve the flow of the last sentence*
+I resumed and finished the book. I knew how it would end. The first chapter of the book tells you how the life of Stoner ends. But still I felt a tightness in my throat, similar to how it feels to say goodbye to a lifelong friend you haven't seen in a while, not knowing when or if you'll see him again.
 
-This was clearly result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer, becoming a father, obtaining his doctorate in literature to his eventual death is such an intimate experience that it becomes inevitable to create an emotional attachment to the character. 
+This was clearly a result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer, becoming a father, obtaining his doctorate in literature to his eventual death is such an intimate experience that it becomes inevitable to create an emotional attachment to the character. 
 
 Reading his life through the pages in this book I have juxtaposed my own life with his. I got a chance to reach some conclusions which I want to share in this chronicle.
 
 # I envy Stoner, for his passion found him.
 
-Stoner did not find his passion, it found him. I looked back at my life, and all I saw was what seemed like an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the well-being of his students and the furthering of his studies. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
+Stoner did not find his passion, it found him. I looked back at my life, and all I saw was what seemed like an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the well-being of his students and the furthering of his own studies. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
 
 Stoner entered college to study Agriculture with the aim to help his father with the family farm. Due to the curriculum, he had to take a perfunctory class in English.
 
-William struggled during the first weeks of this class, not getting satisfactory grades in his exams. He read and reread the books assigned to him, but not going further than thinking words were just words on paper, finding no use for them. 
+William struggled during the first weeks of this class, not getting satisfactory grades in his exams. He read and reread the books assigned to him, but didn't go further than thinking words were just words on paper. He found no use for them. 
 
 During one lecture, Sloane, his teacher then and mentor after, was reading a passage by Shakespeare and proceeds to ask his class what it meant.
 
@@ -96,7 +96,17 @@ I clearly remember one time I was tasked with being the sole owner of a process 
 
 After the congratulating and flattering comments by my manager I rushed to LinkedIn to share the evidence of my worth. "I am thrilled to share accomplished driving impactful outcomes..." I posted that and with slight disgust I remember asking myself "Who am I even talking to? Who am I proving myself to?"
 
+Time has moved on and even though I was not in Sloane's lecture hall I did read Stoner. 
 
+I have learned to surrender to the work, 
+
+
+
+
+
+```
+He saw the future in the institution to which he had committed himself and which he so imperfectly understood; he conceived himself changing in that future, but he saw the future itself as the instrument of change rather than its object.
+```
 
 
 I was carrying insecurity, I rushed to prove my worth. I clearly see now that being laid off scarred me. I once felt invisible, like I was untouchable I had control over everything. One thinks he is invincible until the bad news comes and your grand self-image is shattered. 
@@ -170,27 +180,13 @@ married
 
 ### Immersed in his work
 Within a few moments he was immersed in his work. The evening
-before, he had caught up with the routine of his classwork; papers had been
-graded and lectures prepared for the whole week that was to follow. He sawthe evening before him, and several evenings more, in which he would be
-free to work on his book. What he wanted to do in this new book was not
-yet precisely clear to him; in general, he wished to extend himself beyond
-his first study, in both time and scope. He wanted to work in the period of
-the English Renaissance and to extend his study of classical and medieval
-Latin influences into that area. He was in the stage of planning his study,
-and it was that stage which gave him the most pleasure—the selection
-among alternative approaches, the rejection of certain strategies, the
-mysteries and uncertainties that lay in unexplored possibilities, the
-consequences of choice ....The possibilities he could see so exhilarated him
-that he could not keep still. He got up from his desk, paced a little, and in a
-kind of frustrated joy spoke to his daughter, who looked up from her book
+before, he had caught up with the routine of his classwork; papers had been graded and lectures prepared for the whole week that was to follow. He saw the evening before him, and several evenings more, in which he would be free to work on his book. What he wanted to do in this new book was not yet precisely clear to him; in general, he wished to extend himself beyond his first study, in both time and scope. He wanted to work in the period of the English Renaissance and to extend his study of classical and medieval Latin influences into that area. He was in the stage of planning his study, and it was that stage which gave him the most pleasure—the selection among alternative approaches, the rejection of certain strategies, the mysteries and uncertainties that lay in unexplored possibilities, the consequences of choice ....The possibilities he could see so exhilarated him that he could not keep still. He got up from his desk, paced a little, and in a kind of frustrated joy spoke to his daughter, who looked up from her book
 and answered him.
 
 
+### Forgetting of oneself by immersion of the work
 But during the weeks that Edith was in St. Louis, when he lectured, he
-now and then found himself so lost in his subject that he became forgetful
-of his inadequacy, of himself, and even of the students before him. Now and
-then he became so caught by his enthusiasm that he stuttered, gesticulated,
-and ignored the lecture notes that usually guided his talks.
+now and then found himself so lost in his subject that he became forgetful of his inadequacy, of himself, and even of the students before him. Now and then he became so caught by his enthusiasm that he stuttered, gesticulated, and ignored the lecture notes that usually guided his talks.
 
 
 ### Finding his book after a while:
