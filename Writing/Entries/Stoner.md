@@ -82,13 +82,20 @@ To this, my father asked "So, you truly love what you do?"
 
 "I love it, it has blessed me with so much," said I. 
 
-The days passed and with them a new beginning. I felt a tug to write about my experience building this project and share it with the world. This added another dimension of joy to the process where I documented each step. I posted several coding blogs and one lead me to landing my current job.
+The days passed and with them a new beginning. I felt a tug to write about my experience building this project and share it with the world. 
+Every new feature was documented. 
+
+I felt like a scientist taking notes about how I had used a certain piece of code to complete my 
+
+I wanted to inspire people that was in my same situation
+
+This added another dimension of joy to the process where I documented each step. I posted several coding blogs and one lead me to landing my current job.
 
 Now I look at the flame of passion I have for my career and notice how it has deemed. During some time I demanded the answer from the work. With each project I tried to extract whatever tool or knowledge I believed would help me to land a new opportunity. Everything had to have a reason for being, not letting myself be the one being. It was me and my stubbornness of searching for the 'what's next'. 
 
-I clearly remember one time I was tasked with being the sole owner of a process to increase patient visits. I designed the architecture of this project, I wrote each line of code, asked co-workers for the intricacies I didn't understand about the healthcare system and after several months of diligent work I created a report that accomplished its goals, it increased clinic patient scheduling. My takeaway? "This will look great in my resume."
+I clearly remember one time I was tasked with being the sole owner of a process to increase patient visits. I designed the architecture of this project, I wrote each line of code, asked co-workers for the intricacies I didn't understand about the healthcare system and after several months of diligent work I created a report that accomplished its goals, it increased patient clinic scheduling. My takeaway? "This will look great in my resume."
 
-Jumping 
+After some flattering comments by my manager and coworkers I rushed to LinkedIn to share the evidence of my worth. "I am thrilled to share accomplished driving impactful outcomes..." I posted that and with slight disgust I remember asking myself "Who am I even talking to? Who am I proving myself to?"
 
 I was carrying insecurity, I rushed to prove my worth. I clearly see now that being laid off scarred me. I once felt invisible, like I was untouchable I had control over everything. One thinks he is invincible until the bad news comes and your grand self-image is shattered. 
 
