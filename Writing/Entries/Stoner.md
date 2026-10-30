@@ -7,15 +7,15 @@ My time with Stoner by John Williams was coming to a close. I had 2 chapters lef
 
 The brain ignored the signal, it was hard to succumb to sleep. I thought about how we never notice when we fall asleep. It just happens reducing hours to a mere instant to conclude with the beginning of a new day. A second though followed this, "funny how almost every living thing sleeps". Then a third idea, I thought about William Stoner, his presence kept nagging at me. Why did I felt so melancholic about him? Staring at the roof of my room I didn't have the answer, but I knew I had to continue reading. 
 
-I resumed my reading and finished the book. I knew how it would end. The first chapter of the book tells you how the life of Stoner ends. But still I felt a tightness in my chest, similar to how it feels like to say goodbye to a lifelong friend you haven't seen in a while, not knowing when I will see him again.
+I resumed my reading and finished the book. I knew how it would end. The first chapter of the book tells you how the life of Stoner ends. But still I felt a tightness in my chest, similar to how it feels like to say goodbye to a lifelong friend you haven't seen in a while, not knowing when I will see him again. *maybe could improve the flow of the last sentence*
 
-This was clearly result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer to a literature doctorate creates an emotional attachment to the character. Through this shock of emotions a mirror emerged which allowed me to see my life through the lens of William Stoner. 
+This was clearly result of John William's simple, yet evocative prose. Following Stoner's life, from a humble farmer, becoming a father, obtaining his doctorate in literature to his eventual death is such an intimate experience that it becomes inevitable to create an emotional attachment to the character. 
 
-I came to several conclusions which I plan to share here.
+Reading his life through the pages in this book I have juxtaposed my own life with his. I got a chance to reach some conclusions which I want to share in this chronicle.
 
 # I envy Stoner, for his passion found him.
 
-Stoner did not find his passion, it found him. I looked back at my life, and all I saw what seemed like an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the well-being of his students and the furthering of his studies. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
+Stoner did not find his passion, it found him. I looked back at my life, and all I saw was what seemed like an eternal search. Reading Stoner's life I saw a man that lived for literature, everything he did was aimed at the well-being of his students and the furthering of his studies. It is never mentioned in the book, but I doubt that he ever thought about being anything else but a teacher.
 
 Stoner entered college to study Agriculture with the aim to help his father with the family farm. Due to the curriculum, he had to take a perfunctory class in English.
 
@@ -57,13 +57,15 @@ As the automated morning reports run, my only job is to monitor, so time is offe
 
 Looking out the window I daydream about a different life, unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These ideas make me imagine myself as a writer, or sometimes as a painter, living by the arts. There was a time when I played the drums, but now that is forgotten. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with the idea of doing something else. 
 
-The idea of love for my work is not foreign to me. Back in 2023, I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were aimed at working on myself.
+The idea of love for my work is not foreign to me, I had a glimpse of this surreal feeling back in 2023. During that year I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were aimed at working on myself.
 
-I woke up early, went for a run then came home, applied to jobs and worked on a personal programming projects for my portfolio. 
+That year each day seemed a copy the previous one. Time moved on and it ingrained me deeper and deeper into the routine. I woke up early, when the sun first starts to melt through the windows. I made my way to the kitchen, turned on the espresso machine, and it said 'good morning' to be by rattling its insides while it heats up. Then I grabbed a bag of coffee and refilled the bean hopper while the smell of the beans rush through my nostrils.
+
+After the black smokey hot indulenc
+
+turned on my espresso machine and while I waited for it to heat up I would pop open its  went for a run then came home, applied to jobs and worked on a personal programming projects for my portfolio. 
 
 One day running the all mighty source of creativity illuminated me. Since money was short and my desire to become a good runner high, I decided to program my own digital coach. For this project I had to take every decision. Each step unlocked new skills, each new skill inspired new features for my project.
-
-Each day seemed a copy the previous one, as time moved on I ingrained myself more in the crevasse of routine, and inevitably I fell in love with my craft.
 
 One weekend, during that time my parents came to visit to check on how I was doing. We were having beers after dinner and I clearly remember the worried faces of my parents. They tried to act calm and collected, my dad filled each pocket of silence with by bombarding me with questions "you like where you live? Did you enjoy your dinner? Are you eating well? Do you need anything from us? Why don't you move back to Laredo?" 
 
