@@ -1,16 +1,17 @@
 The other day while browsing YouTube I found a curious video. It detailed one of the most sophisticated systems humans have ever built. Regardless of its complicated logistics, it has proved to be so resilient, that it has run uninterrupted for almost 250 years.
 
-For only $0.65 cents it has connected people across an entire country. It has been a carrier for love, it has also delivered bad news and glorious news. And sometimes it just delivers junk.
+For only 82 cents it has connected people across an entire country. I have used this system to share my love in text to my girlfriend, my parents and friends. It has also delivered bad news, glorious news and everybody, once in a while received unwanted junk. 
 
-It is a system that sees no color, no race, no ethnicity. It values someone living in the tip of Alaska or the bottom of a canyon the same as someone wearing spurs and a cowboy hat in west Texas. If there has even been a manifestation of democracy, this is it. 
+This system sees no color, no race, no ethnicity. It values someone living in the tip of Alaska or the bottom of a canyon the same as someone wearing spurs, riding a horse and wearing cowboy hat in west Texas. If there has even been a manifestation of democracy, this is it. 
 
-It spans 
+It spans across 42,924 zip codes, 38,451 postal facilities and 56 regional processing centers and delivers 361 million pieces of mail each day. Of course, I am talking about the US Postal Service. 
 
-
-38451 postal facilities, 42,924 zip codes , 56 regional processing centers 
+  , 56 regional processing centers 
 
 170 million addresses 
 
 mail delivered by helicopter to 
 
-states, terr
+states, territories and military bases 
+
+supai arizona delivering by mule since 1930 
