@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Entries/10.31.2026.md",
+                "file": "Writing/Entries/Done/Today I didn't want to do the work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.31.2026"
+              "title": "Today I didn't want to do the work"
             }
           },
           {
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5,
-    "collapsed": true
+    "width": 472.5
   },
   "right": {
     "id": "443984180475832a",
@@ -216,10 +215,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "bcd4c9c0012a16ac",
+  "active": "dbd88b3155220a35",
   "lastOpenFiles": [
     "Writing/Entries/Sending letters.md",
-    "Writing/Entries/10.31.2026.md",
+    "Writing/Entries/Done/Today I didn't want to do the work.md",
     "Writing/Entries/Stoner.md",
     "Writing/Study/Phrases.md",
     "Programming/RaspberryPi/Webpage/Home Lab Monitor - How the Website Shows My Pi Status.md",
