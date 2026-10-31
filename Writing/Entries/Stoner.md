@@ -59,13 +59,13 @@ As the automated morning reports run, my only job is to monitor, so time ticks a
 
 Looking out the window I daydream about a different life, unleashing a foray of alternate stories. These might not even be my ideas, but persuasions instilled in me by social media or the thousands of movies I devour. These ideas make me imagine myself as a writer, or sometimes as a painter, living by the arts. Maybe I could become a musician, remembering how I used to play the drums. I'm well aware of my priorities, and my job is what gives me sustenance, but still I flirt with the idea of doing something else. 
 
-The idea of love of my work is not foreign to me, I had a glimpse of this surreal feeling back in 2023. During that year I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were aimed at working on myself.
+The strange thing is that the idea of love of my work is not foreign to me. I had a glimpse of this surreal feeling back in 2023. During that year I was laid off from the company I was working with. The hours once invested in increasing shareholder value now were aimed at working on myself.
 
 That year each day seemed a copy the previous one. Time passed, and it ingrained me deeper and deeper into the routine. I woke up early, when the sun first starts to melt through the windows. I made my way to the kitchen, turned on the espresso machine, and it said 'good morning' to be by rattling its insides while it heat up. Then I grabbed a bag of coffee and refilled the hopper while the smell of the beans rush through my nostrils.
 
-After the black smokey hot indulgence of my coffee I would head to my computer, apply to jobs as if that was my job. Each application merging into one, hundreds of job descriptions dulled out into a mass of text inside my head 
+After the black smokey hot indulgence of my coffee I would head to my computer, apply to jobs as if that was my job. Each application merging into one, hundreds of job descriptions dulled out into a mass of text inside my head. 
 
-When I found myself in a place where I could take a break partook in a more physical indulgence: lifting weights and running.  
+When I found myself in satisfactory place where I could take a break, I partook in a more physical indulgence: lifting weights and running.  
 
 Worked on a personal programming projects for my portfolio. 
 
