@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Entries/Sending letters.md",
+                "file": "Writing/Entries/10.31.2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sending letters"
+              "title": "10.31.2026"
             }
           },
           {
@@ -218,9 +218,10 @@
   },
   "active": "bcd4c9c0012a16ac",
   "lastOpenFiles": [
+    "Writing/Entries/Sending letters.md",
+    "Writing/Entries/10.31.2026.md",
     "Writing/Entries/Stoner.md",
     "Writing/Study/Phrases.md",
-    "Writing/Entries/Sending letters.md",
     "Programming/RaspberryPi/Webpage/Home Lab Monitor - How the Website Shows My Pi Status.md",
     "Writing/Entries/Connecting the Dots.md",
     "Pasted image 20261028110233.png",
@@ -255,7 +256,6 @@
     "Writing/Entries/Martyr! - Notes Book Analysis.md",
     "Programming/Home Lab/Done/Home Lab Blog 1 Setting up the first node, monitoring tools, notification bot and learning linux basics.md",
     "Writing/Entries/Done/I Recorded My First YouTube Video.md",
-    "Writing/Entries/Done/I had an espresso.md",
     "Programming/RaspberryPi/Webpage",
     "Programming/Home Lab/Done",
     "Programming/Garmin",
