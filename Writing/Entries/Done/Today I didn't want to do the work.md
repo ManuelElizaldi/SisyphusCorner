@@ -1,3 +1,4 @@
+![[Pasted image 20261031173122.png]]
 It is Halloween, the weather has been cooling down a bit, and today I didn't want to do the work. I've been working on writing my review of the book Stoner by John Williams. I had promised myself I'd finish this piece yesterday, but didn't. 
 
 I woke up early, chugged the water I had left in my bedside table and marched onward to start my Saturday. I turned on ol' Bertha, my espresso machine, and gave her a couple of seconds to heat up. Every time I start her I can hear something going on inside of it rattling and making all sorts of noises. 
