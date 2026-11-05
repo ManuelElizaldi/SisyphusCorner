@@ -1,0 +1,1 @@
+October came and went like the falling leaves in the tree. Regardless, we can keep the spooky celebrations going. 
