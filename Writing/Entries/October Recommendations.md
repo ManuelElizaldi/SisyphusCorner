@@ -64,14 +64,13 @@ I haven't seen many body horror movies, but this has to be one of the best, if n
 
 ![[Pasted image 20261106133406.png]]
 
-Finally, this movie also inspired the following section of this blog post. From a horror standpoint, I believe it out did the previous 2000s Resident Evil movies.
+Finally, this movie also inspired the following section of this blog post. From a horror standpoint, I believe it out did the previous 2000s Resident Evil movies, again, same as with The Mummy, this new version leans harder into the horror. 
 
 I haven't played the games too much, so I didn't catch many of the references and fan services scattered around this film. So a rewatch is scheduled for some time in the near future.
 
 This has some sick special effects, which from the research I did, minimal CGI was used. It blends humor, suspense and disgustingly beautiful zombies. 
 
 There are rumors of a 2nd movie, which I am excited for. 
-
  
 # Video Games
-Resident Evil got me into the 
+The Resident Evil got me into the zombie 
