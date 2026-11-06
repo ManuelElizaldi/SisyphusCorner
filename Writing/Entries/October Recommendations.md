@@ -46,7 +46,18 @@ I don't consider the scientists' claim to be true, but I was definitely spooked.
 
 What's with all these writers getting into messed up situations? Should I be worried? 
 
-Hokum starts Adam Scott, which I first saw in Parks and Rec, then in Severance. 
+Hokum starts Adam Scott, which I first met in Parks and Rec, then in Severance. And now he is starting in the big screen on Hokum. This follows the life of another writer as he is dealing with the death of his parents. He embarks on a trip to a resort in Ireland were his parents celebrated their honeymoon, with the intent of scattering their ashes in the nearby forest. 
+
+Soon after arriving he discovers there is a curse holding these lands on its claws. I can't recall if I had ever seen a movie that uses Irish folk tales as a vehicle to deliver a smack of horror, but this was a great execution. I am going to give it extra praise because the horror felt new and vastly different from what I had seen recently. 
+
+
+
+I am going to recommend another banger from Adam Scott, again acting as a writer. I am starting to believe the most dangerous job one can have is to be a writer. 
+
+This one also starts Robert De Niro (one of my favorites of all time). 
+
+
+
 
 
 His Black Tongue 
