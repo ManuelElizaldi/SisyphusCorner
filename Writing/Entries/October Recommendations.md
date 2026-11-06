@@ -17,9 +17,9 @@ Spooky month is over, but that doesn't mean the spook stops.
 
 Starting off strong with Lee Cronin's The Mummy. I thought this movie was going to be a cheap refried version of the action packed classics from the 2000s - The Mummy Returns & The Scorpion King. I watched this movie in the worst possible place one could watch a scary movie: A plane. What can I say? I like to keep myself on my toes. 
 
-This movie mixes the anguish a family goes through from having their daughter kidnapped and the helpless dread from having her consumed by an ancient Egyptian curse. Of course, with a lovely sprinkle of body horror. 
+This movie mixes the anguish a family goes through from having their daughter kidnapped and the helpless dread from having her consumed by an ancient Egyptian curse. Of course, with a lovely sprinkle of body horror. The scene where they cut the daughter's nails still makes my body twitch. 
 
-This is what The Exorcists would've been like if the possessing demon was born in Egypt. It manages suspense really well and there are some scenes in there that made my skin tingle with anxiety. I have to give props to the SFX team on this one as well.
+This is what The Exorcist would've been like if the possessing demon was born in Egypt. It manages suspense really well and there are some scenes in there that made my skin tingle with anxiety. I have to give props to the SFX team on this one as well.
 
 Doing a bit of research for this article I found out that there's also a couple of 1940s 'The Mummy' movies I plan to watch some other time! 
 
@@ -29,9 +29,9 @@ Sinister, starting my man, Ethan Hawke. I decided to rewatch this movie because 
 
 I remember watching this movie when it was first released, and I was scared but not as these so-called scientists claimed. Also, what type of scientist do you have to be in order to study the scariness level of a movie? Anyway, the movie follows Ellison, a true-crime writer chasing his former glory, but feeling frustrated about not being able to reach it, since he's plagued by writer's block. 
 
-He moves his family to the house where the crime of his new book was committed - What a way to fight writer's block - then he starts to spiral into madness and horror unfolds. 
+He moves his family to the house where the crime of his new book was committed - What a way to fight writer's block. While moving in to their new home, Ellison discovers a box of old Super 8 reels, which he thinks is the key to unlocking his writing. There's a scene where he is surrounded by darkness, the only color you can see come from his whisky and his tranced eyes staring at the projector. From there on out, he starts to spiral into madness and horror unfolds. 
 
-I don't agree with the scientists, but still, this is a great spooky watch.
+Now I don't agree with the scientists, but still, this is a great spooky watch.
 
 ![[Pasted image 20261106125853.png]]
 
@@ -39,7 +39,11 @@ What's with all these writers getting into messed up situations? Should I be wor
 
 Hokum starts Adam Scott, which I first met in Parks and Rec, then in Severance. And now he is starting in the big screen on Hokum. This follows the life of another writer as he is dealing with the death of his parents. He embarks on a trip to a resort in Ireland were his parents celebrated their honeymoon, with the intent of scattering their ashes in the nearby forest. 
 
-Soon after arriving he discovers there is a curse holding these lands on its claws. I can't recall if I had ever seen a movie that uses Irish folk tales as a vehicle to deliver a smack of horror, but this was a great execution. I am going to give it extra praise because the horror felt new and vastly different from what I had seen recently. 
+Soon after arriving he discovers there is a curse holding these lands on its claws. 
+
+
+
+I can't recall if I had ever seen a movie that uses Irish folk tales as a vehicle to deliver a smack of horror, but this was a great execution. I am going to give it extra praise because the horror felt new and vastly different from what I had seen recently. 
 
 
 ![[Pasted image 20261106133039.png]]
@@ -64,7 +68,8 @@ I haven't seen many body horror movies, but this has to be one of the best, if n
 
 ![[Pasted image 20261106133406.png]]
 
-Finally, this movie also inspired the following section of this blog post. From a horror standpoint, I believe it out did the previous 2000s Resident Evil movies, again, same as with The Mummy, this new version leans harder into the horror. 
+Resident Evil
+Finally, this movie also inspired the next section of this blog post. From a horror standpoint, I believe it out did the previous 2000s Resident Evil movies, again, same as with The Mummy, this new version leans harder into the horror. 
 
 I haven't played the games too much, so I didn't catch many of the references and fan services scattered around this film. So a rewatch is scheduled for some time in the near future.
 
@@ -73,4 +78,10 @@ This has some sick special effects, which from the research I did, minimal CGI w
 There are rumors of a 2nd movie, which I am excited for. 
  
 # Video Games
-The Resident Evil got me into the zombie 
+![[Pasted image 20261106144821.png]]
+Inspired by the movie, I looked up the Resident Evil games, to my surprise Capcom was having a Halloween sale and got my copy of Resident Evil 2 for only $8 USD. 
+
+I haven't played too much horror games, I usually stick to RPGs so learning the ropes was something I truly enjoyed. This game was a great remake from the original 1998. They added new story lines and the revamped graphics scared me more than once. 
+
+I am currently in my second play through and killing zombies and solving puzzles while malevolent forces chase you down never stops raising my hearth rate. 
+
