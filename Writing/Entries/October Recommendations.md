@@ -1,14 +1,12 @@
-October came and went like the falling leaves in the tree. It has been a constant in my 29 years of life that October feels like the beginning of a new beginning. 
+October came and went like the falling leaves in the tree. The crisp air blowing around starts to smell different, and the weather starts to cool down. With this chill houses start to dress up in different festive costumes. You start to see monsters crawling up from the lawn, then replaced by pumpkins and turkeys to finally end with a light show of Christmas lights. 
 
-The crisp air blowing around starts to smell different, it cools down the weather 
+For some reason, October has always felt like the beginning of a new beginning. My birthday starts to loom closer (Sagittarius gang represent!) and as the year starts to march to an end. This then makes me think about everything I've done and haven't through out the year.
 
-For some reason, like a super computer needing to be chilled down to work properly, I feel like I function better in this weather. This colder weather brings a sense of holiday with it. Houses start to dress up. You see monster decorations, which then become fall/Thanks giving decoration to end in a show of Christmas lights. 
+October has also marked a constant in my life since 2007. Back then one of my greatest pleasures was to watch [The Angry Video Game Nerd](https://www.youtube.com/@JamesNintendoNerd). His main jazz was doing reviews of very bad old video games. But from time to time, he would entertain his audience with reviews of cult classic horror films. 
 
-My Birthday starts to loom closer and closer (Sagittarius gang!) and the weather starts to cool down. 
+During that year of our Lord, he started a series called 
 
-October also marks the start of a tradition I've been trying to keep alive since around 2007. Back then one of my greatest pleasures was to watch [The Angry Video Game Nerd](https://www.youtube.com/@JamesNintendoNerd). His main jazz was doing reviews of very bad old video games. But from time to time, he would entertain his audience with this reviews of cult classic horror films. 
 
-He had an event where he did a movie review for each day of October (*need to check if my memory is right*), and he would recommend spooky films. This inspired the film marathon I do each year. 
 
 I try to watch as many spooky films as I can, back when responsibilities were less and time more abundant I would watch 1 or more per day. Now, it becomaes harder but still I try to indulge in the spookyness. 
 
@@ -51,12 +49,26 @@ Hokum starts Adam Scott, which I first met in Parks and Rec, then in Severance. 
 Soon after arriving he discovers there is a curse holding these lands on its claws. I can't recall if I had ever seen a movie that uses Irish folk tales as a vehicle to deliver a smack of horror, but this was a great execution. I am going to give it extra praise because the horror felt new and vastly different from what I had seen recently. 
 
 
-
-I am going to recommend another banger from Adam Scott, again acting as a writer. I am starting to believe the most dangerous job one can have is to be a writer. 
-
-This one also starts Robert De Niro (one of my favorites of all time). 
+![[Pasted image 20261106133039.png]]
 
 
+I am going to recommend another banger from Adam Scott, again acting as a writer. I am starting to believe the most dangerous job one can have is to be a writer. This one also starts Robert De Niro (one of my favorites of all time). 
+
+It deals with a missing child, detectives and daddy issues. 
+
+
+![[Pasted image 20261106133406.png]]
+
+
+Finally, this movie also inspired the following section of this blog post. From a horror standpoint, I believe it out did the previous 2000s versions. Of course, I am talking about Resident Evil. 
+
+I haven't played the games too much, so I didn't catch many of the references and fan service scattered around this film. So a rewatch is in order for some time in the future. 
+
+This has some sick special effects, which from what I have seen, minimal CGI was used. It blends humor, suspense and disgustingly beautiful zombies. 
+
+There are rumors of a 2nd movie, which I am excited for. 
+
+ 
 
 
 
