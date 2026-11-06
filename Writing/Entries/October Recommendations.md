@@ -19,22 +19,34 @@ Spooky month is over, but that doesn't mean the spooky stops.
 Starting of with **Movies**:
 ![[Pasted image 20261105180450.png]]
 
-Starting off strong Lee Cronin's The Mummy. I thought this movie was going to be a cheap refried version of the action packed classics from the 2000s - The Mummy Returns & The Scorpion King. I watched this movie in the worst possible place one could watch a scary movie: A plane. What can I say? I like to keep myself on my toes. 
+Starting off strong with Lee Cronin's The Mummy. I thought this movie was going to be a cheap refried version of the action packed classics from the 2000s - The Mummy Returns & The Scorpion King. I watched this movie in the worst possible place one could watch a scary movie: A plane. What can I say? I like to keep myself on my toes. 
 
-This movie mixes the anguish a family goes through from having their daughter kidnapped and the dread of helplessness from having her consumed by an ancient Egyptian curse. With a lovely sprinkle of body horror. 
+This movie mixes the anguish a family goes through from having their daughter kidnapped and the helplessness dread from having her consumed by an ancient Egyptian curse. With a lovely sprinkle of body horror. 
 
-This is what The Exorcists would've been like if the demon was born in Egypt. It manages suspense really well and there are some scenes in there that made my skin tingle with anxiety. I have to give props to the SFX team on this one as well.
+This is what The Exorcists would've been like if the possessing demon was born in Egypt. It manages suspense really well and there are some scenes in there that made my skin tingle with anxiety. I have to give props to the SFX team on this one as well.
 
-Doing a bit of research for this article I found out that there's also a couple of 1940s 'The Mummy' movies I plan to watch some other time. 
+Doing a bit of research for this article I found out that there's also a couple of 1940s 'The Mummy' movies I plan to watch some other time! 
 
 ![[Pasted image 20261105181431.png]]
 
-Starting my man, Ethan Hawke. I decided to rewatch this movie because a friend of mine sent me an Instagram post saying that this movie, according to scientists, was the scariest movie of all time. 
+Sinister, starting my man, Ethan Hawke. I decided to rewatch this movie because a friend of mine sent me an Instagram post saying that this movie, according to scientists, was the scariest movie of all time. I thought to myself, "What a bold claim." So I had to test out this hypothesis. 
 
-Having watched my fair share of horror, I was highly skeptical. 
+I remember watching this movie when it was first released, and I was scared but not as these so-called scientists claimed. Also, what type of scientist do you have to be in order to test the scariness level of a movie? Anyway, the movie follows Ellison, a true-crime writer plagued with writer's block. 
 
-Being a skeptic of this bold claim, specially becuase I remember other films having had rocked my socks harder than this 
+*better flow needed here:*
+He's chasing his former glory working on a new book. He moves his entire family to the house where the crime for his book was committed. 
 
+He starts to spiral into madness trying to piece each piece of the homicide together and this is where the horror starts to unfold. 
+
+What a way to fight writer's block.
+
+I don't consider the scientists' claim to be true, but I was definitely spooked. 
+
+![[Pasted image 20261106125853.png]]
+
+What's with all these writers getting into messed up situations? Should I be worried? 
+
+Hokum starts Adam Scott, which I first saw in Parks and Rec, then in Severance. 
 
 
 His Black Tongue 
