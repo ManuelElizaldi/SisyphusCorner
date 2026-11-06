@@ -29,4 +29,8 @@ Doing a bit of research for this article I found out that there's also a couple 
 
 ![[Pasted image 20261105181431.png]]
 
-Starting my man, Ethan Hawk,
+Starting my man, Ethan Hawke. I decided to rewatch this movie because a friend of mine sent me an Instagram post saying that this movie, according to scientists, was the scariest movie of all time. 
+
+Having watched my fair share of horror, I was highly skeptical. 
+
+Being a skeptic of this bold claim, specially becuase I remember other films having had rocked my socks harder than this 
