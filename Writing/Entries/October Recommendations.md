@@ -12,7 +12,7 @@ This month was a blessing in this regard, and since I am now sharing my life exp
 
 Spooky month is over, but that doesn't mean the spook stops. 
 
-Starting of with **Movies**:
+# Movies
 ![[Pasted image 20261105180450.png]]
 
 Starting off strong with Lee Cronin's The Mummy. I thought this movie was going to be a cheap refried version of the action packed classics from the 2000s - The Mummy Returns & The Scorpion King. I watched this movie in the worst possible place one could watch a scary movie: A plane. What can I say? I like to keep myself on my toes. 
@@ -53,9 +53,11 @@ Living up to the glory of your parents, when love is not met blah blah - write s
 
 ![[Pasted image 20261106135639.png]]
 
-Meet the bastard child of The Substance and Obsession. As soon as the movie ended, I had to scream, there was so much tension within my bones. I need more DC movies in my life. 
+Meet the bastard child of 'The Substance' and 'Obsession'. As soon as the movie ended, I had to scream and shake my body. There was so much tension within my muscles, bones and nerves. I am glad this movie doesn't have a 4D version.
 
-Here you follow a super movie star get his money maker (face) disfigured and then undergoes an experimental procedure to get his life back, which of course, results in a horrifying mess. 
+This was a very well executed experiment by DC Studios. It is such twisted concept, and I feel like the Superhero/Anti Hero genre needs a refresh from the amusement park like films we had throughout recent years. 
+
+Here you follow the life of a Movie Star and how his life get deformed from having his moneymaker (face) disfigured. In his desperation he decides to undergo an experimental procedure to get his life back, which of course, results in a horrifying mess. 
 
 I haven't seen many body horror movies, but this has to be one of the best, if not the best. 
 
@@ -66,13 +68,10 @@ Finally, this movie also inspired the following section of this blog post. From 
 
 I haven't played the games too much, so I didn't catch many of the references and fan services scattered around this film. So a rewatch is scheduled for some time in the near future.
 
-This has some sick special effects, which from what I have seen, minimal CGI was used. It blends humor, suspense and disgustingly beautiful zombies. 
+This has some sick special effects, which from the research I did, minimal CGI was used. It blends humor, suspense and disgustingly beautiful zombies. 
 
 There are rumors of a 2nd movie, which I am excited for. 
 
  
-
-
-
-His Black Tongue 
-dark wicked plot twists
+# Video Games
+Resident Evil got me into the 
