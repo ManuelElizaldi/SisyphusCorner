@@ -19,7 +19,7 @@ Spooky month is over, but that doesn't mean the spooky stops.
 Starting of with **Movies**:
 ![[Pasted image 20261105180450.png]]
 
-Starting off strong with a movie I thought was going to be a cheap refried version of the action packed classics from the 2000s - The Mummy Returns & The Scorpion King. I watched this movie in the worst possible place one could watch a scary movie: A plane. What can I say? I like to keep myself on my toes. 
+Starting off strong Lee Cronin's The Mummy. I thought this movie was going to be a cheap refried version of the action packed classics from the 2000s - The Mummy Returns & The Scorpion King. I watched this movie in the worst possible place one could watch a scary movie: A plane. What can I say? I like to keep myself on my toes. 
 
 This movie mixes the anguish a family goes through from having their daughter kidnapped and the dread of helplessness from having her consumed by an ancient Egyptian curse. With a lovely sprinkle of body horror. 
 
@@ -34,3 +34,8 @@ Starting my man, Ethan Hawke. I decided to rewatch this movie because a friend o
 Having watched my fair share of horror, I was highly skeptical. 
 
 Being a skeptic of this bold claim, specially becuase I remember other films having had rocked my socks harder than this 
+
+
+
+His Black Tongue 
+dark wicked plot twists
