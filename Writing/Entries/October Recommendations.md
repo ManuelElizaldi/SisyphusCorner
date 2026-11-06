@@ -44,22 +44,27 @@ Soon after arriving he discovers there is a curse holding these lands on its cla
 
 ![[Pasted image 20261106133039.png]]
 
-
 I am going to recommend another banger from Adam Scott, where again he acts as a writer. I am starting to believe the most dangerous job one can have is to be a writer. This one also starts Robert De Niro (one of my favorites of all time). 
 
-It deals with a missing child, detectives and daddy issues. 
+In this movie, another child gets kidnapped by a mysterious 
+
+Living up to the glory of your parents, when love is not met blah blah - write something like this instead of saying daddy issues. 
+
 
 ![[Pasted image 20261106135639.png]]
 
-Meet the bastard child of The Substance and Obsession. 
+Meet the bastard child of The Substance and Obsession. As soon as the movie ended, I had to scream, there was so much tension within my bones. I need more DC movies in my life. 
+
+Here you follow a super movie star get his money maker (face) disfigured and then undergoes an experimental procedure to get his life back, which of course, results in a horrifying mess. 
+
+I haven't seen many body horror movies, but this has to be one of the best, if not the best. 
 
 
 ![[Pasted image 20261106133406.png]]
 
+Finally, this movie also inspired the following section of this blog post. From a horror standpoint, I believe it out did the previous 2000s Resident Evil movies.
 
-Finally, this movie also inspired the following section of this blog post. From a horror standpoint, I believe it out did the previous 2000s versions. Of course, I am talking about Resident Evil. 
-
-I haven't played the games too much, so I didn't catch many of the references and fan service scattered around this film. So a rewatch is in order for some time in the future. 
+I haven't played the games too much, so I didn't catch many of the references and fan services scattered around this film. So a rewatch is scheduled for some time in the near future.
 
 This has some sick special effects, which from what I have seen, minimal CGI was used. It blends humor, suspense and disgustingly beautiful zombies. 
 
