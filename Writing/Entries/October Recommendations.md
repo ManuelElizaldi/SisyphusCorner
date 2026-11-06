@@ -17,9 +17,7 @@ Spooky month is over, but that doesn't mean the spook stops.
 
 Starting off strong with Lee Cronin's The Mummy. I thought this movie was going to be a cheap refried version of the action packed classics from the 2000s - The Mummy Returns & The Scorpion King. I watched this movie in the worst possible place one could watch a scary movie: A plane. What can I say? I like to keep myself on my toes. 
 
-This movie mixes the anguish a family goes through from having their daughter kidnapped and the helpless dread from having her consumed by an ancient Egyptian curse. Of course, with a lovely sprinkle of body horror. The scene where they cut the daughter's nails still makes my body twitch. 
-
-This is what The Exorcist would've been like if the possessing demon was born in Egypt. It manages suspense really well and there are some scenes in there that made my skin tingle with anxiety. I have to give props to the SFX team on this one as well.
+This movie mixes the anguish a family goes through from having their daughter kidnapped and the helpless dread from having her consumed by an ancient Egyptian curse. Of course, with a lovely sprinkle of body horror. The scene where they cut the daughter's nails still makes my body twitch. This is what The Exorcist would've been like if the possessing demon was born in Egypt.
 
 Doing a bit of research for this article I found out that there's also a couple of 1940s 'The Mummy' movies I plan to watch some other time! 
 
@@ -39,11 +37,9 @@ What's with all these writers getting into messed up situations? Should I be wor
 
 Hokum starts Adam Scott, which I first met in Parks and Rec, then in Severance. And now he is starting in the big screen on Hokum. This follows the life of another writer as he is dealing with the death of his parents. He embarks on a trip to a resort in Ireland were his parents celebrated their honeymoon, with the intent of scattering their ashes in the nearby forest. 
 
-Soon after arriving he discovers there is a curse holding these lands on its claws. 
+Soon after arriving, he discovers there's a Cailleach - an ancient witch from Gaellic and Irish folklore - holding these lands on its claws and using the main character's guilt against him.
 
-
-
-I can't recall if I had ever seen a movie that uses Irish folk tales as a vehicle to deliver a smack of horror, but this was a great execution. I am going to give it extra praise because the horror felt new and vastly different from what I had seen recently. 
+I can't recall if I had ever seen a movie that uses Irish folk tales to deliver a smack of horror, but this was a great execution. I am going to give it extra praise because the horror felt new and vastly different from what I had seen recently. 
 
 
 ![[Pasted image 20261106133039.png]]
@@ -57,6 +53,7 @@ Living up to the glory of your parents, when love is not met blah blah - write s
 
 ![[Pasted image 20261106135639.png]]
 
+Clayface
 Meet the bastard child of 'The Substance' and 'Obsession'. As soon as the movie ended, I had to scream and shake my body. There was so much tension within my muscles, bones and nerves. I am glad this movie doesn't have a 4D version.
 
 This was a very well executed experiment by DC Studios. It is such twisted concept, and I feel like the Superhero/Anti Hero genre needs a refresh from the amusement park like films we had throughout recent years. 
@@ -73,7 +70,9 @@ Finally, this movie also inspired the next section of this blog post. From a hor
 
 I haven't played the games too much, so I didn't catch many of the references and fan services scattered around this film. So a rewatch is scheduled for some time in the near future.
 
-This has some sick special effects, which from the research I did, minimal CGI was used. It blends humor, suspense and disgustingly beautiful zombies. 
+This movie starts with a bang (literally), it drops you right in the middle of a snow storm. Our hero is oblivious to what is happening and that brings a humorous suspense. 
+
+The zombies have a real texture to them, which lead me to research how this movie was made and apparently minimal CGI was used. Those creatures are disgustingly beautiful. 
 
 There are rumors of a 2nd movie, which I am excited for. 
  
