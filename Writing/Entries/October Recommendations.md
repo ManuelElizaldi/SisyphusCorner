@@ -64,7 +64,7 @@ Meet the bastard child of 'The Substance' and 'Obsession'. As soon as the movie 
 
 This was a very well executed experiment by DC Studios. It is such twisted concept, and I feel like the Superhero/Anti Hero genre needs a refresher from the amusement park like films we had throughout recent years. 
 
-Here you follow the life of a Movie Star. He is about to break it big, then filled with hubris, he faces (pun intended) the consequences of his actions. A group of high bravado Akrham Mafiosos butcher his moneymaker (face). He looses everything and in desperation he decides to undergo an experimental procedure to get his life back, which of course, results in a horrifying mess. 
+Here you follow the life of a Movie Star. He is about to break it big, then filled with hubris, he faces (pun intended) the consequences of his actions. A group of high bravado Arkham Mafiosos butcher his moneymaker (face). He loses everything and in desperation he decides to undergo an experimental procedure to get his life back, which of course, results in a horrifying mess. 
 
 During the experiment scenes my body wanted to close my eyes, but I resisted. For some masochistic reason I held them open, torturing myself to enjoy every little horrifying detail. 
 
