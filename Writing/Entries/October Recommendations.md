@@ -60,17 +60,15 @@ Living up to the glory of your parents, when love is not met blah blah - write s
 ![[Pasted image 20261106135639.png]]
 
 Clayface
-Meet the bastard child of 'The Substance' and 'Obsession'. As soon as the movie ended, I had to scream and shake my body. There was so much tension within my muscles, bones and nerves. I am glad this movie doesn't have a 4D version.
+Meet the bastard child of 'The Substance' and 'Obsession'. As soon as the movie ended, I had to scream and shake my body. I am glad this movie doesn't have a 4D version.
 
 This was a very well executed experiment by DC Studios. It is such twisted concept, and I feel like the Superhero/Anti Hero genre needs a refresher from the amusement park like films we had throughout recent years. 
 
 Here you follow the life of a Movie Star. He is about to break it big, then filled with hubris, he faces (pun intended) the consequences of his actions. A group of high bravado Akrham Mafiosos butcher his moneymaker (face). He looses everything and in desperation he decides to undergo an experimental procedure to get his life back, which of course, results in a horrifying mess. 
 
-During the experiment scenes my body wanted to close my eyes, but I resisted. For some masochistic reason I held them open, absorbing every bit of pain of anti hero was going through. 
+During the experiment scenes my body wanted to close my eyes, but I resisted. For some masochistic reason I held them open, torturing myself to enjoy every little horrifying detail. 
 
-I haven't done too much research on the special effects for this one, but 
-
-I haven't seen many body horror movies, but this has to be one of the best, if not the best. 
+This has to be crowned as one of the best body horror films ever made. All the cuts, skin stretching and melting, lacerations and regeneration feels intensely real. 
 
 
 ![[Pasted image 20261106133406.png]]
