@@ -31,17 +31,21 @@ I remember watching this movie when it was first released, and I was scared but 
 
 He moves his family to the house where the crime of his new book was committed - What a way to fight writer's block. While moving in to their new home, Ellison discovers a box of old Super 8 reels, which he thinks is the key to unlocking his writing. There's a scene where he is surrounded by darkness, the only color you can see come from his whisky and his tranced eyes staring at the projector. From there on out, he starts to spiral into madness and horror unfolds. 
 
-Now, even though this movie doesn't deliver a happy ending, which I prefer for horror, I don't agree with the scientists. But still, this is a great spooky watch.
+Now, this movie doesn't deliver a happy ending, which I prefer for horror, but I still don't agree with the scientists. Regardless, this is a great spooky watch.
 
 ![[Pasted image 20261106125853.png]]
 
 What's with all these writers getting into messed up situations? Should I be worried? 
 
-Hokum starts Adam Scott, which I first met in Parks and Rec, then in Severance. And now he is starting in the big screen on Hokum. This follows the life of another writer as he is dealing with the death of his parents. He embarks on a trip to a resort in Ireland were his parents celebrated their honeymoon, with the intent of scattering their ashes in the nearby forest. 
+Hokum starts Adam Scott, which I first met in Parks and Rec, then saw in Severance. And now he is starring in the big screen on Hokum. This follows the life of another writer as he is dealing with the death of his parents. He embarks on a trip to a resort in Ireland were his parents celebrated their honeymoon, with the intent of scattering their ashes in the nearby forest. 
 
 Soon after arriving, he discovers there's a Cailleach - an ancient witch from Gaelic and Irish folklore - holding these lands on its claws and using the main character's guilt against him.
 
-I had never heard of the Cailleach and how it can use your own internal struggles against you. Hopefully more directors and employ more folklore into their horror movies. 
+This film felt new because it mixes the stories of old and how their unnatural, unknown energies are used to torment the character from within. 
+
+The cinematography in this is amazing too, the setting helps a lot, and it is put to good use. The Irish forest sometimes appearing welcoming and other like an ominous trap set by the Cailleach. The scenery around the resort made me crave a Guinness beer in Ireland, although I don't want to stumble around any folk creatures.   
+
+Hopefully more directors employ more folklore into their horror movies. 
 
 
 ![[Pasted image 20261106133039.png]]
