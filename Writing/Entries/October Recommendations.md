@@ -31,7 +31,7 @@ I remember watching this movie when it was first released, and I was scared but 
 
 He moves his family to the house where the crime of his new book was committed - What a way to fight writer's block. While moving in to their new home, Ellison discovers a box of old Super 8 reels, which he thinks is the key to unlocking his writing. There's a scene where he is surrounded by darkness, the only color you can see come from his whisky and his tranced eyes staring at the projector. From there on out, he starts to spiral into madness and horror unfolds. 
 
-Now, this movie doesn't deliver a happy ending, which I prefer for horror, but I still don't agree with the scientists. Regardless, this is a great spooky watch.
+This movie skips the happy ending, which is how I like my horror, but I still don’t agree with the scientists. Regardless, I recommend it. 
 
 ![[Pasted image 20261106125853.png]]
 
@@ -43,7 +43,7 @@ Soon after arriving, he discovers there's a Cailleach - an ancient witch from Ga
 
 This film felt new because it mixes the stories of old and how their unnatural, unknown energies are used to torment the character from within. 
 
-The cinematography in this is amazing too, the setting helps a lot, and it is put to good use. The Irish forest sometimes appearing welcoming and other like an ominous trap set by the Cailleach. The scenery around the resort made me crave a Guinness beer in Ireland, although I don't want to stumble around any folk creatures.   
+The cinematography in this is amazing too, the setting helps a lot, and it is put to good use. The Irish forest sometimes looks welcoming, and other times like a trap set by the Cailleach. The scenery around the resort made me crave a Guinness beer in Ireland, although I don't want to stumble around any folk creatures.   
 
 Hopefully more directors employ more folklore into their horror movies. 
 
@@ -62,9 +62,13 @@ Living up to the glory of your parents, when love is not met blah blah - write s
 Clayface
 Meet the bastard child of 'The Substance' and 'Obsession'. As soon as the movie ended, I had to scream and shake my body. There was so much tension within my muscles, bones and nerves. I am glad this movie doesn't have a 4D version.
 
-This was a very well executed experiment by DC Studios. It is such twisted concept, and I feel like the Superhero/Anti Hero genre needs a refresh from the amusement park like films we had throughout recent years. 
+This was a very well executed experiment by DC Studios. It is such twisted concept, and I feel like the Superhero/Anti Hero genre needs a refresher from the amusement park like films we had throughout recent years. 
 
-Here you follow the life of a Movie Star and how his life get deformed from having his moneymaker (face) disfigured. In his desperation he decides to undergo an experimental procedure to get his life back, which of course, results in a horrifying mess. 
+Here you follow the life of a Movie Star. He is about to break it big, then filled with hubris, he faces (pun intended) the consequences of his actions. A group of high bravado Akrham Mafiosos butcher his moneymaker (face). He looses everything and in desperation he decides to undergo an experimental procedure to get his life back, which of course, results in a horrifying mess. 
+
+During the experiment scenes my body wanted to close my eyes, but I resisted. For some masochistic reason I held them open, absorbing every bit of pain of anti hero was going through. 
+
+I haven't done too much research on the special effects for this one, but 
 
 I haven't seen many body horror movies, but this has to be one of the best, if not the best. 
 
