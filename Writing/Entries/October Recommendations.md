@@ -17,11 +17,9 @@ Spooky month is over, but that doesn't mean the spook stops.
 
 Starting off strong with Lee Cronin's The Mummy. I thought this movie was going to be a cheap refried version of the action packed classics from the 2000s - The Mummy Returns & The Scorpion King. I watched this movie in the worst possible place one could watch a scary movie: A plane. What can I say? I like to keep myself on my toes. 
 
+I wanted to scream, but being a courteous person I restrained myself and just absorbed each blow. 
 
-
-Flying piece of metal at 30,000 ft above land takes this experience to a new horrifying threshold. I wanted to scream, but being a courteous person I restrained myself and just absorbed each blow. 
-
-This movie mixes the anguish a family goes through from having their daughter kidnapped and the helpless dread from having her consumed by an ancient Egyptian curse. Of course, with a lovely sprinkle of body horror. The scene where they cut the daughter's nails still makes my body twitch. This is what The Exorcist would've been like if the possessing demon was born in Egypt.
+This movie mixes the anguish a family goes through from having their daughter kidnapped and the helpless dread from watching her be consumed by an ancient Egyptian curse. Also including a lovely sprinkle of body horror. The scene where they cut the daughter's nails still makes my body twitch. This is what The Exorcist would've been like if the possessing demon was born in Egypt.
 
 Doing a bit of research for this article I found out that there's also a couple of 1940s 'The Mummy' movies I plan to watch some other time! 
 
@@ -33,7 +31,7 @@ I remember watching this movie when it was first released, and I was scared but 
 
 He moves his family to the house where the crime of his new book was committed - What a way to fight writer's block. While moving in to their new home, Ellison discovers a box of old Super 8 reels, which he thinks is the key to unlocking his writing. There's a scene where he is surrounded by darkness, the only color you can see come from his whisky and his tranced eyes staring at the projector. From there on out, he starts to spiral into madness and horror unfolds. 
 
-Now I don't agree with the scientists, but still, this is a great spooky watch.
+Now, even though this movie doesn't deliver a happy ending, which I prefer for horror, I don't agree with the scientists. But still, this is a great spooky watch.
 
 ![[Pasted image 20261106125853.png]]
 
